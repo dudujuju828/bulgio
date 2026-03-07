@@ -1,6 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import flashcards from '../data/flashcards.json';
+
+const categories = [...new Set(flashcards.map(c => c.category))];
+const types = [...new Set(flashcards.map(c => c.type))];
 ---
 
 <Layout title="Bulgio - Learn Bulgarian">
@@ -9,6 +12,27 @@ import flashcards from '../data/flashcards.json';
       <h1>Bulgio</h1>
       <p class="subtitle">Learn Bulgarian, one card at a time</p>
     </header>
+
+    <div class="filters">
+      <div class="filter-row">
+        <span class="filter-label">Category</span>
+        <div class="filter-pills" id="category-filters">
+          <button class="pill active" data-value="all" type="button">All</button>
+          {categories.map(cat => (
+            <button class="pill" data-value={cat} type="button">{cat}</button>
+          ))}
+        </div>
+      </div>
+      <div class="filter-row">
+        <span class="filter-label">Type</span>
+        <div class="filter-pills" id="type-filters">
+          <button class="pill active" data-value="all" type="button">All</button>
+          {types.map(t => (
+            <button class="pill" data-value={t} type="button">{t}</button>
+          ))}
+        </div>
+      </div>
+    </div>
 
     <div class="controls">
       <button id="shuffle-btn" type="button" aria-label="Shuffle cards">Shuffle</button>
@@ -26,6 +50,7 @@ import flashcards from '../data/flashcards.json';
             <span class="card-label">Bulgarian</span>
             <span class="card-text" id="front-text"></span>
             <span class="card-pronunciation" id="front-pronunciation"></span>
+            <span class="card-meta" id="front-meta"></span>
           </div>
           <div class="card-back">
             <span class="card-label">English</span>
@@ -34,6 +59,10 @@ import flashcards from '../data/flashcards.json';
           </div>
         </div>
       </div>
+    </div>
+
+    <div id="empty-state" class="empty-state" style="display:none;">
+      No cards match your filters.
     </div>
 
     <div class="nav-buttons">
@@ -53,16 +82,22 @@ import flashcards from '../data/flashcards.json';
   </main>
 
   <script define:vars={{ flashcards }}>
-    const cards = [...flashcards];
+    const allCards = flashcards;
+    let cards = [...allCards];
     let currentIndex = 0;
     let isFlipped = false;
     let mode = 'bg';
+    let activeCategory = 'all';
+    let activeType = 'all';
 
     const card = document.getElementById('flashcard');
+    const cardContainer = document.getElementById('card-container');
+    const emptyState = document.getElementById('empty-state');
     const frontText = document.getElementById('front-text');
     const backText = document.getElementById('back-text');
     const backExample = document.getElementById('back-example');
     const frontPronunciation = document.getElementById('front-pronunciation');
+    const frontMeta = document.getElementById('front-meta');
     const frontLabel = card.querySelector('.card-front .card-label');
     const backLabel = card.querySelector('.card-back .card-label');
     const progress = document.getElementById('progress');
@@ -71,8 +106,28 @@ import flashcards from '../data/flashcards.json';
     const shuffleBtn = document.getElementById('shuffle-btn');
     const modeBg = document.getElementById('mode-bg');
     const modeEn = document.getElementById('mode-en');
+    const categoryFilters = document.getElementById('category-filters');
+    const typeFilters = document.getElementById('type-filters');
+
+    function filterCards() {
+      cards = allCards.filter(c => {
+        const catMatch = activeCategory === 'all' || c.category === activeCategory;
+        const typeMatch = activeType === 'all' || c.type === activeType;
+        return catMatch && typeMatch;
+      });
+      currentIndex = 0;
+      if (cards.length === 0) {
+        cardContainer.style.display = 'none';
+        emptyState.style.display = 'block';
+      } else {
+        cardContainer.style.display = 'block';
+        emptyState.style.display = 'none';
+        renderCard();
+      }
+    }
 
     function renderCard() {
+      if (cards.length === 0) return;
       const c = cards[currentIndex];
       if (mode === 'bg') {
         frontText.textContent = c.bg;
@@ -80,20 +135,21 @@ import flashcards from '../data/flashcards.json';
         frontLabel.textContent = 'Bulgarian';
         backText.textContent = c.en;
         backLabel.textContent = 'English';
-        backExample.textContent = c.example;
       } else {
         frontText.textContent = c.en;
         frontPronunciation.textContent = '';
         frontLabel.textContent = 'English';
         backText.textContent = c.bg;
         backLabel.textContent = 'Bulgarian';
-        backExample.textContent = c.example;
       }
+      frontMeta.textContent = `${c.category} · ${c.type}`;
+      backExample.textContent = c.example;
       progress.textContent = `${currentIndex + 1} / ${cards.length}`;
       unflip();
     }
 
     function flip() {
+      if (cards.length === 0) return;
       isFlipped = !isFlipped;
       card.classList.toggle('flipped', isFlipped);
     }
@@ -104,16 +160,19 @@ import flashcards from '../data/flashcards.json';
     }
 
     function next() {
+      if (cards.length === 0) return;
       currentIndex = (currentIndex + 1) % cards.length;
       renderCard();
     }
 
     function prev() {
+      if (cards.length === 0) return;
       currentIndex = (currentIndex - 1 + cards.length) % cards.length;
       renderCard();
     }
 
     function shuffle() {
+      if (cards.length === 0) return;
       for (let i = cards.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [cards[i], cards[j]] = [cards[j], cards[i]];
@@ -121,6 +180,20 @@ import flashcards from '../data/flashcards.json';
       currentIndex = 0;
       renderCard();
     }
+
+    function setupFilterGroup(container, setActive) {
+      container.addEventListener('click', (e) => {
+        const btn = e.target.closest('.pill');
+        if (!btn) return;
+        container.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        setActive(btn.dataset.value);
+        filterCards();
+      });
+    }
+
+    setupFilterGroup(categoryFilters, v => { activeCategory = v; });
+    setupFilterGroup(typeFilters, v => { activeType = v; });
 
     card.addEventListener('click', flip);
     nextBtn.addEventListener('click', next);
@@ -190,6 +263,58 @@ import flashcards from '../data/flashcards.json';
     color: #71717a;
     font-size: 0.95rem;
     margin-top: 0.25rem;
+  }
+
+  .filters {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  .filter-row {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .filter-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #52525b;
+    font-weight: 600;
+    min-width: 60px;
+  }
+
+  .filter-pills {
+    display: flex;
+    gap: 0.35rem;
+    flex-wrap: wrap;
+  }
+
+  .pill {
+    background: #1e1e2e;
+    border: 1px solid #2e2e3e;
+    color: #71717a;
+    padding: 0.25rem 0.6rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    font-size: 0.75rem;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+    text-transform: capitalize;
+  }
+
+  .pill:hover {
+    background: #2a2a3a;
+    color: #a1a1aa;
+  }
+
+  .pill.active {
+    background: #22c55e;
+    border-color: #22c55e;
+    color: #0f1117;
+    font-weight: 600;
   }
 
   .controls {
@@ -324,6 +449,12 @@ import flashcards from '../data/flashcards.json';
     font-style: italic;
   }
 
+  .card-meta {
+    font-size: 0.7rem;
+    color: #3f3f46;
+    text-transform: capitalize;
+  }
+
   .card-example {
     font-size: 0.85rem;
     color: #6b7280;
@@ -333,6 +464,12 @@ import flashcards from '../data/flashcards.json';
     border-top: 1px solid #1a3a28;
     padding-top: 0.6rem;
     margin-top: 0.25rem;
+  }
+
+  .empty-state {
+    color: #52525b;
+    font-size: 0.95rem;
+    padding: 4rem 0;
   }
 
   .nav-buttons {
