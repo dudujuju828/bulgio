@@ -1,0 +1,379 @@
+---
+import Layout from '../layouts/Layout.astro';
+import flashcards from '../data/flashcards.json';
+---
+
+<Layout title="Bulgio - Learn Bulgarian">
+  <main>
+    <header>
+      <h1>Bulgio</h1>
+      <p class="subtitle">Learn Bulgarian, one card at a time</p>
+    </header>
+
+    <div class="controls">
+      <button id="shuffle-btn" type="button" aria-label="Shuffle cards">Shuffle</button>
+      <span id="progress">1 / {flashcards.length}</span>
+      <div class="mode-toggle">
+        <button id="mode-bg" class="mode-btn active" type="button">BG &rarr; EN</button>
+        <button id="mode-en" class="mode-btn" type="button">EN &rarr; BG</button>
+      </div>
+    </div>
+
+    <div id="card-container">
+      <div id="flashcard" role="button" tabindex="0" aria-label="Click to flip card">
+        <div class="card-inner">
+          <div class="card-front">
+            <span class="card-label">Bulgarian</span>
+            <span class="card-text" id="front-text"></span>
+            <span class="card-pronunciation" id="front-pronunciation"></span>
+          </div>
+          <div class="card-back">
+            <span class="card-label">English</span>
+            <span class="card-text" id="back-text"></span>
+            <span class="card-example" id="back-example"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="nav-buttons">
+      <button id="prev-btn" type="button" aria-label="Previous card">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        Prev
+      </button>
+      <button id="next-btn" type="button" aria-label="Next card">
+        Next
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+      </button>
+    </div>
+
+    <div class="keyboard-hint">
+      Space to flip &middot; Arrow keys to navigate &middot; S to shuffle
+    </div>
+  </main>
+
+  <script define:vars={{ flashcards }}>
+    const cards = [...flashcards];
+    let currentIndex = 0;
+    let isFlipped = false;
+    let mode = 'bg';
+
+    const card = document.getElementById('flashcard');
+    const frontText = document.getElementById('front-text');
+    const backText = document.getElementById('back-text');
+    const backExample = document.getElementById('back-example');
+    const frontPronunciation = document.getElementById('front-pronunciation');
+    const frontLabel = card.querySelector('.card-front .card-label');
+    const backLabel = card.querySelector('.card-back .card-label');
+    const progress = document.getElementById('progress');
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+    const shuffleBtn = document.getElementById('shuffle-btn');
+    const modeBg = document.getElementById('mode-bg');
+    const modeEn = document.getElementById('mode-en');
+
+    function renderCard() {
+      const c = cards[currentIndex];
+      if (mode === 'bg') {
+        frontText.textContent = c.bg;
+        frontPronunciation.textContent = c.pronunciation;
+        frontLabel.textContent = 'Bulgarian';
+        backText.textContent = c.en;
+        backLabel.textContent = 'English';
+        backExample.textContent = c.example;
+      } else {
+        frontText.textContent = c.en;
+        frontPronunciation.textContent = '';
+        frontLabel.textContent = 'English';
+        backText.textContent = c.bg;
+        backLabel.textContent = 'Bulgarian';
+        backExample.textContent = c.example;
+      }
+      progress.textContent = `${currentIndex + 1} / ${cards.length}`;
+      unflip();
+    }
+
+    function flip() {
+      isFlipped = !isFlipped;
+      card.classList.toggle('flipped', isFlipped);
+    }
+
+    function unflip() {
+      isFlipped = false;
+      card.classList.remove('flipped');
+    }
+
+    function next() {
+      currentIndex = (currentIndex + 1) % cards.length;
+      renderCard();
+    }
+
+    function prev() {
+      currentIndex = (currentIndex - 1 + cards.length) % cards.length;
+      renderCard();
+    }
+
+    function shuffle() {
+      for (let i = cards.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [cards[i], cards[j]] = [cards[j], cards[i]];
+      }
+      currentIndex = 0;
+      renderCard();
+    }
+
+    card.addEventListener('click', flip);
+    nextBtn.addEventListener('click', next);
+    prevBtn.addEventListener('click', prev);
+    shuffleBtn.addEventListener('click', shuffle);
+
+    modeBg.addEventListener('click', () => {
+      mode = 'bg';
+      modeBg.classList.add('active');
+      modeEn.classList.remove('active');
+      renderCard();
+    });
+
+    modeEn.addEventListener('click', () => {
+      mode = 'en';
+      modeEn.classList.add('active');
+      modeBg.classList.remove('active');
+      renderCard();
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); flip(); }
+      if (e.key === 'ArrowRight' || e.key === 'ArrowDown') next();
+      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') prev();
+      if (e.key === 's' || e.key === 'S') shuffle();
+    });
+
+    let touchStartX = 0;
+    card.addEventListener('touchstart', (e) => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
+    card.addEventListener('touchend', (e) => {
+      const diff = e.changedTouches[0].screenX - touchStartX;
+      if (Math.abs(diff) > 50) {
+        diff > 0 ? prev() : next();
+      }
+    });
+
+    renderCard();
+  </script>
+</Layout>
+
+<style>
+  main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    min-height: 100dvh;
+  }
+
+  header {
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, #22c55e, #16a34a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .subtitle {
+    color: #71717a;
+    font-size: 0.95rem;
+    margin-top: 0.25rem;
+  }
+
+  .controls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  #shuffle-btn {
+    background: #1e1e2e;
+    border: 1px solid #2e2e3e;
+    color: #a1a1aa;
+    padding: 0.4rem 0.9rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  #shuffle-btn:hover {
+    background: #2a2a3a;
+    color: #e4e4e7;
+  }
+
+  #progress {
+    color: #71717a;
+    font-size: 0.85rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .mode-toggle {
+    display: flex;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    border: 1px solid #2e2e3e;
+  }
+
+  .mode-btn {
+    background: #1e1e2e;
+    border: none;
+    color: #71717a;
+    padding: 0.4rem 0.75rem;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  .mode-btn.active {
+    background: #22c55e;
+    color: #0f1117;
+    font-weight: 600;
+  }
+
+  #card-container {
+    width: 100%;
+    perspective: 1000px;
+  }
+
+  #flashcard {
+    width: 100%;
+    height: 280px;
+    cursor: pointer;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .card-inner {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-style: preserve-3d;
+  }
+
+  #flashcard.flipped .card-inner {
+    transform: rotateY(180deg);
+  }
+
+  .card-front,
+  .card-back {
+    position: absolute;
+    inset: 0;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    border-radius: 1rem;
+    padding: 2rem;
+    border: 1px solid #2e2e3e;
+  }
+
+  .card-front {
+    background: linear-gradient(145deg, #1a1a2e, #16162a);
+  }
+
+  .card-back {
+    background: linear-gradient(145deg, #0d2818, #0a1f14);
+    border-color: #1a3a28;
+    transform: rotateY(180deg);
+  }
+
+  .card-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #52525b;
+    font-weight: 600;
+  }
+
+  .card-text {
+    font-size: 2.2rem;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1.3;
+  }
+
+  .card-front .card-text {
+    color: #e4e4e7;
+  }
+
+  .card-back .card-text {
+    color: #4ade80;
+  }
+
+  .card-pronunciation {
+    font-size: 0.95rem;
+    color: #71717a;
+    font-style: italic;
+  }
+
+  .card-example {
+    font-size: 0.85rem;
+    color: #6b7280;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.4;
+    border-top: 1px solid #1a3a28;
+    padding-top: 0.6rem;
+    margin-top: 0.25rem;
+  }
+
+  .nav-buttons {
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+  }
+
+  .nav-buttons button {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    background: #1e1e2e;
+    border: 1px solid #2e2e3e;
+    color: #a1a1aa;
+    padding: 0.75rem;
+    border-radius: 0.75rem;
+    cursor: pointer;
+    font-size: 0.95rem;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  .nav-buttons button:hover {
+    background: #2a2a3a;
+    color: #e4e4e7;
+  }
+
+  .keyboard-hint {
+    color: #3f3f46;
+    font-size: 0.75rem;
+    text-align: center;
+  }
+
+  @media (max-width: 480px) {
+    .card-text {
+      font-size: 1.6rem;
+    }
+    #flashcard {
+      height: 240px;
+    }
+  }
+</style>
