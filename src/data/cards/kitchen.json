@@ -1,0 +1,26 @@
+{
+  "category": "Kitchen",
+  "cards": [
+    { "bg": "вода", "en": "water", "pronunciation": "vo-DA", "example": "Искам една чаша вода, моля.", "type": "noun" },
+    { "bg": "хляб", "en": "bread", "pronunciation": "hlyab", "example": "Купих пресен хляб от пекарната.", "type": "noun" },
+    { "bg": "мляко", "en": "milk", "pronunciation": "mlya-KO", "example": "Обичам кафе с мляко.", "type": "noun" },
+    { "bg": "кафе", "en": "coffee", "pronunciation": "ka-FE", "example": "Искам едно кафе без захар.", "type": "noun" },
+    { "bg": "чай", "en": "tea", "pronunciation": "chay", "example": "Пия зелен чай всяка сутрин.", "type": "noun" },
+    { "bg": "захар", "en": "sugar", "pronunciation": "za-HAR", "example": "Слагаш ли захар в чая?", "type": "noun" },
+    { "bg": "сол", "en": "salt", "pronunciation": "sol", "example": "Подай ми солта, моля.", "type": "noun" },
+    { "bg": "масло", "en": "butter / oil", "pronunciation": "MAS-lo", "example": "Намажи хляба с масло.", "type": "noun" },
+    { "bg": "месо", "en": "meat", "pronunciation": "me-SO", "example": "Не ям месо, вегетарианец съм.", "type": "noun" },
+    { "bg": "риба", "en": "fish", "pronunciation": "RI-ba", "example": "Тази риба е много пресна.", "type": "noun" },
+    { "bg": "яйце", "en": "egg", "pronunciation": "yay-TSE", "example": "За закуска ям яйце с хляб.", "type": "noun" },
+    { "bg": "супа", "en": "soup", "pronunciation": "SU-pa", "example": "Мама направи вкусна супа.", "type": "noun" },
+    { "bg": "чиния", "en": "plate", "pronunciation": "chi-NI-ya", "example": "Сложи чинията на масата.", "type": "noun" },
+    { "bg": "чаша", "en": "cup / glass", "pronunciation": "CHA-sha", "example": "Дай ми една чаша вода.", "type": "noun" },
+    { "bg": "лъжица", "en": "spoon", "pronunciation": "lu-ZHI-tsa", "example": "Ядем супата с лъжица.", "type": "noun" },
+    { "bg": "вилица", "en": "fork", "pronunciation": "VI-li-tsa", "example": "Вземи вилица за салатата.", "type": "noun" },
+    { "bg": "нож", "en": "knife", "pronunciation": "nozh", "example": "Режа хляба с нож.", "type": "noun" },
+    { "bg": "готвя", "en": "to cook", "pronunciation": "GOT-vya", "example": "Обичам да готвя вкъщи.", "type": "verb" },
+    { "bg": "ям", "en": "to eat", "pronunciation": "yam", "example": "Ям закуска всяка сутрин.", "type": "verb" },
+    { "bg": "пия", "en": "to drink", "pronunciation": "PI-ya", "example": "Пия много вода всеки ден.", "type": "verb" },
+    { "bg": "режа", "en": "to cut", "pronunciation": "RE-zha", "example": "Режа зеленчуците за салата.", "type": "verb" }
+  ]
+}

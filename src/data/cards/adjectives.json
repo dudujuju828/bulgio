@@ -1,0 +1,16 @@
+{
+  "category": "Adjectives",
+  "cards": [
+    { "bg": "голям", "en": "big", "pronunciation": "go-LYAM", "example": "Това е много голям град.", "type": "adjective" },
+    { "bg": "малък", "en": "small", "pronunciation": "MA-luk", "example": "Имам малък апартамент.", "type": "adjective" },
+    { "bg": "хубав", "en": "beautiful / nice", "pronunciation": "HU-bav", "example": "Днес е много хубав ден.", "type": "adjective" },
+    { "bg": "нов", "en": "new", "pronunciation": "nov", "example": "Купих нов телефон.", "type": "adjective" },
+    { "bg": "стар", "en": "old", "pronunciation": "star", "example": "Тази сграда е много стара.", "type": "adjective" },
+    { "bg": "добър", "en": "good", "pronunciation": "DO-bur", "example": "Той е добър човек.", "type": "adjective" },
+    { "bg": "лош", "en": "bad", "pronunciation": "losh", "example": "Времето днес е лошо.", "type": "adjective" },
+    { "bg": "бърз", "en": "fast", "pronunciation": "burz", "example": "Колата е много бърза.", "type": "adjective" },
+    { "bg": "бавен", "en": "slow", "pronunciation": "BA-ven", "example": "Интернетът е много бавен.", "type": "adjective" },
+    { "bg": "топъл", "en": "warm", "pronunciation": "TO-pul", "example": "Кафето е още топло.", "type": "adjective" },
+    { "bg": "студен", "en": "cold", "pronunciation": "STU-den", "example": "Водата е много студена.", "type": "adjective" }
+  ]
+}

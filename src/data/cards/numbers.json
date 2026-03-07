@@ -1,0 +1,15 @@
+{
+  "category": "Numbers",
+  "cards": [
+    { "bg": "един", "en": "one", "pronunciation": "e-DIN", "example": "Искам един билет, моля.", "type": "adjective" },
+    { "bg": "два", "en": "two", "pronunciation": "dva", "example": "Имам два билета за концерта.", "type": "adjective" },
+    { "bg": "три", "en": "three", "pronunciation": "tri", "example": "Три деца играят в парка.", "type": "adjective" },
+    { "bg": "четири", "en": "four", "pronunciation": "che-TI-ri", "example": "На масата има четири чинии.", "type": "adjective" },
+    { "bg": "пет", "en": "five", "pronunciation": "pet", "example": "Работя пет дни в седмицата.", "type": "adjective" },
+    { "bg": "шест", "en": "six", "pronunciation": "shest", "example": "Ставам в шест часа сутринта.", "type": "adjective" },
+    { "bg": "седем", "en": "seven", "pronunciation": "SE-dem", "example": "Седмицата има седем дни.", "type": "adjective" },
+    { "bg": "осем", "en": "eight", "pronunciation": "O-sem", "example": "Работя осем часа на ден.", "type": "adjective" },
+    { "bg": "девет", "en": "nine", "pronunciation": "DE-vet", "example": "Училището започва в девет.", "type": "adjective" },
+    { "bg": "десет", "en": "ten", "pronunciation": "DE-set", "example": "Лягам си в десет вечерта.", "type": "adjective" }
+  ]
+}

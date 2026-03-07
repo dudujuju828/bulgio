@@ -1,0 +1,17 @@
+{
+  "category": "Verbs",
+  "cards": [
+    { "bg": "имам", "en": "to have", "pronunciation": "I-mam", "example": "Имам два котки вкъщи.", "type": "verb" },
+    { "bg": "съм", "en": "to be", "pronunciation": "sum", "example": "Аз съм от България.", "type": "verb" },
+    { "bg": "искам", "en": "to want", "pronunciation": "IS-kam", "example": "Искам да уча български.", "type": "verb" },
+    { "bg": "мога", "en": "to be able to / can", "pronunciation": "MO-ga", "example": "Мога да говоря малко български.", "type": "verb" },
+    { "bg": "знам", "en": "to know", "pronunciation": "znam", "example": "Знам къде е музеят.", "type": "verb" },
+    { "bg": "говоря", "en": "to speak", "pronunciation": "go-VO-rya", "example": "Говоря три езика.", "type": "verb" },
+    { "bg": "разбирам", "en": "to understand", "pronunciation": "raz-BI-ram", "example": "Разбирам малко български.", "type": "verb" },
+    { "bg": "виждам", "en": "to see", "pronunciation": "VIZH-dam", "example": "Виждам планината от прозореца.", "type": "verb" },
+    { "bg": "чувам", "en": "to hear", "pronunciation": "CHU-vam", "example": "Чувам музика от съседите.", "type": "verb" },
+    { "bg": "работя", "en": "to work", "pronunciation": "ra-BO-tya", "example": "Работя в офис в центъра.", "type": "verb" },
+    { "bg": "уча", "en": "to study / to learn", "pronunciation": "U-cha", "example": "Уча български всеки ден.", "type": "verb" },
+    { "bg": "давам", "en": "to give", "pronunciation": "DA-vam", "example": "Давам подарък на приятеля си.", "type": "verb" }
+  ]
+}

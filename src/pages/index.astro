@@ -1,9 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import flashcards from '../data/flashcards.json';
-
-const categories = [...new Set(flashcards.map(c => c.category))];
-const types = [...new Set(flashcards.map(c => c.type))];
+import { cards as flashcards, categories, types } from '../data/loader';
 ---
 
 <Layout title="Bulgio - Learn Bulgarian">

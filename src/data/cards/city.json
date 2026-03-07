@@ -1,0 +1,15 @@
+{
+  "category": "City",
+  "cards": [
+    { "bg": "улица", "en": "street", "pronunciation": "U-LI-tsa", "example": "Живея на тази улица.", "type": "noun" },
+    { "bg": "магазин", "en": "shop", "pronunciation": "ma-ga-ZIN", "example": "Отивам до магазина за хляб.", "type": "noun" },
+    { "bg": "ресторант", "en": "restaurant", "pronunciation": "res-to-RANT", "example": "Вечеряме в нов ресторант.", "type": "noun" },
+    { "bg": "болница", "en": "hospital", "pronunciation": "bol-NI-tsa", "example": "Болницата е близо до парка.", "type": "noun" },
+    { "bg": "гара", "en": "train station", "pronunciation": "ga-RA", "example": "Влакът пристига на гарата в десет.", "type": "noun" },
+    { "bg": "летище", "en": "airport", "pronunciation": "le-TI-shte", "example": "Летището е далеч от центъра.", "type": "noun" },
+    { "bg": "парк", "en": "park", "pronunciation": "park", "example": "Обичам да ходя в парка.", "type": "noun" },
+    { "bg": "ходя", "en": "to walk / to go", "pronunciation": "HO-dya", "example": "Ходя на работа пеша.", "type": "verb" },
+    { "bg": "пътувам", "en": "to travel", "pronunciation": "pu-TU-vam", "example": "Пътувам с влак до Пловдив.", "type": "verb" },
+    { "bg": "купувам", "en": "to buy", "pronunciation": "ku-PU-vam", "example": "Купувам плодове от пазара.", "type": "verb" }
+  ]
+}

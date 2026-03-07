@@ -1,0 +1,18 @@
+{
+  "category": "Essentials",
+  "cards": [
+    { "bg": "Благодаря", "en": "Thank you", "pronunciation": "Bla-go-da-RYA", "example": "Благодаря за помощта.", "type": "phrase" },
+    { "bg": "Моля", "en": "Please / You're welcome", "pronunciation": "MO-lya", "example": "Моля, дайте ми чаша вода.", "type": "phrase" },
+    { "bg": "Да", "en": "Yes", "pronunciation": "Da", "example": "Да, искам да дойда с вас.", "type": "phrase" },
+    { "bg": "Не", "en": "No", "pronunciation": "Ne", "example": "Не, не съм гладен.", "type": "phrase" },
+    { "bg": "Извинете", "en": "Excuse me", "pronunciation": "Iz-vi-NE-te", "example": "Извинете, къде е гарата?", "type": "phrase" },
+    { "bg": "Съжалявам", "en": "I'm sorry", "pronunciation": "Su-zha-LYA-vam", "example": "Съжалявам, че закъснях.", "type": "phrase" },
+    { "bg": "Добре съм", "en": "I'm fine", "pronunciation": "Do-BRE sum", "example": "Добре съм, благодаря.", "type": "phrase" },
+    { "bg": "Казвам се...", "en": "My name is...", "pronunciation": "KAZ-vam se...", "example": "Казвам се Мария, а вие?", "type": "phrase" },
+    { "bg": "Колко струва?", "en": "How much does it cost?", "pronunciation": "KOL-ko STRU-va?", "example": "Колко струва този шал?", "type": "phrase" },
+    { "bg": "Говорите ли английски?", "en": "Do you speak English?", "pronunciation": "Go-VO-ri-te li an-GLIY-ski?", "example": "Извинете, говорите ли английски?", "type": "phrase" },
+    { "bg": "Не разбирам", "en": "I don't understand", "pronunciation": "Ne raz-BI-ram", "example": "Не разбирам, моля повторете.", "type": "phrase" },
+    { "bg": "Помощ!", "en": "Help!", "pronunciation": "PO-mosht!", "example": "Помощ, някой да ми помогне!", "type": "phrase" },
+    { "bg": "Обичам те", "en": "I love you", "pronunciation": "O-BI-cham te", "example": "Обичам те повече от всичко.", "type": "phrase" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "category": "Home",
+  "cards": [
+    { "bg": "къща", "en": "house", "pronunciation": "KU-shta", "example": "Тяхната къща е много голяма.", "type": "noun" },
+    { "bg": "стая", "en": "room", "pronunciation": "STA-ya", "example": "Стаята ми е на втория етаж.", "type": "noun" },
+    { "bg": "врата", "en": "door", "pronunciation": "vra-TA", "example": "Затвори вратата, моля.", "type": "noun" },
+    { "bg": "прозорец", "en": "window", "pronunciation": "pro-ZO-rets", "example": "Отвори прозореца за въздух.", "type": "noun" },
+    { "bg": "маса", "en": "table", "pronunciation": "ma-SA", "example": "Книгата е на масата.", "type": "noun" },
+    { "bg": "стол", "en": "chair", "pronunciation": "stol", "example": "Седни на стола до мен.", "type": "noun" },
+    { "bg": "легло", "en": "bed", "pronunciation": "leg-LO", "example": "Леглото ми е много удобно.", "type": "noun" },
+    { "bg": "баня", "en": "bathroom", "pronunciation": "BA-nya", "example": "Банята е в края на коридора.", "type": "noun" },
+    { "bg": "кухня", "en": "kitchen", "pronunciation": "KUH-nya", "example": "Готвим в кухнята.", "type": "noun" },
+    { "bg": "спя", "en": "to sleep", "pronunciation": "spya", "example": "Спя осем часа всяка нощ.", "type": "verb" },
+    { "bg": "живея", "en": "to live", "pronunciation": "zhi-VE-ya", "example": "Живея в София от пет години.", "type": "verb" },
+    { "bg": "чистя", "en": "to clean", "pronunciation": "CHIS-tya", "example": "Чистя къщата всяка събота.", "type": "verb" }
+  ]
+}
