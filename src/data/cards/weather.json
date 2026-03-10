@@ -1,0 +1,27 @@
+{
+  "category": "Weather",
+  "cards": [
+    { "bg": "време", "en": "weather", "pronunciation": "VRE-me", "example": "Какво е времето днес?", "type": "noun" },
+    { "bg": "слънце", "en": "sun", "pronunciation": "SLUN-tse", "example": "Слънцето грее силно.", "type": "noun" },
+    { "bg": "дъжд", "en": "rain", "pronunciation": "duzht", "example": "Навън вали дъжд.", "type": "noun" },
+    { "bg": "сняг", "en": "snow", "pronunciation": "snyag", "example": "През зимата вали много сняг.", "type": "noun" },
+    { "bg": "вятър", "en": "wind", "pronunciation": "VYA-tur", "example": "Духа силен вятър.", "type": "noun" },
+    { "bg": "облак", "en": "cloud", "pronunciation": "OB-lak", "example": "Небето е покрито с облаци.", "type": "noun" },
+    { "bg": "мъгла", "en": "fog", "pronunciation": "mug-LA", "example": "Сутрин има гъста мъгла.", "type": "noun" },
+    { "bg": "буря", "en": "storm", "pronunciation": "BU-rya", "example": "Идва голяма буря.", "type": "noun" },
+    { "bg": "гръмотевица", "en": "thunder", "pronunciation": "gru-mo-TE-vi-tsa", "example": "Чуваш ли гръмотевицата?", "type": "noun" },
+    { "bg": "мълния", "en": "lightning", "pronunciation": "MUL-ni-ya", "example": "Мълнията удари дървото.", "type": "noun" },
+    { "bg": "лед", "en": "ice", "pronunciation": "led", "example": "Пътят е покрит с лед.", "type": "noun" },
+    { "bg": "горещо", "en": "hot", "pronunciation": "go-RESHT-o", "example": "Днес е много горещо навън.", "type": "adjective" },
+    { "bg": "студено", "en": "cold", "pronunciation": "stu-DE-no", "example": "През януари е много студено.", "type": "adjective" },
+    { "bg": "топло", "en": "warm", "pronunciation": "TOP-lo", "example": "Напролет става топло.", "type": "adjective" },
+    { "bg": "хладно", "en": "cool/chilly", "pronunciation": "HLAD-no", "example": "Вечерите стават хладни.", "type": "adjective" },
+    { "bg": "слънчево", "en": "sunny", "pronunciation": "SLUN-che-vo", "example": "Утре ще бъде слънчево.", "type": "adjective" },
+    { "bg": "облачно", "en": "cloudy", "pronunciation": "OB-lach-no", "example": "Днес е облачно, но не вали.", "type": "adjective" },
+    { "bg": "ветровито", "en": "windy", "pronunciation": "vet-ro-VI-to", "example": "На морето е ветровито.", "type": "adjective" },
+    { "bg": "температура", "en": "temperature", "pronunciation": "tem-pe-ra-TU-ra", "example": "Температурата е двадесет градуса.", "type": "noun" },
+    { "bg": "градус", "en": "degree", "pronunciation": "GRA-dus", "example": "Навън са тридесет градуса.", "type": "noun" },
+    { "bg": "прогноза", "en": "forecast", "pronunciation": "prog-NO-za", "example": "Каква е прогнозата за утре?", "type": "noun" },
+    { "bg": "вали", "en": "it's raining/snowing", "pronunciation": "VA-li", "example": "Вали дъжд от сутринта.", "type": "verb" }
+  ]
+}
