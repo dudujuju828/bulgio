@@ -1,0 +1,27 @@
+{
+  "category": "Winter Sports",
+  "cards": [
+    { "bg": "ски", "en": "ski/skiing", "pronunciation": "ski", "example": "Карам ски в Банско всяка зима.", "type": "noun" },
+    { "bg": "сноуборд", "en": "snowboard", "pronunciation": "SNOU-bord", "example": "Научих се да карам сноуборд миналата зима.", "type": "noun" },
+    { "bg": "писта", "en": "ski slope/run", "pronunciation": "PIS-ta", "example": "Черната писта е за напреднали скиори.", "type": "noun" },
+    { "bg": "лифт", "en": "ski lift", "pronunciation": "lift", "example": "Качваме се с лифта до върха.", "type": "noun" },
+    { "bg": "ски курорт", "en": "ski resort", "pronunciation": "ski ku-RORT", "example": "Боровец е най-старият ски курорт в България.", "type": "noun" },
+    { "bg": "сняг", "en": "snow", "pronunciation": "snyag", "example": "Тази зима падна много сняг.", "type": "noun" },
+    { "bg": "снежинка", "en": "snowflake", "pronunciation": "sne-ZHIN-ka", "example": "Всяка снежинка е уникална.", "type": "noun" },
+    { "bg": "ледена пързалка", "en": "ice rink", "pronunciation": "le-DE-na pur-ZAL-ka", "example": "Децата се пързалят на ледената пързалка.", "type": "noun" },
+    { "bg": "кънки", "en": "ice skates", "pronunciation": "KUN-ki", "example": "Наехме кънки за два часа.", "type": "noun" },
+    { "bg": "шейна", "en": "sled/sleigh", "pronunciation": "SHEY-na", "example": "Децата се спускат с шейна от хълма.", "type": "noun" },
+    { "bg": "снежен човек", "en": "snowman", "pronunciation": "SNE-zhen cho-VEK", "example": "Направихме голям снежен човек в двора.", "type": "noun" },
+    { "bg": "ръкавици", "en": "gloves", "pronunciation": "ru-ka-VI-tsi", "example": "Сложи ръкавиците, навън е студено.", "type": "noun" },
+    { "bg": "шапка", "en": "hat/beanie", "pronunciation": "SHAP-ka", "example": "Не забравяй шапката за планината.", "type": "noun" },
+    { "bg": "очила", "en": "goggles/glasses", "pronunciation": "o-CHI-la", "example": "Ски очилата предпазват от слънцето.", "type": "noun" },
+    { "bg": "лавина", "en": "avalanche", "pronunciation": "la-VI-na", "example": "Внимавайте за лавини извън пистите.", "type": "noun" },
+    { "bg": "каска", "en": "helmet", "pronunciation": "KAS-ka", "example": "Винаги нося каска, когато карам ски.", "type": "noun" },
+    { "bg": "инструктор", "en": "instructor", "pronunciation": "in-struk-TOR", "example": "Ски инструкторът ни показа как да завиваме.", "type": "noun" },
+    { "bg": "пързалям се", "en": "to slide/skate", "pronunciation": "pur-ZA-lyam se", "example": "Пързаляме се на лед всяка неделя.", "type": "verb" },
+    { "bg": "спускам се", "en": "to go downhill/descend", "pronunciation": "SPUS-kam se", "example": "Спускаме се по стръмната писта.", "type": "verb" },
+    { "bg": "падам", "en": "to fall", "pronunciation": "PA-dam", "example": "Паднах три пъти докато учех да карам.", "type": "verb" },
+    { "bg": "хижа", "en": "mountain hut/lodge", "pronunciation": "HI-zha", "example": "Отседнахме в хижата до лифта.", "type": "noun" },
+    { "bg": "биатлон", "en": "biathlon", "pronunciation": "bi-at-LON", "example": "България има добри състезатели по биатлон.", "type": "noun" }
+  ]
+}
