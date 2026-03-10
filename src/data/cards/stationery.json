@@ -1,0 +1,28 @@
+{
+  "category": "Stationery",
+  "cards": [
+    { "bg": "канцелария", "en": "stationery/office supplies", "pronunciation": "kan-tse-LA-ri-ya", "example": "Купих канцеларски материали за офиса.", "type": "noun" },
+    { "bg": "химикалка", "en": "pen (ballpoint)", "pronunciation": "hi-mi-KAL-ka", "example": "Имаш ли химикалка да подпиша?", "type": "noun" },
+    { "bg": "молив", "en": "pencil", "pronunciation": "mo-LIV", "example": "Моливът е по-добър за скициране.", "type": "noun" },
+    { "bg": "гума", "en": "eraser", "pronunciation": "GU-ma", "example": "Изтрий грешката с гумата.", "type": "noun" },
+    { "bg": "острилка", "en": "pencil sharpener", "pronunciation": "os-TRIL-ka", "example": "Моливът е тъп, дай острилката.", "type": "noun" },
+    { "bg": "линийка", "en": "ruler", "pronunciation": "li-NIY-ka", "example": "Дръпни правата линия с линийка.", "type": "noun" },
+    { "bg": "тетрадка", "en": "notebook/exercise book", "pronunciation": "tet-RAD-ka", "example": "Записвам бележки в тетрадката.", "type": "noun" },
+    { "bg": "лист хартия", "en": "sheet of paper", "pronunciation": "list har-TI-ya", "example": "Дай ми един лист хартия, моля.", "type": "noun" },
+    { "bg": "ножица", "en": "scissors", "pronunciation": "NO-zhi-tsa", "example": "Режи по линията с ножицата.", "type": "noun" },
+    { "bg": "лепило", "en": "glue", "pronunciation": "le-PI-lo", "example": "Залепи снимката с лепило.", "type": "noun" },
+    { "bg": "тиксо", "en": "adhesive tape/sellotape", "pronunciation": "TIK-so", "example": "Залепи кутията с тиксо.", "type": "noun" },
+    { "bg": "кламер", "en": "paper clip", "pronunciation": "KLA-mer", "example": "Събери листовете с кламер.", "type": "noun" },
+    { "bg": "телбод", "en": "stapler", "pronunciation": "tel-BOD", "example": "Захвани документите с телбода.", "type": "noun" },
+    { "bg": "папка", "en": "folder/binder", "pronunciation": "PAP-ka", "example": "Сложи договорите в папката.", "type": "noun" },
+    { "bg": "маркер", "en": "marker/highlighter", "pronunciation": "mar-KER", "example": "Подчертай важното с жълт маркер.", "type": "noun" },
+    { "bg": "флумастер", "en": "felt-tip pen", "pronunciation": "flu-MAS-ter", "example": "Децата рисуват с флумастери.", "type": "noun" },
+    { "bg": "цветни моливи", "en": "colored pencils", "pronunciation": "TSVET-ni mo-LI-vi", "example": "Вземи цветните моливи за рисуване.", "type": "noun" },
+    { "bg": "коректор", "en": "correction fluid/white-out", "pronunciation": "ko-REK-tor", "example": "Замажи грешката с коректор.", "type": "noun" },
+    { "bg": "пощенски плик", "en": "envelope", "pronunciation": "POSH-ten-ski plik", "example": "Сложи писмото в плика и го залепи.", "type": "noun" },
+    { "bg": "печат", "en": "stamp/seal", "pronunciation": "pe-CHAT", "example": "Фирменият печат е в чекмеджето.", "type": "noun" },
+    { "bg": "дъска", "en": "whiteboard/blackboard", "pronunciation": "DUS-ka", "example": "Учителят пише на дъската.", "type": "noun" },
+    { "bg": "тебешир", "en": "chalk", "pronunciation": "te-be-SHIR", "example": "Тебеширът се чупи лесно.", "type": "noun" },
+    { "bg": "пергел", "en": "compass (drawing)", "pronunciation": "per-GEL", "example": "Начертай кръг с пергела.", "type": "noun" }
+  ]
+}
