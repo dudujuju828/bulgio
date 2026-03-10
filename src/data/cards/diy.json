@@ -1,0 +1,27 @@
+{
+  "category": "DIY",
+  "cards": [
+    { "bg": "ремонт", "en": "repair/renovation", "pronunciation": "re-MONT", "example": "Правим ремонт на апартамента.", "type": "noun" },
+    { "bg": "поправям", "en": "to fix/repair", "pronunciation": "po-PRA-vyam", "example": "Поправих развалената врата.", "type": "verb" },
+    { "bg": "бормашина", "en": "drill", "pronunciation": "bor-ma-SHI-na", "example": "Пробих дупка с бормашината.", "type": "noun" },
+    { "bg": "винт", "en": "screw", "pronunciation": "vint", "example": "Затегни винта с отвертката.", "type": "noun" },
+    { "bg": "отвертка", "en": "screwdriver", "pronunciation": "ot-VERT-ka", "example": "Подай ми кръстатата отвертка.", "type": "noun" },
+    { "bg": "гвоздей", "en": "nail", "pronunciation": "gvoz-DEY", "example": "Забих гвоздей в стената за картината.", "type": "noun" },
+    { "bg": "чук", "en": "hammer", "pronunciation": "chuk", "example": "Чукът е в кутията с инструменти.", "type": "noun" },
+    { "bg": "боядисвам", "en": "to paint (walls)", "pronunciation": "bo-ya-DIS-vam", "example": "Боядисахме стаята в синьо.", "type": "verb" },
+    { "bg": "боя", "en": "paint", "pronunciation": "bo-YA", "example": "Купих два литра бяла боя.", "type": "noun" },
+    { "bg": "валяк", "en": "paint roller", "pronunciation": "va-LYAK", "example": "Боядисвам стените с валяк.", "type": "noun" },
+    { "bg": "тапет", "en": "wallpaper", "pronunciation": "ta-PET", "example": "Лепим нов тапет в спалнята.", "type": "noun" },
+    { "bg": "лепило", "en": "glue/adhesive", "pronunciation": "le-PI-lo", "example": "Залепих счупената ваза с лепило.", "type": "noun" },
+    { "bg": "шкурка", "en": "sandpaper", "pronunciation": "SHKUR-ka", "example": "Шкуркам дървото преди боядисване.", "type": "noun" },
+    { "bg": "тръба", "en": "pipe", "pronunciation": "tru-BA", "example": "Тръбата в банята тече.", "type": "noun" },
+    { "bg": "кран", "en": "faucet/tap", "pronunciation": "kran", "example": "Кранът капе, трябва да го поправя.", "type": "noun" },
+    { "bg": "запушвам се", "en": "to clog/get blocked", "pronunciation": "za-PUSH-vam se", "example": "Мивката се запуши.", "type": "verb" },
+    { "bg": "монтирам", "en": "to install/mount", "pronunciation": "mon-TI-ram", "example": "Монтирах нова лампа в коридора.", "type": "verb" },
+    { "bg": "сглобявам", "en": "to assemble", "pronunciation": "sglo-BYA-vam", "example": "Сглобих новия шкаф за три часа.", "type": "verb" },
+    { "bg": "измервам", "en": "to measure", "pronunciation": "iz-MER-vam", "example": "Измери стената преди да режеш.", "type": "verb" },
+    { "bg": "ролетка", "en": "tape measure", "pronunciation": "ro-LET-ka", "example": "Измери с ролетката колко метра е.", "type": "noun" },
+    { "bg": "нивелир", "en": "level (tool)", "pronunciation": "ni-ve-LIR", "example": "Провери с нивелира дали рафтът е прав.", "type": "noun" },
+    { "bg": "рафт", "en": "shelf", "pronunciation": "raft", "example": "Монтирах нов рафт за книгите.", "type": "noun" }
+  ]
+}
