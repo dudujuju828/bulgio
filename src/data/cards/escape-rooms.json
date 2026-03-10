@@ -1,0 +1,27 @@
+{
+  "category": "Escape Rooms & Team Games",
+  "cards": [
+    { "bg": "ескейп стая", "en": "escape room", "pronunciation": "es-KEYP STA-ya", "example": "Ескейп стаята в центъра на София е много популярна.", "type": "noun" },
+    { "bg": "отбор", "en": "team", "pronunciation": "ot-BOR", "example": "Отборът ни е от четирима души.", "type": "noun" },
+    { "bg": "екипна работа", "en": "teamwork", "pronunciation": "e-KIP-na ra-BO-ta", "example": "Екипната работа е ключът към успеха.", "type": "noun" },
+    { "bg": "заключен", "en": "locked", "pronunciation": "za-klyu-CHEN", "example": "Заключени сме в стаята за шейсет минути.", "type": "adjective" },
+    { "bg": "ключалка", "en": "lock", "pronunciation": "klyu-CHAL-ka", "example": "Ключалката изисква четирицифрен код.", "type": "noun" },
+    { "bg": "код", "en": "code/combination", "pronunciation": "kod", "example": "Кодът беше скрит в книгата на рафта.", "type": "noun" },
+    { "bg": "мистерия", "en": "mystery", "pronunciation": "mis-TE-ri-ya", "example": "Мистерията на стаята е свързана с пиратско съкровище.", "type": "noun" },
+    { "bg": "подсказка", "en": "hint/clue", "pronunciation": "pod-SKAZ-ka", "example": "Използвахме две подсказки, за да излезем.", "type": "noun" },
+    { "bg": "таен ход", "en": "secret passage", "pronunciation": "TA-en hod", "example": "Таен ход се отвори зад картината.", "type": "noun" },
+    { "bg": "обратно броене", "en": "countdown", "pronunciation": "ob-RAT-no bro-E-ne", "example": "Обратното броене показва петнадесет минути.", "type": "noun" },
+    { "bg": "разгадавам", "en": "to solve/decode", "pronunciation": "raz-ga-DA-vam", "example": "Разгадахме шифъра за пет минути.", "type": "verb" },
+    { "bg": "шифър", "en": "cipher/code", "pronunciation": "shi-FUR", "example": "Шифърът изискваше да преведем символите.", "type": "noun" },
+    { "bg": "скрит предмет", "en": "hidden object", "pronunciation": "skrit pred-MET", "example": "Скритият предмет беше в двойното дъно на чекмеджето.", "type": "noun" },
+    { "bg": "тема", "en": "theme/scenario", "pronunciation": "TE-ma", "example": "Темата на стаята е средновековен замък.", "type": "noun" },
+    { "bg": "трудност", "en": "difficulty level", "pronunciation": "TRUD-nost", "example": "Стаята е с максимална трудност.", "type": "noun" },
+    { "bg": "рекорд", "en": "record (time)", "pronunciation": "re-KORD", "example": "Рекордът за тази стая е тридесет минути.", "type": "noun" },
+    { "bg": "успявам", "en": "to succeed/manage", "pronunciation": "us-PYA-vam", "example": "Успяхме да излезем с три минути преди края.", "type": "verb" },
+    { "bg": "провалям се", "en": "to fail", "pronunciation": "pro-VA-lyam se", "example": "Провалихме се на последната загадка.", "type": "verb" },
+    { "bg": "капан", "en": "trap", "pronunciation": "ka-PAN", "example": "Капанът ни отвлече вниманието от истинската загадка.", "type": "noun" },
+    { "bg": "резервация", "en": "reservation/booking", "pronunciation": "re-zer-VA-tsi-ya", "example": "Направи резервация за събота вечер.", "type": "noun" },
+    { "bg": "водещ", "en": "game master/host", "pronunciation": "vo-DESHT", "example": "Водещият наблюдава през камерите и дава подсказки.", "type": "noun" },
+    { "bg": "адреналин", "en": "adrenaline", "pronunciation": "ad-re-na-LIN", "example": "Адреналинът беше невероятен в последните минути.", "type": "noun" }
+  ]
+}
