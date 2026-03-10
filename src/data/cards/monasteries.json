@@ -1,0 +1,29 @@
+{
+  "category": "Monasteries",
+  "cards": [
+    { "bg": "манастир", "en": "monastery", "pronunciation": "ma-nas-TIR", "example": "Рилският манастир е в списъка на ЮНЕСКО.", "type": "noun" },
+    { "bg": "черква", "en": "church", "pronunciation": "CHER-kva", "example": "Черквата в манастира е от десети век.", "type": "noun" },
+    { "bg": "храм", "en": "temple/cathedral", "pronunciation": "hram", "example": "Храм-паметникът Александър Невски е символ на София.", "type": "noun" },
+    { "bg": "параклис", "en": "chapel", "pronunciation": "pa-rak-LIS", "example": "Параклисът на хълма е малък, но красив.", "type": "noun" },
+    { "bg": "монах", "en": "monk", "pronunciation": "mo-NAH", "example": "Монасите живеят в уединение и молитва.", "type": "noun" },
+    { "bg": "монахиня", "en": "nun", "pronunciation": "mo-na-HI-nya", "example": "Монахините поддържат манастирската градина.", "type": "noun" },
+    { "bg": "игумен", "en": "abbot", "pronunciation": "i-GU-men", "example": "Игуменът управлява манастира.", "type": "noun" },
+    { "bg": "икона", "en": "icon", "pronunciation": "i-KO-na", "example": "Иконите в Боянската черква са от тринадесети век.", "type": "noun" },
+    { "bg": "стенопис", "en": "fresco/mural", "pronunciation": "ste-no-PIS", "example": "Стенописите в Рилския манастир са забележителни.", "type": "noun" },
+    { "bg": "олтар", "en": "altar", "pronunciation": "ol-TAR", "example": "Олтарът е най-свещената част на храма.", "type": "noun" },
+    { "bg": "камбана", "en": "bell", "pronunciation": "kam-BA-na", "example": "Камбаните звънят в шест сутринта.", "type": "noun" },
+    { "bg": "камбанария", "en": "bell tower", "pronunciation": "kam-ba-NA-ri-ya", "example": "Камбанарията на Бачковския манастир е висока.", "type": "noun" },
+    { "bg": "килия", "en": "monk's cell/room", "pronunciation": "KI-li-ya", "example": "Монасите спят в малки килии.", "type": "noun" },
+    { "bg": "двор", "en": "courtyard", "pronunciation": "dvor", "example": "Дворът на манастира е тих и спокоен.", "type": "noun" },
+    { "bg": "молитва", "en": "prayer", "pronunciation": "mo-LIT-va", "example": "Монасите четат молитви три пъти на ден.", "type": "noun" },
+    { "bg": "свещ", "en": "candle", "pronunciation": "svesht", "example": "Запалих свещ за здравето на семейството.", "type": "noun" },
+    { "bg": "кръст", "en": "cross", "pronunciation": "krust", "example": "Дърворезбеният кръст от Рила е шедьовър.", "type": "noun" },
+    { "bg": "мощи", "en": "relics (holy)", "pronunciation": "MOSH-ti", "example": "Мощите на Свети Иван Рилски се пазят в манастира.", "type": "noun" },
+    { "bg": "поклонник", "en": "pilgrim", "pronunciation": "pok-LON-nik", "example": "Поклонниците идват от цяла България.", "type": "noun" },
+    { "bg": "дарохранителница", "en": "tabernacle", "pronunciation": "da-ro-hra-ni-TEL-ni-tsa", "example": "Дарохранителницата е украсена със злато.", "type": "noun" },
+    { "bg": "крепостна стена", "en": "fortress wall", "pronunciation": "kre-POST-na ste-NA", "example": "Крепостните стени пазеха манастира от нашественици.", "type": "noun" },
+    { "bg": "дърворезба", "en": "woodcarving", "pronunciation": "dur-vo-REZ-ba", "example": "Дърворезбата на иконостаса отне десет години.", "type": "noun" },
+    { "bg": "иконостас", "en": "iconostasis (icon screen)", "pronunciation": "i-ko-nos-TAS", "example": "Иконостасът в Троянския манастир е великолепен.", "type": "noun" },
+    { "bg": "благослов", "en": "blessing", "pronunciation": "bla-go-SLOV", "example": "Получихме благослов от свещеника.", "type": "noun" }
+  ]
+}
