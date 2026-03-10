@@ -1,0 +1,28 @@
+{
+  "category": "Plumbing",
+  "cards": [
+    { "bg": "водопроводчик", "en": "plumber", "pronunciation": "vo-do-pro-VOD-chik", "example": "Извикахме водопроводчик за течащата тръба.", "type": "noun" },
+    { "bg": "тръба", "en": "pipe", "pronunciation": "tru-BA", "example": "Тръбата под мивката се спука.", "type": "noun" },
+    { "bg": "кран", "en": "faucet/tap", "pronunciation": "kran", "example": "Кранът капе цяла нощ.", "type": "noun" },
+    { "bg": "мивка", "en": "sink", "pronunciation": "MIV-ka", "example": "Мивката в кухнята е запушена.", "type": "noun" },
+    { "bg": "тоалетна", "en": "toilet", "pronunciation": "to-a-LET-na", "example": "Тоалетната не спира да тече.", "type": "noun" },
+    { "bg": "казанче", "en": "toilet tank/cistern", "pronunciation": "ka-ZAN-che", "example": "Казанчето не пълни вода.", "type": "noun" },
+    { "bg": "душ", "en": "shower", "pronunciation": "dush", "example": "Душът има слаб напор.", "type": "noun" },
+    { "bg": "вана", "en": "bathtub", "pronunciation": "VA-na", "example": "Водата във ваната не оттича.", "type": "noun" },
+    { "bg": "бойлер", "en": "water heater/boiler", "pronunciation": "BOY-ler", "example": "Бойлерът не загрява вода, сигурно е повреден.", "type": "noun" },
+    { "bg": "сифон", "en": "drain/siphon", "pronunciation": "si-FON", "example": "Сифонът е запушен с коси.", "type": "noun" },
+    { "bg": "запушвам се", "en": "to clog/block", "pronunciation": "za-PUSH-vam se", "example": "Каналът се запуши от мазнина.", "type": "verb" },
+    { "bg": "отпушвам", "en": "to unclog/unblock", "pronunciation": "ot-PUSH-vam", "example": "Опитах да отпуша мивката с вантуз.", "type": "verb" },
+    { "bg": "вантуз", "en": "plunger", "pronunciation": "van-TUZ", "example": "Вантузът е в банята зад вратата.", "type": "noun" },
+    { "bg": "тече", "en": "to leak", "pronunciation": "te-CHE", "example": "Кранът тече, капе постоянно.", "type": "verb" },
+    { "bg": "течение", "en": "leak", "pronunciation": "te-CHE-ni-e", "example": "Има теченe на тавана от горния етаж.", "type": "noun" },
+    { "bg": "напор", "en": "water pressure", "pronunciation": "na-POR", "example": "Напорът на водата е много слаб.", "type": "noun" },
+    { "bg": "топла вода", "en": "hot water", "pronunciation": "TOP-la vo-DA", "example": "Няма топла вода от снощи.", "type": "noun" },
+    { "bg": "студена вода", "en": "cold water", "pronunciation": "stu-DE-na vo-DA", "example": "Тече само студена вода от крана.", "type": "noun" },
+    { "bg": "канал", "en": "drain/sewer", "pronunciation": "ka-NAL", "example": "Каналът на улицата е запушен.", "type": "noun" },
+    { "bg": "спирателен кран", "en": "shut-off valve", "pronunciation": "spi-RA-te-len kran", "example": "Затвори спирателния кран, за да спреш водата.", "type": "noun" },
+    { "bg": "водомер", "en": "water meter", "pronunciation": "vo-do-MER", "example": "Водомерът показва голяма консумация.", "type": "noun" },
+    { "bg": "уплътнение", "en": "washer/gasket/seal", "pronunciation": "up-lut-NE-ni-e", "example": "Смени уплътнението на крана и няма да капе.", "type": "noun" },
+    { "bg": "гаечен ключ", "en": "wrench", "pronunciation": "GA-e-chen klyuch", "example": "Дай ми гаечния ключ да затегна тръбата.", "type": "noun" }
+  ]
+}
