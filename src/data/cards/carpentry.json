@@ -1,0 +1,28 @@
+{
+  "category": "Carpentry & Woodworking",
+  "cards": [
+    { "bg": "дърводелство", "en": "carpentry/woodworking", "pronunciation": "dur-vo-DEL-stvo", "example": "Дърводелството е стар и уважаван занаят.", "type": "noun" },
+    { "bg": "дърводелец", "en": "carpenter", "pronunciation": "dur-vo-DE-lets", "example": "Дърводелецът направи шкаф по поръчка.", "type": "noun" },
+    { "bg": "дърво", "en": "wood/timber", "pronunciation": "DUR-vo", "example": "Мебелите са от масивно дърво.", "type": "noun" },
+    { "bg": "дъска", "en": "plank/board", "pronunciation": "DUS-ka", "example": "Отрежи дъската на дължина метър и двадесет.", "type": "noun" },
+    { "bg": "трион", "en": "saw", "pronunciation": "tri-ON", "example": "Режи дървото с трион.", "type": "noun" },
+    { "bg": "чук", "en": "hammer", "pronunciation": "chuk", "example": "Забий пирона с чука.", "type": "noun" },
+    { "bg": "пирон", "en": "nail", "pronunciation": "pi-RON", "example": "Купих кутия пирони от строителния магазин.", "type": "noun" },
+    { "bg": "винт", "en": "screw", "pronunciation": "vint", "example": "Завий винта с отвертката.", "type": "noun" },
+    { "bg": "отвертка", "en": "screwdriver", "pronunciation": "ot-VERT-ka", "example": "Дай ми кръстатата отвертка.", "type": "noun" },
+    { "bg": "бормашина", "en": "drill", "pronunciation": "bor-ma-SHI-na", "example": "Пробих дупка с бормашината.", "type": "noun" },
+    { "bg": "ренде", "en": "plane (woodworking)", "pronunciation": "ren-DE", "example": "Изглади повърхността с рендето.", "type": "noun" },
+    { "bg": "шкурка", "en": "sandpaper", "pronunciation": "SHKUR-ka", "example": "Шлайфай дървото с фина шкурка.", "type": "noun" },
+    { "bg": "лак", "en": "varnish/lacquer", "pronunciation": "lak", "example": "Нанеси два слоя лак за защита.", "type": "noun" },
+    { "bg": "мебел", "en": "piece of furniture", "pronunciation": "ME-bel", "example": "Мебелите в стаята са от дъб.", "type": "noun" },
+    { "bg": "рафт", "en": "shelf", "pronunciation": "raft", "example": "Монтирах рафт на стената за книги.", "type": "noun" },
+    { "bg": "чекмедже", "en": "drawer", "pronunciation": "chek-me-DZHE", "example": "Чекмеджето се отваря трудно.", "type": "noun" },
+    { "bg": "дъб", "en": "oak", "pronunciation": "dub", "example": "Дъбът е здраво и издръжливо дърво.", "type": "noun" },
+    { "bg": "бук", "en": "beech", "pronunciation": "buk", "example": "Буковата дървесина е светла на цвят.", "type": "noun" },
+    { "bg": "бор", "en": "pine", "pronunciation": "bor", "example": "Борът е мек и лесен за обработка.", "type": "noun" },
+    { "bg": "шперплат", "en": "plywood", "pronunciation": "shper-PLAT", "example": "Задната стена е от шперплат.", "type": "noun" },
+    { "bg": "стяга", "en": "clamp", "pronunciation": "STYA-ga", "example": "Захвани дъските със стягата докато лепилото съхне.", "type": "noun" },
+    { "bg": "длето", "en": "chisel", "pronunciation": "dle-TO", "example": "Издълбай жлеба с длетото.", "type": "noun" },
+    { "bg": "дялам", "en": "to carve/whittle", "pronunciation": "DYA-lam", "example": "Дядо дяла лъжици от дърво.", "type": "verb" }
+  ]
+}
