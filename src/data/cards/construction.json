@@ -1,0 +1,29 @@
+{
+  "category": "Construction",
+  "cards": [
+    { "bg": "строеж", "en": "construction/building site", "pronunciation": "stro-EZH", "example": "На строежа работят двадесет души.", "type": "noun" },
+    { "bg": "строител", "en": "construction worker/builder", "pronunciation": "stro-I-tel", "example": "Строителите започват рано сутринта.", "type": "noun" },
+    { "bg": "строя", "en": "to build", "pronunciation": "stro-YA", "example": "Строим нова къща в село.", "type": "verb" },
+    { "bg": "ремонт", "en": "renovation/repair", "pronunciation": "re-MONT", "example": "Правим ремонт на банята.", "type": "noun" },
+    { "bg": "тухла", "en": "brick", "pronunciation": "TUH-la", "example": "Стената е изградена от червени тухли.", "type": "noun" },
+    { "bg": "цимент", "en": "cement", "pronunciation": "tsi-MENT", "example": "Смесихме цимента с пясък и вода.", "type": "noun" },
+    { "bg": "бетон", "en": "concrete", "pronunciation": "be-TON", "example": "Основата е от армиран бетон.", "type": "noun" },
+    { "bg": "пясък", "en": "sand", "pronunciation": "PYA-suk", "example": "Доставиха камион с пясък.", "type": "noun" },
+    { "bg": "дъска", "en": "plank/board", "pronunciation": "DUS-ka", "example": "Нарязахме дъските за оградата.", "type": "noun" },
+    { "bg": "греда", "en": "beam", "pronunciation": "gre-DA", "example": "Дървените греди държат покрива.", "type": "noun" },
+    { "bg": "покрив", "en": "roof", "pronunciation": "pok-RIV", "example": "Покривът е с нови керемиди.", "type": "noun" },
+    { "bg": "керемида", "en": "roof tile", "pronunciation": "ke-re-MI-da", "example": "Бурята счупи няколко керемиди.", "type": "noun" },
+    { "bg": "основа", "en": "foundation", "pronunciation": "os-NO-va", "example": "Изкопахме основите за новата сграда.", "type": "noun" },
+    { "bg": "стена", "en": "wall", "pronunciation": "ste-NA", "example": "Боядисахме стените в бяло.", "type": "noun" },
+    { "bg": "мазилка", "en": "plaster/render", "pronunciation": "ma-ZIL-ka", "example": "Мазилката на фасадата се рони.", "type": "noun" },
+    { "bg": "боядисвам", "en": "to paint", "pronunciation": "bo-ya-DIS-vam", "example": "Утре боядисваме спалнята.", "type": "verb" },
+    { "bg": "боя", "en": "paint", "pronunciation": "bo-YA", "example": "Купихме бяла и синя боя.", "type": "noun" },
+    { "bg": "кран", "en": "crane", "pronunciation": "kran", "example": "Кранът вдига тежки материали.", "type": "noun" },
+    { "bg": "скеле", "en": "scaffolding", "pronunciation": "ske-LE", "example": "Поставиха скеле около сградата.", "type": "noun" },
+    { "bg": "тръба", "en": "pipe", "pronunciation": "tru-BA", "example": "Водната тръба се спука.", "type": "noun" },
+    { "bg": "кабел", "en": "cable/wire", "pronunciation": "KA-bel", "example": "Електрическите кабели са скрити в стената.", "type": "noun" },
+    { "bg": "електричество", "en": "electricity", "pronunciation": "e-lek-tri-CHES-tvo", "example": "Свързахме електричеството в новата къща.", "type": "noun" },
+    { "bg": "водопровод", "en": "plumbing/water pipes", "pronunciation": "vo-do-pro-VOD", "example": "Водопроводът е от нови тръби.", "type": "noun" },
+    { "bg": "разрешително", "en": "permit", "pronunciation": "raz-re-shi-TEL-no", "example": "Трябва разрешително за строеж от общината.", "type": "noun" }
+  ]
+}
