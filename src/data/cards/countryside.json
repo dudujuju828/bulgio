@@ -1,0 +1,25 @@
+{
+  "category": "Countryside",
+  "cards": [
+    { "bg": "село", "en": "village", "pronunciation": "SE-lo", "example": "Отивам на село при баба.", "type": "noun" },
+    { "bg": "ферма", "en": "farm", "pronunciation": "FER-ma", "example": "Фермата е на края на селото.", "type": "noun" },
+    { "bg": "нива", "en": "field (agricultural)", "pronunciation": "NI-va", "example": "Нивата е засята с жито.", "type": "noun" },
+    { "bg": "жито", "en": "wheat", "pronunciation": "ZHI-to", "example": "Житото узрява през юли.", "type": "noun" },
+    { "bg": "трактор", "en": "tractor", "pronunciation": "TRAK-tor", "example": "Тракторът оре нивата.", "type": "noun" },
+    { "bg": "кокошка", "en": "chicken/hen", "pronunciation": "ko-KOSH-ka", "example": "Кокошките снасят яйца.", "type": "noun" },
+    { "bg": "петел", "en": "rooster", "pronunciation": "pe-TEL", "example": "Петелът кукурига рано сутрин.", "type": "noun" },
+    { "bg": "коза", "en": "goat", "pronunciation": "ko-ZA", "example": "Козата пасе на поляната.", "type": "noun" },
+    { "bg": "магаре", "en": "donkey", "pronunciation": "ma-GA-re", "example": "Магарето носи тежък товар.", "type": "noun" },
+    { "bg": "сено", "en": "hay", "pronunciation": "SE-no", "example": "Сеното е за животните през зимата.", "type": "noun" },
+    { "bg": "плевня", "en": "barn", "pronunciation": "PLEV-nya", "example": "Плевнята е пълна със сено.", "type": "noun" },
+    { "bg": "кладенец", "en": "well", "pronunciation": "kla-DE-nets", "example": "Водата от кладенеца е студена.", "type": "noun" },
+    { "bg": "реколта", "en": "harvest/crop", "pronunciation": "re-KOL-ta", "example": "Тази година реколтата е богата.", "type": "noun" },
+    { "bg": "ора", "en": "to plow", "pronunciation": "o-RA", "example": "Фермерът оре нивата напролет.", "type": "verb" },
+    { "bg": "сея", "en": "to sow/seed", "pronunciation": "SE-ya", "example": "Сеем царевица през април.", "type": "verb" },
+    { "bg": "жъна", "en": "to reap/harvest", "pronunciation": "ZHU-na", "example": "Жънем житото през лятото.", "type": "verb" },
+    { "bg": "доя", "en": "to milk", "pronunciation": "do-YA", "example": "Баба дои кравата всяка сутрин.", "type": "verb" },
+    { "bg": "пчела", "en": "bee", "pronunciation": "pche-LA", "example": "Пчелите правят мед.", "type": "noun" },
+    { "bg": "мед", "en": "honey", "pronunciation": "med", "example": "Медът от планината е много вкусен.", "type": "noun" },
+    { "bg": "селянин", "en": "villager/peasant", "pronunciation": "se-LYA-nin", "example": "Селяните работят от зори до мрак.", "type": "noun" }
+  ]
+}
