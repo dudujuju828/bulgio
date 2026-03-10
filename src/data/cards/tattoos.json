@@ -1,0 +1,28 @@
+{
+  "category": "Tattoos",
+  "cards": [
+    { "bg": "татуировка", "en": "tattoo", "pronunciation": "ta-tu-i-ROV-ka", "example": "Имам татуировка на рамото.", "type": "noun" },
+    { "bg": "татуист", "en": "tattoo artist", "pronunciation": "ta-tu-IST", "example": "Татуистът има студио в центъра.", "type": "noun" },
+    { "bg": "студио за татуировки", "en": "tattoo parlor/studio", "pronunciation": "STU-di-o za ta-tu-i-ROV-ki", "example": "Студиото за татуировки е на улица Раковски.", "type": "noun" },
+    { "bg": "скица", "en": "sketch/design", "pronunciation": "SKI-tsa", "example": "Първо одобряваш скицата, после се татуираш.", "type": "noun" },
+    { "bg": "мастило", "en": "ink", "pronunciation": "mas-TI-lo", "example": "Мастилото е хипоалергенно.", "type": "noun" },
+    { "bg": "игла", "en": "needle", "pronunciation": "ig-LA", "example": "Иглата е еднократна за безопасност.", "type": "noun" },
+    { "bg": "болка", "en": "pain", "pronunciation": "BOL-ka", "example": "Болката зависи от мястото на тялото.", "type": "noun" },
+    { "bg": "боли", "en": "it hurts", "pronunciation": "bo-LI", "example": "Боли малко, но е поносимо.", "type": "verb" },
+    { "bg": "заздравяване", "en": "healing", "pronunciation": "zaz-dra-VYA-va-ne", "example": "Заздравяването отнема две до три седмици.", "type": "noun" },
+    { "bg": "крем", "en": "cream/ointment", "pronunciation": "krem", "example": "Мажи с крем три пъти на ден.", "type": "noun" },
+    { "bg": "символ", "en": "symbol", "pronunciation": "SIM-vol", "example": "Татуировката е символ на силата.", "type": "noun" },
+    { "bg": "надпис", "en": "inscription/lettering", "pronunciation": "NAD-pis", "example": "Искам надпис на кирилица.", "type": "noun" },
+    { "bg": "шевица", "en": "shevitsa (Bulgarian embroidery pattern)", "pronunciation": "she-VI-tsa", "example": "Много българи се татуират с шевици.", "type": "noun" },
+    { "bg": "ръкав", "en": "sleeve (full arm tattoo)", "pronunciation": "ru-KAV", "example": "Ръкавът му отне шест сеанса.", "type": "noun" },
+    { "bg": "сеанс", "en": "session", "pronunciation": "se-ANS", "example": "Първият сеанс трае три часа.", "type": "noun" },
+    { "bg": "цвят", "en": "color", "pronunciation": "tsvyat", "example": "Искаш ли цветна или черно-бяла?", "type": "noun" },
+    { "bg": "черно-бяла", "en": "black and white", "pronunciation": "CHER-no-BYA-la", "example": "Предпочитам черно-бяла татуировка.", "type": "adjective" },
+    { "bg": "временна татуировка", "en": "temporary tattoo", "pronunciation": "VRE-men-na ta-tu-i-ROV-ka", "example": "Децата залепиха временни татуировки.", "type": "noun" },
+    { "bg": "премахване", "en": "removal", "pronunciation": "pre-MAH-va-ne", "example": "Лазерното премахване е скъпо и болезнено.", "type": "noun" },
+    { "bg": "пиърсинг", "en": "piercing", "pronunciation": "PI-ur-sing", "example": "Правят и пиърсинг в студиото.", "type": "noun" },
+    { "bg": "обеца", "en": "earring", "pronunciation": "o-BE-tsa", "example": "Сложих нова обеца на ухото.", "type": "noun" },
+    { "bg": "размер", "en": "size", "pronunciation": "raz-MER", "example": "Какъв размер искаш татуировката?", "type": "noun" },
+    { "bg": "значение", "en": "meaning", "pronunciation": "zna-CHE-ni-e", "example": "Всяка моя татуировка има значение.", "type": "noun" }
+  ]
+}
