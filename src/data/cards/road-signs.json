@@ -1,0 +1,28 @@
+{
+  "category": "Driving & Road Signs",
+  "cards": [
+    { "bg": "шофьор", "en": "driver", "pronunciation": "sho-FYOR", "example": "Шофьорът спря на кръстовището.", "type": "noun" },
+    { "bg": "шофьорска книжка", "en": "driver's license", "pronunciation": "sho-FYOR-ska KNIZH-ka", "example": "Взех шофьорска книжка на осемнадесет.", "type": "noun" },
+    { "bg": "пътен знак", "en": "road sign", "pronunciation": "PU-ten znak", "example": "Внимавай за пътните знаци.", "type": "noun" },
+    { "bg": "стоп", "en": "stop sign", "pronunciation": "stop", "example": "Спри на знака стоп.", "type": "noun" },
+    { "bg": "ограничение на скоростта", "en": "speed limit", "pronunciation": "og-ra-ni-CHE-ni-e na sko-rost-TA", "example": "Ограничението на скоростта е петдесет в града.", "type": "noun" },
+    { "bg": "кръстовище", "en": "intersection/crossroads", "pronunciation": "krus-to-VI-shte", "example": "Завий наляво на кръстовището.", "type": "noun" },
+    { "bg": "кръгово кръстовище", "en": "roundabout", "pronunciation": "KRUG-o-vo krus-to-VI-shte", "example": "Вземи втория изход на кръговото.", "type": "noun" },
+    { "bg": "светофар", "en": "traffic light", "pronunciation": "sve-to-FAR", "example": "Светофарът е червен, спри.", "type": "noun" },
+    { "bg": "пешеходна пътека", "en": "pedestrian crossing/crosswalk", "pronunciation": "pe-she-HOD-na pu-TE-ka", "example": "Пресичай само на пешеходната пътека.", "type": "noun" },
+    { "bg": "лента", "en": "lane", "pronunciation": "LEN-ta", "example": "Премини в дясната лента.", "type": "noun" },
+    { "bg": "изпреварвам", "en": "to overtake/pass", "pronunciation": "iz-pre-VAR-vam", "example": "Забранено е да изпреварваш тук.", "type": "verb" },
+    { "bg": "задръстване", "en": "traffic jam", "pronunciation": "za-DRUST-va-ne", "example": "Задръстването на Цариградско шосе е ужасно.", "type": "noun" },
+    { "bg": "магистрала", "en": "highway/motorway", "pronunciation": "ma-gis-TRA-la", "example": "Магистрала Тракия води от София до Бургас.", "type": "noun" },
+    { "bg": "тол такса", "en": "toll/road tax", "pronunciation": "tol TAK-sa", "example": "Купи електронна винетка за тол таксата.", "type": "noun" },
+    { "bg": "винетка", "en": "vignette (road sticker)", "pronunciation": "vi-NET-ka", "example": "Винетката за магистралата е задължителна.", "type": "noun" },
+    { "bg": "глоба", "en": "fine/penalty", "pronunciation": "GLO-ba", "example": "Получих глоба за неправилно паркиране.", "type": "noun" },
+    { "bg": "КАТ", "en": "traffic police (Bulgaria)", "pronunciation": "kat", "example": "КАТ ме спря за проверка на документите.", "type": "noun" },
+    { "bg": "превишена скорост", "en": "speeding", "pronunciation": "pre-VI-she-na SKO-rost", "example": "Глобиха ме за превишена скорост.", "type": "noun" },
+    { "bg": "паркирам", "en": "to park", "pronunciation": "par-KI-ram", "example": "Паркирай в синята зона.", "type": "verb" },
+    { "bg": "синя зона", "en": "paid parking zone", "pronunciation": "SI-nya ZO-na", "example": "В синята зона се плаща с SMS.", "type": "noun" },
+    { "bg": "бензиностанция", "en": "gas station", "pronunciation": "ben-zi-no-STAN-tsi-ya", "example": "Спри на бензиностанцията, горивото свършва.", "type": "noun" },
+    { "bg": "обход", "en": "detour", "pronunciation": "OB-hod", "example": "Пътят е затворен, следвай обхода.", "type": "noun" },
+    { "bg": "пътна маркировка", "en": "road markings", "pronunciation": "PUT-na mar-ki-ROV-ka", "example": "Не пресичай непрекъснатата пътна маркировка.", "type": "noun" }
+  ]
+}
