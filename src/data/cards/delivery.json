@@ -21,7 +21,7 @@
     { "bg": "връщам", "en": "to return", "pronunciation": "VRUSH-tam", "example": "Можеш да върнеш продукта до четиринадесет дни.", "type": "verb" },
     { "bg": "рекламация", "en": "complaint/return claim", "pronunciation": "rek-la-MA-tsi-ya", "example": "Направих рекламация за счупен продукт.", "type": "noun" },
     { "bg": "опаковка", "en": "packaging", "pronunciation": "o-pa-KOV-ka", "example": "Опаковката беше повредена.", "type": "noun" },
-    { "bg": "чупливо", "en": "fragile", "pronunciation": "CHUP-li-vo", "example": "Сложи стикер „Чупливо" на кутията.", "type": "adjective" },
+    { "bg": "чупливо", "en": "fragile", "pronunciation": "CHUP-li-vo", "example": "Сложи стикер „Чупливо“ на кутията.", "type": "adjective" },
     { "bg": "бакшиш", "en": "tip", "pronunciation": "bak-SHISH", "example": "Дадох бакшиш на куриера.", "type": "noun" },
     { "bg": "закъснение", "en": "delay", "pronunciation": "za-kus-NE-ni-e", "example": "Поръчката има закъснение заради лошото време.", "type": "noun" }
   ]
