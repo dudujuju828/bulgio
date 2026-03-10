@@ -1,0 +1,26 @@
+{
+  "category": "Work",
+  "cards": [
+    { "bg": "работа", "en": "work/job", "pronunciation": "ra-BO-ta", "example": "Отивам на работа в осем часа.", "type": "noun" },
+    { "bg": "офис", "en": "office", "pronunciation": "O-fis", "example": "Офисът е на третия етаж.", "type": "noun" },
+    { "bg": "началник", "en": "boss", "pronunciation": "na-CHAL-nik", "example": "Началникът ми е строг, но справедлив.", "type": "noun" },
+    { "bg": "заплата", "en": "salary", "pronunciation": "za-PLA-ta", "example": "Заплатата идва в края на месеца.", "type": "noun" },
+    { "bg": "среща", "en": "meeting", "pronunciation": "SRESHT-a", "example": "Имам среща в три часа.", "type": "noun" },
+    { "bg": "проект", "en": "project", "pronunciation": "pro-EKT", "example": "Работим по нов проект.", "type": "noun" },
+    { "bg": "задача", "en": "task", "pronunciation": "za-DA-cha", "example": "Имам много задачи за днес.", "type": "noun" },
+    { "bg": "договор", "en": "contract", "pronunciation": "do-go-VOR", "example": "Подписах договора за работа.", "type": "noun" },
+    { "bg": "интервю", "en": "interview", "pronunciation": "in-ter-VYU", "example": "Имам интервю за нова работа.", "type": "noun" },
+    { "bg": "отпуска", "en": "vacation/leave", "pronunciation": "OT-pus-ka", "example": "Вземам отпуска за две седмици.", "type": "noun" },
+    { "bg": "работя", "en": "to work", "pronunciation": "ra-BO-tya", "example": "Работя от вкъщи днес.", "type": "verb" },
+    { "bg": "наемам", "en": "to hire", "pronunciation": "na-E-mam", "example": "Фирмата наема нови служители.", "type": "verb" },
+    { "bg": "уволнявам", "en": "to fire/dismiss", "pronunciation": "u-vol-NYA-vam", "example": "Уволниха го миналата седмица.", "type": "verb" },
+    { "bg": "служител", "en": "employee", "pronunciation": "slu-ZHI-tel", "example": "Фирмата има сто служители.", "type": "noun" },
+    { "bg": "фирма", "en": "company/firm", "pronunciation": "FIR-ma", "example": "Фирмата се развива бързо.", "type": "noun" },
+    { "bg": "краен срок", "en": "deadline", "pronunciation": "KRA-en srok", "example": "Крайният срок е до петък.", "type": "noun" },
+    { "bg": "опит", "en": "experience", "pronunciation": "O-pit", "example": "Имам пет години опит.", "type": "noun" },
+    { "bg": "автобиография", "en": "resume/CV", "pronunciation": "av-to-bi-o-GRA-fi-ya", "example": "Изпратих автобиографията си по имейл.", "type": "noun" },
+    { "bg": "повишение", "en": "promotion", "pronunciation": "po-vi-SHE-ni-e", "example": "Получих повишение на работа.", "type": "noun" },
+    { "bg": "извънреден труд", "en": "overtime", "pronunciation": "iz-vun-RE-den trud", "example": "Тази седмица работя извънредно.", "type": "noun" },
+    { "bg": "пенсия", "en": "retirement/pension", "pronunciation": "PEN-si-ya", "example": "Баща ми е в пенсия.", "type": "noun" }
+  ]
+}
