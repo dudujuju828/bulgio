@@ -1,0 +1,27 @@
+{
+  "category": "Volunteering Abroad & Exchange Programs",
+  "cards": [
+    { "bg": "доброволец в чужбина", "en": "volunteer abroad", "pronunciation": "dob-ro-VO-lets v chuzh-BI-na", "example": "Бях доброволец в чужбина за шест месеца.", "type": "noun" },
+    { "bg": "обменна програма", "en": "exchange program", "pronunciation": "ob-MEN-na pro-GRA-ma", "example": "Обменната програма ми позволи да живея в Испания.", "type": "noun" },
+    { "bg": "Еразъм", "en": "Erasmus (program)", "pronunciation": "e-RA-zum", "example": "Еразъм е популярна програма сред българските студенти.", "type": "noun" },
+    { "bg": "Европейски корпус за солидарност", "en": "European Solidarity Corps", "pronunciation": "ev-ro-PEY-ski KOR-pus za so-li-DAR-nost", "example": "Европейският корпус за солидарност финансира проекти за млади хора.", "type": "noun" },
+    { "bg": "приемно семейство", "en": "host family", "pronunciation": "pri-EM-no se-MEY-stvo", "example": "Приемното семейство ме прие много топло.", "type": "noun" },
+    { "bg": "културен шок", "en": "culture shock", "pronunciation": "kul-TU-ren shok", "example": "Културният шок премина след първия месец.", "type": "noun" },
+    { "bg": "адаптация", "en": "adaptation", "pronunciation": "a-dap-TA-tsi-ya", "example": "Адаптацията към новата среда отне време.", "type": "noun" },
+    { "bg": "носталгия", "en": "homesickness/nostalgia", "pronunciation": "nos-tal-GI-ya", "example": "Носталгията по дома е нормална в началото.", "type": "noun" },
+    { "bg": "междукултурен", "en": "intercultural", "pronunciation": "mezh-du-kul-TU-ren", "example": "Междукултурният диалог обогатява всеки участник.", "type": "adjective" },
+    { "bg": "проект", "en": "project", "pronunciation": "pro-EKT", "example": "Проектът е свързан с опазване на околната среда.", "type": "noun" },
+    { "bg": "кандидатствам", "en": "to apply", "pronunciation": "kan-di-DAT-stvam", "example": "Кандидатствах за доброволчески проект в Италия.", "type": "verb" },
+    { "bg": "стипендия", "en": "scholarship/grant", "pronunciation": "sti-PEN-di-ya", "example": "Стипендията покрива пътните разходи и настаняването.", "type": "noun" },
+    { "bg": "настаняване", "en": "accommodation", "pronunciation": "nas-ta-NYA-va-ne", "example": "Настаняването е в споделен апартамент.", "type": "noun" },
+    { "bg": "сертификат", "en": "certificate", "pronunciation": "ser-ti-fi-KAT", "example": "Получих сертификат за участие в програмата.", "type": "noun" },
+    { "bg": "езиков курс", "en": "language course", "pronunciation": "e-zi-KOV kurs", "example": "Езиковият курс е включен в програмата.", "type": "noun" },
+    { "bg": "мотивационно писмо", "en": "motivation letter", "pronunciation": "mo-ti-va-tsi-ON-no pis-MO", "example": "Мотивационното писмо трябва да е на английски.", "type": "noun" },
+    { "bg": "координатор", "en": "coordinator", "pronunciation": "ko-or-di-NA-tor", "example": "Координаторът помага с организацията на проекта.", "type": "noun" },
+    { "bg": "доброволчество", "en": "volunteering", "pronunciation": "dob-ro-VOL-ches-tvo", "example": "Доброволчеството развива полезни умения.", "type": "noun" },
+    { "bg": "опит", "en": "experience", "pronunciation": "O-pit", "example": "Опитът в чужбина промени гледната ми точка.", "type": "noun" },
+    { "bg": "автобиография", "en": "CV/resume", "pronunciation": "av-to-bi-o-GRA-fi-ya", "example": "Добавих доброволчеството в автобиографията си.", "type": "noun" },
+    { "bg": "работна виза", "en": "work visa", "pronunciation": "ra-BOT-na VI-za", "example": "За някои страни е нужна работна виза.", "type": "noun" },
+    { "bg": "обучение", "en": "training", "pronunciation": "o-bu-CHE-ni-e", "example": "Обучението преди заминаване е задължително.", "type": "noun" }
+  ]
+}
