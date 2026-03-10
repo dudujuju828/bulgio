@@ -1,0 +1,28 @@
+{
+  "category": "Maps",
+  "cards": [
+    { "bg": "карта", "en": "map", "pronunciation": "KAR-ta", "example": "Имаш ли карта на града?", "type": "noun" },
+    { "bg": "навигация", "en": "navigation/GPS", "pronunciation": "na-vi-GA-tsi-ya", "example": "Включи навигацията на телефона.", "type": "noun" },
+    { "bg": "маршрут", "en": "route", "pronunciation": "marsh-RUT", "example": "Навигацията показва най-краткия маршрут.", "type": "noun" },
+    { "bg": "север", "en": "north", "pronunciation": "SE-ver", "example": "Дунав е на север.", "type": "noun" },
+    { "bg": "юг", "en": "south", "pronunciation": "yug", "example": "Морето е на юг.", "type": "noun" },
+    { "bg": "изток", "en": "east", "pronunciation": "iz-TOK", "example": "Слънцето изгрява от изток.", "type": "noun" },
+    { "bg": "запад", "en": "west", "pronunciation": "ZA-pad", "example": "Сърбия е на запад от България.", "type": "noun" },
+    { "bg": "мащаб", "en": "scale", "pronunciation": "mash-TAB", "example": "Мащабът на картата е едно към сто хиляди.", "type": "noun" },
+    { "bg": "легенда", "en": "legend/key", "pronunciation": "le-GEN-da", "example": "Провери легендата за значението на символите.", "type": "noun" },
+    { "bg": "координати", "en": "coordinates", "pronunciation": "ko-or-di-NA-ti", "example": "Изпрати ми координатите на мястото.", "type": "noun" },
+    { "bg": "местоположение", "en": "location", "pronunciation": "mes-to-po-lo-ZHE-ni-e", "example": "Сподели местоположението си с мен.", "type": "noun" },
+    { "bg": "компас", "en": "compass", "pronunciation": "KOM-pas", "example": "Стрелката на компаса сочи на север.", "type": "noun" },
+    { "bg": "разстояние", "en": "distance", "pronunciation": "raz-sto-YA-ni-e", "example": "Разстоянието от София до Варна е четиристотин километра.", "type": "noun" },
+    { "bg": "пътна карта", "en": "road map", "pronunciation": "PUT-na KAR-ta", "example": "Купи пътна карта на България от бензиностанцията.", "type": "noun" },
+    { "bg": "обиколен път", "en": "detour/bypass", "pronunciation": "o-bi-KO-len put", "example": "Пътят е затворен, вземи обиколния път.", "type": "noun" },
+    { "bg": "кръстовище", "en": "intersection/crossroads", "pronunciation": "krus-TO-vish-te", "example": "Завий наляво на следващото кръстовище.", "type": "noun" },
+    { "bg": "кръгово кръстовище", "en": "roundabout", "pronunciation": "kru-GO-vo krus-TO-vish-te", "example": "Вземи втория изход от кръговото.", "type": "noun" },
+    { "bg": "магистрала", "en": "highway/motorway", "pronunciation": "ma-gis-TRA-la", "example": "Магистрала Тракия свързва София с Бургас.", "type": "noun" },
+    { "bg": "пътен знак", "en": "road sign", "pronunciation": "PU-ten znak", "example": "Пътният знак показва ограничение петдесет.", "type": "noun" },
+    { "bg": "ориентирам се", "en": "to orient oneself/find one's way", "pronunciation": "o-ri-en-TI-ram se", "example": "Трудно се ориентирам в непознат град.", "type": "verb" },
+    { "bg": "загубвам се", "en": "to get lost", "pronunciation": "za-GUB-vam se", "example": "Загубихме се без навигация.", "type": "verb" },
+    { "bg": "изход", "en": "exit", "pronunciation": "IZ-hod", "example": "Вземи изход Пловдив-юг от магистралата.", "type": "noun" },
+    { "bg": "граница", "en": "border", "pronunciation": "gra-NI-tsa", "example": "Границата с Гърция е на юг.", "type": "noun" }
+  ]
+}
