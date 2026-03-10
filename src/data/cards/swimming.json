@@ -1,0 +1,27 @@
+{
+  "category": "Swimming",
+  "cards": [
+    { "bg": "плуване", "en": "swimming", "pronunciation": "PLU-va-ne", "example": "Плуването е отличен спорт за здравето.", "type": "noun" },
+    { "bg": "плувам", "en": "to swim", "pronunciation": "PLU-vam", "example": "Плувам всеки ден в басейна.", "type": "verb" },
+    { "bg": "басейн", "en": "swimming pool", "pronunciation": "ba-SEYN", "example": "Басейнът е дълъг двадесет и пет метра.", "type": "noun" },
+    { "bg": "плувец", "en": "swimmer", "pronunciation": "plu-VETS", "example": "Тя е състезателна плувкиня.", "type": "noun" },
+    { "bg": "бански костюм", "en": "swimsuit", "pronunciation": "BAN-ski kos-TYUM", "example": "Купих нов бански костюм за басейна.", "type": "noun" },
+    { "bg": "шапка за плуване", "en": "swim cap", "pronunciation": "SHAP-ka za PLU-va-ne", "example": "Шапката за плуване е задължителна в басейна.", "type": "noun" },
+    { "bg": "очила за плуване", "en": "swim goggles", "pronunciation": "o-CHI-la za PLU-va-ne", "example": "Очилата за плуване предпазват очите от хлор.", "type": "noun" },
+    { "bg": "кроул", "en": "freestyle/crawl", "pronunciation": "kraul", "example": "Кроулът е най-бързият стил плуване.", "type": "noun" },
+    { "bg": "бруст", "en": "breaststroke", "pronunciation": "brust", "example": "Брустът е класически стил на плуване.", "type": "noun" },
+    { "bg": "гръб", "en": "backstroke", "pronunciation": "grub", "example": "Плувам на гръб за релаксация.", "type": "noun" },
+    { "bg": "бътерфлай", "en": "butterfly stroke", "pronunciation": "BU-ter-flay", "example": "Бътерфлаят е най-трудният стил.", "type": "noun" },
+    { "bg": "писта", "en": "lane", "pronunciation": "PIS-ta", "example": "Всеки плувец си има отделна писта.", "type": "noun" },
+    { "bg": "дълбоко", "en": "deep", "pronunciation": "dul-bo-KO", "example": "Дълбокият край е три метра.", "type": "adverb" },
+    { "bg": "плитко", "en": "shallow", "pronunciation": "PLIT-ko", "example": "Децата плуват в плитката част.", "type": "adverb" },
+    { "bg": "гмуркане", "en": "diving", "pronunciation": "GMUR-ka-ne", "example": "Гмуркането от трамплина е вълнуващо.", "type": "noun" },
+    { "bg": "трамплин", "en": "diving board", "pronunciation": "tram-PLIN", "example": "Скочих от трамплина в басейна.", "type": "noun" },
+    { "bg": "дъска", "en": "kickboard", "pronunciation": "DUS-ka", "example": "Тренирам ритници с дъска.", "type": "noun" },
+    { "bg": "хлор", "en": "chlorine", "pronunciation": "hlor", "example": "Водата в басейна мирише на хлор.", "type": "noun" },
+    { "bg": "спасител", "en": "lifeguard", "pronunciation": "spa-SI-tel", "example": "Спасителят следи за безопасността.", "type": "noun" },
+    { "bg": "давя се", "en": "to drown", "pronunciation": "DA-vya se", "example": "Не плувай сам, може да се удавиш.", "type": "verb" },
+    { "bg": "спасявам", "en": "to rescue/save", "pronunciation": "spa-SYA-vam", "example": "Спасителят спаси детето от водата.", "type": "verb" },
+    { "bg": "надуваем", "en": "inflatable", "pronunciation": "na-du-VA-em", "example": "Детето играе с надуваем дюшек.", "type": "adjective" }
+  ]
+}
