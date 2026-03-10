@@ -1,27 +1,181 @@
 {
   "category": "Animals",
   "cards": [
-    { "bg": "куче", "en": "dog", "pronunciation": "KU-che", "example": "Кучето тича в парка.", "type": "noun" },
-    { "bg": "котка", "en": "cat", "pronunciation": "KOT-ka", "example": "Котката спи на дивана.", "type": "noun" },
-    { "bg": "птица", "en": "bird", "pronunciation": "PTI-tsa", "example": "Птицата пее сутрин.", "type": "noun" },
-    { "bg": "риба", "en": "fish", "pronunciation": "RI-ba", "example": "В езерото има много риби.", "type": "noun" },
-    { "bg": "кон", "en": "horse", "pronunciation": "kon", "example": "Конят бяга бързо по полето.", "type": "noun" },
-    { "bg": "крава", "en": "cow", "pronunciation": "KRA-va", "example": "Кравата дава мляко.", "type": "noun" },
-    { "bg": "овца", "en": "sheep", "pronunciation": "ov-TSA", "example": "Овцете пасат на хълма.", "type": "noun" },
-    { "bg": "свиня", "en": "pig", "pronunciation": "SVI-nya", "example": "Свинята е във фермата.", "type": "noun" },
-    { "bg": "заек", "en": "rabbit", "pronunciation": "ZA-ek", "example": "Заекът скача в градината.", "type": "noun" },
-    { "bg": "мечка", "en": "bear", "pronunciation": "MECH-ka", "example": "Мечката живее в гората.", "type": "noun" },
-    { "bg": "вълк", "en": "wolf", "pronunciation": "vulk", "example": "Вълкът вие през нощта.", "type": "noun" },
-    { "bg": "лисица", "en": "fox", "pronunciation": "li-SI-tsa", "example": "Лисицата е хитро животно.", "type": "noun" },
-    { "bg": "змия", "en": "snake", "pronunciation": "ZMI-ya", "example": "Змията пълзи по земята.", "type": "noun" },
-    { "bg": "пеперуда", "en": "butterfly", "pronunciation": "pe-pe-RU-da", "example": "Пеперудата кацна на цветето.", "type": "noun" },
-    { "bg": "паяк", "en": "spider", "pronunciation": "pa-YAK", "example": "Паякът плете мрежа.", "type": "noun" },
-    { "bg": "орел", "en": "eagle", "pronunciation": "o-REL", "example": "Орелът лети високо в небето.", "type": "noun" },
-    { "bg": "делфин", "en": "dolphin", "pronunciation": "del-FIN", "example": "Делфинът плува в морето.", "type": "noun" },
-    { "bg": "слон", "en": "elephant", "pronunciation": "slon", "example": "Слонът е най-голямото сухоземно животно.", "type": "noun" },
-    { "bg": "лъв", "en": "lion", "pronunciation": "luv", "example": "Лъвът е цар на животните.", "type": "noun" },
-    { "bg": "жаба", "en": "frog", "pronunciation": "ZHA-ba", "example": "Жабата скача в блатото.", "type": "noun" },
-    { "bg": "животно", "en": "animal", "pronunciation": "zhi-VOT-no", "example": "Какво е любимото ти животно?", "type": "noun" },
-    { "bg": "домашен любимец", "en": "pet", "pronunciation": "do-MA-shen lyu-BI-mets", "example": "Имаш ли домашен любимец?", "type": "noun" }
+    {
+      "bg": "куче",
+      "en": "dog",
+      "pronunciation": "KU-che",
+      "example": "Кучето тича в парка.",
+      "type": "noun",
+      "image": "animals/dog.png"
+    },
+    {
+      "bg": "котка",
+      "en": "cat",
+      "pronunciation": "KOT-ka",
+      "example": "Котката спи на дивана.",
+      "type": "noun",
+      "image": "animals/cat.png"
+    },
+    {
+      "bg": "птица",
+      "en": "bird",
+      "pronunciation": "PTI-tsa",
+      "example": "Птицата пее сутрин.",
+      "type": "noun",
+      "image": "animals/bird.png"
+    },
+    {
+      "bg": "риба",
+      "en": "fish",
+      "pronunciation": "RI-ba",
+      "example": "В езерото има много риби.",
+      "type": "noun",
+      "image": "animals/fish.png"
+    },
+    {
+      "bg": "кон",
+      "en": "horse",
+      "pronunciation": "kon",
+      "example": "Конят бяга бързо по полето.",
+      "type": "noun",
+      "image": "animals/horse.png"
+    },
+    {
+      "bg": "крава",
+      "en": "cow",
+      "pronunciation": "KRA-va",
+      "example": "Кравата дава мляко.",
+      "type": "noun",
+      "image": "animals/cow.png"
+    },
+    {
+      "bg": "овца",
+      "en": "sheep",
+      "pronunciation": "ov-TSA",
+      "example": "Овцете пасат на хълма.",
+      "type": "noun",
+      "image": "animals/sheep.png"
+    },
+    {
+      "bg": "свиня",
+      "en": "pig",
+      "pronunciation": "SVI-nya",
+      "example": "Свинята е във фермата.",
+      "type": "noun",
+      "image": "animals/pig.png"
+    },
+    {
+      "bg": "заек",
+      "en": "rabbit",
+      "pronunciation": "ZA-ek",
+      "example": "Заекът скача в градината.",
+      "type": "noun",
+      "image": "animals/rabbit.png"
+    },
+    {
+      "bg": "мечка",
+      "en": "bear",
+      "pronunciation": "MECH-ka",
+      "example": "Мечката живее в гората.",
+      "type": "noun",
+      "image": "animals/bear.png"
+    },
+    {
+      "bg": "вълк",
+      "en": "wolf",
+      "pronunciation": "vulk",
+      "example": "Вълкът вие през нощта.",
+      "type": "noun",
+      "image": "animals/wolf.png"
+    },
+    {
+      "bg": "лисица",
+      "en": "fox",
+      "pronunciation": "li-SI-tsa",
+      "example": "Лисицата е хитро животно.",
+      "type": "noun",
+      "image": "animals/fox.png"
+    },
+    {
+      "bg": "змия",
+      "en": "snake",
+      "pronunciation": "ZMI-ya",
+      "example": "Змията пълзи по земята.",
+      "type": "noun",
+      "image": "animals/snake.png"
+    },
+    {
+      "bg": "пеперуда",
+      "en": "butterfly",
+      "pronunciation": "pe-pe-RU-da",
+      "example": "Пеперудата кацна на цветето.",
+      "type": "noun",
+      "image": "animals/butterfly.png"
+    },
+    {
+      "bg": "паяк",
+      "en": "spider",
+      "pronunciation": "pa-YAK",
+      "example": "Паякът плете мрежа.",
+      "type": "noun",
+      "image": "animals/spider.png"
+    },
+    {
+      "bg": "орел",
+      "en": "eagle",
+      "pronunciation": "o-REL",
+      "example": "Орелът лети високо в небето.",
+      "type": "noun",
+      "image": "animals/eagle.png"
+    },
+    {
+      "bg": "делфин",
+      "en": "dolphin",
+      "pronunciation": "del-FIN",
+      "example": "Делфинът плува в морето.",
+      "type": "noun",
+      "image": "animals/dolphin.png"
+    },
+    {
+      "bg": "слон",
+      "en": "elephant",
+      "pronunciation": "slon",
+      "example": "Слонът е най-голямото сухоземно животно.",
+      "type": "noun",
+      "image": "animals/elephant.png"
+    },
+    {
+      "bg": "лъв",
+      "en": "lion",
+      "pronunciation": "luv",
+      "example": "Лъвът е цар на животните.",
+      "type": "noun",
+      "image": "animals/lion.png"
+    },
+    {
+      "bg": "жаба",
+      "en": "frog",
+      "pronunciation": "ZHA-ba",
+      "example": "Жабата скача в блатото.",
+      "type": "noun",
+      "image": "animals/frog.png"
+    },
+    {
+      "bg": "животно",
+      "en": "animal",
+      "pronunciation": "zhi-VOT-no",
+      "example": "Какво е любимото ти животно?",
+      "type": "noun",
+      "image": "animals/animal.png"
+    },
+    {
+      "bg": "домашен любимец",
+      "en": "pet",
+      "pronunciation": "do-MA-shen lyu-BI-mets",
+      "example": "Имаш ли домашен любимец?",
+      "type": "noun",
+      "image": "animals/pet.png"
+    }
   ]
 }
