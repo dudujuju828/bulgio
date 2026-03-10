@@ -1,0 +1,28 @@
+{
+  "category": "Blogging & Content Creation",
+  "cards": [
+    { "bg": "блог", "en": "blog", "pronunciation": "blog", "example": "Блогът ми е за пътешествия из България.", "type": "noun" },
+    { "bg": "блогър", "en": "blogger", "pronunciation": "BLO-gur", "example": "Блогърът пише за храна и ресторанти.", "type": "noun" },
+    { "bg": "публикация", "en": "post/publication", "pronunciation": "pub-li-KA-tsi-ya", "example": "Публикацията събра хиляди четения.", "type": "noun" },
+    { "bg": "съдържание", "en": "content", "pronunciation": "su-dur-ZHA-ni-e", "example": "Качественото съдържание привлича читатели.", "type": "noun" },
+    { "bg": "абонат", "en": "subscriber/follower", "pronunciation": "a-bo-NAT", "example": "Каналът има петдесет хиляди абонати.", "type": "noun" },
+    { "bg": "влогър", "en": "vlogger", "pronunciation": "VLO-gur", "example": "Влогърът снима ежедневието си в Пловдив.", "type": "noun" },
+    { "bg": "влог", "en": "vlog", "pronunciation": "vlog", "example": "Влогът за живота в България е много гледан.", "type": "noun" },
+    { "bg": "инфлуенсър", "en": "influencer", "pronunciation": "in-flu-EN-sur", "example": "Инфлуенсърът рекламира български продукти.", "type": "noun" },
+    { "bg": "заглавие", "en": "title/headline", "pronunciation": "za-GLA-vi-e", "example": "Заглавието трябва да грабне вниманието.", "type": "noun" },
+    { "bg": "статия", "en": "article", "pronunciation": "STA-ti-ya", "example": "Статията беше споделена стотици пъти.", "type": "noun" },
+    { "bg": "редактирам", "en": "to edit", "pronunciation": "re-dak-TI-ram", "example": "Редактирам текста преди публикуване.", "type": "verb" },
+    { "bg": "публикувам", "en": "to publish/post", "pronunciation": "pub-li-KU-vam", "example": "Публикувам нова статия всеки понеделник.", "type": "verb" },
+    { "bg": "коментар", "en": "comment", "pronunciation": "ko-men-TAR", "example": "Коментарите под публикацията бяха положителни.", "type": "noun" },
+    { "bg": "споделяне", "en": "sharing", "pronunciation": "spo-DE-lya-ne", "example": "Споделянето в социалните мрежи увеличава аудиторията.", "type": "noun" },
+    { "bg": "аудитория", "en": "audience", "pronunciation": "au-di-TO-ri-ya", "example": "Аудиторията ми е предимно млади хора.", "type": "noun" },
+    { "bg": "монетизация", "en": "monetization", "pronunciation": "mo-ne-ti-ZA-tsi-ya", "example": "Монетизацията идва от реклами и спонсори.", "type": "noun" },
+    { "bg": "спонсор", "en": "sponsor", "pronunciation": "SPON-sor", "example": "Спонсорът поиска видео ревю на продукта.", "type": "noun" },
+    { "bg": "нишa", "en": "niche", "pronunciation": "NI-sha", "example": "Нишата на блога е устойчив начин на живот.", "type": "noun" },
+    { "bg": "тумбнейл", "en": "thumbnail", "pronunciation": "TUMB-neyl", "example": "Тумбнейлът на видеото трябва да е привлекателен.", "type": "noun" },
+    { "bg": "алгоритъм", "en": "algorithm", "pronunciation": "al-go-RI-tum", "example": "Алгоритъмът определя кои публикации се показват.", "type": "noun" },
+    { "bg": "трафик", "en": "traffic (web)", "pronunciation": "TRA-fik", "example": "Трафикът на сайта расте всеки месец.", "type": "noun" },
+    { "bg": "бюлетин", "en": "newsletter", "pronunciation": "byu-le-TIN", "example": "Изпращам седмичен бюлетин на абонатите.", "type": "noun" },
+    { "bg": "авторско право", "en": "copyright", "pronunciation": "AV-tor-sko PRA-vo", "example": "Авторското право защитава оригиналното съдържание.", "type": "noun" }
+  ]
+}
