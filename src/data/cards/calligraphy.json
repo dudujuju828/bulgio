@@ -1,0 +1,27 @@
+{
+  "category": "Writing & Calligraphy",
+  "cards": [
+    { "bg": "калиграфия", "en": "calligraphy", "pronunciation": "ka-li-GRA-fi-ya", "example": "Калиграфията изисква търпение и прецизност.", "type": "noun" },
+    { "bg": "ръкопис", "en": "handwriting", "pronunciation": "RU-ko-pis", "example": "Ръкописът му е четлив и красив.", "type": "noun" },
+    { "bg": "буква", "en": "letter (character)", "pronunciation": "BUK-va", "example": "Българската азбука има тридесет букви.", "type": "noun" },
+    { "bg": "азбука", "en": "alphabet", "pronunciation": "AZ-bu-ka", "example": "Кирилицата е българската азбука.", "type": "noun" },
+    { "bg": "кирилица", "en": "Cyrillic (script)", "pronunciation": "ki-RI-li-tsa", "example": "Кирилицата е създадена в България.", "type": "noun" },
+    { "bg": "глаголица", "en": "Glagolitic (script)", "pronunciation": "gla-GO-li-tsa", "example": "Глаголицата е по-старата славянска азбука.", "type": "noun" },
+    { "bg": "ръкопис", "en": "manuscript", "pronunciation": "RU-ko-pis", "example": "Средновековният ръкопис е в Националната библиотека.", "type": "noun" },
+    { "bg": "мастило", "en": "ink", "pronunciation": "mas-TI-lo", "example": "Пиша с черно мастило.", "type": "noun" },
+    { "bg": "перо", "en": "nib/quill", "pronunciation": "pe-RO", "example": "Калиграфското перо трябва да се потапя в мастилото.", "type": "noun" },
+    { "bg": "шрифт", "en": "font/typeface", "pronunciation": "shrift", "example": "Избери подходящ шрифт за поканата.", "type": "noun" },
+    { "bg": "почерк", "en": "handwriting style", "pronunciation": "PO-cherk", "example": "Познавам почерка й веднага.", "type": "noun" },
+    { "bg": "пиша", "en": "to write", "pronunciation": "PI-sha", "example": "Пиша писмо до приятел.", "type": "verb" },
+    { "bg": "правопис", "en": "spelling/orthography", "pronunciation": "pra-vo-PIS", "example": "Правописът в българския език е важен.", "type": "noun" },
+    { "bg": "пунктуация", "en": "punctuation", "pronunciation": "punk-tu-A-tsi-ya", "example": "Не забравяй пунктуацията в края на изречението.", "type": "noun" },
+    { "bg": "запетая", "en": "comma", "pronunciation": "za-pe-TA-ya", "example": "Сложи запетая преди съюза.", "type": "noun" },
+    { "bg": "точка", "en": "period/full stop", "pronunciation": "TOCH-ka", "example": "Всяко изречение завършва с точка.", "type": "noun" },
+    { "bg": "ударение", "en": "accent/stress mark", "pronunciation": "u-da-RE-ni-e", "example": "Ударението в българския е подвижно.", "type": "noun" },
+    { "bg": "печатни букви", "en": "block letters/print", "pronunciation": "pe-CHAT-ni BUK-vi", "example": "Попълни формуляра с печатни букви.", "type": "noun" },
+    { "bg": "ръкописни букви", "en": "cursive letters", "pronunciation": "ru-ko-PIS-ni BUK-vi", "example": "Децата учат ръкописни букви във второ отделение.", "type": "noun" },
+    { "bg": "Ден на буквите", "en": "Day of the Bulgarian Alphabet", "pronunciation": "den na BUK-vi-te", "example": "На двадесет и четвърти май празнуваме Деня на буквите.", "type": "noun" },
+    { "bg": "пергамент", "en": "parchment", "pronunciation": "per-ga-MENT", "example": "Старите книги са написани на пергамент.", "type": "noun" },
+    { "bg": "свитък", "en": "scroll", "pronunciation": "svi-TUK", "example": "Свитъкът съдържа древен текст.", "type": "noun" }
+  ]
+}
