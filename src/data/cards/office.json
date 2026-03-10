@@ -1,0 +1,27 @@
+{
+  "category": "Office",
+  "cards": [
+    { "bg": "офис", "en": "office", "pronunciation": "O-fis", "example": "Офисът е на третия етаж.", "type": "noun" },
+    { "bg": "бюро", "en": "desk", "pronunciation": "byu-RO", "example": "Бюрото ми е до прозореца.", "type": "noun" },
+    { "bg": "стол", "en": "chair", "pronunciation": "stol", "example": "Офис столът е ергономичен.", "type": "noun" },
+    { "bg": "компютър", "en": "computer", "pronunciation": "kom-PYU-tur", "example": "Работя на компютъра цял ден.", "type": "noun" },
+    { "bg": "принтер", "en": "printer", "pronunciation": "PRIN-ter", "example": "Принтерът няма мастило.", "type": "noun" },
+    { "bg": "копирна машина", "en": "photocopier", "pronunciation": "ko-PIR-na ma-SHI-na", "example": "Направи три копия на документа.", "type": "noun" },
+    { "bg": "химикалка", "en": "pen", "pronunciation": "hi-mi-KAL-ka", "example": "Имаш ли химикалка да подпиша?", "type": "noun" },
+    { "bg": "тетрадка", "en": "notebook", "pronunciation": "tet-RAD-ka", "example": "Записвам бележки в тетрадката.", "type": "noun" },
+    { "bg": "папка", "en": "folder/binder", "pronunciation": "PAP-ka", "example": "Документите са в синята папка.", "type": "noun" },
+    { "bg": "скрепка", "en": "paper clip", "pronunciation": "SKREP-ka", "example": "Скрепи листовете със скрепка.", "type": "noun" },
+    { "bg": "телбод", "en": "stapler", "pronunciation": "tel-BOD", "example": "Подай ми телбода, моля.", "type": "noun" },
+    { "bg": "среща", "en": "meeting", "pronunciation": "SRESH-ta", "example": "Срещата е в десет часа в заседателната зала.", "type": "noun" },
+    { "bg": "заседателна зала", "en": "meeting/conference room", "pronunciation": "za-se-DA-tel-na ZA-la", "example": "Заседателната зала е на втория етаж.", "type": "noun" },
+    { "bg": "презентация", "en": "presentation", "pronunciation": "pre-zen-TA-tsi-ya", "example": "Подготвих презентация за утре.", "type": "noun" },
+    { "bg": "доклад", "en": "report", "pronunciation": "dok-LAD", "example": "Докладът трябва да е готов до петък.", "type": "noun" },
+    { "bg": "имейл", "en": "email", "pronunciation": "i-MEYL", "example": "Изпратих ти имейл с детайлите.", "type": "noun" },
+    { "bg": "печатам", "en": "to print", "pronunciation": "pe-CHA-tam", "example": "Печатам договора в два екземпляра.", "type": "verb" },
+    { "bg": "сканирам", "en": "to scan", "pronunciation": "ska-NI-ram", "example": "Сканирай документа и ми го изпрати.", "type": "verb" },
+    { "bg": "подписвам", "en": "to sign", "pronunciation": "pod-PIS-vam", "example": "Подпишете тук, моля.", "type": "verb" },
+    { "bg": "краен срок", "en": "deadline", "pronunciation": "KRA-en srok", "example": "Крайният срок е следващия понеделник.", "type": "noun" },
+    { "bg": "колега", "en": "colleague", "pronunciation": "ko-LE-ga", "example": "Колегите ми са много приятни.", "type": "noun" },
+    { "bg": "началник", "en": "boss/manager", "pronunciation": "na-CHAL-nik", "example": "Началникът одобри проекта ми.", "type": "noun" }
+  ]
+}
