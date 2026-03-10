@@ -1,0 +1,25 @@
+{
+  "category": "Cosmetics",
+  "cards": [
+    { "bg": "козметика", "en": "cosmetics", "pronunciation": "koz-ME-ti-ka", "example": "Купих нова козметика от магазина.", "type": "noun" },
+    { "bg": "грим", "en": "makeup", "pronunciation": "grim", "example": "Тя се гримира всяка сутрин.", "type": "noun" },
+    { "bg": "червило", "en": "lipstick", "pronunciation": "cher-VI-lo", "example": "Червилото е в червен цвят.", "type": "noun" },
+    { "bg": "спирала", "en": "mascara", "pronunciation": "spi-RA-la", "example": "Спиралата прави миглите по-дълги.", "type": "noun" },
+    { "bg": "пудра", "en": "powder", "pronunciation": "PUD-ra", "example": "Слагам малко пудра на лицето.", "type": "noun" },
+    { "bg": "лак за нокти", "en": "nail polish", "pronunciation": "lak za NOK-ti", "example": "Лакът за нокти е червен.", "type": "noun" },
+    { "bg": "парфюм", "en": "perfume", "pronunciation": "par-FYUM", "example": "Парфюмът мирише прекрасно.", "type": "noun" },
+    { "bg": "крем за лице", "en": "face cream", "pronunciation": "krem za li-TSE", "example": "Слагам крем за лице преди лягане.", "type": "noun" },
+    { "bg": "слънцезащитен крем", "en": "sunscreen", "pronunciation": "slun-tse-za-SHTI-ten krem", "example": "Сложи слънцезащитен крем на плажа.", "type": "noun" },
+    { "bg": "балсам", "en": "conditioner", "pronunciation": "bal-SAM", "example": "Използвам балсам след шампоана.", "type": "noun" },
+    { "bg": "дезодорант", "en": "deodorant", "pronunciation": "de-zo-do-RANT", "example": "Дезодорантът е в банята.", "type": "noun" },
+    { "bg": "пинцета", "en": "tweezers", "pronunciation": "pin-TSE-ta", "example": "Оформям веждите с пинцета.", "type": "noun" },
+    { "bg": "огледало", "en": "mirror", "pronunciation": "og-le-DA-lo", "example": "Гримирам се пред огледалото.", "type": "noun" },
+    { "bg": "коса", "en": "hair", "pronunciation": "ko-SA", "example": "Косата ѝ е дълга и гладка.", "type": "noun" },
+    { "bg": "прическа", "en": "hairstyle", "pronunciation": "pri-CHES-ka", "example": "Харесвам новата ти прическа.", "type": "noun" },
+    { "bg": "боядисвам", "en": "to dye (hair)", "pronunciation": "bo-ya-DIS-vam", "example": "Боядисах косата си в русо.", "type": "verb" },
+    { "bg": "кожа", "en": "skin", "pronunciation": "KO-zha", "example": "Кожата ми е суха през зимата.", "type": "noun" },
+    { "bg": "маска за лице", "en": "face mask", "pronunciation": "MAS-ka za li-TSE", "example": "Правя маска за лице веднъж седмично.", "type": "noun" },
+    { "bg": "сенки", "en": "eyeshadow", "pronunciation": "SEN-ki", "example": "Сенките са в красив златист цвят.", "type": "noun" },
+    { "bg": "гримирам се", "en": "to put on makeup", "pronunciation": "gri-MI-ram se", "example": "Гримирам се за петнадесет минути.", "type": "verb" }
+  ]
+}
