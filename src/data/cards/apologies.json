@@ -1,0 +1,27 @@
+{
+  "category": "Apologies",
+  "cards": [
+    { "bg": "извинявам се", "en": "I'm sorry / I apologize", "pronunciation": "iz-vi-NYA-vam se", "example": "Извинявам се за закъснението.", "type": "phrase" },
+    { "bg": "съжалявам", "en": "I'm sorry / I regret", "pronunciation": "su-zha-LYA-vam", "example": "Съжалявам, не исках да те обидя.", "type": "verb" },
+    { "bg": "прости ми", "en": "forgive me", "pronunciation": "pros-TI mi", "example": "Прости ми, направих грешка.", "type": "phrase" },
+    { "bg": "извинете", "en": "excuse me (formal)", "pronunciation": "iz-vi-NE-te", "example": "Извинете, може ли да мина?", "type": "phrase" },
+    { "bg": "извини", "en": "excuse me / sorry (informal)", "pronunciation": "iz-vi-NI", "example": "Извини, не те чух.", "type": "phrase" },
+    { "bg": "моя грешка", "en": "my mistake", "pronunciation": "MO-ya GRESH-ka", "example": "Моя грешка, объркал съм датата.", "type": "phrase" },
+    { "bg": "не беше нарочно", "en": "it wasn't on purpose", "pronunciation": "ne BE-she na-ROCH-no", "example": "Не беше нарочно, извини ме.", "type": "phrase" },
+    { "bg": "прощавам", "en": "to forgive", "pronunciation": "pro-SHTA-vam", "example": "Прощавам ти, не се тревожи.", "type": "verb" },
+    { "bg": "нищо страшно", "en": "no big deal / it's nothing", "pronunciation": "NISH-to STRASH-no", "example": "Нищо страшно, може да се случи на всеки.", "type": "phrase" },
+    { "bg": "няма проблем", "en": "no problem", "pronunciation": "NYA-ma prob-LEM", "example": "Няма проблем, не се притеснявай.", "type": "phrase" },
+    { "bg": "не се тревожи", "en": "don't worry", "pronunciation": "ne se tre-VO-zhi", "example": "Не се тревожи, всичко е наред.", "type": "phrase" },
+    { "bg": "виновен", "en": "guilty/at fault", "pronunciation": "vi-NO-ven", "example": "Аз съм виновен за недоразумението.", "type": "adjective" },
+    { "bg": "грешка", "en": "mistake/error", "pronunciation": "GRESH-ka", "example": "Направих голяма грешка.", "type": "noun" },
+    { "bg": "недоразумение", "en": "misunderstanding", "pronunciation": "ne-do-ra-zu-ME-ni-e", "example": "Беше просто недоразумение.", "type": "noun" },
+    { "bg": "обиждам", "en": "to offend", "pronunciation": "o-BIZH-dam", "example": "Не исках да те обидя с думите си.", "type": "verb" },
+    { "bg": "обещавам", "en": "to promise", "pronunciation": "o-be-SHTA-vam", "example": "Обещавам, че няма да се повтори.", "type": "verb" },
+    { "bg": "вина", "en": "fault/blame", "pronunciation": "vi-NA", "example": "Вината е моя.", "type": "noun" },
+    { "bg": "съчувствам", "en": "to sympathize", "pronunciation": "su-CHUV-stvam", "example": "Съчувствам ти за загубата.", "type": "verb" },
+    { "bg": "моля те", "en": "please (informal)", "pronunciation": "MO-lya te", "example": "Моля те, прости ми.", "type": "phrase" },
+    { "bg": "каня се да поправя", "en": "I intend to make it right", "pronunciation": "KA-nya se da po-PRA-vya", "example": "Каня се да поправя грешката си.", "type": "phrase" },
+    { "bg": "приемам извинението", "en": "I accept the apology", "pronunciation": "pri-E-mam iz-vi-NE-ni-e-to", "example": "Приемам извинението ти.", "type": "phrase" },
+    { "bg": "разбирам", "en": "I understand", "pronunciation": "raz-BI-ram", "example": "Разбирам, не се притеснявай.", "type": "verb" }
+  ]
+}
