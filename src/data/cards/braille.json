@@ -1,0 +1,27 @@
+{
+  "category": "Braille & Visual Impairment",
+  "cards": [
+    { "bg": "брайлова азбука", "en": "Braille alphabet", "pronunciation": "BRAY-lo-va AZ-bu-ka", "example": "Брайловата азбука използва релефни точки.", "type": "noun" },
+    { "bg": "сляп", "en": "blind", "pronunciation": "slyap", "example": "Слепите хора се ориентират чрез допир и слух.", "type": "adjective" },
+    { "bg": "зрително увреждане", "en": "visual impairment", "pronunciation": "ZRI-tel-no uv-REZH-da-ne", "example": "Зрителното увреждане може да е частично или пълно.", "type": "noun" },
+    { "bg": "водач куче", "en": "guide dog", "pronunciation": "vo-DACH KU-che", "example": "Водачът куче помага на незрящия да пресича улицата.", "type": "noun" },
+    { "bg": "бял бастун", "en": "white cane", "pronunciation": "byal bas-TUN", "example": "Белият бастун помага за ориентиране на улицата.", "type": "noun" },
+    { "bg": "незрящ", "en": "visually impaired/sightless", "pronunciation": "ne-ZRYASHT", "example": "Незрящите ученици учат с помощта на брайл.", "type": "adjective" },
+    { "bg": "допир", "en": "touch/tactile sense", "pronunciation": "DO-pir", "example": "Допирът е основен усет за незрящите.", "type": "noun" },
+    { "bg": "релефен", "en": "raised/embossed", "pronunciation": "re-LE-fen", "example": "Релефните знаци се четат с пръсти.", "type": "adjective" },
+    { "bg": "точка", "en": "dot (Braille)", "pronunciation": "TOCH-ka", "example": "Всяка буква се състои от комбинация от точки.", "type": "noun" },
+    { "bg": "четене с пръсти", "en": "reading by touch", "pronunciation": "CHE-te-ne s PRUS-ti", "example": "Четенето с пръсти изисква практика.", "type": "noun" },
+    { "bg": "говорещ часовник", "en": "talking clock/watch", "pronunciation": "go-vo-RESHT cha-SOV-nik", "example": "Говорещият часовник казва часа на глас.", "type": "noun" },
+    { "bg": "екранен четец", "en": "screen reader", "pronunciation": "ek-RA-nen CHE-tets", "example": "Екранният четец чете текста на компютъра на глас.", "type": "noun" },
+    { "bg": "аудиокнига", "en": "audiobook", "pronunciation": "AU-di-o-KNI-ga", "example": "Аудиокнигите дават достъп до литературата.", "type": "noun" },
+    { "bg": "тактилна настилка", "en": "tactile paving", "pronunciation": "tak-TIL-na nas-TIL-ka", "example": "Тактилната настилка предупреждава за стъпала.", "type": "noun" },
+    { "bg": "звуков сигнал", "en": "audio signal/beep", "pronunciation": "zvu-KOV sig-NAL", "example": "Звуковият сигнал на светофара помага при пресичане.", "type": "noun" },
+    { "bg": "увеличение", "en": "magnification", "pronunciation": "u-ve-li-CHE-ni-e", "example": "Увеличението на екрана е за хора с частично зрение.", "type": "noun" },
+    { "bg": "контраст", "en": "contrast", "pronunciation": "kon-TRAST", "example": "Високият контраст улеснява четенето.", "type": "noun" },
+    { "bg": "лупа", "en": "magnifying glass", "pronunciation": "LU-pa", "example": "Лупата помага при четене на дребен шрифт.", "type": "noun" },
+    { "bg": "достъпност", "en": "accessibility", "pronunciation": "dos-TUP-nost", "example": "Достъпността на обществените сгради е задължителна.", "type": "noun" },
+    { "bg": "независимост", "en": "independence", "pronunciation": "ne-za-VI-si-most", "example": "Независимостта е цел на рехабилитацията.", "type": "noun" },
+    { "bg": "рехабилитация", "en": "rehabilitation", "pronunciation": "re-ha-bi-li-TA-tsi-ya", "example": "Рехабилитацията учи нови начини за ориентиране.", "type": "noun" },
+    { "bg": "помощни технологии", "en": "assistive technology", "pronunciation": "po-MOSHT-ni teh-no-LO-gi-i", "example": "Помощните технологии подобряват качеството на живот.", "type": "noun" }
+  ]
+}
