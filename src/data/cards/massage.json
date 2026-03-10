@@ -1,0 +1,28 @@
+{
+  "category": "Massage & Wellness",
+  "cards": [
+    { "bg": "масаж", "en": "massage", "pronunciation": "ma-SAZH", "example": "Масажът отпусна напрегнатите мускули.", "type": "noun" },
+    { "bg": "масажист", "en": "massage therapist", "pronunciation": "ma-sa-ZHIST", "example": "Масажистът работи в спа центъра.", "type": "noun" },
+    { "bg": "релаксация", "en": "relaxation", "pronunciation": "re-lak-SA-tsi-ya", "example": "Релаксацията е важна за здравето.", "type": "noun" },
+    { "bg": "отпускам се", "en": "to relax", "pronunciation": "ot-PUS-kam se", "example": "Отпуснете се и дишайте дълбоко.", "type": "verb" },
+    { "bg": "напрежение", "en": "tension/stress", "pronunciation": "na-pre-ZHE-ni-e", "example": "Напрежението в раменете е от стреса.", "type": "noun" },
+    { "bg": "мускул", "en": "muscle", "pronunciation": "MUS-kul", "example": "Мускулите на гърба са скована.", "type": "noun" },
+    { "bg": "гръбнак", "en": "spine/backbone", "pronunciation": "grub-NAK", "example": "Масажът по гръбнака облекчава болката.", "type": "noun" },
+    { "bg": "рамене", "en": "shoulders", "pronunciation": "ra-ME-ne", "example": "Раменете ми са много скована от работата.", "type": "noun" },
+    { "bg": "шия", "en": "neck", "pronunciation": "SHI-ya", "example": "Масажът на шията помага при главоболие.", "type": "noun" },
+    { "bg": "масло", "en": "oil (massage)", "pronunciation": "mas-LO", "example": "Масажистът използва масло от лавандула.", "type": "noun" },
+    { "bg": "ароматерапия", "en": "aromatherapy", "pronunciation": "a-ro-ma-te-ra-PI-ya", "example": "Ароматерапията съчетава масаж с етерични масла.", "type": "noun" },
+    { "bg": "етерично масло", "en": "essential oil", "pronunciation": "e-te-RICH-no mas-LO", "example": "Етеричното масло от роза е типично българско.", "type": "noun" },
+    { "bg": "акупресура", "en": "acupressure", "pronunciation": "a-ku-pre-SU-ra", "example": "Акупресурата натиска определени точки по тялото.", "type": "noun" },
+    { "bg": "рефлексотерапия", "en": "reflexology", "pronunciation": "ref-lek-so-te-ra-PI-ya", "example": "Рефлексотерапията работи с точки на стъпалата.", "type": "noun" },
+    { "bg": "лечебен масаж", "en": "therapeutic massage", "pronunciation": "le-CHE-ben ma-SAZH", "example": "Лечебният масаж помага при болки в кръста.", "type": "noun" },
+    { "bg": "спортен масаж", "en": "sports massage", "pronunciation": "SPOR-ten ma-SAZH", "example": "Спортният масаж възстановява мускулите след тренировка.", "type": "noun" },
+    { "bg": "антицелулитен масаж", "en": "anti-cellulite massage", "pronunciation": "an-ti-tse-lu-LI-ten ma-SAZH", "example": "Антицелулитният масаж е популярен в спа центровете.", "type": "noun" },
+    { "bg": "кръвообращение", "en": "blood circulation", "pronunciation": "kru-vo-ob-ra-SHE-ni-e", "example": "Масажът подобрява кръвообращението.", "type": "noun" },
+    { "bg": "топла вана", "en": "hot bath", "pronunciation": "TOP-la VA-na", "example": "Топлата вана преди масаж отпуска тялото.", "type": "noun" },
+    { "bg": "сауна", "en": "sauna", "pronunciation": "SA-u-na", "example": "Сауната помага за прочистване на тялото.", "type": "noun" },
+    { "bg": "парна баня", "en": "steam room/bath", "pronunciation": "PAR-na BA-nya", "example": "Парната баня отваря порите на кожата.", "type": "noun" },
+    { "bg": "джакузи", "en": "jacuzzi/hot tub", "pronunciation": "dja-KU-zi", "example": "Джакузито е с гореща минерална вода.", "type": "noun" },
+    { "bg": "процедура", "en": "treatment/procedure", "pronunciation": "pro-tse-DU-ra", "example": "Процедурата трае шейсет минути.", "type": "noun" }
+  ]
+}
