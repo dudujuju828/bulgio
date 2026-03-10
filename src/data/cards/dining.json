@@ -1,0 +1,26 @@
+{
+  "category": "Dining",
+  "cards": [
+    { "bg": "ресторант", "en": "restaurant", "pronunciation": "res-to-RANT", "example": "Ресторантът е пълен тази вечер.", "type": "noun" },
+    { "bg": "маса", "en": "table", "pronunciation": "MA-sa", "example": "Имате ли свободна маса за двама?", "type": "noun" },
+    { "bg": "меню", "en": "menu", "pronunciation": "me-NYU", "example": "Може ли менюто, моля?", "type": "noun" },
+    { "bg": "сервитьор", "en": "waiter", "pronunciation": "ser-vi-TYOR", "example": "Сервитьорът донесе поръчката.", "type": "noun" },
+    { "bg": "поръчвам", "en": "to order", "pronunciation": "po-RUCH-vam", "example": "Искам да поръчам салата.", "type": "verb" },
+    { "bg": "сметка", "en": "bill/check", "pronunciation": "SMET-ka", "example": "Може ли сметката, моля?", "type": "noun" },
+    { "bg": "бакшиш", "en": "tip", "pronunciation": "bak-SHISH", "example": "Оставихме бакшиш на сервитьора.", "type": "noun" },
+    { "bg": "закуска", "en": "breakfast", "pronunciation": "za-KUS-ka", "example": "За закуска ям баница и кисело мляко.", "type": "noun" },
+    { "bg": "обяд", "en": "lunch", "pronunciation": "o-BYAD", "example": "На обяд ходим в заведението.", "type": "noun" },
+    { "bg": "вечеря", "en": "dinner", "pronunciation": "ve-CHE-rya", "example": "Вечерята е в осем часа.", "type": "noun" },
+    { "bg": "чиния", "en": "plate", "pronunciation": "CHI-ni-ya", "example": "Чинията е празна, всичко беше вкусно.", "type": "noun" },
+    { "bg": "чаша", "en": "glass/cup", "pronunciation": "CHA-sha", "example": "Една чаша вода, моля.", "type": "noun" },
+    { "bg": "вилица", "en": "fork", "pronunciation": "VI-li-tsa", "example": "Дайте ми вилица, моля.", "type": "noun" },
+    { "bg": "нож", "en": "knife", "pronunciation": "nozh", "example": "Ножът е много остър.", "type": "noun" },
+    { "bg": "лъжица", "en": "spoon", "pronunciation": "LU-zhi-tsa", "example": "Ям супата с лъжица.", "type": "noun" },
+    { "bg": "салфетка", "en": "napkin", "pronunciation": "sal-FET-ka", "example": "Имате ли салфетки?", "type": "noun" },
+    { "bg": "вкусно", "en": "delicious", "pronunciation": "VKUS-no", "example": "Храната беше много вкусна!", "type": "adjective" },
+    { "bg": "гладен", "en": "hungry", "pronunciation": "GLA-den", "example": "Много съм гладен, не съм ял от обяд.", "type": "adjective" },
+    { "bg": "жаден", "en": "thirsty", "pronunciation": "ZHA-den", "example": "Жаден съм, искам вода.", "type": "adjective" },
+    { "bg": "резервация", "en": "reservation", "pronunciation": "re-zer-VA-tsi-ya", "example": "Имам резервация за шест часа.", "type": "noun" },
+    { "bg": "специалитет", "en": "specialty", "pronunciation": "spe-tsi-a-li-TET", "example": "Какъв е специалитетът на заведението?", "type": "noun" }
+  ]
+}
