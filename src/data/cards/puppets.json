@@ -1,0 +1,27 @@
+{
+  "category": "Puppetry & Puppet Theater",
+  "cards": [
+    { "bg": "куклен театър", "en": "puppet theater", "pronunciation": "KUK-len te-A-tur", "example": "Кукленият театър в Пловдив е обичан от децата.", "type": "noun" },
+    { "bg": "кукла", "en": "puppet/doll", "pronunciation": "KUK-la", "example": "Куклата е ръчно изработена от дърво.", "type": "noun" },
+    { "bg": "марионетка", "en": "marionette (string puppet)", "pronunciation": "ma-ri-o-NET-ka", "example": "Марионетката се управлява с конци.", "type": "noun" },
+    { "bg": "ръкавична кукла", "en": "hand puppet/glove puppet", "pronunciation": "ru-ka-VICH-na KUK-la", "example": "Ръкавичната кукла се слага на ръката.", "type": "noun" },
+    { "bg": "кукловод", "en": "puppeteer", "pronunciation": "kuk-lo-VOD", "example": "Кукловодът оживява героите зад параваната.", "type": "noun" },
+    { "bg": "параван", "en": "screen/stage partition", "pronunciation": "pa-ra-VAN", "example": "Параванът скрива кукловодите от публиката.", "type": "noun" },
+    { "bg": "конци", "en": "strings/threads", "pronunciation": "KON-tsi", "example": "Конците на марионетката са почти невидими.", "type": "noun" },
+    { "bg": "сценка", "en": "skit/short scene", "pronunciation": "STSEN-ka", "example": "Сценката разказва приказката за Червената шапчица.", "type": "noun" },
+    { "bg": "приказка", "en": "fairy tale/story", "pronunciation": "pri-KAZ-ka", "example": "Приказката е адаптирана за куклен спектакъл.", "type": "noun" },
+    { "bg": "спектакъл", "en": "show/performance", "pronunciation": "spek-TA-kul", "example": "Спектакълът започва в единадесет часа.", "type": "noun" },
+    { "bg": "декор", "en": "set/scenery", "pronunciation": "de-KOR", "example": "Декорът представя гора с дървета и цветя.", "type": "noun" },
+    { "bg": "озвучаване", "en": "voicing/sound effects", "pronunciation": "oz-vu-CHA-va-ne", "example": "Озвучаването е на живо от актьорите.", "type": "noun" },
+    { "bg": "глас", "en": "voice", "pronunciation": "glas", "example": "Кукловодът сменя гласа си за всеки герой.", "type": "noun" },
+    { "bg": "сянка", "en": "shadow", "pronunciation": "SYAN-ka", "example": "Театърът на сенките използва светлина зад екран.", "type": "noun" },
+    { "bg": "театър на сенките", "en": "shadow theater", "pronunciation": "te-A-tur na SEN-ki-te", "example": "Театърът на сенките е древно изкуство.", "type": "noun" },
+    { "bg": "пръстова кукла", "en": "finger puppet", "pronunciation": "PRUS-to-va KUK-la", "example": "Пръстовите кукли са за най-малките деца.", "type": "noun" },
+    { "bg": "вентрилоквизъм", "en": "ventriloquism", "pronunciation": "ven-tri-lo-KVI-zum", "example": "Вентрилоквизмът създава илюзия, че куклата говори.", "type": "noun" },
+    { "bg": "представление", "en": "performance/show", "pronunciation": "pred-stav-LE-ni-e", "example": "Представлението е подходящо за деца над три години.", "type": "noun" },
+    { "bg": "репертоар", "en": "repertoire", "pronunciation": "re-per-to-AR", "example": "Репертоарът включва класически и съвременни пиеси.", "type": "noun" },
+    { "bg": "работилница", "en": "workshop", "pronunciation": "ra-bo-TIL-ni-tsa", "example": "В работилницата децата правят свои кукли.", "type": "noun" },
+    { "bg": "оживявам", "en": "to bring to life/animate", "pronunciation": "o-zhi-VYA-vam", "example": "Майсторът оживява куклите с движение и глас.", "type": "verb" },
+    { "bg": "фестивал", "en": "festival", "pronunciation": "fes-ti-VAL", "example": "Фестивалът на кукленото изкуство е всяка есен.", "type": "noun" }
+  ]
+}
