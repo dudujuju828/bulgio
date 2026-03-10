@@ -1,0 +1,27 @@
+{
+  "category": "Puzzles & Brain Teasers",
+  "cards": [
+    { "bg": "пъзел", "en": "puzzle (jigsaw)", "pronunciation": "PU-zel", "example": "Пъзелът има хиляда парчета.", "type": "noun" },
+    { "bg": "парче", "en": "piece", "pronunciation": "par-CHE", "example": "Липсва едно парче от пъзела.", "type": "noun" },
+    { "bg": "кръстословица", "en": "crossword puzzle", "pronunciation": "krus-to-SLO-vi-tsa", "example": "Решавам кръстословица всяка сутрин с кафето.", "type": "noun" },
+    { "bg": "судоку", "en": "sudoku", "pronunciation": "su-DO-ku", "example": "Судокуто развива логическото мислене.", "type": "noun" },
+    { "bg": "ребус", "en": "rebus/word puzzle", "pronunciation": "RE-bus", "example": "Ребусът комбинира картинки и букви.", "type": "noun" },
+    { "bg": "лабиринт", "en": "maze/labyrinth", "pronunciation": "la-bi-RINT", "example": "Лабиринтът има само един правилен изход.", "type": "noun" },
+    { "bg": "загадка", "en": "riddle/enigma", "pronunciation": "za-GAD-ka", "example": "Загадката беше трудна, но я отгатнах.", "type": "noun" },
+    { "bg": "решавам", "en": "to solve", "pronunciation": "re-SHA-vam", "example": "Решавам логически задачи всеки ден.", "type": "verb" },
+    { "bg": "отговор", "en": "answer/solution", "pronunciation": "OT-go-vor", "example": "Отговорът е на последната страница.", "type": "noun" },
+    { "bg": "подсказка", "en": "hint/clue", "pronunciation": "pod-SKAZ-ka", "example": "Дай ми подсказка, не мога да отгатна.", "type": "noun" },
+    { "bg": "кубче на Рубик", "en": "Rubik's cube", "pronunciation": "KUB-che na RU-bik", "example": "Подреди кубчето на Рубик за минута.", "type": "noun" },
+    { "bg": "логическа задача", "en": "logic puzzle", "pronunciation": "lo-GI-ches-ka za-DA-cha", "example": "Логическата задача изисква внимателно разсъждение.", "type": "noun" },
+    { "bg": "търсачка на думи", "en": "word search", "pronunciation": "tur-SACH-ka na DU-mi", "example": "Търсачката на думи е забавна за деца.", "type": "noun" },
+    { "bg": "скрита дума", "en": "hidden word", "pronunciation": "SKRI-ta DU-ma", "example": "Намерих всички скрити думи в таблицата.", "type": "noun" },
+    { "bg": "трудност", "en": "difficulty", "pronunciation": "TRUD-nost", "example": "Трудността на пъзела нараства с всяко ниво.", "type": "noun" },
+    { "bg": "стратегия", "en": "strategy", "pronunciation": "stra-TE-gi-ya", "example": "Стратегията ми е да започна от ръбовете.", "type": "noun" },
+    { "bg": "концентрация", "en": "concentration", "pronunciation": "kon-tsen-TRA-tsi-ya", "example": "Пъзелите подобряват концентрацията.", "type": "noun" },
+    { "bg": "търпение", "en": "patience", "pronunciation": "tur-PE-ni-e", "example": "Търпението е ключово за сложните пъзели.", "type": "noun" },
+    { "bg": "сглобявам", "en": "to assemble/put together", "pronunciation": "sglo-BYA-vam", "example": "Сглобявам пъзела на масата в хола.", "type": "verb" },
+    { "bg": "мозъчна гимнастика", "en": "brain exercise/teaser", "pronunciation": "mo-ZUCH-na gim-NAS-ti-ka", "example": "Мозъчната гимнастика поддържа ума остър.", "type": "noun" },
+    { "bg": "анаграма", "en": "anagram", "pronunciation": "a-na-GRA-ma", "example": "Анаграмата пренарежда буквите в нова дума.", "type": "noun" },
+    { "bg": "главоблъсканица", "en": "brain teaser/conundrum", "pronunciation": "gla-vo-blus-KA-ni-tsa", "example": "Главоблъсканицата ме занимава от вчера.", "type": "noun" }
+  ]
+}
