@@ -1,0 +1,28 @@
+{
+  "category": "Horse Riding",
+  "cards": [
+    { "bg": "конна езда", "en": "horse riding/equestrian", "pronunciation": "KON-na ez-DA", "example": "Конната езда е популярна в Родопите.", "type": "noun" },
+    { "bg": "кон", "en": "horse", "pronunciation": "kon", "example": "Конят е спокоен и подходящ за начинаещи.", "type": "noun" },
+    { "bg": "кобила", "en": "mare", "pronunciation": "ko-BI-la", "example": "Кобилата роди жребче тази пролет.", "type": "noun" },
+    { "bg": "жребец", "en": "stallion", "pronunciation": "zhre-BETS", "example": "Жребецът е силен и бърз.", "type": "noun" },
+    { "bg": "жребче", "en": "foal", "pronunciation": "ZHREB-che", "example": "Жребчето тича до майка си.", "type": "noun" },
+    { "bg": "магаре", "en": "donkey", "pronunciation": "ma-GA-re", "example": "Магарето носи товар по планинския път.", "type": "noun" },
+    { "bg": "седло", "en": "saddle", "pronunciation": "sed-LO", "example": "Сложи седлото на коня преди яздене.", "type": "noun" },
+    { "bg": "юзда", "en": "bridle/reins", "pronunciation": "yuz-DA", "example": "Дръж юздата здраво, но не дърпай.", "type": "noun" },
+    { "bg": "стремена", "en": "stirrups", "pronunciation": "stre-me-NA", "example": "Постави краката в стремената.", "type": "noun" },
+    { "bg": "подкова", "en": "horseshoe", "pronunciation": "pod-KO-va", "example": "Подковата носи късмет, казват хората.", "type": "noun" },
+    { "bg": "ковач", "en": "farrier/blacksmith", "pronunciation": "ko-VACH", "example": "Ковачът подковава коня на всеки два месеца.", "type": "noun" },
+    { "bg": "обор", "en": "stable", "pronunciation": "o-BOR", "example": "Конете се прибират в обора вечер.", "type": "noun" },
+    { "bg": "манеж", "en": "riding arena/ring", "pronunciation": "ma-NEZH", "example": "Урокът по езда е в манежа.", "type": "noun" },
+    { "bg": "яздя", "en": "to ride (a horse)", "pronunciation": "YAZ-dya", "example": "Яздя кон от дванадесетгодишна.", "type": "verb" },
+    { "bg": "тръс", "en": "trot", "pronunciation": "trus", "example": "Карай коня в тръс по алеята.", "type": "noun" },
+    { "bg": "галоп", "en": "gallop", "pronunciation": "ga-LOP", "example": "Конят препусна в галоп по полето.", "type": "noun" },
+    { "bg": "крачка", "en": "walk (horse gait)", "pronunciation": "KRACH-ka", "example": "Започни с крачка, после преминi в тръс.", "type": "noun" },
+    { "bg": "конюшня", "en": "stable/barn", "pronunciation": "ko-NYUSH-nya", "example": "Конюшнята побира десет коня.", "type": "noun" },
+    { "bg": "сено", "en": "hay", "pronunciation": "SE-no", "example": "Конете ядат сено и овес.", "type": "noun" },
+    { "bg": "овес", "en": "oats", "pronunciation": "o-VES", "example": "Овесът е основната храна на коня.", "type": "noun" },
+    { "bg": "четка за коня", "en": "horse brush/grooming brush", "pronunciation": "CHET-ka za KO-nya", "example": "Четкай коня преди и след яздене.", "type": "noun" },
+    { "bg": "състезание", "en": "race/competition", "pronunciation": "sus-te-ZA-ni-e", "example": "Състезанието по конна езда е в неделя.", "type": "noun" },
+    { "bg": "ездач", "en": "rider", "pronunciation": "ez-DACH", "example": "Ездачът спечели първо място.", "type": "noun" }
+  ]
+}
