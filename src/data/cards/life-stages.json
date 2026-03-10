@@ -1,0 +1,28 @@
+{
+  "category": "Life Stages",
+  "cards": [
+    { "bg": "бебе", "en": "baby", "pronunciation": "be-BE", "example": "Бебето спи цял ден.", "type": "noun" },
+    { "bg": "дете", "en": "child", "pronunciation": "de-TE", "example": "Детето играе в парка.", "type": "noun" },
+    { "bg": "тийнейджър", "en": "teenager", "pronunciation": "tiy-ney-DZHUR", "example": "Тийнейджърите обичат да излизат с приятели.", "type": "noun" },
+    { "bg": "възрастен", "en": "adult", "pronunciation": "vuz-RAS-ten", "example": "Като възрастен имаш повече отговорности.", "type": "noun" },
+    { "bg": "старец", "en": "old man/elderly person", "pronunciation": "sta-RETS", "example": "Старецът седи на пейката всяка сутрин.", "type": "noun" },
+    { "bg": "раждане", "en": "birth", "pronunciation": "RAZH-da-ne", "example": "Раждането на детето беше голямо събитие.", "type": "noun" },
+    { "bg": "детство", "en": "childhood", "pronunciation": "DET-stvo", "example": "Детството ми мина в малко село.", "type": "noun" },
+    { "bg": "младост", "en": "youth", "pronunciation": "MLA-dost", "example": "Младостта е най-хубавото време.", "type": "noun" },
+    { "bg": "старост", "en": "old age", "pronunciation": "STA-rost", "example": "Бабата посрещна старостта с достойнство.", "type": "noun" },
+    { "bg": "млад", "en": "young", "pronunciation": "mlad", "example": "Той е още млад и има много планове.", "type": "adjective" },
+    { "bg": "стар", "en": "old", "pronunciation": "star", "example": "Дядо ми е стар, но много жизнен.", "type": "adjective" },
+    { "bg": "расте", "en": "to grow up", "pronunciation": "RAS-te", "example": "Децата растат толкова бързо.", "type": "verb" },
+    { "bg": "остарявам", "en": "to grow old/age", "pronunciation": "os-ta-RYA-vam", "example": "Всички остаряваме, но важното е как живеем.", "type": "verb" },
+    { "bg": "годишнина", "en": "anniversary", "pronunciation": "go-dish-NI-na", "example": "Празнуваме двадесетата годишнина.", "type": "noun" },
+    { "bg": "рожден ден", "en": "birthday", "pronunciation": "ROZH-den den", "example": "Честит рожден ден! Колко години стана?", "type": "noun" },
+    { "bg": "сватба", "en": "wedding", "pronunciation": "SVAT-ba", "example": "Сватбата ще бъде през септември.", "type": "noun" },
+    { "bg": "пенсия", "en": "retirement/pension", "pronunciation": "PEN-si-ya", "example": "Баща ми излезе в пенсия миналата година.", "type": "noun" },
+    { "bg": "поколение", "en": "generation", "pronunciation": "po-ko-LE-ni-e", "example": "Всяко поколение има своите предизвикателства.", "type": "noun" },
+    { "bg": "зрял", "en": "mature", "pronunciation": "zryal", "example": "Тя е много зряла за годините си.", "type": "adjective" },
+    { "bg": "пълнолетен", "en": "of legal age/adult", "pronunciation": "pul-no-LE-ten", "example": "В България пълнолетието е на осемнадесет години.", "type": "adjective" },
+    { "bg": "възраст", "en": "age", "pronunciation": "VUZ-rast", "example": "На каква възраст си?", "type": "noun" },
+    { "bg": "спомен", "en": "memory/recollection", "pronunciation": "SPO-men", "example": "Имам хубави спомени от детството.", "type": "noun" },
+    { "bg": "наследство", "en": "heritage/inheritance", "pronunciation": "nas-LED-stvo", "example": "Културното наследство е важно за нас.", "type": "noun" }
+  ]
+}
