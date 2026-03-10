@@ -1,0 +1,27 @@
+{
+  "category": "Optician",
+  "cards": [
+    { "bg": "очен лекар", "en": "eye doctor/ophthalmologist", "pronunciation": "O-chen LE-kar", "example": "Ходя на очен лекар веднъж годишно.", "type": "noun" },
+    { "bg": "оптика", "en": "optician's shop", "pronunciation": "OP-ti-ka", "example": "Поръчах нови очила в оптиката.", "type": "noun" },
+    { "bg": "очила", "en": "glasses", "pronunciation": "o-chi-LA", "example": "Нося очила от десетгодишен.", "type": "noun" },
+    { "bg": "слънчеви очила", "en": "sunglasses", "pronunciation": "SLUN-che-vi o-chi-LA", "example": "Не забравяй слънчевите очила на плажа.", "type": "noun" },
+    { "bg": "контактни лещи", "en": "contact lenses", "pronunciation": "kon-TAKT-ni LESH-ti", "example": "Предпочитам контактни лещи пред очила.", "type": "noun" },
+    { "bg": "рамка", "en": "frame", "pronunciation": "RAM-ka", "example": "Избрах лека метална рамка.", "type": "noun" },
+    { "bg": "стъкла", "en": "lenses (glasses)", "pronunciation": "STUK-la", "example": "Стъклата са с антирефлексно покритие.", "type": "noun" },
+    { "bg": "диоптър", "en": "diopter", "pronunciation": "di-OP-tur", "example": "Имам минус три диоптъра на лявото око.", "type": "noun" },
+    { "bg": "късогледство", "en": "nearsightedness/myopia", "pronunciation": "ku-so-GLED-stvo", "example": "Късогледството е все по-често при младите.", "type": "noun" },
+    { "bg": "далекогледство", "en": "farsightedness", "pronunciation": "da-le-ko-GLED-stvo", "example": "С възрастта се появява далекогледство.", "type": "noun" },
+    { "bg": "астигматизъм", "en": "astigmatism", "pronunciation": "as-tig-ma-TI-zum", "example": "Имам лек астигматизъм на дясното око.", "type": "noun" },
+    { "bg": "преглед на очите", "en": "eye exam", "pronunciation": "preg-LED na o-CHI-te", "example": "Време е за преглед на очите.", "type": "noun" },
+    { "bg": "виждам", "en": "to see", "pronunciation": "VIZH-dam", "example": "Не виждам добре от далеч.", "type": "verb" },
+    { "bg": "замъглено", "en": "blurry", "pronunciation": "za-mug-LE-no", "example": "Виждам замъглено без очилата.", "type": "adjective" },
+    { "bg": "рецепта", "en": "prescription", "pronunciation": "re-TSEP-ta", "example": "Лекарят ми писа нова рецепта за очила.", "type": "noun" },
+    { "bg": "очна капка", "en": "eye drop", "pronunciation": "OCH-na KAP-ka", "example": "Слагам очни капки за сухота.", "type": "noun" },
+    { "bg": "зрение", "en": "vision/eyesight", "pronunciation": "ZRE-ni-e", "example": "Зрението ми се влоши последната година.", "type": "noun" },
+    { "bg": "лазерна корекция", "en": "laser eye surgery", "pronunciation": "LA-zer-na ko-REK-tsi-ya", "example": "Обмислям лазерна корекция на зрението.", "type": "noun" },
+    { "bg": "калъф за очила", "en": "glasses case", "pronunciation": "ka-LUF za o-chi-LA", "example": "Слагай очилата в калъфа, за да не се надраскат.", "type": "noun" },
+    { "bg": "кърпичка за очила", "en": "lens cloth", "pronunciation": "kur-PICH-ka za o-chi-LA", "example": "Почисти стъклата с кърпичката.", "type": "noun" },
+    { "bg": "очила за четене", "en": "reading glasses", "pronunciation": "o-chi-LA za CHE-te-ne", "example": "Татко слага очила за четене.", "type": "noun" },
+    { "bg": "бифокални", "en": "bifocal", "pronunciation": "bi-fo-KAL-ni", "example": "Бифокалните очила са за далеч и за близо.", "type": "adjective" }
+  ]
+}
