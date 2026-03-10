@@ -1,0 +1,28 @@
+{
+  "category": "Trains",
+  "cards": [
+    { "bg": "влак", "en": "train", "pronunciation": "vlak", "example": "Влакът за Пловдив тръгва в десет часа.", "type": "noun" },
+    { "bg": "гара", "en": "train station", "pronunciation": "GA-ra", "example": "Централната гара на София е голяма.", "type": "noun" },
+    { "bg": "перон", "en": "platform", "pronunciation": "pe-RON", "example": "Влакът пристига на трети перон.", "type": "noun" },
+    { "bg": "билет", "en": "ticket", "pronunciation": "bi-LET", "example": "Купих билет за бърз влак до Бургас.", "type": "noun" },
+    { "bg": "каса", "en": "ticket office", "pronunciation": "KA-sa", "example": "На касата имаше опашка от двадесет души.", "type": "noun" },
+    { "bg": "разписание", "en": "timetable/schedule", "pronunciation": "raz-pi-SA-ni-e", "example": "Провери разписанието на влаковете онлайн.", "type": "noun" },
+    { "bg": "бърз влак", "en": "express train", "pronunciation": "burz vlak", "example": "Бързият влак стига до Варна за седем часа.", "type": "noun" },
+    { "bg": "пътнически влак", "en": "passenger train (local)", "pronunciation": "put-NI-ches-ki vlak", "example": "Пътническият влак спира на всяка гара.", "type": "noun" },
+    { "bg": "вагон", "en": "carriage/car", "pronunciation": "va-GON", "example": "Нашите места са във вагон пет.", "type": "noun" },
+    { "bg": "място", "en": "seat", "pronunciation": "MYAS-to", "example": "Запазих място до прозореца.", "type": "noun" },
+    { "bg": "купе", "en": "compartment", "pronunciation": "ku-PE", "example": "В купето имаше шест места.", "type": "noun" },
+    { "bg": "спален вагон", "en": "sleeper car", "pronunciation": "SPA-len va-GON", "example": "За нощния влак взехме спален вагон.", "type": "noun" },
+    { "bg": "кондуктор", "en": "conductor/ticket inspector", "pronunciation": "kon-duk-TOR", "example": "Кондукторът провери билетите ни.", "type": "noun" },
+    { "bg": "закъснение", "en": "delay", "pronunciation": "za-kus-NE-ni-e", "example": "Влакът има двадесет минути закъснение.", "type": "noun" },
+    { "bg": "пристигам", "en": "to arrive", "pronunciation": "pris-TI-gam", "example": "Влакът пристига в Банско в четири часа.", "type": "verb" },
+    { "bg": "тръгвам", "en": "to depart", "pronunciation": "TRUG-vam", "example": "Влакът тръгва точно навреме.", "type": "verb" },
+    { "bg": "прекачвам се", "en": "to transfer/change trains", "pronunciation": "pre-KACH-vam se", "example": "Прекачваме се в Септември за Банско.", "type": "verb" },
+    { "bg": "релси", "en": "rails/tracks", "pronunciation": "REL-si", "example": "Не пресичай релсите!", "type": "noun" },
+    { "bg": "теснолинейка", "en": "narrow-gauge railway", "pronunciation": "tes-no-li-NEY-ka", "example": "Теснолинейката до Банско минава през красиви гори.", "type": "noun" },
+    { "bg": "локомотив", "en": "locomotive", "pronunciation": "lo-ko-mo-TIV", "example": "Старият локомотив вече е в музея.", "type": "noun" },
+    { "bg": "БДЖ", "en": "Bulgarian State Railways", "pronunciation": "be-de-ZHE", "example": "БДЖ предлага намаление за студенти.", "type": "noun" },
+    { "bg": "отиване и връщане", "en": "round trip", "pronunciation": "o-TI-va-ne i VRUSH-ta-ne", "example": "Билет отиване и връщане е по-евтино.", "type": "noun" },
+    { "bg": "първа класа", "en": "first class", "pronunciation": "PUR-va KLA-sa", "example": "Местата в първа класа са по-удобни.", "type": "noun" }
+  ]
+}
