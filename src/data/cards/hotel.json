@@ -1,0 +1,29 @@
+{
+  "category": "Hotel",
+  "cards": [
+    { "bg": "хотел", "en": "hotel", "pronunciation": "ho-TEL", "example": "Хотелът е в центъра на града.", "type": "noun" },
+    { "bg": "стая", "en": "room", "pronunciation": "STA-ya", "example": "Резервирах двойна стая за три нощи.", "type": "noun" },
+    { "bg": "резервация", "en": "reservation", "pronunciation": "re-zer-VA-tsi-ya", "example": "Имам резервация на името Иванов.", "type": "noun" },
+    { "bg": "рецепция", "en": "reception/front desk", "pronunciation": "re-TSEP-tsi-ya", "example": "Обадете се на рецепцията за повече информация.", "type": "noun" },
+    { "bg": "ключ", "en": "key", "pronunciation": "klyuch", "example": "Ключът от стаята е на рецепцията.", "type": "noun" },
+    { "bg": "настаняване", "en": "check-in", "pronunciation": "nas-ta-NYA-va-ne", "example": "Настаняването е след четиринадесет часа.", "type": "noun" },
+    { "bg": "напускане", "en": "check-out", "pronunciation": "na-PUS-ka-ne", "example": "Напускането е до дванадесет на обяд.", "type": "noun" },
+    { "bg": "нощувка", "en": "overnight stay", "pronunciation": "nosh-TUV-ka", "example": "Колко струва една нощувка?", "type": "noun" },
+    { "bg": "закуска", "en": "breakfast", "pronunciation": "za-KUS-ka", "example": "Закуската е включена в цената.", "type": "noun" },
+    { "bg": "етаж", "en": "floor/storey", "pronunciation": "e-TAZH", "example": "Стаята ни е на петия етаж.", "type": "noun" },
+    { "bg": "асансьор", "en": "elevator", "pronunciation": "a-san-SYOR", "example": "Вземете асансьора до третия етаж.", "type": "noun" },
+    { "bg": "басейн", "en": "swimming pool", "pronunciation": "ba-SEYN", "example": "Хотелът има открит басейн.", "type": "noun" },
+    { "bg": "кърпа", "en": "towel", "pronunciation": "KUR-pa", "example": "Чистите кърпи са в банята.", "type": "noun" },
+    { "bg": "чаршаф", "en": "bed sheet", "pronunciation": "char-SHAF", "example": "Моля, сменете чаршафите.", "type": "noun" },
+    { "bg": "климатик", "en": "air conditioning", "pronunciation": "kli-MA-tik", "example": "Климатикът в стаята не работи.", "type": "noun" },
+    { "bg": "сейф", "en": "safe/vault", "pronunciation": "seyf", "example": "Оставих паспорта в сейфа.", "type": "noun" },
+    { "bg": "обслужване по стаите", "en": "room service", "pronunciation": "ob-SLUZH-va-ne po STA-i-te", "example": "Поръчахме вечеря чрез обслужване по стаите.", "type": "phrase" },
+    { "bg": "резервирам", "en": "to reserve/book", "pronunciation": "re-zer-VI-ram", "example": "Резервирах стая през интернет.", "type": "verb" },
+    { "bg": "настанявам се", "en": "to check in", "pronunciation": "nas-ta-NYA-vam se", "example": "Настанихме се в хотела следобед.", "type": "verb" },
+    { "bg": "свободна стая", "en": "vacant room", "pronunciation": "svo-BOD-na STA-ya", "example": "Имате ли свободна стая за тази вечер?", "type": "phrase" },
+    { "bg": "единична стая", "en": "single room", "pronunciation": "e-di-NICH-na STA-ya", "example": "Единичната стая е по-евтина.", "type": "noun" },
+    { "bg": "двойна стая", "en": "double room", "pronunciation": "DVOY-na STA-ya", "example": "Бихме искали двойна стая с гледка към морето.", "type": "noun" },
+    { "bg": "жалба", "en": "complaint", "pronunciation": "ZHAL-ba", "example": "Искам да подам жалба за шума.", "type": "noun" },
+    { "bg": "гледка", "en": "view", "pronunciation": "GLED-ka", "example": "Стаята има прекрасна гледка към планината.", "type": "noun" }
+  ]
+}
