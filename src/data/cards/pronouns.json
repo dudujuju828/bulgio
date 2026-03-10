@@ -1,0 +1,27 @@
+{
+  "category": "Pronouns",
+  "cards": [
+    { "bg": "аз", "en": "I", "pronunciation": "az", "example": "Аз съм от България.", "type": "phrase" },
+    { "bg": "ти", "en": "you (informal)", "pronunciation": "ti", "example": "Ти говориш ли български?", "type": "phrase" },
+    { "bg": "той", "en": "he", "pronunciation": "toy", "example": "Той работи в офис.", "type": "phrase" },
+    { "bg": "тя", "en": "she", "pronunciation": "tya", "example": "Тя е учителка.", "type": "phrase" },
+    { "bg": "то", "en": "it", "pronunciation": "to", "example": "Детето е малко, то спи много.", "type": "phrase" },
+    { "bg": "ние", "en": "we", "pronunciation": "ni-E", "example": "Ние живеем в София.", "type": "phrase" },
+    { "bg": "вие", "en": "you (formal/plural)", "pronunciation": "vi-E", "example": "Вие откъде сте?", "type": "phrase" },
+    { "bg": "те", "en": "they", "pronunciation": "te", "example": "Те пътуват в чужбина.", "type": "phrase" },
+    { "bg": "мен/ме", "en": "me", "pronunciation": "men / me", "example": "Чакай мен, идвам след малко.", "type": "phrase" },
+    { "bg": "теб/те", "en": "you (object)", "pronunciation": "teb / te", "example": "Обичам те много.", "type": "phrase" },
+    { "bg": "него/го", "en": "him", "pronunciation": "NE-go / go", "example": "Виждаш ли го?", "type": "phrase" },
+    { "bg": "нея/я", "en": "her", "pronunciation": "NE-ya / ya", "example": "Познавам я от години.", "type": "phrase" },
+    { "bg": "мой", "en": "my/mine", "pronunciation": "moy", "example": "Това е моят телефон.", "type": "phrase" },
+    { "bg": "твой", "en": "your/yours", "pronunciation": "tvoy", "example": "Твоят дом е много красив.", "type": "phrase" },
+    { "bg": "негов", "en": "his", "pronunciation": "NE-gov", "example": "Неговата кола е червена.", "type": "phrase" },
+    { "bg": "неин", "en": "her/hers", "pronunciation": "NE-in", "example": "Нейната чанта е на масата.", "type": "phrase" },
+    { "bg": "наш", "en": "our/ours", "pronunciation": "nash", "example": "Нашият град е малък, но красив.", "type": "phrase" },
+    { "bg": "техен", "en": "their/theirs", "pronunciation": "TE-hen", "example": "Техният дом е до парка.", "type": "phrase" },
+    { "bg": "себе си", "en": "oneself", "pronunciation": "SE-be si", "example": "Тя се гледа себе си в огледалото.", "type": "phrase" },
+    { "bg": "това", "en": "this/that", "pronunciation": "to-VA", "example": "Това е много интересно.", "type": "phrase" },
+    { "bg": "кой", "en": "who", "pronunciation": "koy", "example": "Кой е на вратата?", "type": "phrase" },
+    { "bg": "какво", "en": "what", "pronunciation": "kak-VO", "example": "Какво правиш?", "type": "phrase" }
+  ]
+}
