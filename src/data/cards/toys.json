@@ -1,0 +1,28 @@
+{
+  "category": "Toy Store & Children's Play",
+  "cards": [
+    { "bg": "играчка", "en": "toy", "pronunciation": "ig-RACH-ka", "example": "Играчката е подарък за рождения ден.", "type": "noun" },
+    { "bg": "магазин за играчки", "en": "toy store", "pronunciation": "ma-ga-ZIN za ig-RACH-ki", "example": "Магазинът за играчки е пълен с деца.", "type": "noun" },
+    { "bg": "кукла", "en": "doll", "pronunciation": "KUK-la", "example": "Куклата има руса коса и синя рокля.", "type": "noun" },
+    { "bg": "плюшена играчка", "en": "stuffed animal/plush toy", "pronunciation": "PLYU-she-na ig-RACH-ka", "example": "Плюшеното мече е любимата й играчка.", "type": "noun" },
+    { "bg": "конструктор", "en": "building blocks/construction set", "pronunciation": "kon-struk-TOR", "example": "Конструкторът от Лего развива въображението.", "type": "noun" },
+    { "bg": "количка", "en": "toy car", "pronunciation": "ko-LICH-ka", "example": "Количката е червена и бърза.", "type": "noun" },
+    { "bg": "влакче", "en": "toy train", "pronunciation": "VLAK-che", "example": "Влакчето обикаля по релсите.", "type": "noun" },
+    { "bg": "пластилин", "en": "plasticine/play dough", "pronunciation": "plas-ti-LIN", "example": "Пластилинът е в шест различни цвята.", "type": "noun" },
+    { "bg": "люлка", "en": "swing", "pronunciation": "LYUL-ka", "example": "Люлката в парка е любимото място на децата.", "type": "noun" },
+    { "bg": "пързалка", "en": "slide", "pronunciation": "pur-ZAL-ka", "example": "Пързалката е висока три метра.", "type": "noun" },
+    { "bg": "пясъчник", "en": "sandbox", "pronunciation": "pya-SUCH-nik", "example": "Пясъчникът е пълен с играчки за копане.", "type": "noun" },
+    { "bg": "въртележка", "en": "merry-go-round/carousel", "pronunciation": "vur-te-LEZH-ka", "example": "Въртележката се върти бавно и безопасно.", "type": "noun" },
+    { "bg": "детска площадка", "en": "playground", "pronunciation": "DET-ska plo-SHAD-ka", "example": "Детската площадка е до блока.", "type": "noun" },
+    { "bg": "топка", "en": "ball", "pronunciation": "TOP-ka", "example": "Топката подскача високо на тревата.", "type": "noun" },
+    { "bg": "въже за скачане", "en": "jump rope", "pronunciation": "vu-ZHE za SKA-cha-ne", "example": "Въжето за скачане е цветно и леко.", "type": "noun" },
+    { "bg": "балон", "en": "balloon", "pronunciation": "ba-LON", "example": "Балоните са за рождения ден на Иван.", "type": "noun" },
+    { "bg": "пъзел", "en": "puzzle", "pronunciation": "PU-zel", "example": "Пъзелът е с картинка на замък.", "type": "noun" },
+    { "bg": "оцветявам", "en": "to color/paint", "pronunciation": "ots-ve-TYA-vam", "example": "Оцветявам книжката с моливи и флумастери.", "type": "verb" },
+    { "bg": "книжка за оцветяване", "en": "coloring book", "pronunciation": "KNIZH-ka za ots-ve-TYA-va-ne", "example": "Книжката за оцветяване е с животни.", "type": "noun" },
+    { "bg": "настолна игра", "en": "board game", "pronunciation": "nas-TOL-na ig-RA", "example": "Настолната игра е за цялото семейство.", "type": "noun" },
+    { "bg": "криеница", "en": "hide and seek", "pronunciation": "kri-e-NI-tsa", "example": "Играем на криеница в градината.", "type": "noun" },
+    { "bg": "гоненица", "en": "tag/chase", "pronunciation": "go-ne-NI-tsa", "example": "Гоненицата е любимата игра на децата.", "type": "noun" },
+    { "bg": "въображение", "en": "imagination", "pronunciation": "vu-ob-ra-ZHE-ni-e", "example": "Въображението на децата е безгранично.", "type": "noun" }
+  ]
+}
