@@ -1,0 +1,28 @@
+{
+  "category": "Budgeting & Personal Finance",
+  "cards": [
+    { "bg": "спестявам", "en": "to save (money)", "pronunciation": "spes-TYA-vam", "example": "Спестявам двеста лева всеки месец.", "type": "verb" },
+    { "bg": "спестявания", "en": "savings", "pronunciation": "spes-TYA-va-ni-ya", "example": "Спестяванията ми са за нова кола.", "type": "noun" },
+    { "bg": "бюджет", "en": "budget", "pronunciation": "byu-DZHET", "example": "Правя месечен бюджет на разходите.", "type": "noun" },
+    { "bg": "харча", "en": "to spend", "pronunciation": "HAR-cha", "example": "Харча твърде много за ядене навън.", "type": "verb" },
+    { "bg": "разход", "en": "expense", "pronunciation": "RAZ-hod", "example": "Наемът е най-големият ми разход.", "type": "noun" },
+    { "bg": "доход", "en": "income", "pronunciation": "do-HOD", "example": "Доходът ми не стига за всичко.", "type": "noun" },
+    { "bg": "заплата", "en": "salary", "pronunciation": "za-PLA-ta", "example": "Заплатата влиза на десетото число.", "type": "noun" },
+    { "bg": "дълг", "en": "debt", "pronunciation": "dulg", "example": "Изплатих дълга си към банката.", "type": "noun" },
+    { "bg": "кредит", "en": "loan/credit", "pronunciation": "kre-DIT", "example": "Взехме кредит за жилище.", "type": "noun" },
+    { "bg": "вноска", "en": "installment/payment", "pronunciation": "VNOS-ka", "example": "Месечната вноска по кредита е петстотин лева.", "type": "noun" },
+    { "bg": "ипотека", "en": "mortgage", "pronunciation": "i-po-TE-ka", "example": "Ипотеката е за двадесет години.", "type": "noun" },
+    { "bg": "лихва", "en": "interest rate", "pronunciation": "LIH-va", "example": "Лихвата по депозита е два процента.", "type": "noun" },
+    { "bg": "депозит", "en": "deposit/savings account", "pronunciation": "de-po-ZIT", "example": "Сложих парите на депозит в банката.", "type": "noun" },
+    { "bg": "инвестиция", "en": "investment", "pronunciation": "in-ves-TI-tsi-ya", "example": "Инвестицията в имот е сигурна.", "type": "noun" },
+    { "bg": "инвестирам", "en": "to invest", "pronunciation": "in-ves-TI-ram", "example": "Инвестирам малка сума всеки месец.", "type": "verb" },
+    { "bg": "данък", "en": "tax", "pronunciation": "da-NUK", "example": "Данъкът върху доходите е десет процента.", "type": "noun" },
+    { "bg": "сметка", "en": "bill/account", "pronunciation": "SMET-ka", "example": "Сметката за вода е тридесет лева.", "type": "noun" },
+    { "bg": "наем", "en": "rent", "pronunciation": "na-EM", "example": "Наемът на апартамента е шестстотин лева.", "type": "noun" },
+    { "bg": "застраховка", "en": "insurance", "pronunciation": "za-stra-HOV-ka", "example": "Застраховката на колата е скъпа.", "type": "noun" },
+    { "bg": "пенсия", "en": "pension", "pronunciation": "PEN-si-ya", "example": "Пенсията на баба е петстотин лева.", "type": "noun" },
+    { "bg": "издръжка", "en": "cost of living/alimony", "pronunciation": "iz-DRUZH-ka", "example": "Издръжката в София е по-висока от провинцията.", "type": "noun" },
+    { "bg": "намаление", "en": "discount/sale", "pronunciation": "na-ma-LE-ni-e", "example": "Чакам намаленията, за да пазарувам.", "type": "noun" },
+    { "bg": "пестелив", "en": "frugal/thrifty", "pronunciation": "pes-te-LIV", "example": "Баба е много пестелива с парите.", "type": "adjective" }
+  ]
+}
