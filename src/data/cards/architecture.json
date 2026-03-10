@@ -1,0 +1,28 @@
+{
+  "category": "Architecture",
+  "cards": [
+    { "bg": "сграда", "en": "building", "pronunciation": "SGRA-da", "example": "Тази сграда е построена през деветнадесети век.", "type": "noun" },
+    { "bg": "архитект", "en": "architect", "pronunciation": "ar-hi-TEKT", "example": "Архитектът проектира новата библиотека.", "type": "noun" },
+    { "bg": "проект", "en": "design/project", "pronunciation": "pro-EKT", "example": "Проектът за новия мост е одобрен.", "type": "noun" },
+    { "bg": "стена", "en": "wall", "pronunciation": "ste-NA", "example": "Стените са дебели и здрави.", "type": "noun" },
+    { "bg": "покрив", "en": "roof", "pronunciation": "po-KRIV", "example": "Покривът е покрит с керемиди.", "type": "noun" },
+    { "bg": "колона", "en": "column/pillar", "pronunciation": "ko-LO-na", "example": "Колоните на църквата са от мрамор.", "type": "noun" },
+    { "bg": "арка", "en": "arch", "pronunciation": "AR-ka", "example": "Арката на входа е красиво украсена.", "type": "noun" },
+    { "bg": "купол", "en": "dome", "pronunciation": "KU-pol", "example": "Куполът на Александър Невски е позлатен.", "type": "noun" },
+    { "bg": "мост", "en": "bridge", "pronunciation": "most", "example": "Мостът свързва двата бряга на реката.", "type": "noun" },
+    { "bg": "фасада", "en": "facade", "pronunciation": "fa-SA-da", "example": "Фасадата на сградата е реставрирана.", "type": "noun" },
+    { "bg": "балкон", "en": "balcony", "pronunciation": "bal-KON", "example": "От балкона се вижда Витоша.", "type": "noun" },
+    { "bg": "стълбище", "en": "staircase", "pronunciation": "STUL-bish-te", "example": "Стълбището е от бял мрамор.", "type": "noun" },
+    { "bg": "основа", "en": "foundation", "pronunciation": "os-NO-va", "example": "Основите на сградата са здрави.", "type": "noun" },
+    { "bg": "тухла", "en": "brick", "pronunciation": "TUH-la", "example": "Къщата е построена от червени тухли.", "type": "noun" },
+    { "bg": "камък", "en": "stone", "pronunciation": "KA-muk", "example": "Старите крепости са от камък.", "type": "noun" },
+    { "bg": "мрамор", "en": "marble", "pronunciation": "MRA-mor", "example": "Подът е от италиански мрамор.", "type": "noun" },
+    { "bg": "църква", "en": "church", "pronunciation": "TSURK-va", "example": "Боянската църква е под закрилата на ЮНЕСКО.", "type": "noun" },
+    { "bg": "крепост", "en": "fortress", "pronunciation": "KRE-post", "example": "Крепостта Царевец е във Велико Търново.", "type": "noun" },
+    { "bg": "кула", "en": "tower", "pronunciation": "KU-la", "example": "Кулата е висока тридесет метра.", "type": "noun" },
+    { "bg": "строя", "en": "to build/construct", "pronunciation": "stro-YA", "example": "Строят нов квартал в покрайнините.", "type": "verb" },
+    { "bg": "реставрирам", "en": "to restore", "pronunciation": "res-tav-RI-ram", "example": "Реставрираха старата къща в центъра.", "type": "verb" },
+    { "bg": "възрожденска къща", "en": "Revival-era house", "pronunciation": "vuz-rozh-DEN-ska KU-shta", "example": "Възрожденските къщи в Копривщица са уникални.", "type": "noun" },
+    { "bg": "паметник", "en": "monument", "pronunciation": "pa-MET-nik", "example": "Паметникът на свободата е на връх Шипка.", "type": "noun" }
+  ]
+}
