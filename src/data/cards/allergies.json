@@ -1,0 +1,29 @@
+{
+  "category": "Allergies",
+  "cards": [
+    { "bg": "алергия", "en": "allergy", "pronunciation": "a-ler-GI-ya", "example": "Имам алергия към фъстъци.", "type": "noun" },
+    { "bg": "алергичен", "en": "allergic", "pronunciation": "a-ler-GI-chen", "example": "Алергичен съм към прашец.", "type": "adjective" },
+    { "bg": "прашец", "en": "pollen", "pronunciation": "pra-SHETS", "example": "Напролет прашецът е навсякъде.", "type": "noun" },
+    { "bg": "сенна хрема", "en": "hay fever", "pronunciation": "SEN-na HRE-ma", "example": "Сенната хрема ме мъчи от март до юни.", "type": "noun" },
+    { "bg": "кихам", "en": "to sneeze", "pronunciation": "KI-ham", "example": "Кихам непрекъснато от алергията.", "type": "verb" },
+    { "bg": "сърбеж", "en": "itch/itching", "pronunciation": "sur-BEZH", "example": "Имам ужасен сърбеж по ръцете.", "type": "noun" },
+    { "bg": "сърби ме", "en": "it itches / I'm itchy", "pronunciation": "SUR-bi me", "example": "Сърби ме цялото тяло от обрива.", "type": "phrase" },
+    { "bg": "обрив", "en": "rash", "pronunciation": "OB-riv", "example": "Получих обрив след ягодите.", "type": "noun" },
+    { "bg": "подуване", "en": "swelling", "pronunciation": "po-DU-va-ne", "example": "Подуването на лицето е сериозен симптом.", "type": "noun" },
+    { "bg": "подувам се", "en": "to swell", "pronunciation": "po-DU-vam se", "example": "Устните ми се подуха от ухапване.", "type": "verb" },
+    { "bg": "антихистамин", "en": "antihistamine", "pronunciation": "an-ti-his-ta-MIN", "example": "Взех антихистамин и ми олекна.", "type": "noun" },
+    { "bg": "хранителна алергия", "en": "food allergy", "pronunciation": "hra-NI-tel-na a-ler-GI-ya", "example": "Хранителните алергии могат да бъдат опасни.", "type": "noun" },
+    { "bg": "непоносимост", "en": "intolerance", "pronunciation": "ne-po-no-SI-most", "example": "Имам непоносимост към лактоза.", "type": "noun" },
+    { "bg": "лактоза", "en": "lactose", "pronunciation": "lak-TO-za", "example": "Има ли ястия без лактоза в менюто?", "type": "noun" },
+    { "bg": "глутен", "en": "gluten", "pronunciation": "glu-TEN", "example": "Търся хляб без глутен.", "type": "noun" },
+    { "bg": "фъстъци", "en": "peanuts", "pronunciation": "fus-TU-tsi", "example": "Внимание: съдържа фъстъци!", "type": "noun" },
+    { "bg": "ухапване", "en": "sting/bite", "pronunciation": "u-HAP-va-ne", "example": "Ухапването от пчела може да е опасно при алергия.", "type": "noun" },
+    { "bg": "пчела", "en": "bee", "pronunciation": "pche-LA", "example": "Алергичен съм към ужилване от пчела.", "type": "noun" },
+    { "bg": "анафилактичен шок", "en": "anaphylactic shock", "pronunciation": "a-na-fi-lak-TI-chen shok", "example": "Анафилактичният шок изисква спешна помощ.", "type": "noun" },
+    { "bg": "инжекция", "en": "injection/shot", "pronunciation": "in-ZHEK-tsi-ya", "example": "Нося спешна инжекция с адреналин.", "type": "noun" },
+    { "bg": "очите ми сълзят", "en": "my eyes are watering", "pronunciation": "o-CHI-te mi sul-ZYAT", "example": "Очите ми сълзят от прашеца.", "type": "phrase" },
+    { "bg": "задух", "en": "shortness of breath", "pronunciation": "za-DUH", "example": "При задух веднага потърси лекар.", "type": "noun" },
+    { "bg": "астма", "en": "asthma", "pronunciation": "AST-ma", "example": "Алергията може да предизвика астма.", "type": "noun" },
+    { "bg": "инхалатор", "en": "inhaler", "pronunciation": "in-ha-LA-tor", "example": "Винаги нося инхалатора си.", "type": "noun" }
+  ]
+}
