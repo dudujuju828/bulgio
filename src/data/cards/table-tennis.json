@@ -1,0 +1,27 @@
+{
+  "category": "Table Tennis & Badminton",
+  "cards": [
+    { "bg": "тенис на маса", "en": "table tennis/ping pong", "pronunciation": "TE-nis na MA-sa", "example": "Тенисът на маса е бърз и забавен спорт.", "type": "noun" },
+    { "bg": "хилка", "en": "paddle/racket (table tennis)", "pronunciation": "HIL-ka", "example": "Хилката е с гумена повърхност от двете страни.", "type": "noun" },
+    { "bg": "топче", "en": "ball (small/ping pong)", "pronunciation": "TOP-che", "example": "Топчето е леко и подскача високо.", "type": "noun" },
+    { "bg": "маса", "en": "table", "pronunciation": "MA-sa", "example": "Масата за тенис е синя с бяла мрежа.", "type": "noun" },
+    { "bg": "мрежа", "en": "net", "pronunciation": "mre-ZHA", "example": "Мрежата разделя масата на две половини.", "type": "noun" },
+    { "bg": "сервис", "en": "serve", "pronunciation": "SER-vis", "example": "Сервисът трябва да подскочи от твоята страна.", "type": "noun" },
+    { "bg": "сервирам", "en": "to serve", "pronunciation": "ser-VI-ram", "example": "Сервирам с обратно въртене.", "type": "verb" },
+    { "bg": "форхенд", "en": "forehand", "pronunciation": "for-HEND", "example": "Форхендът му е много силен.", "type": "noun" },
+    { "bg": "бекхенд", "en": "backhand", "pronunciation": "bek-HEND", "example": "Бекхендът е по-труден за начинаещи.", "type": "noun" },
+    { "bg": "въртене", "en": "spin", "pronunciation": "vur-TE-ne", "example": "Въртенето на топчето го прави непредвидимо.", "type": "noun" },
+    { "bg": "смаш", "en": "smash", "pronunciation": "smash", "example": "Смашът завърши точката.", "type": "noun" },
+    { "bg": "бадминтон", "en": "badminton", "pronunciation": "bad-min-TON", "example": "Бадминтонът е популярен в парковете.", "type": "noun" },
+    { "bg": "ракета", "en": "racket (badminton)", "pronunciation": "ra-KE-ta", "example": "Ракетата за бадминтон е по-лека от тенис ракетата.", "type": "noun" },
+    { "bg": "перо", "en": "shuttlecock/birdie", "pronunciation": "pe-RO", "example": "Перото лети по-бавно от тенис топка.", "type": "noun" },
+    { "bg": "двойки", "en": "doubles", "pronunciation": "DVOY-ki", "example": "Играем на двойки — двама срещу двама.", "type": "noun" },
+    { "bg": "единични", "en": "singles", "pronunciation": "e-di-NICH-ni", "example": "Единичните изискват повече движение.", "type": "noun" },
+    { "bg": "точка", "en": "point", "pronunciation": "TOCH-ka", "example": "Играта е до единадесет точки.", "type": "noun" },
+    { "bg": "сет", "en": "set/game", "pronunciation": "set", "example": "Мачът е от пет сета.", "type": "noun" },
+    { "bg": "деус", "en": "deuce (tied score)", "pronunciation": "de-US", "example": "При деус трябва два поредни точки за победа.", "type": "noun" },
+    { "bg": "подскачане", "en": "bounce", "pronunciation": "pod-SKA-cha-ne", "example": "Топчето трябва да подскочи веднъж преди удар.", "type": "noun" },
+    { "bg": "отбранителен", "en": "defensive", "pronunciation": "ot-bra-NI-te-len", "example": "Отбранителният стил е с далечни топки.", "type": "adjective" },
+    { "bg": "нападателен", "en": "offensive/attacking", "pronunciation": "na-pa-DA-te-len", "example": "Нападателният стил е с бързи смашове.", "type": "adjective" }
+  ]
+}
