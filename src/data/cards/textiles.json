@@ -1,0 +1,28 @@
+{
+  "category": "Textiles & Fabrics",
+  "cards": [
+    { "bg": "текстил", "en": "textile", "pronunciation": "teks-TIL", "example": "Текстилната промишленост е важна за България.", "type": "noun" },
+    { "bg": "плат", "en": "fabric/cloth", "pronunciation": "plat", "example": "Избрах памучен плат за ризата.", "type": "noun" },
+    { "bg": "памук", "en": "cotton", "pronunciation": "pa-MUK", "example": "Памукът е приятен за лятото.", "type": "noun" },
+    { "bg": "вълна", "en": "wool", "pronunciation": "VUL-na", "example": "Пуловерът е от чиста вълна.", "type": "noun" },
+    { "bg": "коприна", "en": "silk", "pronunciation": "kop-ri-NA", "example": "Копринената рокля е за специални поводи.", "type": "noun" },
+    { "bg": "лен", "en": "linen", "pronunciation": "len", "example": "Ленените дрехи са перфектни за горещо време.", "type": "noun" },
+    { "bg": "кожа", "en": "leather", "pronunciation": "KO-zha", "example": "Якето е от естествена кожа.", "type": "noun" },
+    { "bg": "дънков плат", "en": "denim", "pronunciation": "DUN-kov plat", "example": "Дънковият плат е здрав и издръжлив.", "type": "noun" },
+    { "bg": "полиестер", "en": "polyester", "pronunciation": "po-li-es-TER", "example": "Полиестерът съхне бързо, но не диша.", "type": "noun" },
+    { "bg": "кадифе", "en": "velvet", "pronunciation": "ka-di-FE", "example": "Кадифената възглавница е мека на допир.", "type": "noun" },
+    { "bg": "сатен", "en": "satin", "pronunciation": "sa-TEN", "example": "Булчинската рокля е от бял сатен.", "type": "noun" },
+    { "bg": "дантела", "en": "lace", "pronunciation": "dan-TE-la", "example": "Дантелата по ръкавите е ръчно изработена.", "type": "noun" },
+    { "bg": "плетиво", "en": "knit/knitwear", "pronunciation": "ple-TI-vo", "example": "Плетивото е меко и топло.", "type": "noun" },
+    { "bg": "плета", "en": "to knit", "pronunciation": "ple-TA", "example": "Баба плете чорапи всяка зима.", "type": "verb" },
+    { "bg": "тъка", "en": "to weave", "pronunciation": "tu-KA", "example": "В Родопите тъкат килими на стан.", "type": "verb" },
+    { "bg": "стан", "en": "loom", "pronunciation": "stan", "example": "Старинният стан е в етнографския музей.", "type": "noun" },
+    { "bg": "бродерия", "en": "embroidery", "pronunciation": "bro-de-RI-ya", "example": "Бродерията по ризата е с традиционни мотиви.", "type": "noun" },
+    { "bg": "шевица", "en": "shevitsa (Bulgarian folk embroidery)", "pronunciation": "she-VI-tsa", "example": "Всеки регион има своя характерна шевица.", "type": "noun" },
+    { "bg": "прежда", "en": "yarn", "pronunciation": "PREZH-da", "example": "Купих червена и синя прежда за плетене.", "type": "noun" },
+    { "bg": "нишка", "en": "thread/fiber", "pronunciation": "NISH-ka", "example": "Нишката на плата е здрава.", "type": "noun" },
+    { "bg": "щампа", "en": "print/pattern (on fabric)", "pronunciation": "SHTAM-pa", "example": "Блузата е с цветна щампа.", "type": "noun" },
+    { "bg": "райе", "en": "stripes", "pronunciation": "ra-YE", "example": "Ризата е на бяло и синьо райе.", "type": "noun" },
+    { "bg": "каре", "en": "plaid/checkered", "pronunciation": "ka-RE", "example": "Шалът е на червено-черно каре.", "type": "noun" }
+  ]
+}
