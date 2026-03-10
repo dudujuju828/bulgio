@@ -1,0 +1,27 @@
+{
+  "category": "Soap Making & Natural Cosmetics",
+  "cards": [
+    { "bg": "сапун", "en": "soap", "pronunciation": "sa-PUN", "example": "Ръчно направеният сапун е с натурални съставки.", "type": "noun" },
+    { "bg": "правя сапун", "en": "to make soap", "pronunciation": "PRA-vya sa-PUN", "example": "Правя сапун от зехтин и лавандула.", "type": "verb" },
+    { "bg": "натурална козметика", "en": "natural cosmetics", "pronunciation": "na-tu-RAL-na koz-ME-ti-ka", "example": "Натуралната козметика не съдържа химикали.", "type": "noun" },
+    { "bg": "сода каустик", "en": "lye/sodium hydroxide", "pronunciation": "SO-da ka-us-TIK", "example": "Сода каустик е необходима за студения процес.", "type": "noun" },
+    { "bg": "студен процес", "en": "cold process", "pronunciation": "stu-DEN pro-TSES", "example": "Студеният процес запазва свойствата на маслата.", "type": "noun" },
+    { "bg": "горещ процес", "en": "hot process", "pronunciation": "go-RESHT pro-TSES", "example": "Горещият процес е по-бърз от студения.", "type": "noun" },
+    { "bg": "масло", "en": "oil", "pronunciation": "mas-LO", "example": "Кокосовото масло прави сапуна твърд и пенлив.", "type": "noun" },
+    { "bg": "зехтин", "en": "olive oil", "pronunciation": "zeh-TIN", "example": "Зехтинът е основа на кастилския сапун.", "type": "noun" },
+    { "bg": "масло от шеа", "en": "shea butter", "pronunciation": "mas-LO ot she-A", "example": "Маслото от шеа овлажнява кожата.", "type": "noun" },
+    { "bg": "кокосово масло", "en": "coconut oil", "pronunciation": "ko-KO-so-vo mas-LO", "example": "Кокосовото масло създава обилна пяна.", "type": "noun" },
+    { "bg": "глицерин", "en": "glycerin", "pronunciation": "gli-tse-RIN", "example": "Глицеринът се образува при сапунификацията.", "type": "noun" },
+    { "bg": "сапунификация", "en": "saponification", "pronunciation": "sa-pu-ni-fi-KA-tsi-ya", "example": "Сапунификацията е химичната реакция при правене на сапун.", "type": "noun" },
+    { "bg": "етерично масло", "en": "essential oil", "pronunciation": "e-te-RICH-no mas-LO", "example": "Етеричното масло от роза е скъпо, но ухае божествено.", "type": "noun" },
+    { "bg": "пяна", "en": "lather/foam", "pronunciation": "PYA-na", "example": "Пяната е гъста и кремообразна.", "type": "noun" },
+    { "bg": "форма за сапун", "en": "soap mold", "pronunciation": "FOR-ma za sa-PUN", "example": "Формата за сапун е от силикон.", "type": "noun" },
+    { "bg": "нарязвам", "en": "to cut (into bars)", "pronunciation": "na-RYAZ-vam", "example": "Нарязвам сапуна на парчета след два дни.", "type": "verb" },
+    { "bg": "зреене", "en": "curing", "pronunciation": "zre-E-ne", "example": "Зреенето отнема четири до шест седмици.", "type": "noun" },
+    { "bg": "оцветител", "en": "colorant", "pronunciation": "ots-ve-TI-tel", "example": "Използвам глина като натурален оцветител.", "type": "noun" },
+    { "bg": "ексфолиант", "en": "exfoliant", "pronunciation": "eks-fo-li-ANT", "example": "Овесените ядки са мек ексфолиант.", "type": "noun" },
+    { "bg": "балсам за устни", "en": "lip balm", "pronunciation": "bal-SAM za ust-NI", "example": "Балсамът за устни е с пчелен восък и мед.", "type": "noun" },
+    { "bg": "крем", "en": "cream/lotion", "pronunciation": "krem", "example": "Кремът за ръце е с масло от лавандула.", "type": "noun" },
+    { "bg": "опаковка", "en": "packaging", "pronunciation": "o-pa-KOV-ka", "example": "Опаковката е от рециклирана хартия.", "type": "noun" }
+  ]
+}
