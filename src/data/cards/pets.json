@@ -1,0 +1,25 @@
+{
+  "category": "Pets",
+  "cards": [
+    { "bg": "домашен любимец", "en": "pet", "pronunciation": "do-MA-shen lyu-BI-mets", "example": "Имаш ли домашен любимец?", "type": "noun" },
+    { "bg": "кученце", "en": "puppy", "pronunciation": "ku-CHEN-tse", "example": "Кученцето е много игриво.", "type": "noun" },
+    { "bg": "коте", "en": "kitten", "pronunciation": "ko-TE", "example": "Котето мърка на дивана.", "type": "noun" },
+    { "bg": "папагал", "en": "parrot", "pronunciation": "pa-pa-GAL", "example": "Папагалът говори няколко думи.", "type": "noun" },
+    { "bg": "хамстер", "en": "hamster", "pronunciation": "HAM-ster", "example": "Хамстерът тича в колелото.", "type": "noun" },
+    { "bg": "костенурка", "en": "turtle/tortoise", "pronunciation": "kos-te-NUR-ka", "example": "Костенурката се движи бавно.", "type": "noun" },
+    { "bg": "аквариум", "en": "aquarium", "pronunciation": "ak-VA-ri-um", "example": "В аквариума има златни рибки.", "type": "noun" },
+    { "bg": "ветеринар", "en": "veterinarian", "pronunciation": "ve-te-ri-NAR", "example": "Водих кучето при ветеринаря.", "type": "noun" },
+    { "bg": "храна за кучета", "en": "dog food", "pronunciation": "HRA-na za ku-CHE-ta", "example": "Купих нова храна за кучето.", "type": "noun" },
+    { "bg": "каишка", "en": "leash", "pronunciation": "ka-ISH-ka", "example": "Сложи каишката на кучето за разходка.", "type": "noun" },
+    { "bg": "ваксина", "en": "vaccine", "pronunciation": "vak-SI-na", "example": "Котката трябва да получи ваксина.", "type": "noun" },
+    { "bg": "нокти", "en": "claws/nails", "pronunciation": "NOK-ti", "example": "Котката има остри нокти.", "type": "noun" },
+    { "bg": "козина", "en": "fur", "pronunciation": "ko-ZI-na", "example": "Козината на кучето е мека.", "type": "noun" },
+    { "bg": "опашка", "en": "tail", "pronunciation": "o-PASH-ka", "example": "Кучето маха с опашка.", "type": "noun" },
+    { "bg": "клетка", "en": "cage", "pronunciation": "KLET-ka", "example": "Папагалът е в клетката.", "type": "noun" },
+    { "bg": "разхождам", "en": "to walk (a pet)", "pronunciation": "raz-HOZH-dam", "example": "Разхождам кучето два пъти на ден.", "type": "verb" },
+    { "bg": "храня", "en": "to feed", "pronunciation": "HRA-nya", "example": "Храня котката сутрин и вечер.", "type": "verb" },
+    { "bg": "лая", "en": "to bark", "pronunciation": "LA-ya", "example": "Кучето лае на непознати.", "type": "verb" },
+    { "bg": "мърка", "en": "to purr", "pronunciation": "MUR-ka", "example": "Котката мърка, когато я галя.", "type": "verb" },
+    { "bg": "галя", "en": "to pet/stroke", "pronunciation": "GA-lya", "example": "Обичам да галя котката.", "type": "verb" }
+  ]
+}
