@@ -1,0 +1,26 @@
+{
+  "category": "Communication",
+  "cards": [
+    { "bg": "говоря", "en": "to speak/talk", "pronunciation": "go-VO-rya", "example": "Говорите ли английски?", "type": "verb" },
+    { "bg": "казвам", "en": "to say/tell", "pronunciation": "KAZ-vam", "example": "Какво каза той?", "type": "verb" },
+    { "bg": "питам", "en": "to ask", "pronunciation": "PI-tam", "example": "Мога ли да те питам нещо?", "type": "verb" },
+    { "bg": "отговарям", "en": "to answer/reply", "pronunciation": "ot-go-VA-ryam", "example": "Отговори ми на въпроса.", "type": "verb" },
+    { "bg": "обяснявам", "en": "to explain", "pronunciation": "ob-yas-NYA-vam", "example": "Можете ли да обясните отново?", "type": "verb" },
+    { "bg": "разбирам", "en": "to understand", "pronunciation": "raz-BI-ram", "example": "Не разбирам какво казваш.", "type": "verb" },
+    { "bg": "повтарям", "en": "to repeat", "pronunciation": "pov-TA-ryam", "example": "Моля, повторете по-бавно.", "type": "verb" },
+    { "bg": "превеждам", "en": "to translate", "pronunciation": "pre-VEZH-dam", "example": "Можеш ли да преведеш това?", "type": "verb" },
+    { "bg": "обаждам се", "en": "to call (phone)", "pronunciation": "o-BAZH-dam se", "example": "Ще ти се обадя довечера.", "type": "verb" },
+    { "bg": "разговор", "en": "conversation", "pronunciation": "raz-go-VOR", "example": "Имахме интересен разговор.", "type": "noun" },
+    { "bg": "въпрос", "en": "question", "pronunciation": "vup-ROS", "example": "Имам въпрос към вас.", "type": "noun" },
+    { "bg": "отговор", "en": "answer", "pronunciation": "ot-go-VOR", "example": "Отговорът е много прост.", "type": "noun" },
+    { "bg": "мнение", "en": "opinion", "pronunciation": "MNE-ni-e", "example": "Какво е твоето мнение?", "type": "noun" },
+    { "bg": "съгласен съм", "en": "I agree", "pronunciation": "su-GLA-sen sum", "example": "Напълно съм съгласен с теб.", "type": "phrase" },
+    { "bg": "не съм съгласен", "en": "I disagree", "pronunciation": "ne sum su-GLA-sen", "example": "Не съм съгласен с решението.", "type": "phrase" },
+    { "bg": "мисля", "en": "to think", "pronunciation": "MIS-lya", "example": "Мисля, че си прав.", "type": "verb" },
+    { "bg": "език", "en": "language", "pronunciation": "e-ZIK", "example": "Колко езика говориш?", "type": "noun" },
+    { "bg": "дума", "en": "word", "pronunciation": "DU-ma", "example": "Не знам тази дума на български.", "type": "noun" },
+    { "bg": "изречение", "en": "sentence", "pronunciation": "iz-re-CHE-ni-e", "example": "Напиши правилно изречението.", "type": "noun" },
+    { "bg": "шепна", "en": "to whisper", "pronunciation": "SHEP-na", "example": "Тя ми шепна тайна.", "type": "verb" },
+    { "bg": "крещя", "en": "to shout/yell", "pronunciation": "kre-SHTYA", "example": "Не крещи, чувам те добре.", "type": "verb" }
+  ]
+}
