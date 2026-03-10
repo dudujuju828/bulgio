@@ -1,0 +1,28 @@
+{
+  "category": "Veterinary",
+  "cards": [
+    { "bg": "ветеринар", "en": "veterinarian/vet", "pronunciation": "ve-te-ri-NAR", "example": "Заведох котката при ветеринаря.", "type": "noun" },
+    { "bg": "ветеринарна клиника", "en": "veterinary clinic", "pronunciation": "ve-te-ri-NAR-na KLI-ni-ka", "example": "Ветеринарната клиника работи денонощно.", "type": "noun" },
+    { "bg": "ваксина", "en": "vaccine", "pronunciation": "vak-SI-na", "example": "Кучето трябва да получи ваксина всяка година.", "type": "noun" },
+    { "bg": "ваксинирам", "en": "to vaccinate", "pronunciation": "vak-si-NI-ram", "example": "Ваксинирахме котенцето на два месеца.", "type": "verb" },
+    { "bg": "преглед", "en": "checkup/examination", "pronunciation": "PREG-led", "example": "Водя кучето на преглед два пъти годишно.", "type": "noun" },
+    { "bg": "кастрация", "en": "neutering/spaying", "pronunciation": "kas-TRA-tsi-ya", "example": "Кастрацията е препоръчителна за домашни котки.", "type": "noun" },
+    { "bg": "операция", "en": "surgery/operation", "pronunciation": "o-pe-RA-tsi-ya", "example": "Операцията на кучето мина успешно.", "type": "noun" },
+    { "bg": "лекарство", "en": "medicine/medication", "pronunciation": "le-KAR-stvo", "example": "Давай лекарството два пъти на ден с храната.", "type": "noun" },
+    { "bg": "таблетка", "en": "pill/tablet", "pronunciation": "tab-LET-ka", "example": "Котката отказва да глътне таблетката.", "type": "noun" },
+    { "bg": "обезпаразитяване", "en": "deworming", "pronunciation": "o-bez-pa-ra-zi-TYA-va-ne", "example": "Обезпаразитяването се прави на всеки три месеца.", "type": "noun" },
+    { "bg": "кърлеж", "en": "tick", "pronunciation": "kur-LEZH", "example": "Намерих кърлеж на кучето след разходката.", "type": "noun" },
+    { "bg": "бълха", "en": "flea", "pronunciation": "BUL-ha", "example": "Котката се чеше — може да има бълхи.", "type": "noun" },
+    { "bg": "нашийник", "en": "collar", "pronunciation": "na-SHIY-nik", "example": "Купих нашийник против бълхи и кърлежи.", "type": "noun" },
+    { "bg": "каишка", "en": "leash", "pronunciation": "ka-ISH-ka", "example": "В парка кучето трябва да е на каишка.", "type": "noun" },
+    { "bg": "храна за животни", "en": "pet food", "pronunciation": "hra-NA za zhi-VOT-ni", "example": "Купувам храна за животни от зоомагазина.", "type": "noun" },
+    { "bg": "зоомагазин", "en": "pet store", "pronunciation": "zo-o-ma-ga-ZIN", "example": "Зоомагазинът на ъгъла има всичко необходимо.", "type": "noun" },
+    { "bg": "микрочип", "en": "microchip", "pronunciation": "mik-ro-CHIP", "example": "Всяко куче трябва да има микрочип.", "type": "noun" },
+    { "bg": "паспорт за животно", "en": "pet passport", "pronunciation": "PAS-port za zhi-VOT-no", "example": "За пътуване в чужбина ти трябва паспорт за животното.", "type": "noun" },
+    { "bg": "приют", "en": "animal shelter", "pronunciation": "pri-YUT", "example": "Осиновихме куче от приюта.", "type": "noun" },
+    { "bg": "осиновявам", "en": "to adopt (a pet)", "pronunciation": "o-si-no-VYA-vam", "example": "Осиновихме бездомна котка от улицата.", "type": "verb" },
+    { "bg": "порода", "en": "breed", "pronunciation": "po-RO-da", "example": "Каква порода е кучето ти?", "type": "noun" },
+    { "bg": "бездомен", "en": "stray/homeless", "pronunciation": "bez-DO-men", "example": "В София има много бездомни кучета.", "type": "adjective" },
+    { "bg": "лапа", "en": "paw", "pronunciation": "LA-pa", "example": "Кучето нарани лапата си на стъклото.", "type": "noun" }
+  ]
+}
