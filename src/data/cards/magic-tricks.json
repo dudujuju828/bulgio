@@ -1,0 +1,28 @@
+{
+  "category": "Magic Tricks & Illusions",
+  "cards": [
+    { "bg": "магьосник", "en": "magician", "pronunciation": "ma-GYOS-nik", "example": "Магьосникът излезе на сцената с цилиндър.", "type": "noun" },
+    { "bg": "фокус", "en": "magic trick", "pronunciation": "FO-kus", "example": "Фокусът с картите изненада публиката.", "type": "noun" },
+    { "bg": "илюзия", "en": "illusion", "pronunciation": "i-LYU-zi-ya", "example": "Илюзията създаваше впечатление, че жената изчезва.", "type": "noun" },
+    { "bg": "илюзионист", "en": "illusionist", "pronunciation": "i-lyu-zi-o-NIST", "example": "Илюзионистът разряза кутията на две.", "type": "noun" },
+    { "bg": "карти", "en": "cards (playing)", "pronunciation": "KAR-ti", "example": "Избери една карта и я запомни.", "type": "noun" },
+    { "bg": "тесте", "en": "deck (of cards)", "pronunciation": "tes-TE", "example": "Разбърках тестето пред публиката.", "type": "noun" },
+    { "bg": "вълшебна пръчка", "en": "magic wand", "pronunciation": "vul-SHEB-na pruch-KA", "example": "Вълшебната пръчка е класически реквизит.", "type": "noun" },
+    { "bg": "цилиндър", "en": "top hat (magician's)", "pronunciation": "tsi-LIN-dur", "example": "Извади заек от цилиндъра.", "type": "noun" },
+    { "bg": "изчезвам", "en": "to disappear/vanish", "pronunciation": "iz-chez-VAM", "example": "Монетата изчезна от ръката ми.", "type": "verb" },
+    { "bg": "появявам се", "en": "to appear", "pronunciation": "po-ya-VYA-vam se", "example": "Гълъбът се появи от нищото.", "type": "verb" },
+    { "bg": "трик", "en": "trick", "pronunciation": "trik", "example": "Трикът изисква бързи ръце.", "type": "noun" },
+    { "bg": "тайна", "en": "secret", "pronunciation": "TAY-na", "example": "Тайната на фокуса не се разкрива.", "type": "noun" },
+    { "bg": "реквизит", "en": "prop", "pronunciation": "rek-vi-ZIT", "example": "Реквизитите включват кутии, шалове и пръстени.", "type": "noun" },
+    { "bg": "асистент", "en": "assistant", "pronunciation": "a-sis-TENT", "example": "Асистентката влезе в кутията за трика.", "type": "noun" },
+    { "bg": "левитация", "en": "levitation", "pronunciation": "le-vi-TA-tsi-ya", "example": "Левитацията изглеждаше напълно истинска.", "type": "noun" },
+    { "bg": "хипноза", "en": "hypnosis", "pronunciation": "hip-NO-za", "example": "Хипнозата е част от шоуто.", "type": "noun" },
+    { "bg": "ръкав", "en": "sleeve", "pronunciation": "ru-KAV", "example": "Монетата беше скрита в ръкава.", "type": "noun" },
+    { "bg": "разбъркване", "en": "shuffling", "pronunciation": "raz-BUR-kva-ne", "example": "Разбъркването на картите беше впечатляващо.", "type": "noun" },
+    { "bg": "публика", "en": "audience", "pronunciation": "PUB-li-ka", "example": "Публиката аплодира след всеки фокус.", "type": "noun" },
+    { "bg": "доброволец", "en": "volunteer (from audience)", "pronunciation": "dob-ro-VO-lets", "example": "Имам нужда от доброволец от публиката.", "type": "noun" },
+    { "bg": "ловкост на ръцете", "en": "sleight of hand", "pronunciation": "LOV-kost na ru-TSE-te", "example": "Ловкостта на ръцете е основно умение на магьосника.", "type": "noun" },
+    { "bg": "отгатвам", "en": "to guess/reveal", "pronunciation": "ot-GAT-vam", "example": "Отгатна картата, която избрах.", "type": "verb" },
+    { "bg": "абракадабра", "en": "abracadabra", "pronunciation": "ab-ra-ka-DAB-ra", "example": "Каза „абракадабра" и заекът се появи.", "type": "interjection" }
+  ]
+}
