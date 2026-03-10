@@ -1,0 +1,27 @@
+{
+  "category": "Pharmacy",
+  "cards": [
+    { "bg": "аптека", "en": "pharmacy", "pronunciation": "ap-TE-ka", "example": "Аптеката е отворена денонощно.", "type": "noun" },
+    { "bg": "фармацевт", "en": "pharmacist", "pronunciation": "far-ma-TSEVT", "example": "Фармацевтът ме посъветва кое лекарство да взема.", "type": "noun" },
+    { "bg": "таблетка", "en": "pill/tablet", "pronunciation": "tab-LET-ka", "example": "Вземам две таблетки на ден.", "type": "noun" },
+    { "bg": "сироп", "en": "syrup", "pronunciation": "si-ROP", "example": "Детският сироп за кашлица е сладък.", "type": "noun" },
+    { "bg": "капки", "en": "drops", "pronunciation": "KAP-ki", "example": "Слагам капки за очи три пъти на ден.", "type": "noun" },
+    { "bg": "мехлем", "en": "ointment/cream", "pronunciation": "meh-LEM", "example": "Мехлемът помага при изгаряне.", "type": "noun" },
+    { "bg": "пластир", "en": "band-aid/plaster", "pronunciation": "plas-TIR", "example": "Сложих пластир на раничката.", "type": "noun" },
+    { "bg": "бинт", "en": "bandage/gauze", "pronunciation": "bint", "example": "Превързах ръката с бинт.", "type": "noun" },
+    { "bg": "термометър", "en": "thermometer", "pronunciation": "ter-mo-ME-tur", "example": "Измери температурата с термометъра.", "type": "noun" },
+    { "bg": "аспирин", "en": "aspirin", "pronunciation": "as-pi-RIN", "example": "Взех аспирин за главоболието.", "type": "noun" },
+    { "bg": "антибиотик", "en": "antibiotic", "pronunciation": "an-ti-bi-O-tik", "example": "Антибиотиците се купуват с рецепта.", "type": "noun" },
+    { "bg": "витамин", "en": "vitamin", "pronunciation": "vi-ta-MIN", "example": "Пия витамин C през зимата.", "type": "noun" },
+    { "bg": "болкоуспокояващо", "en": "painkiller", "pronunciation": "bol-ko-us-po-ko-YA-vasht-o", "example": "Дайте ми нещо болкоуспокояващо.", "type": "noun" },
+    { "bg": "дезинфектант", "en": "disinfectant", "pronunciation": "dez-in-fek-TANT", "example": "Почистих раната с дезинфектант.", "type": "noun" },
+    { "bg": "спрей за гърло", "en": "throat spray", "pronunciation": "sprey za GUR-lo", "example": "Спреят за гърло помага при болки.", "type": "noun" },
+    { "bg": "без рецепта", "en": "over the counter", "pronunciation": "bez re-TSEP-ta", "example": "Това лекарство се продава без рецепта.", "type": "phrase" },
+    { "bg": "с рецепта", "en": "by prescription", "pronunciation": "s re-TSEP-ta", "example": "Антибиотиците се продават само с рецепта.", "type": "phrase" },
+    { "bg": "странични ефекти", "en": "side effects", "pronunciation": "stra-NICH-ni e-FEK-ti", "example": "Прочети за страничните ефекти в листовката.", "type": "noun" },
+    { "bg": "доза", "en": "dose/dosage", "pronunciation": "DO-za", "example": "Не превишавай препоръчаната доза.", "type": "noun" },
+    { "bg": "листовка", "en": "leaflet/instructions", "pronunciation": "lis-TOV-ka", "example": "Прочети листовката преди употреба.", "type": "noun" },
+    { "bg": "хапче за алергия", "en": "allergy pill", "pronunciation": "HAP-che za a-ler-GI-ya", "example": "Взимам хапче за алергия всяка пролет.", "type": "noun" },
+    { "bg": "срок на годност", "en": "expiration date", "pronunciation": "srok na GOD-nost", "example": "Провери срока на годност на лекарството.", "type": "noun" }
+  ]
+}
