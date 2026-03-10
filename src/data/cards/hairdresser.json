@@ -1,0 +1,27 @@
+{
+  "category": "Hairdresser",
+  "cards": [
+    { "bg": "фризьор", "en": "hairdresser", "pronunciation": "fri-ZYOR", "example": "Ходя на фризьор веднъж в месеца.", "type": "noun" },
+    { "bg": "фризьорски салон", "en": "hair salon", "pronunciation": "fri-ZYOR-ski sa-LON", "example": "Фризьорският салон е на съседната улица.", "type": "noun" },
+    { "bg": "подстригвам", "en": "to cut hair", "pronunciation": "pod-STRIG-vam", "example": "Моля, подстрижете ме малко по-късо.", "type": "verb" },
+    { "bg": "подстрижка", "en": "haircut", "pronunciation": "pod-STRIZH-ka", "example": "Харесвам новата ти подстрижка.", "type": "noun" },
+    { "bg": "бръснар", "en": "barber", "pronunciation": "brus-NAR", "example": "Бръснарят ми оформя брадата.", "type": "noun" },
+    { "bg": "бръсна", "en": "to shave", "pronunciation": "BRUS-na", "example": "Бръсна се всяка сутрин.", "type": "verb" },
+    { "bg": "брада", "en": "beard", "pronunciation": "bra-DA", "example": "Той си пусна дълга брада.", "type": "noun" },
+    { "bg": "мустаци", "en": "mustache", "pronunciation": "mus-TA-tsi", "example": "Дядо ми има бели мустаци.", "type": "noun" },
+    { "bg": "боядисвам", "en": "to dye/color", "pronunciation": "bo-ya-DIS-vam", "example": "Искам да боядисам косата в тъмнорусо.", "type": "verb" },
+    { "bg": "кичур", "en": "streak/highlight", "pronunciation": "KI-chur", "example": "Направих светли кичури в косата.", "type": "noun" },
+    { "bg": "сешоар", "en": "hair dryer", "pronunciation": "se-sho-AR", "example": "Изсуших косата със сешоар.", "type": "noun" },
+    { "bg": "преса за коса", "en": "hair straightener", "pronunciation": "PRE-sa za ko-SA", "example": "Изправям косата с преса.", "type": "noun" },
+    { "bg": "маша", "en": "curling iron", "pronunciation": "MA-sha", "example": "Направих къдрици с машата.", "type": "noun" },
+    { "bg": "къдрици", "en": "curls", "pronunciation": "KUD-ri-tsi", "example": "Тя има красиви естествени къдрици.", "type": "noun" },
+    { "bg": "бретон", "en": "bangs/fringe", "pronunciation": "bre-TON", "example": "Искам да си направя бретон.", "type": "noun" },
+    { "bg": "шампоан", "en": "shampoo", "pronunciation": "sham-po-AN", "example": "Фризьорът ми изми косата с шампоан.", "type": "noun" },
+    { "bg": "гребен", "en": "comb", "pronunciation": "GRE-ben", "example": "Сресвам косата с гребен.", "type": "noun" },
+    { "bg": "четка за коса", "en": "hairbrush", "pronunciation": "CHET-ka za ko-SA", "example": "Четката за коса е в банята.", "type": "noun" },
+    { "bg": "ножица", "en": "scissors", "pronunciation": "no-ZHI-tsa", "example": "Фризьорът работи с остри ножици.", "type": "noun" },
+    { "bg": "лак за коса", "en": "hairspray", "pronunciation": "lak za ko-SA", "example": "Сложи малко лак за коса за фиксиране.", "type": "noun" },
+    { "bg": "опашка", "en": "ponytail", "pronunciation": "o-PASH-ka", "example": "Връзвам косата на опашка.", "type": "noun" },
+    { "bg": "плитка", "en": "braid", "pronunciation": "PLIT-ka", "example": "Мама ми плете плитка всяка сутрин.", "type": "noun" }
+  ]
+}
