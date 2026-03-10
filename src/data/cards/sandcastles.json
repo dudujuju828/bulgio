@@ -1,0 +1,27 @@
+{
+  "category": "Sand Sculptures & Beach Activities",
+  "cards": [
+    { "bg": "пясъчен замък", "en": "sandcastle", "pronunciation": "pya-SU-chen za-MUK", "example": "Децата построиха пясъчен замък на плажа.", "type": "noun" },
+    { "bg": "пясък", "en": "sand", "pronunciation": "pya-SUK", "example": "Пясъкът на Златни пясъци е фин и златист.", "type": "noun" },
+    { "bg": "плаж", "en": "beach", "pronunciation": "plazh", "example": "Плажът е дълъг три километра.", "type": "noun" },
+    { "bg": "кофичка", "en": "bucket/pail", "pronunciation": "ko-FICH-ka", "example": "Кофичката е за правене на пясъчни форми.", "type": "noun" },
+    { "bg": "лопатка", "en": "shovel (small)", "pronunciation": "lo-PAT-ka", "example": "Лопатката копае дупки в пясъка.", "type": "noun" },
+    { "bg": "форма", "en": "mold/shape", "pronunciation": "FOR-ma", "example": "Формата е с фигура на морска звезда.", "type": "noun" },
+    { "bg": "мида", "en": "seashell", "pronunciation": "MI-da", "example": "Мидите украсяват стените на замъка.", "type": "noun" },
+    { "bg": "вълна", "en": "wave", "pronunciation": "VUL-na", "example": "Вълната разруши пясъчния замък.", "type": "noun" },
+    { "bg": "прилив", "en": "tide", "pronunciation": "pri-LIV", "example": "Приливът залива плажа вечерта.", "type": "noun" },
+    { "bg": "слънчев чадър", "en": "beach umbrella/parasol", "pronunciation": "SLUN-chev cha-DUR", "example": "Слънчевият чадър пази от горещините.", "type": "noun" },
+    { "bg": "шезлонг", "en": "sun lounger/deckchair", "pronunciation": "shez-LONG", "example": "Шезлонгът е удобен за четене на книга.", "type": "noun" },
+    { "bg": "хавлия", "en": "towel", "pronunciation": "hav-LI-ya", "example": "Хавлията е голяма и цветна.", "type": "noun" },
+    { "bg": "слънцезащитен крем", "en": "sunscreen", "pronunciation": "slun-tse-za-SHTI-ten krem", "example": "Слънцезащитният крем е с фактор петдесет.", "type": "noun" },
+    { "bg": "слънчеви очила", "en": "sunglasses", "pronunciation": "SLUN-che-vi o-CHI-la", "example": "Слънчевите очила предпазват от ултравиолетови лъчи.", "type": "noun" },
+    { "bg": "надуваем дюшек", "en": "inflatable mattress", "pronunciation": "na-du-VA-em dyu-SHEK", "example": "Надуваемият дюшек плава по водата.", "type": "noun" },
+    { "bg": "пясъчна скулптура", "en": "sand sculpture", "pronunciation": "pya-SUCH-na skulp-TU-ra", "example": "Пясъчните скулптури на Бургас са впечатляващи.", "type": "noun" },
+    { "bg": "плувам", "en": "to swim", "pronunciation": "PLU-vam", "example": "Плувам в морето всяка сутрин.", "type": "verb" },
+    { "bg": "гмуркам се", "en": "to dive/dip", "pronunciation": "gmur-KAM se", "example": "Гмуркам се под вълните.", "type": "verb" },
+    { "bg": "загар", "en": "suntan", "pronunciation": "za-GAR", "example": "Загарът е красив, но внимавай за изгаряне.", "type": "noun" },
+    { "bg": "слънчево изгаряне", "en": "sunburn", "pronunciation": "SLUN-che-vo iz-ga-RYA-ne", "example": "Слънчевото изгаряне е болезнено и опасно.", "type": "noun" },
+    { "bg": "спасител", "en": "lifeguard", "pronunciation": "spa-SI-tel", "example": "Спасителят наблюдава плажа от кулата.", "type": "noun" },
+    { "bg": "плажен волейбол", "en": "beach volleyball", "pronunciation": "PLA-zhen vo-ley-BOL", "example": "Плажният волейбол е забавление за всички.", "type": "noun" }
+  ]
+}
