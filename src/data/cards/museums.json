@@ -1,0 +1,28 @@
+{
+  "category": "Museums",
+  "cards": [
+    { "bg": "музей", "en": "museum", "pronunciation": "mu-ZEY", "example": "Националният исторически музей е в Бояна.", "type": "noun" },
+    { "bg": "изложба", "en": "exhibition", "pronunciation": "iz-LOZH-ba", "example": "В галерията има нова изложба на съвременно изкуство.", "type": "noun" },
+    { "bg": "галерия", "en": "gallery", "pronunciation": "ga-le-RI-ya", "example": "Националната художествена галерия е в двореца.", "type": "noun" },
+    { "bg": "експонат", "en": "exhibit/artifact", "pronunciation": "eks-po-NAT", "example": "Този експонат е от тракийско време.", "type": "noun" },
+    { "bg": "колекция", "en": "collection", "pronunciation": "ko-LEK-tsi-ya", "example": "Музеят има богата колекция от икони.", "type": "noun" },
+    { "bg": "екскурзовод", "en": "tour guide", "pronunciation": "eks-kur-zo-VOD", "example": "Екскурзоводът разказва за историята на крепостта.", "type": "noun" },
+    { "bg": "обиколка", "en": "tour", "pronunciation": "o-bi-KOL-ka", "example": "Обиколката с водач трае час и половина.", "type": "noun" },
+    { "bg": "билет", "en": "ticket", "pronunciation": "bi-LET", "example": "Билетът за музея е десет лева.", "type": "noun" },
+    { "bg": "намаление", "en": "discount", "pronunciation": "na-ma-LE-ni-e", "example": "Студентите получават намаление от петдесет процента.", "type": "noun" },
+    { "bg": "работно време", "en": "opening hours", "pronunciation": "ra-BOT-no VRE-me", "example": "Работното време е от девет до седемнадесет часа.", "type": "noun" },
+    { "bg": "почивен ден", "en": "closed day/day off", "pronunciation": "po-CHI-ven den", "example": "Понеделник е почивен ден за музея.", "type": "noun" },
+    { "bg": "витрина", "en": "display case", "pronunciation": "vit-RI-na", "example": "Златното съкровище е в специална витрина.", "type": "noun" },
+    { "bg": "археология", "en": "archaeology", "pronunciation": "ar-he-o-LO-gi-ya", "example": "Археологическият музей в Пловдив е страхотен.", "type": "noun" },
+    { "bg": "съкровище", "en": "treasure", "pronunciation": "suk-RO-vish-te", "example": "Панагюрското златно съкровище е световноизвестно.", "type": "noun" },
+    { "bg": "находка", "en": "find/discovery", "pronunciation": "na-HOD-ka", "example": "Археолозите направиха важна находка край Казанлък.", "type": "noun" },
+    { "bg": "картина", "en": "painting", "pronunciation": "kar-TI-na", "example": "Тази картина е от Владимир Димитров-Майстора.", "type": "noun" },
+    { "bg": "скулптура", "en": "sculpture", "pronunciation": "skulp-TU-ra", "example": "В двора има скулптура от бронз.", "type": "noun" },
+    { "bg": "реставрация", "en": "restoration", "pronunciation": "res-tav-RA-tsi-ya", "example": "Иконата е след внимателна реставрация.", "type": "noun" },
+    { "bg": "сувенир", "en": "souvenir", "pronunciation": "su-ve-NIR", "example": "Купих сувенир от музейния магазин.", "type": "noun" },
+    { "bg": "забранено е да се снима", "en": "photography is not allowed", "pronunciation": "za-bra-NE-no e da se SNI-ma", "example": "В тази зала е забранено да се снима.", "type": "phrase" },
+    { "bg": "аудиогид", "en": "audio guide", "pronunciation": "A-u-di-o-gid", "example": "Вземи аудиогид на английски от рецепцията.", "type": "noun" },
+    { "bg": "зала", "en": "hall/room", "pronunciation": "za-LA", "example": "Тракийските находки са в третата зала.", "type": "noun" },
+    { "bg": "паметник", "en": "monument/memorial", "pronunciation": "PA-met-nik", "example": "Паметникът на Свободата е на връх Шипка.", "type": "noun" }
+  ]
+}
