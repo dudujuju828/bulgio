@@ -1,0 +1,27 @@
+{
+  "category": "Winemaking",
+  "cards": [
+    { "bg": "винарна", "en": "winery", "pronunciation": "vi-NAR-na", "example": "Посетихме винарна в Мелник.", "type": "noun" },
+    { "bg": "винопроизводство", "en": "winemaking", "pronunciation": "vi-no-pro-iz-VOD-stvo", "example": "Винопроизводството в България има хилядолетна история.", "type": "noun" },
+    { "bg": "лозе", "en": "vineyard", "pronunciation": "lo-ZE", "example": "Лозята в Тракия дават отлично грозде.", "type": "noun" },
+    { "bg": "лозар", "en": "vintner/vine grower", "pronunciation": "lo-ZAR", "example": "Лозарят подрязва лозите през февруари.", "type": "noun" },
+    { "bg": "гроздобер", "en": "grape harvest", "pronunciation": "groz-do-BER", "example": "Гроздоберът е през септември и октомври.", "type": "noun" },
+    { "bg": "грозде", "en": "grapes", "pronunciation": "GROZ-de", "example": "Гроздето трябва да узрее напълно.", "type": "noun" },
+    { "bg": "сорт", "en": "grape variety", "pronunciation": "sort", "example": "Мавруд е типичен български сорт.", "type": "noun" },
+    { "bg": "мавруд", "en": "Mavrud (Bulgarian grape)", "pronunciation": "mav-RUD", "example": "Мавруд е царят на българските червени вина.", "type": "noun" },
+    { "bg": "гъмза", "en": "Gamza (Bulgarian grape)", "pronunciation": "GUM-za", "example": "Гъмзата се отглежда основно в Северозападна България.", "type": "noun" },
+    { "bg": "ферментация", "en": "fermentation", "pronunciation": "fer-men-TA-tsi-ya", "example": "Ферментацията продължава две до три седмици.", "type": "noun" },
+    { "bg": "бъчва", "en": "barrel/cask", "pronunciation": "BUCH-va", "example": "Виното отлежава в дъбови бъчви.", "type": "noun" },
+    { "bg": "отлежаване", "en": "aging/maturing", "pronunciation": "ot-le-ZHA-va-ne", "example": "Отлежаването подобрява вкуса на виното.", "type": "noun" },
+    { "bg": "реколта", "en": "vintage/harvest year", "pronunciation": "re-KOL-ta", "example": "Реколта две хиляди и двадесет е отлична.", "type": "noun" },
+    { "bg": "бутилирам", "en": "to bottle", "pronunciation": "bu-ti-LI-ram", "example": "Бутилирахме виното след шест месеца отлежаване.", "type": "verb" },
+    { "bg": "тапа", "en": "cork", "pronunciation": "TA-pa", "example": "Отвори бутилката и извади тапата.", "type": "noun" },
+    { "bg": "тирбушон", "en": "corkscrew", "pronunciation": "tir-bu-SHON", "example": "Имаш ли тирбушон да отворим виното?", "type": "noun" },
+    { "bg": "дегустация", "en": "wine tasting", "pronunciation": "de-gus-TA-tsi-ya", "example": "Дегустацията включва пет вина.", "type": "noun" },
+    { "bg": "букет", "en": "bouquet (wine aroma)", "pronunciation": "bu-KET", "example": "Виното има богат букет на горски плодове.", "type": "noun" },
+    { "bg": "танини", "en": "tannins", "pronunciation": "ta-NI-ni", "example": "Младото вино има силни танини.", "type": "noun" },
+    { "bg": "Трифон Зарезан", "en": "Trifon Zarezan (wine holiday)", "pronunciation": "TRI-fon za-re-ZAN", "example": "На Трифон Зарезан подрязваме лозите и пием вино.", "type": "noun" },
+    { "bg": "изба", "en": "cellar", "pronunciation": "IZ-ba", "example": "Избата е пълна с бутилки от различни години.", "type": "noun" },
+    { "bg": "розе", "en": "rosé", "pronunciation": "ro-ZE", "example": "Розето е перфектно за лятна вечеря.", "type": "noun" }
+  ]
+}
