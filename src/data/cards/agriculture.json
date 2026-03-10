@@ -1,0 +1,30 @@
+{
+  "category": "Agriculture",
+  "cards": [
+    { "bg": "земеделие", "en": "agriculture/farming", "pronunciation": "ze-me-DE-li-e", "example": "Земеделието е важен отрасъл в България.", "type": "noun" },
+    { "bg": "земеделец", "en": "farmer", "pronunciation": "ze-me-DE-lets", "example": "Земеделецът обработва полето от сутринта.", "type": "noun" },
+    { "bg": "нива", "en": "field (crop)", "pronunciation": "NI-va", "example": "Нивата е засята с пшеница.", "type": "noun" },
+    { "bg": "реколта", "en": "harvest/crop", "pronunciation": "re-KOL-ta", "example": "Тази година реколтата от грозде е богата.", "type": "noun" },
+    { "bg": "жътва", "en": "harvest (grain)", "pronunciation": "ZHUT-va", "example": "Жътвата започва в края на юни.", "type": "noun" },
+    { "bg": "сея", "en": "to sow/plant seeds", "pronunciation": "SE-ya", "example": "Сеем царевица напролет.", "type": "verb" },
+    { "bg": "бера", "en": "to pick/harvest", "pronunciation": "be-RA", "example": "Берем домати от градината.", "type": "verb" },
+    { "bg": "орa", "en": "to plow", "pronunciation": "o-RA", "example": "Тракторът оре нивата.", "type": "verb" },
+    { "bg": "поливам", "en": "to water/irrigate", "pronunciation": "po-LI-vam", "example": "Поливам зеленчуците всяка вечер.", "type": "verb" },
+    { "bg": "трактор", "en": "tractor", "pronunciation": "TRAK-tor", "example": "Тракторът е най-важната машина в стопанството.", "type": "noun" },
+    { "bg": "стопанство", "en": "farm/homestead", "pronunciation": "sto-PAN-stvo", "example": "Имаме малко семейно стопанство в село.", "type": "noun" },
+    { "bg": "пшеница", "en": "wheat", "pronunciation": "pshe-NI-tsa", "example": "България изнася пшеница за чужбина.", "type": "noun" },
+    { "bg": "царевица", "en": "corn/maize", "pronunciation": "tsa-re-VI-tsa", "example": "Царевицата расте бързо през лятото.", "type": "noun" },
+    { "bg": "слънчоглед", "en": "sunflower", "pronunciation": "slun-cho-GLED", "example": "Полетата със слънчоглед са красиви.", "type": "noun" },
+    { "bg": "лозе", "en": "vineyard", "pronunciation": "lo-ZE", "example": "В Тракия има много лозя.", "type": "noun" },
+    { "bg": "розово масло", "en": "rose oil", "pronunciation": "RO-zo-vo MAS-lo", "example": "България е най-големият производител на розово масло.", "type": "noun" },
+    { "bg": "тор", "en": "fertilizer/manure", "pronunciation": "tor", "example": "Слагаме органичен тор в градината.", "type": "noun" },
+    { "bg": "семе", "en": "seed", "pronunciation": "se-ME", "example": "Купих семена за домати и краставици.", "type": "noun" },
+    { "bg": "плевя", "en": "to weed", "pronunciation": "ple-VYA", "example": "Трябва да плевим градината от бурени.", "type": "verb" },
+    { "bg": "бурен", "en": "weed", "pronunciation": "BU-ren", "example": "Бурените задушават зеленчуците.", "type": "noun" },
+    { "bg": "добитък", "en": "livestock", "pronunciation": "do-BI-tuk", "example": "Фермерът отглежда добитък в планината.", "type": "noun" },
+    { "bg": "овчар", "en": "shepherd", "pronunciation": "ov-CHAR", "example": "Овчарят води стадото на паша.", "type": "noun" },
+    { "bg": "стадо", "en": "herd/flock", "pronunciation": "STA-do", "example": "Стадото пасе на поляната.", "type": "noun" },
+    { "bg": "напояване", "en": "irrigation", "pronunciation": "na-po-YA-va-ne", "example": "Напояването е необходимо през сухите месеци.", "type": "noun" },
+    { "bg": "оранжерия", "en": "greenhouse", "pronunciation": "o-ran-zhe-RI-ya", "example": "В оранжерията отглеждаме домати целогодишно.", "type": "noun" }
+  ]
+}
