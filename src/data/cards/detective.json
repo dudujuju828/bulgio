@@ -1,0 +1,28 @@
+{
+  "category": "Detective & Mystery",
+  "cards": [
+    { "bg": "детектив", "en": "detective", "pronunciation": "de-tek-TIV", "example": "Детективът разследва случая вече два месеца.", "type": "noun" },
+    { "bg": "следовател", "en": "investigator", "pronunciation": "sle-do-VA-tel", "example": "Следователят разпита свидетелите.", "type": "noun" },
+    { "bg": "мистерия", "en": "mystery", "pronunciation": "mis-TE-ri-ya", "example": "Мистерията около изчезването остава неразгадана.", "type": "noun" },
+    { "bg": "улика", "en": "clue/evidence", "pronunciation": "u-LI-ka", "example": "Уликата на местопрестъплението беше отпечатък.", "type": "noun" },
+    { "bg": "отпечатък", "en": "fingerprint", "pronunciation": "ot-pe-CHA-tuk", "example": "Отпечатъците бяха намерени на чашата.", "type": "noun" },
+    { "bg": "заподозрян", "en": "suspect", "pronunciation": "za-po-doz-RYAN", "example": "Заподозреният има алиби за тази вечер.", "type": "noun" },
+    { "bg": "алиби", "en": "alibi", "pronunciation": "A-li-bi", "example": "Алибито му беше потвърдено от съседите.", "type": "noun" },
+    { "bg": "мотив", "en": "motive", "pronunciation": "mo-TIV", "example": "Мотивът за престъплението е ревност.", "type": "noun" },
+    { "bg": "жертва", "en": "victim", "pronunciation": "ZHER-tva", "example": "Жертвата е мъж на четиридесет години.", "type": "noun" },
+    { "bg": "местопрестъпление", "en": "crime scene", "pronunciation": "mes-to-pres-tup-LE-ni-e", "example": "Местопрестъплението е оградено с лента.", "type": "noun" },
+    { "bg": "разпит", "en": "interrogation", "pronunciation": "raz-PIT", "example": "Разпитът продължи четири часа.", "type": "noun" },
+    { "bg": "разпитвам", "en": "to interrogate/question", "pronunciation": "raz-PIT-vam", "example": "Разпитваха всички, които бяха в сградата.", "type": "verb" },
+    { "bg": "версия", "en": "theory/version", "pronunciation": "VER-si-ya", "example": "Основната версия е кражба с взлом.", "type": "noun" },
+    { "bg": "криминалист", "en": "forensic expert", "pronunciation": "kri-mi-na-LIST", "example": "Криминалистът изследва следите на място.", "type": "noun" },
+    { "bg": "следа", "en": "trace/trail", "pronunciation": "sle-DA", "example": "Следите водеха към задния изход.", "type": "noun" },
+    { "bg": "лупа", "en": "magnifying glass", "pronunciation": "LU-pa", "example": "Детективът разгледа писмото с лупа.", "type": "noun" },
+    { "bg": "досие", "en": "case file/dossier", "pronunciation": "do-si-E", "example": "Досието съдържа снимки и показания.", "type": "noun" },
+    { "bg": "показание", "en": "testimony/statement", "pronunciation": "po-ka-ZA-ni-e", "example": "Показанието на свидетеля беше ключово.", "type": "noun" },
+    { "bg": "разгадавам", "en": "to solve/crack", "pronunciation": "raz-ga-DA-vam", "example": "Разгадаха случая благодарение на ДНК анализ.", "type": "verb" },
+    { "bg": "ДНК анализ", "en": "DNA analysis", "pronunciation": "de-en-KA a-na-LIZ", "example": "ДНК анализът потвърди самоличността.", "type": "noun" },
+    { "bg": "камера за наблюдение", "en": "surveillance camera", "pronunciation": "KA-me-ra za nab-lyu-DE-ni-e", "example": "Камерата за наблюдение засне заподозрения.", "type": "noun" },
+    { "bg": "виновен", "en": "guilty", "pronunciation": "vi-NO-ven", "example": "Съдът обяви обвиняемия за виновен.", "type": "adjective" },
+    { "bg": "невинен", "en": "innocent", "pronunciation": "ne-VI-nen", "example": "Оказа се невинен и беше освободен.", "type": "adjective" }
+  ]
+}
