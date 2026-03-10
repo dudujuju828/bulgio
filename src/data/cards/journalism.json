@@ -1,0 +1,28 @@
+{
+  "category": "Journalism",
+  "cards": [
+    { "bg": "журналистика", "en": "journalism", "pronunciation": "zhur-na-LIS-ti-ka", "example": "Журналистиката е четвъртата власт.", "type": "noun" },
+    { "bg": "журналист", "en": "journalist", "pronunciation": "zhur-na-LIST", "example": "Журналистът взе интервю от кмета.", "type": "noun" },
+    { "bg": "репортер", "en": "reporter", "pronunciation": "re-por-TER", "example": "Репортерът предава на живо от мястото.", "type": "noun" },
+    { "bg": "статия", "en": "article", "pronunciation": "STA-ti-ya", "example": "Прочетох интересна статия в Капитал.", "type": "noun" },
+    { "bg": "заглавие", "en": "headline", "pronunciation": "zag-LA-vi-e", "example": "Заглавието привлича вниманието на читателя.", "type": "noun" },
+    { "bg": "източник", "en": "source", "pronunciation": "iz-TOCH-nik", "example": "Журналистът не разкрива своя източник.", "type": "noun" },
+    { "bg": "разследване", "en": "investigation", "pronunciation": "raz-SLED-va-ne", "example": "Разследването разкри корупция в общината.", "type": "noun" },
+    { "bg": "редакция", "en": "editorial office/newsroom", "pronunciation": "re-DAK-tsi-ya", "example": "Редакцията е на улица Позитано.", "type": "noun" },
+    { "bg": "редактор", "en": "editor", "pronunciation": "re-DAK-tor", "example": "Главният редактор одобри публикацията.", "type": "noun" },
+    { "bg": "публикувам", "en": "to publish", "pronunciation": "pub-li-KU-vam", "example": "Публикуваха новината в шест сутринта.", "type": "verb" },
+    { "bg": "пресконференция", "en": "press conference", "pronunciation": "pres-kon-fe-REN-tsi-ya", "example": "Министърът свика пресконференция.", "type": "noun" },
+    { "bg": "съобщение", "en": "report/announcement", "pronunciation": "su-ob-SHTE-ni-e", "example": "Съобщението беше разпространено от БТА.", "type": "noun" },
+    { "bg": "медия", "en": "media", "pronunciation": "ME-di-ya", "example": "Медиите отразиха протеста.", "type": "noun" },
+    { "bg": "свобода на словото", "en": "freedom of speech", "pronunciation": "svo-BO-da na SLO-vo-to", "example": "Свободата на словото е основно право.", "type": "noun" },
+    { "bg": "цензура", "en": "censorship", "pronunciation": "tsen-ZU-ra", "example": "В демокрацията не трябва да има цензура.", "type": "noun" },
+    { "bg": "интервю", "en": "interview", "pronunciation": "in-ter-VYU", "example": "Интервюто ще излезе в неделния брой.", "type": "noun" },
+    { "bg": "брой", "en": "issue (of a publication)", "pronunciation": "broy", "example": "Новият брой на списанието излезе днес.", "type": "noun" },
+    { "bg": "колонка", "en": "column (opinion)", "pronunciation": "ko-LON-ka", "example": "Пише седмична колонка за Дневник.", "type": "noun" },
+    { "bg": "фалшива новина", "en": "fake news", "pronunciation": "fal-SHI-va no-VI-na", "example": "Внимавай за фалшиви новини в интернет.", "type": "noun" },
+    { "bg": "факт", "en": "fact", "pronunciation": "fakt", "example": "Проверявай фактите преди да споделяш.", "type": "noun" },
+    { "bg": "кореспондент", "en": "correspondent", "pronunciation": "ko-res-pon-DENT", "example": "Кореспондентът ни в Брюксел изпрати репортаж.", "type": "noun" },
+    { "bg": "ексклузивно", "en": "exclusive", "pronunciation": "eks-klu-ZIV-no", "example": "Телевизията излъчи ексклузивно интервю.", "type": "adverb" },
+    { "bg": "тираж", "en": "circulation/print run", "pronunciation": "ti-RAZH", "example": "Вестникът има тираж от петдесет хиляди.", "type": "noun" }
+  ]
+}
