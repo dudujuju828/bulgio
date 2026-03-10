@@ -1,0 +1,27 @@
+{
+  "category": "Fishing",
+  "cards": [
+    { "bg": "риболов", "en": "fishing", "pronunciation": "ri-bo-LOV", "example": "Риболовът е любимото ми хоби.", "type": "noun" },
+    { "bg": "рибар", "en": "fisherman", "pronunciation": "ri-BAR", "example": "Рибарите излизат рано сутрин.", "type": "noun" },
+    { "bg": "въдица", "en": "fishing rod", "pronunciation": "VU-di-tsa", "example": "Купих нова въдица за уикенда.", "type": "noun" },
+    { "bg": "стръв", "en": "bait", "pronunciation": "struv", "example": "Използвам червеи за стръв.", "type": "noun" },
+    { "bg": "кука", "en": "hook", "pronunciation": "KU-ka", "example": "Закачи стръвта на куката.", "type": "noun" },
+    { "bg": "рибарска линия", "en": "fishing line", "pronunciation": "ri-BAR-ska LI-ni-ya", "example": "Линията се скъса от тежестта на рибата.", "type": "noun" },
+    { "bg": "макара", "en": "reel", "pronunciation": "ma-KA-ra", "example": "Навий макарата бавно.", "type": "noun" },
+    { "bg": "мрежа", "en": "fishing net", "pronunciation": "mre-ZHA", "example": "Рибарите хвърлиха мрежата в реката.", "type": "noun" },
+    { "bg": "улов", "en": "catch", "pronunciation": "u-LOV", "example": "Днешният улов е три килограма шаран.", "type": "noun" },
+    { "bg": "ловя риба", "en": "to fish/catch fish", "pronunciation": "LO-vya RI-ba", "example": "Ловим риба в язовира.", "type": "phrase" },
+    { "bg": "шаран", "en": "carp", "pronunciation": "sha-RAN", "example": "Шаранът е най-популярната сладководна риба.", "type": "noun" },
+    { "bg": "пъстърва", "en": "trout", "pronunciation": "pus-TUR-va", "example": "Пъстървата живее в планинските реки.", "type": "noun" },
+    { "bg": "сом", "en": "catfish", "pronunciation": "som", "example": "Сомът е голяма речна риба.", "type": "noun" },
+    { "bg": "язовир", "en": "dam/reservoir", "pronunciation": "ya-zo-VIR", "example": "Риболовът на язовира е чудесен.", "type": "noun" },
+    { "bg": "река", "en": "river", "pronunciation": "re-KA", "example": "Ловим риба в реката всеки уикенд.", "type": "noun" },
+    { "bg": "езеро", "en": "lake", "pronunciation": "e-ze-RO", "example": "Езерото е пълно с риба.", "type": "noun" },
+    { "bg": "лодка", "en": "boat", "pronunciation": "LOD-ka", "example": "Излизаме с лодка на езерото.", "type": "noun" },
+    { "bg": "кълва", "en": "to bite (fish)", "pronunciation": "KUL-va", "example": "Рибата кълве! Дръпни въдицата!", "type": "verb" },
+    { "bg": "хвърлям", "en": "to cast", "pronunciation": "HVUR-lyam", "example": "Хвърлих въдицата далеч в езерото.", "type": "verb" },
+    { "bg": "пускам", "en": "to release", "pronunciation": "PUS-kam", "example": "Пуснах малката риба обратно.", "type": "verb" },
+    { "bg": "разрешително", "en": "fishing permit", "pronunciation": "raz-re-shi-TEL-no", "example": "Трябва ти разрешително за риболов.", "type": "noun" },
+    { "bg": "търпение", "en": "patience", "pronunciation": "tur-PE-ni-e", "example": "Риболовът изисква много търпение.", "type": "noun" }
+  ]
+}
