@@ -1,0 +1,28 @@
+{
+  "category": "Cooking",
+  "cards": [
+    { "bg": "готвя", "en": "to cook", "pronunciation": "GOT-vya", "example": "Готвя вечеря за цялото семейство.", "type": "verb" },
+    { "bg": "рецепта", "en": "recipe", "pronunciation": "re-TSEP-ta", "example": "Тази рецепта е от баба ми.", "type": "noun" },
+    { "bg": "съставка", "en": "ingredient", "pronunciation": "sus-TAV-ka", "example": "Купих всички съставки за баницата.", "type": "noun" },
+    { "bg": "варя", "en": "to boil", "pronunciation": "VA-rya", "example": "Варя картофите двадесет минути.", "type": "verb" },
+    { "bg": "пържа", "en": "to fry", "pronunciation": "PUR-zha", "example": "Пържа лука на зехтин.", "type": "verb" },
+    { "bg": "пека", "en": "to bake/roast", "pronunciation": "pe-KA", "example": "Пека баница в загрятата фурна.", "type": "verb" },
+    { "bg": "задушавам", "en": "to stew/braise", "pronunciation": "za-du-SHA-vam", "example": "Задушавам зеленчуците на тих огън.", "type": "verb" },
+    { "bg": "бъркам", "en": "to stir/mix", "pronunciation": "BUR-kam", "example": "Бъркай сместа докато стане гладка.", "type": "verb" },
+    { "bg": "режа", "en": "to cut/chop", "pronunciation": "RE-zha", "example": "Режа доматите на кубчета.", "type": "verb" },
+    { "bg": "настъргвам", "en": "to grate", "pronunciation": "nas-TURG-vam", "example": "Настъргвам сиренето за пицата.", "type": "verb" },
+    { "bg": "меся", "en": "to knead", "pronunciation": "me-SYA", "example": "Меся тестото за хляб.", "type": "verb" },
+    { "bg": "подправка", "en": "spice/seasoning", "pronunciation": "pod-PRAV-ka", "example": "Добавям подправки за по-добър вкус.", "type": "noun" },
+    { "bg": "сол", "en": "salt", "pronunciation": "sol", "example": "Сложи малко сол в супата.", "type": "noun" },
+    { "bg": "захар", "en": "sugar", "pronunciation": "ZA-har", "example": "Колко захар слагаш в кафето?", "type": "noun" },
+    { "bg": "олио", "en": "cooking oil", "pronunciation": "O-li-o", "example": "Загрявам олиото в тигана.", "type": "noun" },
+    { "bg": "зехтин", "en": "olive oil", "pronunciation": "zeh-TIN", "example": "Поливам салатата със зехтин.", "type": "noun" },
+    { "bg": "тесто", "en": "dough", "pronunciation": "TES-to", "example": "Тестото трябва да втаса един час.", "type": "noun" },
+    { "bg": "опитвам", "en": "to taste/try", "pronunciation": "o-PIT-vam", "example": "Опитай супата дали е достатъчно солена.", "type": "verb" },
+    { "bg": "обелвам", "en": "to peel", "pronunciation": "o-BEL-vam", "example": "Обелвам картофите за пюрето.", "type": "verb" },
+    { "bg": "изливам", "en": "to pour", "pronunciation": "iz-LI-vam", "example": "Изливам сместа в тавата.", "type": "verb" },
+    { "bg": "огън", "en": "heat/fire", "pronunciation": "o-GUN", "example": "Намали огъня, за да не прегори.", "type": "noun" },
+    { "bg": "порция", "en": "portion/serving", "pronunciation": "POR-tsi-ya", "example": "Рецептата е за четири порции.", "type": "noun" },
+    { "bg": "вкусен", "en": "delicious/tasty", "pronunciation": "VKU-sen", "example": "Ястието е много вкусно!", "type": "adjective" }
+  ]
+}
