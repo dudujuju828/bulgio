@@ -1,0 +1,25 @@
+{
+  "category": "Hobbies",
+  "cards": [
+    { "bg": "хоби", "en": "hobby", "pronunciation": "HO-bi", "example": "Какво е хобито ти?", "type": "noun" },
+    { "bg": "рисувам", "en": "to draw/paint", "pronunciation": "ri-SU-vam", "example": "Обичам да рисувам пейзажи.", "type": "verb" },
+    { "bg": "готвя", "en": "to cook", "pronunciation": "GOT-vya", "example": "Готвя нови рецепти всеки уикенд.", "type": "verb" },
+    { "bg": "шия", "en": "to sew", "pronunciation": "SHI-ya", "example": "Баба ми ме научи да шия.", "type": "verb" },
+    { "bg": "градинарство", "en": "gardening", "pronunciation": "gra-di-NAR-stvo", "example": "Градинарството ме успокоява.", "type": "noun" },
+    { "bg": "фотография", "en": "photography", "pronunciation": "fo-to-GRA-fi-ya", "example": "Фотографията е моята страст.", "type": "noun" },
+    { "bg": "плета", "en": "to knit", "pronunciation": "ple-TA", "example": "Плета шал за зимата.", "type": "verb" },
+    { "bg": "риболов", "en": "fishing", "pronunciation": "ri-bo-LOV", "example": "Ходя на риболов в езерото.", "type": "noun" },
+    { "bg": "колекционирам", "en": "to collect", "pronunciation": "ko-lek-tsi-o-NI-ram", "example": "Колекционирам стари монети.", "type": "verb" },
+    { "bg": "пъзел", "en": "puzzle", "pronunciation": "PU-zel", "example": "Подреждам пъзел от хиляда части.", "type": "noun" },
+    { "bg": "настолна игра", "en": "board game", "pronunciation": "na-STOL-na ig-RA", "example": "Играем настолни игри с приятели.", "type": "noun" },
+    { "bg": "видеоигра", "en": "video game", "pronunciation": "VI-de-o ig-RA", "example": "Синът ми обича видеоигри.", "type": "noun" },
+    { "bg": "туризъм", "en": "hiking", "pronunciation": "tu-RI-zum", "example": "Ходим на туризъм в Родопите.", "type": "noun" },
+    { "bg": "къмпинг", "en": "camping", "pronunciation": "KUM-ping", "example": "Правим къмпинг край реката.", "type": "noun" },
+    { "bg": "йога", "en": "yoga", "pronunciation": "YO-ga", "example": "Правя йога всяка сутрин.", "type": "noun" },
+    { "bg": "танц", "en": "dance", "pronunciation": "tants", "example": "Ходя на танци всеки петък.", "type": "noun" },
+    { "bg": "керамика", "en": "pottery/ceramics", "pronunciation": "ke-RA-mi-ka", "example": "Записах се на курс по керамика.", "type": "noun" },
+    { "bg": "свободно време", "en": "free time", "pronunciation": "svo-BOD-no VRE-me", "example": "Какво правиш в свободното си време?", "type": "noun" },
+    { "bg": "забавлявам се", "en": "to have fun", "pronunciation": "za-bav-LYA-vam se", "example": "Забавляваме се много на партито.", "type": "verb" },
+    { "bg": "интересувам се", "en": "to be interested in", "pronunciation": "in-te-re-SU-vam se", "example": "Интересувам се от история.", "type": "verb" }
+  ]
+}
