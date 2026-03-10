@@ -1,0 +1,28 @@
+{
+  "category": "Basketball",
+  "cards": [
+    { "bg": "баскетбол", "en": "basketball", "pronunciation": "bas-ket-BOL", "example": "Баскетболът е вторият по популярност спорт в България.", "type": "noun" },
+    { "bg": "кош", "en": "basket/hoop", "pronunciation": "kosh", "example": "Вкара топката в коша от три точки.", "type": "noun" },
+    { "bg": "топка", "en": "ball", "pronunciation": "TOP-ka", "example": "Подай ми топката бързо!", "type": "noun" },
+    { "bg": "игрище", "en": "court", "pronunciation": "ig-RISH-te", "example": "Играем баскетбол на игрището в парка.", "type": "noun" },
+    { "bg": "отбор", "en": "team", "pronunciation": "ot-BOR", "example": "Нашият отбор спечели финала.", "type": "noun" },
+    { "bg": "играч", "en": "player", "pronunciation": "ig-RACH", "example": "Той е най-добрият играч в лигата.", "type": "noun" },
+    { "bg": "треньор", "en": "coach", "pronunciation": "tre-NYOR", "example": "Треньорът извика таймаут.", "type": "noun" },
+    { "bg": "дриблирам", "en": "to dribble", "pronunciation": "drib-LI-ram", "example": "Дриблира покрай двама защитници.", "type": "verb" },
+    { "bg": "подавам", "en": "to pass", "pronunciation": "po-DA-vam", "example": "Подай на свободния играч!", "type": "verb" },
+    { "bg": "стрелям", "en": "to shoot", "pronunciation": "stre-LYAM", "example": "Стреля от средата на терена и вкара!", "type": "verb" },
+    { "bg": "тройка", "en": "three-pointer", "pronunciation": "TROY-ka", "example": "Вкара тройка в последната секунда.", "type": "noun" },
+    { "bg": "свободно хвърляне", "en": "free throw", "pronunciation": "svo-BOD-no HVUR-lya-ne", "example": "Реализира и двете свободни хвърляния.", "type": "noun" },
+    { "bg": "забивка", "en": "slam dunk", "pronunciation": "za-BIV-ka", "example": "Забивката на центъра вдигна публиката.", "type": "noun" },
+    { "bg": "борба под коша", "en": "rebounding", "pronunciation": "BOR-ba pod KO-sha", "example": "Борбата под коша е ключова в мача.", "type": "noun" },
+    { "bg": "фаул", "en": "foul", "pronunciation": "fa-UL", "example": "Съдията свири фаул при стрелбата.", "type": "noun" },
+    { "bg": "съдия", "en": "referee", "pronunciation": "su-di-YA", "example": "Съдията спря играта.", "type": "noun" },
+    { "bg": "таймаут", "en": "timeout", "pronunciation": "tay-MA-ut", "example": "Треньорът взе таймаут при резултат шестдесет на шестдесет.", "type": "noun" },
+    { "bg": "четвъртина", "en": "quarter", "pronunciation": "chet-VUR-ti-na", "example": "В третата четвъртина отборът ни поведе.", "type": "noun" },
+    { "bg": "продължение", "en": "overtime", "pronunciation": "pro-dul-ZHE-ni-e", "example": "Мачът отиде в продължение.", "type": "noun" },
+    { "bg": "гард", "en": "guard", "pronunciation": "gard", "example": "Разиграващият гард контролира темпото.", "type": "noun" },
+    { "bg": "център", "en": "center", "pronunciation": "TSEN-tur", "example": "Центърът е най-високият играч в отбора.", "type": "noun" },
+    { "bg": "крило", "en": "forward/wing", "pronunciation": "kri-LO", "example": "Малкото крило вкара двадесет точки.", "type": "noun" },
+    { "bg": "резултат", "en": "score", "pronunciation": "re-zul-TAT", "example": "Крайният резултат е осемдесет и пет на седемдесет и осем.", "type": "noun" }
+  ]
+}
