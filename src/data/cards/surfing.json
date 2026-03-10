@@ -1,0 +1,28 @@
+{
+  "category": "Surfing & Water Sports",
+  "cards": [
+    { "bg": "сърфиране", "en": "surfing", "pronunciation": "sur-FI-ra-ne", "example": "Сърфирането е популярно на плаж Иракли.", "type": "noun" },
+    { "bg": "сърфирам", "en": "to surf", "pronunciation": "sur-FI-ram", "example": "Сърфирам от три години.", "type": "verb" },
+    { "bg": "дъска за сърф", "en": "surfboard", "pronunciation": "DUS-ka za surf", "example": "Дъската за сърф е дълга два метра.", "type": "noun" },
+    { "bg": "вълна", "en": "wave", "pronunciation": "VUL-na", "example": "Вълната беше перфектна за сърфиране.", "type": "noun" },
+    { "bg": "уиндсърфинг", "en": "windsurfing", "pronunciation": "UYND-sur-fing", "example": "Уиндсърфингът съчетава сърф и платноходство.", "type": "noun" },
+    { "bg": "кайтсърфинг", "en": "kitesurfing", "pronunciation": "KAYT-sur-fing", "example": "Кайтсърфингът е популярен край Ахелой.", "type": "noun" },
+    { "bg": "уейкборд", "en": "wakeboarding", "pronunciation": "UEYK-bord", "example": "Уейкбордът се практикува по язовирите.", "type": "noun" },
+    { "bg": "SUP", "en": "stand-up paddleboarding", "pronunciation": "sup", "example": "SUP дъската е идеална за спокойна вода.", "type": "noun" },
+    { "bg": "гребло", "en": "paddle", "pronunciation": "greb-LO", "example": "Греблото е леко и от въглеродни влакна.", "type": "noun" },
+    { "bg": "неопренов костюм", "en": "wetsuit (neoprene)", "pronunciation": "ne-o-PRE-nov kos-TYUM", "example": "Неопреновият костюм е нужен от октомври.", "type": "noun" },
+    { "bg": "водни ски", "en": "water skiing", "pronunciation": "VOD-ni ski", "example": "Водните ски са забавни на морето.", "type": "noun" },
+    { "bg": "джет", "en": "jet ski", "pronunciation": "djet", "example": "Джетът вдига скорост до сто километра.", "type": "noun" },
+    { "bg": "каяк", "en": "kayak", "pronunciation": "ka-YAK", "example": "Каякът е подходящ за разходка по реката.", "type": "noun" },
+    { "bg": "кану", "en": "canoe", "pronunciation": "ka-NU", "example": "Гребахме с кану по река Искър.", "type": "noun" },
+    { "bg": "рафтинг", "en": "rafting", "pronunciation": "RAF-ting", "example": "Рафтингът по река Струма е вълнуващ.", "type": "noun" },
+    { "bg": "спасителна жилетка", "en": "life jacket", "pronunciation": "spa-SI-tel-na zhi-LET-ka", "example": "Спасителната жилетка е задължителна при рафтинг.", "type": "noun" },
+    { "bg": "прилив", "en": "tide/wave surge", "pronunciation": "pri-LIV", "example": "Приливът носи по-големи вълни.", "type": "noun" },
+    { "bg": "бряг", "en": "shore/coast", "pronunciation": "bryag", "example": "Върнахме се на брега преди залез.", "type": "noun" },
+    { "bg": "инструктор", "en": "instructor", "pronunciation": "in-struk-TOR", "example": "Инструкторът показа как да стоя на дъската.", "type": "noun" },
+    { "bg": "баланс", "en": "balance", "pronunciation": "ba-LANS", "example": "Балансът е ключов за сърфирането.", "type": "noun" },
+    { "bg": "водно колело", "en": "water bike/pedal boat", "pronunciation": "VOD-no ko-le-LO", "example": "Водното колело е забавление за семейството.", "type": "noun" },
+    { "bg": "банан", "en": "banana boat", "pronunciation": "ba-NAN", "example": "Децата обожават да се возят на банан.", "type": "noun" },
+    { "bg": "парасейлинг", "en": "parasailing", "pronunciation": "pa-ra-SEY-ling", "example": "Парасейлингът предлага гледка от височина над морето.", "type": "noun" }
+  ]
+}
