@@ -1,0 +1,28 @@
+{
+  "category": "Fairy Tale Characters & Fantasy",
+  "cards": [
+    { "bg": "принцеса", "en": "princess", "pronunciation": "prin-TSE-sa", "example": "Принцесата живеела в замък на върха на планината.", "type": "noun" },
+    { "bg": "принц", "en": "prince", "pronunciation": "prints", "example": "Принцът тръгнал да спаси принцесата.", "type": "noun" },
+    { "bg": "крал", "en": "king", "pronunciation": "kral", "example": "Кралят управлявал справедливо кралството.", "type": "noun" },
+    { "bg": "кралица", "en": "queen", "pronunciation": "kra-LI-tsa", "example": "Кралицата била мъдра и добра.", "type": "noun" },
+    { "bg": "замък", "en": "castle", "pronunciation": "za-MUK", "example": "Замъкът имал сто стаи и висока кула.", "type": "noun" },
+    { "bg": "рицар", "en": "knight", "pronunciation": "RI-tsar", "example": "Рицарят носел блестяща броня.", "type": "noun" },
+    { "bg": "фея", "en": "fairy", "pronunciation": "FE-ya", "example": "Феята изпълнила три желания.", "type": "noun" },
+    { "bg": "елф", "en": "elf", "pronunciation": "elf", "example": "Елфите живеели в дълбоката гора.", "type": "noun" },
+    { "bg": "джудже", "en": "dwarf/gnome", "pronunciation": "DJUDZH-e", "example": "Седемте джуджета работели в мината.", "type": "noun" },
+    { "bg": "великан", "en": "giant", "pronunciation": "ve-li-KAN", "example": "Великанът бил висок колкото дърво.", "type": "noun" },
+    { "bg": "русалка", "en": "mermaid", "pronunciation": "ru-SAL-ka", "example": "Русалката плувала в дълбокото море.", "type": "noun" },
+    { "bg": "еднорог", "en": "unicorn", "pronunciation": "ed-no-ROG", "example": "Еднорогът имал магически рог на челото.", "type": "noun" },
+    { "bg": "дракон", "en": "dragon", "pronunciation": "dra-KON", "example": "Драконът пазел съкровище в пещерата.", "type": "noun" },
+    { "bg": "вълшебник", "en": "wizard", "pronunciation": "vul-SHEB-nik", "example": "Вълшебникът знаел заклинания за всичко.", "type": "noun" },
+    { "bg": "вещица", "en": "witch", "pronunciation": "VESH-ti-tsa", "example": "Вещицата приготвила магическо зелие.", "type": "noun" },
+    { "bg": "зелие", "en": "potion", "pronunciation": "ZE-li-e", "example": "Зелието превръщало хората в жаби.", "type": "noun" },
+    { "bg": "вълшебна пръчка", "en": "magic wand", "pronunciation": "vul-SHEB-na pruch-KA", "example": "Вълшебната пръчка проблесна със светлина.", "type": "noun" },
+    { "bg": "тролове", "en": "trolls", "pronunciation": "TRO-lo-ve", "example": "Троловете живеели под моста.", "type": "noun" },
+    { "bg": "говорещо животно", "en": "talking animal", "pronunciation": "go-vo-RESHT-o zhi-VOT-no", "example": "Говорещото животно дало мъдър съвет на героя.", "type": "noun" },
+    { "bg": "вълшебна гора", "en": "enchanted forest", "pronunciation": "vul-SHEB-na go-RA", "example": "Вълшебната гора криела много тайни.", "type": "noun" },
+    { "bg": "желание", "en": "wish", "pronunciation": "zhe-LA-ni-e", "example": "Имаш три желания — избирай мъдро.", "type": "noun" },
+    { "bg": "щастлив край", "en": "happy ending", "pronunciation": "SHTAST-liv kray", "example": "Приказката завършила с щастлив край.", "type": "noun" },
+    { "bg": "имало едно време", "en": "once upon a time", "pronunciation": "i-MA-lo ed-NO VRE-me", "example": "Имало едно време една красива принцеса.", "type": "phrase" }
+  ]
+}
