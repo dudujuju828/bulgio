@@ -1,0 +1,27 @@
+{
+  "category": "Beach",
+  "cards": [
+    { "bg": "плаж", "en": "beach", "pronunciation": "plazh", "example": "Плажът в Созопол е много красив.", "type": "noun" },
+    { "bg": "море", "en": "sea", "pronunciation": "MO-re", "example": "Черно море е топло през август.", "type": "noun" },
+    { "bg": "вълна", "en": "wave", "pronunciation": "VUL-na", "example": "Вълните днес са големи.", "type": "noun" },
+    { "bg": "пясък", "en": "sand", "pronunciation": "PYA-suk", "example": "Пясъкът е горещ на слънце.", "type": "noun" },
+    { "bg": "слънце", "en": "sun", "pronunciation": "SLUN-tse", "example": "Слънцето грее силно днес.", "type": "noun" },
+    { "bg": "чадър", "en": "umbrella/parasol", "pronunciation": "cha-DUR", "example": "Наехме чадър и два шезлонга.", "type": "noun" },
+    { "bg": "шезлонг", "en": "sun lounger", "pronunciation": "she-ZLONG", "example": "Шезлонгите на плажа са платени.", "type": "noun" },
+    { "bg": "бански", "en": "swimsuit", "pronunciation": "BAN-ski", "example": "Купих нов бански за лятото.", "type": "noun" },
+    { "bg": "плувам", "en": "to swim", "pronunciation": "PLU-vam", "example": "Обичам да плувам в морето.", "type": "verb" },
+    { "bg": "гмуркам се", "en": "to dive", "pronunciation": "GMUR-kam se", "example": "Гмуркаме се да гледаме рибки.", "type": "verb" },
+    { "bg": "загар", "en": "tan/suntan", "pronunciation": "za-GAR", "example": "Хванах хубав загар на плажа.", "type": "noun" },
+    { "bg": "изгарям", "en": "to get sunburned", "pronunciation": "iz-GA-ryam", "example": "Изгорях, защото не сложих крем.", "type": "verb" },
+    { "bg": "спасител", "en": "lifeguard", "pronunciation": "spa-SI-tel", "example": "Спасителят наблюдава плажа.", "type": "noun" },
+    { "bg": "раковина", "en": "seashell", "pronunciation": "ra-ko-VI-na", "example": "Децата събират раковини на плажа.", "type": "noun" },
+    { "bg": "риба", "en": "fish", "pronunciation": "RI-ba", "example": "Ядохме прясна риба на брега.", "type": "noun" },
+    { "bg": "лодка", "en": "boat", "pronunciation": "LOD-ka", "example": "Наехме лодка за разходка по морето.", "type": "noun" },
+    { "bg": "бряг", "en": "shore/coast", "pronunciation": "bryag", "example": "Ходихме по брега до залез.", "type": "noun" },
+    { "bg": "залез", "en": "sunset", "pronunciation": "za-LEZ", "example": "Залезът над морето е невероятен.", "type": "noun" },
+    { "bg": "прилив", "en": "tide", "pronunciation": "pri-LIV", "example": "При прилив плажът става по-малък.", "type": "noun" },
+    { "bg": "сърф", "en": "surfing", "pronunciation": "surf", "example": "На Златни пясъци има уроци по сърф.", "type": "noun" },
+    { "bg": "пристанище", "en": "port/harbor", "pronunciation": "pris-TA-nish-te", "example": "Пристанището във Варна е голямо.", "type": "noun" },
+    { "bg": "потапям се", "en": "to submerge/dip in", "pronunciation": "po-TA-pyam se", "example": "Потопих се бавно в студената вода.", "type": "verb" }
+  ]
+}
