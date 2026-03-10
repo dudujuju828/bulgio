@@ -1,0 +1,26 @@
+{
+  "category": "Shopping",
+  "cards": [
+    { "bg": "магазин", "en": "shop/store", "pronunciation": "ma-ga-ZIN", "example": "Магазинът отваря в девет часа.", "type": "noun" },
+    { "bg": "пазарувам", "en": "to shop", "pronunciation": "pa-za-RU-vam", "example": "Обичам да пазарувам в събота.", "type": "verb" },
+    { "bg": "купувам", "en": "to buy", "pronunciation": "ku-PU-vam", "example": "Искам да купя нови обувки.", "type": "verb" },
+    { "bg": "продавам", "en": "to sell", "pronunciation": "pro-DA-vam", "example": "Те продават пресни зеленчуци.", "type": "verb" },
+    { "bg": "цена", "en": "price", "pronunciation": "tse-NA", "example": "Каква е цената на тази рокля?", "type": "noun" },
+    { "bg": "пари", "en": "money", "pronunciation": "pa-RI", "example": "Нямам достатъчно пари.", "type": "noun" },
+    { "bg": "евтин", "en": "cheap", "pronunciation": "ev-TIN", "example": "Тази тениска е много евтина.", "type": "adjective" },
+    { "bg": "скъп", "en": "expensive", "pronunciation": "skup", "example": "Ресторантът е твърде скъп.", "type": "adjective" },
+    { "bg": "намаление", "en": "sale/discount", "pronunciation": "na-ma-LE-ni-e", "example": "В магазина има голямо намаление.", "type": "noun" },
+    { "bg": "касиер", "en": "cashier", "pronunciation": "ka-si-ER", "example": "Платете на касиера.", "type": "noun" },
+    { "bg": "сметка", "en": "bill/receipt", "pronunciation": "SMET-ka", "example": "Може ли сметката, моля?", "type": "noun" },
+    { "bg": "плащам", "en": "to pay", "pronunciation": "PLA-shtam", "example": "Мога ли да платя с карта?", "type": "verb" },
+    { "bg": "ресто", "en": "change (money)", "pronunciation": "RES-to", "example": "Ето рестото ви.", "type": "noun" },
+    { "bg": "торба", "en": "bag", "pronunciation": "TOR-ba", "example": "Искате ли торба?", "type": "noun" },
+    { "bg": "размер", "en": "size", "pronunciation": "raz-MER", "example": "Какъв размер носите?", "type": "noun" },
+    { "bg": "пазар", "en": "market", "pronunciation": "pa-ZAR", "example": "На пазара има пресни плодове.", "type": "noun" },
+    { "bg": "опашка", "en": "queue/line", "pronunciation": "o-PASH-ka", "example": "Опашката е много дълга.", "type": "noun" },
+    { "bg": "отворено", "en": "open", "pronunciation": "ot-VO-re-no", "example": "Магазинът е отворен до осем.", "type": "adjective" },
+    { "bg": "затворено", "en": "closed", "pronunciation": "zat-VO-re-no", "example": "В неделя магазинът е затворен.", "type": "adjective" },
+    { "bg": "избирам", "en": "to choose", "pronunciation": "iz-BI-ram", "example": "Не мога да избера между двете.", "type": "verb" },
+    { "bg": "пробвам", "en": "to try on", "pronunciation": "PROB-vam", "example": "Мога ли да пробвам тази рокля?", "type": "verb" }
+  ]
+}
