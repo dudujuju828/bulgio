@@ -1,0 +1,28 @@
+{
+  "category": "Hip-Hop & Rap Music",
+  "cards": [
+    { "bg": "хип-хоп", "en": "hip-hop", "pronunciation": "HIP-hop", "example": "Хип-хопът е популярна култура в България.", "type": "noun" },
+    { "bg": "рап", "en": "rap", "pronunciation": "rap", "example": "Рапът е бързо говорене в ритъм.", "type": "noun" },
+    { "bg": "рапър", "en": "rapper", "pronunciation": "RA-pur", "example": "Рапърът изпълни нова песен на концерта.", "type": "noun" },
+    { "bg": "текст", "en": "lyrics", "pronunciation": "tekst", "example": "Текстът на песента е за живота в града.", "type": "noun" },
+    { "bg": "рима", "en": "rhyme", "pronunciation": "RI-ma", "example": "Римите са остроумни и точни.", "type": "noun" },
+    { "bg": "римувам", "en": "to rhyme", "pronunciation": "ri-MU-vam", "example": "Римувам думите свободно в стил фрийстайл.", "type": "verb" },
+    { "bg": "фрийстайл", "en": "freestyle", "pronunciation": "FRIY-stayl", "example": "Фрийстайлът е импровизиран рап на живо.", "type": "noun" },
+    { "bg": "бийт", "en": "beat/instrumental", "pronunciation": "biyt", "example": "Бийтът е с тежък бас и бързи хайхати.", "type": "noun" },
+    { "bg": "продуцент", "en": "producer", "pronunciation": "pro-du-TSENT", "example": "Продуцентът създава бийтовете в студиото.", "type": "noun" },
+    { "bg": "студио", "en": "studio", "pronunciation": "STU-di-o", "example": "Записваме новия албум в студиото.", "type": "noun" },
+    { "bg": "албум", "en": "album", "pronunciation": "AL-bum", "example": "Албумът излезе миналата седмица.", "type": "noun" },
+    { "bg": "сингъл", "en": "single", "pronunciation": "SIN-gul", "example": "Сингълът вече има милион слушания.", "type": "noun" },
+    { "bg": "припев", "en": "chorus/hook", "pronunciation": "PRI-pev", "example": "Припевът е запомнящ се и мелодичен.", "type": "noun" },
+    { "bg": "куплет", "en": "verse", "pronunciation": "kup-LET", "example": "Вторият куплет е по-бърз от първия.", "type": "noun" },
+    { "bg": "брейкданс", "en": "breakdancing", "pronunciation": "BREYK-dans", "example": "Брейкдансът е част от хип-хоп културата.", "type": "noun" },
+    { "bg": "графити", "en": "graffiti", "pronunciation": "gra-FI-ti", "example": "Графитите под моста са истинско изкуство.", "type": "noun" },
+    { "bg": "ди джей", "en": "DJ (hip-hop)", "pronunciation": "di DJEY", "example": "Ди джеят скреч по плочата.", "type": "noun" },
+    { "bg": "скреч", "en": "scratch", "pronunciation": "skrech", "example": "Скречът е характерен звук на хип-хопа.", "type": "noun" },
+    { "bg": "батъл", "en": "battle (rap)", "pronunciation": "BA-tul", "example": "Батълът между рапърите събра голяма публика.", "type": "noun" },
+    { "bg": "ъндърграунд", "en": "underground", "pronunciation": "un-dur-GRA-und", "example": "Ъндърграунд сцената в София е жива.", "type": "noun" },
+    { "bg": "флоу", "en": "flow", "pronunciation": "flou", "example": "Флоуът му е плавен и уверен.", "type": "noun" },
+    { "bg": "семплирам", "en": "to sample", "pronunciation": "sem-PLI-ram", "example": "Семплирам стар фънк запис за бийта.", "type": "verb" },
+    { "bg": "микрофон", "en": "microphone/mic", "pronunciation": "mik-ro-FON", "example": "Взе микрофона и започна да рапира.", "type": "noun" }
+  ]
+}
