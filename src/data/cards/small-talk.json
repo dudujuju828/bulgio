@@ -1,0 +1,28 @@
+{
+  "category": "Elevator & Small Talk",
+  "cards": [
+    { "bg": "Как си?", "en": "How are you?", "pronunciation": "kak si", "example": "Здравей, как си, отдавна не сме се виждали!", "type": "phrase" },
+    { "bg": "Добре съм, благодаря.", "en": "I'm fine, thank you.", "pronunciation": "dob-RE sum, bla-go-da-RYA", "example": "— Как си? — Добре съм, благодаря.", "type": "phrase" },
+    { "bg": "Какво ново?", "en": "What's new?", "pronunciation": "kak-VO NO-vo", "example": "Ей, какво ново, какво правиш?", "type": "phrase" },
+    { "bg": "Нищо особено.", "en": "Nothing special.", "pronunciation": "NISH-to o-SO-be-no", "example": "— Какво ново? — Нищо особено, все същото.", "type": "phrase" },
+    { "bg": "Хубаво време, нали?", "en": "Nice weather, isn't it?", "pronunciation": "hu-BA-vo VRE-me, na-LI", "example": "Хубаво време, нали? Идеално за разходка.", "type": "phrase" },
+    { "bg": "Какво работиш?", "en": "What do you do (for work)?", "pronunciation": "kak-VO RA-bo-tish", "example": "Какво работиш? — Програмист съм.", "type": "phrase" },
+    { "bg": "Откъде си?", "en": "Where are you from?", "pronunciation": "ot-ku-DE si", "example": "Откъде си? — От Пловдив съм.", "type": "phrase" },
+    { "bg": "Харесва ли ти тук?", "en": "Do you like it here?", "pronunciation": "ha-RES-va li ti tuk", "example": "Харесва ли ти тук в София?", "type": "phrase" },
+    { "bg": "Отдавна ли живееш тук?", "en": "Have you lived here long?", "pronunciation": "ot-DAV-na li zhi-VE-esh tuk", "example": "Отдавна ли живееш тук? — От пет години.", "type": "phrase" },
+    { "bg": "Какви са плановете ти?", "en": "What are your plans?", "pronunciation": "kak-VI sa pla-NO-ve-te ti", "example": "Какви са плановете ти за уикенда?", "type": "phrase" },
+    { "bg": "Приятно ми е.", "en": "Nice to meet you.", "pronunciation": "pri-YAT-no mi e", "example": "Приятно ми е, аз съм Мария.", "type": "phrase" },
+    { "bg": "И на мен.", "en": "Nice to meet you too.", "pronunciation": "i na men", "example": "— Приятно ми е. — И на мен.", "type": "phrase" },
+    { "bg": "Как мина денят?", "en": "How was your day?", "pronunciation": "kak MI-na de-NYAT", "example": "Как мина денят ти на работа?", "type": "phrase" },
+    { "bg": "Уморен съм.", "en": "I'm tired.", "pronunciation": "u-mo-REN sum", "example": "Уморен съм, беше тежък ден.", "type": "phrase" },
+    { "bg": "Какво ще правиш после?", "en": "What will you do later?", "pronunciation": "kak-VO shte PRA-vish POS-le", "example": "Какво ще правиш после? Да излезем?", "type": "phrase" },
+    { "bg": "Да се чуем!", "en": "Let's keep in touch!", "pronunciation": "da se CHU-em", "example": "Беше хубаво, да се чуем!", "type": "phrase" },
+    { "bg": "Лек ден!", "en": "Have a nice day!", "pronunciation": "lek den", "example": "Довиждане, лек ден!", "type": "phrase" },
+    { "bg": "Приятна вечер!", "en": "Have a nice evening!", "pronunciation": "pri-YAT-na VE-cher", "example": "Приятна вечер, до утре!", "type": "phrase" },
+    { "bg": "Хубав уикенд!", "en": "Have a nice weekend!", "pronunciation": "hu-BAV ui-KEND", "example": "Хубав уикенд, почивай си!", "type": "phrase" },
+    { "bg": "Какво ще кажеш за...?", "en": "What do you think about...?", "pronunciation": "kak-VO shte KA-zhesh za", "example": "Какво ще кажеш за новия ресторант?", "type": "phrase" },
+    { "bg": "Съгласен съм.", "en": "I agree.", "pronunciation": "su-GLA-sen sum", "example": "Съгласен съм, наистина е така.", "type": "phrase" },
+    { "bg": "Не съм сигурен.", "en": "I'm not sure.", "pronunciation": "ne sum si-GU-ren", "example": "Не съм сигурен, трябва да проверя.", "type": "phrase" },
+    { "bg": "Шегуваш ли се?", "en": "Are you kidding?", "pronunciation": "she-GU-vash li se", "example": "Шегуваш ли се? Не мога да повярвам!", "type": "phrase" }
+  ]
+}
