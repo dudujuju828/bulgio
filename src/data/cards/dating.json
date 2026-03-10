@@ -1,0 +1,27 @@
+{
+  "category": "Dating",
+  "cards": [
+    { "bg": "среща", "en": "date", "pronunciation": "SRESH-ta", "example": "Имам среща довечера.", "type": "noun" },
+    { "bg": "харесвам те", "en": "I like you", "pronunciation": "ha-RES-vam te", "example": "Много те харесвам.", "type": "phrase" },
+    { "bg": "обичам те", "en": "I love you", "pronunciation": "o-BI-cham te", "example": "Обичам те с цялото си сърце.", "type": "phrase" },
+    { "bg": "влюбен съм", "en": "I'm in love", "pronunciation": "vlyu-BEN sum", "example": "Влюбен съм в нея от първата среща.", "type": "phrase" },
+    { "bg": "гадже", "en": "boyfriend/girlfriend", "pronunciation": "GAD-zhe", "example": "Това е моето гадже.", "type": "noun" },
+    { "bg": "целувка", "en": "kiss", "pronunciation": "tse-LUV-ka", "example": "Първата целувка беше магическа.", "type": "noun" },
+    { "bg": "целувам", "en": "to kiss", "pronunciation": "tse-LU-vam", "example": "Целуна ме за лека нощ.", "type": "verb" },
+    { "bg": "прегръдка", "en": "hug", "pronunciation": "preg-RUD-ka", "example": "Прегръдката му ме успокои.", "type": "noun" },
+    { "bg": "прегръщам", "en": "to hug", "pronunciation": "preg-RUSH-tam", "example": "Прегърна ме, когато се видяхме.", "type": "verb" },
+    { "bg": "флиртувам", "en": "to flirt", "pronunciation": "flir-TU-vam", "example": "Той флиртува с нея цяла вечер.", "type": "verb" },
+    { "bg": "красива си", "en": "you're beautiful (to f)", "pronunciation": "kra-SI-va si", "example": "Ти си толкова красива тази вечер.", "type": "phrase" },
+    { "bg": "красив си", "en": "you're handsome (to m)", "pronunciation": "kra-SIV si", "example": "Много си красив с новата риза.", "type": "phrase" },
+    { "bg": "романтичен", "en": "romantic", "pronunciation": "ro-man-TI-chen", "example": "Вечерята беше много романтична.", "type": "adjective" },
+    { "bg": "букет цветя", "en": "bouquet of flowers", "pronunciation": "bu-KET tsve-TYA", "example": "Донесе ми букет цветя на срещата.", "type": "noun" },
+    { "bg": "покана", "en": "invitation", "pronunciation": "po-KA-na", "example": "Прие поканата ми за вечеря.", "type": "noun" },
+    { "bg": "каня", "en": "to invite", "pronunciation": "KA-nya", "example": "Каня те на кафе утре.", "type": "verb" },
+    { "bg": "свободен ли си", "en": "are you free?", "pronunciation": "svo-BO-den li si", "example": "Свободен ли си тази събота вечер?", "type": "phrase" },
+    { "bg": "годеж", "en": "engagement", "pronunciation": "go-DEZH", "example": "Годежът беше изненада за нея.", "type": "noun" },
+    { "bg": "годежен пръстен", "en": "engagement ring", "pronunciation": "go-DE-zhen PRUS-ten", "example": "Избрах красив годежен пръстен.", "type": "noun" },
+    { "bg": "разделяме се", "en": "to break up", "pronunciation": "raz-de-LYA-me se", "example": "Разделиха се след две години.", "type": "verb" },
+    { "bg": "липсваш ми", "en": "I miss you", "pronunciation": "LIPS-vash mi", "example": "Много ми липсваш, когато те няма.", "type": "phrase" },
+    { "bg": "обич", "en": "love/affection", "pronunciation": "o-BICH", "example": "Обичта е най-важното в живота.", "type": "noun" }
+  ]
+}
