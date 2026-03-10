@@ -1,0 +1,25 @@
+{
+  "category": "Geography",
+  "cards": [
+    { "bg": "страна", "en": "country", "pronunciation": "stra-NA", "example": "България е красива страна.", "type": "noun" },
+    { "bg": "столица", "en": "capital", "pronunciation": "sto-LI-tsa", "example": "София е столицата на България.", "type": "noun" },
+    { "bg": "град", "en": "city", "pronunciation": "grad", "example": "Пловдив е вторият по големина град.", "type": "noun" },
+    { "bg": "село", "en": "village", "pronunciation": "SE-lo", "example": "Дядо ми живее в село.", "type": "noun" },
+    { "bg": "континент", "en": "continent", "pronunciation": "kon-ti-NENT", "example": "Европа е нашият континент.", "type": "noun" },
+    { "bg": "Европа", "en": "Europe", "pronunciation": "ev-RO-pa", "example": "България е в Югоизточна Европа.", "type": "noun" },
+    { "bg": "Балкани", "en": "Balkans", "pronunciation": "bal-KA-ni", "example": "Балканите имат богата история.", "type": "noun" },
+    { "bg": "Черно море", "en": "Black Sea", "pronunciation": "CHER-no MO-re", "example": "Черно море е на изток от България.", "type": "noun" },
+    { "bg": "Дунав", "en": "Danube", "pronunciation": "DU-nav", "example": "Дунав е границата с Румъния.", "type": "noun" },
+    { "bg": "Стара планина", "en": "Balkan Mountains", "pronunciation": "STA-ra pla-ni-NA", "example": "Стара планина минава през цяла България.", "type": "noun" },
+    { "bg": "Рила", "en": "Rila (mountain)", "pronunciation": "RI-la", "example": "Мусала е най-високият връх в Рила.", "type": "noun" },
+    { "bg": "Родопи", "en": "Rhodope Mountains", "pronunciation": "ro-DO-pi", "example": "Родопите са известни с красивата си природа.", "type": "noun" },
+    { "bg": "граница", "en": "border", "pronunciation": "gra-NI-tsa", "example": "България граничи с пет страни.", "type": "noun" },
+    { "bg": "население", "en": "population", "pronunciation": "na-se-LE-ni-e", "example": "Населението на България е около шест милиона.", "type": "noun" },
+    { "bg": "карта", "en": "map", "pronunciation": "KAR-ta", "example": "Покажи ми на картата къде е Варна.", "type": "noun" },
+    { "bg": "област", "en": "region/province", "pronunciation": "OB-last", "example": "В коя област живееш?", "type": "noun" },
+    { "bg": "долина", "en": "valley", "pronunciation": "do-LI-na", "example": "Розовата долина е известна в целия свят.", "type": "noun" },
+    { "bg": "връх", "en": "peak/summit", "pronunciation": "vruh", "example": "Връх Мусала е на 2925 метра.", "type": "noun" },
+    { "bg": "полуостров", "en": "peninsula", "pronunciation": "po-lu-OS-trov", "example": "Балканският полуостров е в Югоизточна Европа.", "type": "noun" },
+    { "bg": "равнина", "en": "plain", "pronunciation": "rav-ni-NA", "example": "Тракийската равнина е много плодородна.", "type": "noun" }
+  ]
+}
