@@ -1,0 +1,28 @@
+{
+  "category": "Running",
+  "cards": [
+    { "bg": "бягане", "en": "running", "pronunciation": "BYA-ga-ne", "example": "Бягането е най-достъпният спорт.", "type": "noun" },
+    { "bg": "бягам", "en": "to run", "pronunciation": "BYA-gam", "example": "Бягам в парка всяка сутрин.", "type": "verb" },
+    { "bg": "джогинг", "en": "jogging", "pronunciation": "DZHO-ging", "example": "Джогингът е добър за здравето.", "type": "noun" },
+    { "bg": "маратон", "en": "marathon", "pronunciation": "ma-ra-TON", "example": "Софийският маратон е през октомври.", "type": "noun" },
+    { "bg": "полумаратон", "en": "half marathon", "pronunciation": "po-lu-ma-ra-TON", "example": "Завърших полумаратона за час и четиридесет минути.", "type": "noun" },
+    { "bg": "спринт", "en": "sprint", "pronunciation": "sprint", "example": "Финишира със силен спринт.", "type": "noun" },
+    { "bg": "маратонки", "en": "running shoes/sneakers", "pronunciation": "ma-ra-TON-ki", "example": "Купих нови маратонки за бягане.", "type": "noun" },
+    { "bg": "темпо", "en": "pace", "pronunciation": "TEM-po", "example": "Поддържай равномерно темпо.", "type": "noun" },
+    { "bg": "километър", "en": "kilometer", "pronunciation": "ki-lo-ME-tur", "example": "Днес пробягах осем километра.", "type": "noun" },
+    { "bg": "загрявка", "en": "warm-up", "pronunciation": "za-GRYAV-ka", "example": "Направи загрявка преди бягането.", "type": "noun" },
+    { "bg": "разтягане", "en": "stretching/cool-down", "pronunciation": "raz-TYA-ga-ne", "example": "Разтягането след бягане предпазва от контузии.", "type": "noun" },
+    { "bg": "дишане", "en": "breathing", "pronunciation": "DI-sha-ne", "example": "Контролирай дишането при бягане.", "type": "noun" },
+    { "bg": "пулс", "en": "heart rate/pulse", "pronunciation": "puls", "example": "Часовникът следи пулса ми.", "type": "noun" },
+    { "bg": "издръжливост", "en": "endurance/stamina", "pronunciation": "iz-DRUZH-li-vost", "example": "Дългите пробежки подобряват издръжливостта.", "type": "noun" },
+    { "bg": "трасе", "en": "course/route", "pronunciation": "tra-SE", "example": "Трасето минава покрай Южния парк.", "type": "noun" },
+    { "bg": "финиш", "en": "finish line", "pronunciation": "FI-nish", "example": "Прекосих финиша с последни сили.", "type": "noun" },
+    { "bg": "старт", "en": "start", "pronunciation": "start", "example": "Стартът на състезанието е пред НДК.", "type": "noun" },
+    { "bg": "пробежка", "en": "run/jog (session)", "pronunciation": "pro-BEZH-ka", "example": "Вечерната пробежка ме отпуска.", "type": "noun" },
+    { "bg": "личен рекорд", "en": "personal record/PR", "pronunciation": "LI-chen re-KORD", "example": "Подобрих личния си рекорд на десет километра.", "type": "noun" },
+    { "bg": "крампа", "en": "cramp", "pronunciation": "KRAM-pa", "example": "Хвана ме крампа в прасеца.", "type": "noun" },
+    { "bg": "хидратация", "en": "hydration", "pronunciation": "hid-ra-TA-tsi-ya", "example": "Хидратацията е важна, особено през лятото.", "type": "noun" },
+    { "bg": "състезание", "en": "race/competition", "pronunciation": "sus-te-ZA-ni-e", "example": "Записах се за градско състезание по бягане.", "type": "noun" },
+    { "bg": "пътека за бягане", "en": "running trail", "pronunciation": "pu-TE-ka za BYA-ga-ne", "example": "Пътеката за бягане около Борисовата градина е три километра.", "type": "noun" }
+  ]
+}
