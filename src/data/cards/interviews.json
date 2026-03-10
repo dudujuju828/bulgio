@@ -1,0 +1,29 @@
+{
+  "category": "Interviews",
+  "cards": [
+    { "bg": "интервю", "en": "interview", "pronunciation": "in-ter-VYU", "example": "Имам интервю за работа утре.", "type": "noun" },
+    { "bg": "автобиография", "en": "CV/resume", "pronunciation": "av-to-bi-o-GRA-fi-ya", "example": "Изпратих автобиографията си по имейл.", "type": "noun" },
+    { "bg": "мотивационно писмо", "en": "cover letter", "pronunciation": "mo-ti-va-tsi-ON-no PIS-mo", "example": "Мотивационното писмо трябва да е кратко и ясно.", "type": "noun" },
+    { "bg": "кандидатствам", "en": "to apply", "pronunciation": "kan-di-DAT-stvam", "example": "Кандидатствах за позицията онлайн.", "type": "verb" },
+    { "bg": "кандидат", "en": "candidate/applicant", "pronunciation": "kan-di-DAT", "example": "За тази позиция има двадесет кандидати.", "type": "noun" },
+    { "bg": "позиция", "en": "position/role", "pronunciation": "po-ZI-tsi-ya", "example": "Позицията е за маркетинг специалист.", "type": "noun" },
+    { "bg": "обява за работа", "en": "job listing/posting", "pronunciation": "o-BYA-va za ra-BO-ta", "example": "Видях обявата за работа в Jobs.bg.", "type": "noun" },
+    { "bg": "опит", "en": "experience", "pronunciation": "O-pit", "example": "Имам пет години опит в сферата.", "type": "noun" },
+    { "bg": "умение", "en": "skill", "pronunciation": "u-ME-ni-e", "example": "Какви умения са ви необходими?", "type": "noun" },
+    { "bg": "образование", "en": "education", "pronunciation": "ob-ra-zo-VA-ni-e", "example": "Имам висше образование по икономика.", "type": "noun" },
+    { "bg": "квалификация", "en": "qualification", "pronunciation": "kva-li-fi-KA-tsi-ya", "example": "Квалификациите ми отговарят на изискванията.", "type": "noun" },
+    { "bg": "заплата", "en": "salary", "pronunciation": "za-PLA-ta", "example": "Какви са очакванията ви за заплата?", "type": "noun" },
+    { "bg": "работодател", "en": "employer", "pronunciation": "ra-bo-to-DA-tel", "example": "Работодателят предлага допълнителни придобивки.", "type": "noun" },
+    { "bg": "представям се", "en": "to introduce oneself", "pronunciation": "pred-STA-vyam se", "example": "Моля, представете се накратко.", "type": "verb" },
+    { "bg": "силна страна", "en": "strength", "pronunciation": "SIL-na stra-NA", "example": "Коя е най-силната ви страна?", "type": "noun" },
+    { "bg": "слаба страна", "en": "weakness", "pronunciation": "SLA-ba stra-NA", "example": "Имате ли слаби страни, над които работите?", "type": "noun" },
+    { "bg": "препоръка", "en": "reference/recommendation", "pronunciation": "pre-po-RU-ka", "example": "Имам препоръка от предишния ми работодател.", "type": "noun" },
+    { "bg": "изпитателен срок", "en": "probation period", "pronunciation": "iz-pi-TA-te-len srok", "example": "Изпитателният срок е шест месеца.", "type": "noun" },
+    { "bg": "назначавам", "en": "to hire/appoint", "pronunciation": "na-zna-CHA-vam", "example": "Назначиха ме на постоянен договор.", "type": "verb" },
+    { "bg": "одобрен съм", "en": "I'm approved/accepted", "pronunciation": "o-DOB-ren sum", "example": "Обадиха ми се — одобрен съм за позицията!", "type": "phrase" },
+    { "bg": "отхвърлям", "en": "to reject", "pronunciation": "ot-HVUR-lyam", "example": "За съжаление кандидатурата ми беше отхвърлена.", "type": "verb" },
+    { "bg": "придобивки", "en": "benefits/perks", "pronunciation": "pri-do-BIV-ki", "example": "Придобивките включват здравна застраховка.", "type": "noun" },
+    { "bg": "работно време", "en": "working hours", "pronunciation": "ra-BOT-no VRE-me", "example": "Работното време е от девет до шест.", "type": "noun" },
+    { "bg": "дистанционна работа", "en": "remote work", "pronunciation": "dis-tan-tsi-ON-na ra-BO-ta", "example": "Предлагате ли възможност за дистанционна работа?", "type": "noun" }
+  ]
+}
