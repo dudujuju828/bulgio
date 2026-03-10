@@ -1,0 +1,28 @@
+{
+  "category": "Landlord & Tenant",
+  "cards": [
+    { "bg": "наемател", "en": "tenant", "pronunciation": "na-e-MA-tel", "example": "Наемателят плаща наема до петото число.", "type": "noun" },
+    { "bg": "наемодател", "en": "landlord", "pronunciation": "na-e-mo-DA-tel", "example": "Наемодателят живее в чужбина.", "type": "noun" },
+    { "bg": "наем", "en": "rent", "pronunciation": "na-EM", "example": "Наемът е шестстотин лева на месец.", "type": "noun" },
+    { "bg": "договор за наем", "en": "lease/rental agreement", "pronunciation": "do-go-VOR za na-EM", "example": "Подписахме договор за наем за една година.", "type": "noun" },
+    { "bg": "депозит", "en": "security deposit", "pronunciation": "de-po-ZIT", "example": "Депозитът е равен на един месечен наем.", "type": "noun" },
+    { "bg": "нотариален акт", "en": "notary deed/title deed", "pronunciation": "no-ta-ri-A-len akt", "example": "Нотариалният акт доказва собствеността.", "type": "noun" },
+    { "bg": "жилище", "en": "dwelling/residence", "pronunciation": "zhi-LI-shte", "example": "Търсим жилище под наем в центъра.", "type": "noun" },
+    { "bg": "апартамент", "en": "apartment/flat", "pronunciation": "a-par-ta-MENT", "example": "Апартаментът е двустаен и обзаведен.", "type": "noun" },
+    { "bg": "обзаведен", "en": "furnished", "pronunciation": "ob-za-VE-den", "example": "Предпочитам обзаведено жилище.", "type": "adjective" },
+    { "bg": "необзаведен", "en": "unfurnished", "pronunciation": "ne-ob-za-VE-den", "example": "Необзаведеният апартамент е по-евтин.", "type": "adjective" },
+    { "bg": "входна такса", "en": "building maintenance fee", "pronunciation": "VHOD-na TAK-sa", "example": "Входната такса е двадесет лева на месец.", "type": "noun" },
+    { "bg": "домоуправител", "en": "building manager", "pronunciation": "do-mo-up-ra-VI-tel", "example": "Домоуправителят събира таксите за входа.", "type": "noun" },
+    { "bg": "общи части", "en": "common areas", "pronunciation": "OB-shti CHAS-ti", "example": "Общите части трябва да се поддържат чисти.", "type": "noun" },
+    { "bg": "ремонт", "en": "renovation/repair", "pronunciation": "re-MONT", "example": "Ремонтът на банята е за сметка на наемодателя.", "type": "noun" },
+    { "bg": "повреда", "en": "damage/defect", "pronunciation": "pov-RE-da", "example": "Обадих се за повредата на бойлера.", "type": "noun" },
+    { "bg": "предизвестие", "en": "notice (to vacate)", "pronunciation": "pre-diz-VES-ti-e", "example": "Дадох едномесечно предизвестие за напускане.", "type": "noun" },
+    { "bg": "изнасям се", "en": "to move out", "pronunciation": "iz-NA-syam se", "example": "Изнасяме се в края на месеца.", "type": "verb" },
+    { "bg": "нанасям се", "en": "to move in", "pronunciation": "na-NA-syam se", "example": "Нанасяме се в новото жилище от първи.", "type": "verb" },
+    { "bg": "етаж", "en": "floor/story", "pronunciation": "e-TAZH", "example": "Апартаментът е на петия етаж.", "type": "noun" },
+    { "bg": "асансьор", "en": "elevator/lift", "pronunciation": "a-san-SYOR", "example": "Блокът няма асансьор за съжаление.", "type": "noun" },
+    { "bg": "панелка", "en": "panel block (Soviet-era building)", "pronunciation": "pa-NEL-ka", "example": "Живеем в панелка в Люлин.", "type": "noun" },
+    { "bg": "комунални сметки", "en": "utility bills", "pronunciation": "ko-mu-NAL-ni SMET-ki", "example": "Комуналните сметки са за сметка на наемателя.", "type": "noun" },
+    { "bg": "оглед", "en": "viewing/apartment tour", "pronunciation": "OG-led", "example": "Уговорихме оглед за утре следобед.", "type": "noun" }
+  ]
+}
