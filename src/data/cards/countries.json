@@ -1,0 +1,27 @@
+{
+  "category": "Countries",
+  "cards": [
+    { "bg": "страна", "en": "country", "pronunciation": "stra-NA", "example": "България е красива страна.", "type": "noun" },
+    { "bg": "България", "en": "Bulgaria", "pronunciation": "bul-GA-ri-ya", "example": "България е в Югоизточна Европа.", "type": "noun" },
+    { "bg": "българин", "en": "Bulgarian (m)", "pronunciation": "bul-GA-rin", "example": "Той е българин от София.", "type": "noun" },
+    { "bg": "Германия", "en": "Germany", "pronunciation": "ger-MA-ni-ya", "example": "Германия е най-голямата икономика в Европа.", "type": "noun" },
+    { "bg": "Англия", "en": "England", "pronunciation": "AN-gli-ya", "example": "Англия е известна с футбола.", "type": "noun" },
+    { "bg": "Франция", "en": "France", "pronunciation": "FRAN-tsi-ya", "example": "Франция е известна с виното и сиренето.", "type": "noun" },
+    { "bg": "Италия", "en": "Italy", "pronunciation": "i-TA-li-ya", "example": "Италия има невероятна кухня.", "type": "noun" },
+    { "bg": "Испания", "en": "Spain", "pronunciation": "is-PA-ni-ya", "example": "Испания е популярна за ваканция.", "type": "noun" },
+    { "bg": "Гърция", "en": "Greece", "pronunciation": "GUR-tsi-ya", "example": "Гърция е южният ни съсед.", "type": "noun" },
+    { "bg": "Турция", "en": "Turkey", "pronunciation": "TUR-tsi-ya", "example": "Турция е югоизточният ни съсед.", "type": "noun" },
+    { "bg": "Русия", "en": "Russia", "pronunciation": "RU-si-ya", "example": "Русия е най-голямата страна в света.", "type": "noun" },
+    { "bg": "Румъния", "en": "Romania", "pronunciation": "ru-MU-ni-ya", "example": "Румъния е северният ни съсед.", "type": "noun" },
+    { "bg": "Сърбия", "en": "Serbia", "pronunciation": "SUR-bi-ya", "example": "Сърбия е на запад от България.", "type": "noun" },
+    { "bg": "Америка", "en": "America/USA", "pronunciation": "a-ME-ri-ka", "example": "Много българи живеят в Америка.", "type": "noun" },
+    { "bg": "Китай", "en": "China", "pronunciation": "ki-TAY", "example": "Китай има над милиард жители.", "type": "noun" },
+    { "bg": "Япония", "en": "Japan", "pronunciation": "ya-PO-ni-ya", "example": "Япония е известна с технологиите.", "type": "noun" },
+    { "bg": "националност", "en": "nationality", "pronunciation": "na-tsi-o-NAL-nost", "example": "Каква е националността ти?", "type": "noun" },
+    { "bg": "чужденец", "en": "foreigner", "pronunciation": "chuzh-de-NETS", "example": "В София живеят много чужденци.", "type": "noun" },
+    { "bg": "роден съм в", "en": "I was born in", "pronunciation": "RO-den sum v", "example": "Роден съм в Пловдив.", "type": "phrase" },
+    { "bg": "идвам от", "en": "I come from", "pronunciation": "ID-vam ot", "example": "Идвам от Англия, но живея в София.", "type": "phrase" },
+    { "bg": "столица", "en": "capital city", "pronunciation": "sto-LI-tsa", "example": "София е столицата на България.", "type": "noun" },
+    { "bg": "граница", "en": "border", "pronunciation": "gra-NI-tsa", "example": "Границата с Гърция е на юг.", "type": "noun" }
+  ]
+}
