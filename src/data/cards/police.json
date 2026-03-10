@@ -1,0 +1,28 @@
+{
+  "category": "Police & Crime",
+  "cards": [
+    { "bg": "полиция", "en": "police", "pronunciation": "po-LI-tsi-ya", "example": "Полицията пристигна за пет минути.", "type": "noun" },
+    { "bg": "полицай", "en": "police officer", "pronunciation": "po-li-TSAY", "example": "Полицаят ми поиска документите.", "type": "noun" },
+    { "bg": "престъпление", "en": "crime", "pronunciation": "pres-tup-LE-ni-e", "example": "Престъплението беше извършено нощта.", "type": "noun" },
+    { "bg": "крадец", "en": "thief", "pronunciation": "kra-DETS", "example": "Крадецът избяга, но го хванаха.", "type": "noun" },
+    { "bg": "кражба", "en": "theft/robbery", "pronunciation": "KRAZH-ba", "example": "Съобщих за кражба в полицията.", "type": "noun" },
+    { "bg": "жалба", "en": "complaint/report", "pronunciation": "ZHAL-ba", "example": "Подадох жалба в районното управление.", "type": "noun" },
+    { "bg": "свидетел", "en": "witness", "pronunciation": "svi-DE-tel", "example": "Свидетелят описа какво е видял.", "type": "noun" },
+    { "bg": "разследване", "en": "investigation", "pronunciation": "raz-SLED-va-ne", "example": "Разследването продължава от три месеца.", "type": "noun" },
+    { "bg": "арестувам", "en": "to arrest", "pronunciation": "a-res-TU-vam", "example": "Арестуваха заподозрения тази сутрин.", "type": "verb" },
+    { "bg": "затвор", "en": "prison", "pronunciation": "zat-VOR", "example": "Затворът е извън града.", "type": "noun" },
+    { "bg": "присъда", "en": "sentence/verdict", "pronunciation": "pri-SU-da", "example": "Присъдата беше три години затвор.", "type": "noun" },
+    { "bg": "адвокат", "en": "lawyer", "pronunciation": "ad-vo-KAT", "example": "Адвокатът защити клиента си в съда.", "type": "noun" },
+    { "bg": "съд", "en": "court", "pronunciation": "sud", "example": "Делото ще се гледа в районния съд.", "type": "noun" },
+    { "bg": "глоба", "en": "fine/penalty", "pronunciation": "GLO-ba", "example": "Получих глоба за неправилно паркиране.", "type": "noun" },
+    { "bg": "лична карта", "en": "ID card", "pronunciation": "LICH-na KAR-ta", "example": "Носете винаги личната си карта.", "type": "noun" },
+    { "bg": "патрулка", "en": "patrol car", "pronunciation": "pat-RUL-ka", "example": "Патрулката спря до тротоара.", "type": "noun" },
+    { "bg": "измама", "en": "fraud/scam", "pronunciation": "iz-MA-ma", "example": "Внимавайте за телефонни измами.", "type": "noun" },
+    { "bg": "подозрителен", "en": "suspicious", "pronunciation": "po-do-zri-TE-len", "example": "Видях подозрителен човек пред входа.", "type": "adjective" },
+    { "bg": "обир", "en": "burglary/heist", "pronunciation": "o-BIR", "example": "Обирът на банката стресна целия квартал.", "type": "noun" },
+    { "bg": "доказателство", "en": "evidence/proof", "pronunciation": "do-ka-ZA-tel-stvo", "example": "Полицията събра доказателства от местопрестъплението.", "type": "noun" },
+    { "bg": "сигнал", "en": "report/tip-off", "pronunciation": "sig-NAL", "example": "Подайте сигнал на телефон 112.", "type": "noun" },
+    { "bg": "наказание", "en": "punishment", "pronunciation": "na-ka-ZA-ni-e", "example": "Наказанието зависи от тежестта на престъплението.", "type": "noun" },
+    { "bg": "охрана", "en": "security (guard)", "pronunciation": "oh-RA-na", "example": "Охраната на входа проверява чантите.", "type": "noun" }
+  ]
+}
