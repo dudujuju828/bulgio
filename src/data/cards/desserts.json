@@ -1,0 +1,27 @@
+{
+  "category": "Desserts",
+  "cards": [
+    { "bg": "десерт", "en": "dessert", "pronunciation": "de-SERT", "example": "Какъв десерт желаете?", "type": "noun" },
+    { "bg": "торта", "en": "cake", "pronunciation": "TOR-ta", "example": "Мама направи торта за рождения ми ден.", "type": "noun" },
+    { "bg": "сладкиш", "en": "pastry/sweet", "pronunciation": "slad-KISH", "example": "Купих сладкиши от сладкарницата.", "type": "noun" },
+    { "bg": "сладкарница", "en": "pastry shop/bakery", "pronunciation": "slad-KAR-ni-tsa", "example": "Сладкарницата на ъгъла е много хубава.", "type": "noun" },
+    { "bg": "баница", "en": "banitsa (filo pastry)", "pronunciation": "BA-ni-tsa", "example": "Баницата с тиква е много вкусна.", "type": "noun" },
+    { "bg": "баклава", "en": "baklava", "pronunciation": "bak-la-VA", "example": "Баклавата е традиционен десерт с орехи.", "type": "noun" },
+    { "bg": "сладолед", "en": "ice cream", "pronunciation": "sla-do-LED", "example": "Искам две топки сладолед — шоколад и ванилия.", "type": "noun" },
+    { "bg": "шоколад", "en": "chocolate", "pronunciation": "sho-ko-LAD", "example": "Обичам черен шоколад.", "type": "noun" },
+    { "bg": "бисквита", "en": "cookie/biscuit", "pronunciation": "bis-KVI-ta", "example": "Изпекохме бисквити с масло.", "type": "noun" },
+    { "bg": "кроасан", "en": "croissant", "pronunciation": "kro-a-SAN", "example": "За закуска ям кроасан с конфитюр.", "type": "noun" },
+    { "bg": "конфитюр", "en": "jam/marmalade", "pronunciation": "kon-fi-TYUR", "example": "Домашният конфитюр от сливи е чудесен.", "type": "noun" },
+    { "bg": "пудинг", "en": "pudding", "pronunciation": "PU-ding", "example": "Пудингът е любимият десерт на детето.", "type": "noun" },
+    { "bg": "палачинка", "en": "crepe/pancake", "pronunciation": "pa-la-CHIN-ka", "example": "Палачинките с мед и орехи са вкусни.", "type": "noun" },
+    { "bg": "тулумба", "en": "tulumba (fried dough)", "pronunciation": "tu-LUM-ba", "example": "Тулумбите са сочни и сладки.", "type": "noun" },
+    { "bg": "козунак", "en": "kozunak (Easter bread)", "pronunciation": "ko-zu-NAK", "example": "На Великден правим козунак.", "type": "noun" },
+    { "bg": "локум", "en": "Turkish delight", "pronunciation": "lo-KUM", "example": "Локумът с розова вода е деликатес.", "type": "noun" },
+    { "bg": "халва", "en": "halva", "pronunciation": "hal-VA", "example": "Халвата от тахан е много вкусна.", "type": "noun" },
+    { "bg": "крем", "en": "cream/custard", "pronunciation": "krem", "example": "Тортата е с ванилов крем.", "type": "noun" },
+    { "bg": "бита сметана", "en": "whipped cream", "pronunciation": "BI-ta sme-TA-na", "example": "Искам сладолед с бита сметана.", "type": "noun" },
+    { "bg": "захарен", "en": "sugary/sweet", "pronunciation": "ZA-ha-ren", "example": "Десертът е твърде захарен за мен.", "type": "adjective" },
+    { "bg": "печа", "en": "to bake", "pronunciation": "pe-CHA", "example": "Печем бисквити за Коледа.", "type": "verb" },
+    { "bg": "ревани", "en": "revani (semolina cake)", "pronunciation": "re-va-NI", "example": "Реваният е напоен със захарен сироп.", "type": "noun" }
+  ]
+}
