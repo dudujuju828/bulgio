@@ -1,0 +1,25 @@
+{
+  "category": "Colors",
+  "cards": [
+    { "bg": "червен", "en": "red", "pronunciation": "cher-VEN", "example": "Тя носи червена рокля.", "type": "adjective" },
+    { "bg": "син", "en": "blue", "pronunciation": "sin", "example": "Небето е синьо днес.", "type": "adjective" },
+    { "bg": "зелен", "en": "green", "pronunciation": "ze-LEN", "example": "Тревата е зелена напролет.", "type": "adjective" },
+    { "bg": "жълт", "en": "yellow", "pronunciation": "zhult", "example": "Слънцето е жълто и ярко.", "type": "adjective" },
+    { "bg": "бял", "en": "white", "pronunciation": "byal", "example": "Снегът е бял и чист.", "type": "adjective" },
+    { "bg": "черен", "en": "black", "pronunciation": "CHE-ren", "example": "Той има черна котка.", "type": "adjective" },
+    { "bg": "оранжев", "en": "orange", "pronunciation": "o-RAN-zhev", "example": "Портокалът е оранжев.", "type": "adjective" },
+    { "bg": "виолетов", "en": "purple", "pronunciation": "vi-o-LE-tov", "example": "Тя обича виолетови цветя.", "type": "adjective" },
+    { "bg": "розов", "en": "pink", "pronunciation": "RO-zov", "example": "Розовата роза е много красива.", "type": "adjective" },
+    { "bg": "кафяв", "en": "brown", "pronunciation": "ka-FYAV", "example": "Кучето е кафяво и голямо.", "type": "adjective" },
+    { "bg": "сив", "en": "gray", "pronunciation": "siv", "example": "Облаците са сиви преди дъжд.", "type": "adjective" },
+    { "bg": "златен", "en": "golden", "pronunciation": "zla-TEN", "example": "Тя носи златен пръстен.", "type": "adjective" },
+    { "bg": "сребърен", "en": "silver", "pronunciation": "sre-BU-ren", "example": "Колата е сребърна.", "type": "adjective" },
+    { "bg": "тъмен", "en": "dark", "pronunciation": "TU-men", "example": "Стаята е тъмна без лампа.", "type": "adjective" },
+    { "bg": "светъл", "en": "light/bright", "pronunciation": "SVE-tul", "example": "Харесвам светли цветове.", "type": "adjective" },
+    { "bg": "тюркоазен", "en": "turquoise", "pronunciation": "tyur-ko-A-zen", "example": "Морето е тюркоазено в Бургас.", "type": "adjective" },
+    { "bg": "бежов", "en": "beige", "pronunciation": "be-ZHOV", "example": "Стените в кухнята са бежови.", "type": "adjective" },
+    { "bg": "цвят", "en": "color", "pronunciation": "tsvyat", "example": "Какъв цвят харесваш?", "type": "noun" },
+    { "bg": "дъга", "en": "rainbow", "pronunciation": "DU-ga", "example": "След дъжда излезе дъга.", "type": "noun" },
+    { "bg": "шарен", "en": "colorful", "pronunciation": "SHA-ren", "example": "Пеперудата е шарена.", "type": "adjective" }
+  ]
+}
