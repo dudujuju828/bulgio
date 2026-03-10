@@ -1,0 +1,28 @@
+{
+  "category": "Education",
+  "cards": [
+    { "bg": "университет", "en": "university", "pronunciation": "u-ni-ver-si-TET", "example": "Уча в Софийския университет.", "type": "noun" },
+    { "bg": "студент", "en": "student (university)", "pronunciation": "stu-DENT", "example": "Студентите имат изпити през януари.", "type": "noun" },
+    { "bg": "преподавател", "en": "lecturer/professor", "pronunciation": "pre-po-da-VA-tel", "example": "Преподавателят обясни новата тема.", "type": "noun" },
+    { "bg": "специалност", "en": "major/field of study", "pronunciation": "spe-tsi-AL-nost", "example": "Специалността ми е информатика.", "type": "noun" },
+    { "bg": "диплома", "en": "diploma/degree", "pronunciation": "dip-LO-ma", "example": "Получих дипломата си миналата година.", "type": "noun" },
+    { "bg": "бакалавър", "en": "bachelor's degree", "pronunciation": "ba-ka-LA-vur", "example": "Завърших бакалавър по икономика.", "type": "noun" },
+    { "bg": "магистър", "en": "master's degree", "pronunciation": "ma-GIS-tur", "example": "Записах се за магистратура в чужбина.", "type": "noun" },
+    { "bg": "изпит", "en": "exam", "pronunciation": "IZ-pit", "example": "Утре имам изпит по математика.", "type": "noun" },
+    { "bg": "лекция", "en": "lecture", "pronunciation": "LEK-tsi-ya", "example": "Лекцията започва в девет часа.", "type": "noun" },
+    { "bg": "семинар", "en": "seminar", "pronunciation": "se-mi-NAR", "example": "На семинара обсъждаме нови изследвания.", "type": "noun" },
+    { "bg": "стипендия", "en": "scholarship", "pronunciation": "sti-PEN-di-ya", "example": "Получих стипендия за отличен успех.", "type": "noun" },
+    { "bg": "библиотека", "en": "library", "pronunciation": "bib-li-o-TE-ka", "example": "Уча в библиотеката до късно.", "type": "noun" },
+    { "bg": "курсова работа", "en": "coursework/term paper", "pronunciation": "KUR-so-va RA-bo-ta", "example": "Трябва да предам курсовата работа до петък.", "type": "noun" },
+    { "bg": "оценка", "en": "grade/mark", "pronunciation": "o-TSEN-ka", "example": "Получих отлична оценка на изпита.", "type": "noun" },
+    { "bg": "знание", "en": "knowledge", "pronunciation": "ZNA-ni-e", "example": "Знанието е най-ценното нещо.", "type": "noun" },
+    { "bg": "уча", "en": "to study/learn", "pronunciation": "U-cha", "example": "Уча български език всеки ден.", "type": "verb" },
+    { "bg": "завършвам", "en": "to graduate", "pronunciation": "za-VURSH-vam", "example": "Завършвам университета догодина.", "type": "verb" },
+    { "bg": "записвам се", "en": "to enroll", "pronunciation": "za-PIS-vam se", "example": "Записах се в курс по програмиране.", "type": "verb" },
+    { "bg": "изследване", "en": "research", "pronunciation": "iz-SLED-va-ne", "example": "Правя изследване за дипломната си работа.", "type": "noun" },
+    { "bg": "дипломна работа", "en": "thesis/dissertation", "pronunciation": "dip-LOM-na RA-bo-ta", "example": "Защитих дипломната си работа успешно.", "type": "noun" },
+    { "bg": "образование", "en": "education", "pronunciation": "ob-ra-zo-VA-ni-e", "example": "Образованието е важно за бъдещето.", "type": "noun" },
+    { "bg": "грамотен", "en": "literate/educated", "pronunciation": "GRA-mo-ten", "example": "Всеки трябва да бъде грамотен.", "type": "adjective" },
+    { "bg": "общежитие", "en": "dormitory", "pronunciation": "ob-shte-ZHI-ti-e", "example": "Живея в студентско общежитие.", "type": "noun" }
+  ]
+}
