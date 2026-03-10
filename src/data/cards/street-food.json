@@ -1,0 +1,28 @@
+{
+  "category": "Street Food",
+  "cards": [
+    { "bg": "улична храна", "en": "street food", "pronunciation": "u-LICH-na hra-NA", "example": "Уличната храна в София е евтина и вкусна.", "type": "noun" },
+    { "bg": "дюнер", "en": "doner kebab", "pronunciation": "dyu-NER", "example": "Един дюнер с всичко, моля.", "type": "noun" },
+    { "bg": "пица", "en": "pizza (by the slice)", "pronunciation": "PI-tsa", "example": "Купих парче пица на ъгъла.", "type": "noun" },
+    { "bg": "принцеса", "en": "printsesa (fried bread with cheese)", "pronunciation": "prin-TSE-sa", "example": "Принцесата с кашкавал е класика от будката.", "type": "noun" },
+    { "bg": "бюрек", "en": "burek (pastry with filling)", "pronunciation": "byu-REK", "example": "Бюрекът с извара е любимата ми закуска.", "type": "noun" },
+    { "bg": "тост", "en": "toasted sandwich", "pronunciation": "tost", "example": "Тост с шунка и кашкавал, моля.", "type": "noun" },
+    { "bg": "палачинка", "en": "crepe/pancake", "pronunciation": "pa-la-CHIN-ka", "example": "Палачинка с нутела и банан.", "type": "noun" },
+    { "bg": "царевица на пара", "en": "steamed corn on the cob", "pronunciation": "tsa-re-VI-tsa na PA-ra", "example": "На плажа продават царевица на пара.", "type": "noun" },
+    { "bg": "варени фъстъци", "en": "boiled peanuts", "pronunciation": "VA-re-ni fus-TU-tsi", "example": "Купих варени фъстъци от бабичката на ъгъла.", "type": "noun" },
+    { "bg": "сладолед", "en": "ice cream", "pronunciation": "sla-do-LED", "example": "Две топки сладолед — шоколад и ванилия.", "type": "noun" },
+    { "bg": "топка", "en": "scoop (of ice cream)", "pronunciation": "TOP-ka", "example": "Колко струва една топка сладолед?", "type": "noun" },
+    { "bg": "пуканки", "en": "popcorn", "pronunciation": "pu-KAN-ki", "example": "Купихме пуканки за киното.", "type": "noun" },
+    { "bg": "захарен памук", "en": "cotton candy", "pronunciation": "ZA-ha-ren pa-MUK", "example": "Децата обичат захарен памук на панаира.", "type": "noun" },
+    { "bg": "ядки", "en": "nuts (roasted)", "pronunciation": "YAD-ki", "example": "Продавачът предлага печени ядки.", "type": "noun" },
+    { "bg": "симит", "en": "simit (sesame bread ring)", "pronunciation": "si-MIT", "example": "Симитът е хрупкав и евтин.", "type": "noun" },
+    { "bg": "будка", "en": "kiosk/food stall", "pronunciation": "BUD-ka", "example": "Будката за закуски е до спирката.", "type": "noun" },
+    { "bg": "павилион", "en": "food stand/pavilion", "pronunciation": "pa-vi-li-ON", "example": "В павилиона правят баница от сутринта.", "type": "noun" },
+    { "bg": "за вкъщи", "en": "to go/takeaway", "pronunciation": "za VKUSH-ti", "example": "За вкъщи или за тук?", "type": "phrase" },
+    { "bg": "за тук", "en": "for here/eat in", "pronunciation": "za tuk", "example": "За тук, ще ям на масичката.", "type": "phrase" },
+    { "bg": "кетчуп", "en": "ketchup", "pronunciation": "KET-chup", "example": "Искаш ли кетчуп или горчица?", "type": "noun" },
+    { "bg": "горчица", "en": "mustard", "pronunciation": "gor-CHI-tsa", "example": "Слагам горчица на дюнера.", "type": "noun" },
+    { "bg": "салфетка", "en": "napkin", "pronunciation": "sal-FET-ka", "example": "Дай ми още салфетки, моля.", "type": "noun" },
+    { "bg": "евтино", "en": "cheap/affordable", "pronunciation": "ev-TI-no", "example": "Уличната храна е евтина и бърза.", "type": "adjective" }
+  ]
+}
