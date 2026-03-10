@@ -1,0 +1,26 @@
+{
+  "category": "Directions",
+  "cards": [
+    { "bg": "наляво", "en": "left", "pronunciation": "na-LYA-vo", "example": "Завийте наляво на кръстовището.", "type": "phrase" },
+    { "bg": "надясно", "en": "right", "pronunciation": "na-DYAS-no", "example": "Аптеката е надясно.", "type": "phrase" },
+    { "bg": "направо", "en": "straight ahead", "pronunciation": "na-PRA-vo", "example": "Продължете направо двеста метра.", "type": "phrase" },
+    { "bg": "назад", "en": "back/behind", "pronunciation": "na-ZAD", "example": "Трябва да се върнем назад.", "type": "phrase" },
+    { "bg": "напред", "en": "forward/ahead", "pronunciation": "na-PRED", "example": "Вървете напред до площада.", "type": "phrase" },
+    { "bg": "север", "en": "north", "pronunciation": "SE-ver", "example": "Градът е на север от тук.", "type": "noun" },
+    { "bg": "юг", "en": "south", "pronunciation": "yug", "example": "Морето е на юг.", "type": "noun" },
+    { "bg": "изток", "en": "east", "pronunciation": "iz-TOK", "example": "Слънцето изгрява от изток.", "type": "noun" },
+    { "bg": "запад", "en": "west", "pronunciation": "ZA-pad", "example": "Слънцето залязва на запад.", "type": "noun" },
+    { "bg": "до", "en": "next to/near", "pronunciation": "do", "example": "Банката е до поликлиниката.", "type": "phrase" },
+    { "bg": "между", "en": "between", "pronunciation": "MEZH-du", "example": "Паркът е между училището и болницата.", "type": "phrase" },
+    { "bg": "срещу", "en": "across from/opposite", "pronunciation": "SRESHT-u", "example": "Ресторантът е срещу хотела.", "type": "phrase" },
+    { "bg": "близо", "en": "near/close", "pronunciation": "BLI-zo", "example": "Спирката е много близо.", "type": "phrase" },
+    { "bg": "далеч", "en": "far", "pronunciation": "da-LECH", "example": "Летището е далеч от центъра.", "type": "phrase" },
+    { "bg": "ъгъл", "en": "corner", "pronunciation": "U-gul", "example": "Кафенето е на ъгъла.", "type": "noun" },
+    { "bg": "кръстовище", "en": "intersection", "pronunciation": "krus-to-VISHT-e", "example": "Спрете на кръстовището.", "type": "noun" },
+    { "bg": "улица", "en": "street", "pronunciation": "U-li-tsa", "example": "На коя улица живеете?", "type": "noun" },
+    { "bg": "площад", "en": "square/plaza", "pronunciation": "PLOSHT-ad", "example": "Срещаме се на площада.", "type": "noun" },
+    { "bg": "мост", "en": "bridge", "pronunciation": "most", "example": "Минете по моста и завийте наляво.", "type": "noun" },
+    { "bg": "къде", "en": "where", "pronunciation": "ku-DE", "example": "Къде е най-близката аптека?", "type": "phrase" },
+    { "bg": "карта", "en": "map", "pronunciation": "KAR-ta", "example": "Имаш ли карта на града?", "type": "noun" }
+  ]
+}
