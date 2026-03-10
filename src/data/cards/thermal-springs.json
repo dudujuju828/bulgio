@@ -1,0 +1,27 @@
+{
+  "category": "Thermal Springs & Balneology",
+  "cards": [
+    { "bg": "минерален извор", "en": "mineral spring", "pronunciation": "mi-ne-RA-len iz-VOR", "example": "Минералният извор във Велинград е с топла вода.", "type": "noun" },
+    { "bg": "минерална вода", "en": "mineral water", "pronunciation": "mi-ne-RAL-na vo-DA", "example": "Минералната вода е богата на калций и магнезий.", "type": "noun" },
+    { "bg": "горещ извор", "en": "hot spring", "pronunciation": "go-RESHT iz-VOR", "example": "Горещият извор достига четиридесет градуса.", "type": "noun" },
+    { "bg": "балнеология", "en": "balneology", "pronunciation": "bal-ne-o-LO-gi-ya", "example": "Балнеологията изучава лечебните свойства на минералните води.", "type": "noun" },
+    { "bg": "балнеолечение", "en": "spa treatment/balneotherapy", "pronunciation": "bal-ne-o-le-CHE-ni-e", "example": "Балнеолечението помага при ставни болести.", "type": "noun" },
+    { "bg": "курорт", "en": "resort/spa town", "pronunciation": "ku-RORT", "example": "Хисаря е известен балнеокурорт от римско време.", "type": "noun" },
+    { "bg": "басейн с минерална вода", "en": "mineral water pool", "pronunciation": "ba-SEYN s mi-ne-RAL-na vo-DA", "example": "Басейнът с минерална вода е на открито.", "type": "noun" },
+    { "bg": "лечебна кал", "en": "therapeutic mud", "pronunciation": "le-CHEB-na kal", "example": "Лечебната кал от Поморие е известна в света.", "type": "noun" },
+    { "bg": "калолечение", "en": "mud therapy", "pronunciation": "ka-lo-le-CHE-ni-e", "example": "Калолечението е ефективно при кожни заболявания.", "type": "noun" },
+    { "bg": "хидротерапия", "en": "hydrotherapy", "pronunciation": "hid-ro-te-ra-PI-ya", "example": "Хидротерапията използва водата за лечение.", "type": "noun" },
+    { "bg": "температура", "en": "temperature", "pronunciation": "tem-pe-ra-TU-ra", "example": "Температурата на водата е тридесет и шест градуса.", "type": "noun" },
+    { "bg": "лечебен", "en": "healing/therapeutic", "pronunciation": "le-CHE-ben", "example": "Лечебните свойства на водата са доказани.", "type": "adjective" },
+    { "bg": "рехабилитация", "en": "rehabilitation", "pronunciation": "re-ha-bi-li-TA-tsi-ya", "example": "Рехабилитацията след операция включва минерални бани.", "type": "noun" },
+    { "bg": "санаториум", "en": "sanatorium", "pronunciation": "sa-na-TO-ri-um", "example": "Санаториумът предлага лечебни процедури.", "type": "noun" },
+    { "bg": "водолечение", "en": "water cure/therapy", "pronunciation": "vo-do-le-CHE-ni-e", "example": "Водолечението е популярно от древни времена.", "type": "noun" },
+    { "bg": "джакузи", "en": "jacuzzi/hot tub", "pronunciation": "dja-KU-zi", "example": "Джакузито е с минерална вода.", "type": "noun" },
+    { "bg": "турска баня", "en": "Turkish bath/hammam", "pronunciation": "TUR-ska BA-nya", "example": "Турската баня в Кюстендил е от петнадесети век.", "type": "noun" },
+    { "bg": "римска баня", "en": "Roman bath", "pronunciation": "RIM-ska BA-nya", "example": "Римските бани в София са разкрити при разкопки.", "type": "noun" },
+    { "bg": "гейзер", "en": "geyser", "pronunciation": "GEY-zer", "example": "Гейзерът изхвърля вода и пара.", "type": "noun" },
+    { "bg": "пара", "en": "steam", "pronunciation": "pa-RA", "example": "Парата от горещия извор се вие в студения въздух.", "type": "noun" },
+    { "bg": "релаксация", "en": "relaxation", "pronunciation": "re-lak-SA-tsi-ya", "example": "Релаксацията в минералната вода е пълна.", "type": "noun" },
+    { "bg": "чешма", "en": "public fountain/tap", "pronunciation": "CHESH-ma", "example": "Чешмата с минерална вода е безплатна за всички.", "type": "noun" }
+  ]
+}
