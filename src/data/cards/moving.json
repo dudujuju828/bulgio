@@ -1,0 +1,28 @@
+{
+  "category": "Moving",
+  "cards": [
+    { "bg": "местя се", "en": "to move (relocate)", "pronunciation": "MES-tya se", "example": "Местя се в нов апартамент.", "type": "verb" },
+    { "bg": "апартамент", "en": "apartment", "pronunciation": "a-par-ta-MENT", "example": "Апартаментът е на третия етаж.", "type": "noun" },
+    { "bg": "наем", "en": "rent", "pronunciation": "na-EM", "example": "Наемът е петстотин лева на месец.", "type": "noun" },
+    { "bg": "наемател", "en": "tenant", "pronunciation": "na-e-MA-tel", "example": "Наемателят плаща наема навреме.", "type": "noun" },
+    { "bg": "наемодател", "en": "landlord", "pronunciation": "na-e-mo-DA-tel", "example": "Наемодателят ми показа апартамента.", "type": "noun" },
+    { "bg": "договор", "en": "contract/lease", "pronunciation": "do-go-VOR", "example": "Подписахме договор за една година.", "type": "noun" },
+    { "bg": "депозит", "en": "deposit", "pronunciation": "de-po-ZIT", "example": "Депозитът е равен на един месечен наем.", "type": "noun" },
+    { "bg": "обява", "en": "listing/advertisement", "pronunciation": "o-BYA-va", "example": "Видях обява за апартамент под наем.", "type": "noun" },
+    { "bg": "оглед", "en": "viewing/inspection", "pronunciation": "og-LED", "example": "Утре имаме оглед на два апартамента.", "type": "noun" },
+    { "bg": "обзавеждане", "en": "furnishing", "pronunciation": "ob-za-VEZH-da-ne", "example": "Апартаментът е с ново обзавеждане.", "type": "noun" },
+    { "bg": "необзаведен", "en": "unfurnished", "pronunciation": "ne-ob-za-VE-den", "example": "Търсим необзаведен апартамент.", "type": "adjective" },
+    { "bg": "обзаведен", "en": "furnished", "pronunciation": "ob-za-VE-den", "example": "Обзаведеният апартамент е по-скъп.", "type": "adjective" },
+    { "bg": "кашон", "en": "box/carton", "pronunciation": "ka-SHON", "example": "Опаковах книгите в кашони.", "type": "noun" },
+    { "bg": "пакетирам", "en": "to pack", "pronunciation": "pa-ke-TI-ram", "example": "Пакетирам нещата за преместването.", "type": "verb" },
+    { "bg": "разопаковам", "en": "to unpack", "pronunciation": "raz-o-pa-KO-vam", "example": "Разопаковахме всичко за два дни.", "type": "verb" },
+    { "bg": "адрес", "en": "address", "pronunciation": "ad-RES", "example": "Новият ми адрес е на улица Раковски.", "type": "noun" },
+    { "bg": "квартал", "en": "neighborhood/district", "pronunciation": "kvar-TAL", "example": "Кварталът е тих и зелен.", "type": "noun" },
+    { "bg": "сметки", "en": "bills/utilities", "pronunciation": "SMET-ki", "example": "Сметките за ток и вода са отделно.", "type": "noun" },
+    { "bg": "ток", "en": "electricity", "pronunciation": "tok", "example": "Сметката за тока е висока тази зима.", "type": "noun" },
+    { "bg": "вода", "en": "water (utility)", "pronunciation": "vo-DA", "example": "Водата е включена в наема.", "type": "noun" },
+    { "bg": "парно", "en": "central heating", "pronunciation": "PAR-no", "example": "Апартаментът има парно отопление.", "type": "noun" },
+    { "bg": "преместване", "en": "moving/relocation", "pronunciation": "pre-MEST-va-ne", "example": "Преместването отне цял ден.", "type": "noun" },
+    { "bg": "съсед", "en": "neighbor", "pronunciation": "su-SED", "example": "Съседите са много приятни хора.", "type": "noun" }
+  ]
+}
