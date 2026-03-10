@@ -1,0 +1,28 @@
+{
+  "category": "Literature",
+  "cards": [
+    { "bg": "книга", "en": "book", "pronunciation": "KNI-ga", "example": "Чета интересна книга.", "type": "noun" },
+    { "bg": "роман", "en": "novel", "pronunciation": "ro-MAN", "example": "\"Под игото\" е известен български роман.", "type": "noun" },
+    { "bg": "разказ", "en": "short story", "pronunciation": "raz-KAZ", "example": "Елин Пелин е майстор на разказа.", "type": "noun" },
+    { "bg": "стихотворение", "en": "poem", "pronunciation": "sti-ho-tvo-RE-ni-e", "example": "Научих стихотворение на Ботев наизуст.", "type": "noun" },
+    { "bg": "поезия", "en": "poetry", "pronunciation": "po-E-zi-ya", "example": "Поезията на Вапцаров е много силна.", "type": "noun" },
+    { "bg": "писател", "en": "writer/author", "pronunciation": "pi-SA-tel", "example": "Иван Вазов е велик български писател.", "type": "noun" },
+    { "bg": "поет", "en": "poet", "pronunciation": "po-ET", "example": "Христо Ботев е национален поет и герой.", "type": "noun" },
+    { "bg": "читател", "en": "reader", "pronunciation": "chi-TA-tel", "example": "Библиотеката има много читатели.", "type": "noun" },
+    { "bg": "глава", "en": "chapter", "pronunciation": "gla-VA", "example": "Прочетох третата глава до полунощ.", "type": "noun" },
+    { "bg": "страница", "en": "page", "pronunciation": "stra-NI-tsa", "example": "Книгата има триста страници.", "type": "noun" },
+    { "bg": "герой", "en": "hero/character", "pronunciation": "ge-ROY", "example": "Главният герой е млад учител.", "type": "noun" },
+    { "bg": "сюжет", "en": "plot", "pronunciation": "syu-ZHET", "example": "Сюжетът е много завладяващ.", "type": "noun" },
+    { "bg": "приказка", "en": "fairy tale/story", "pronunciation": "pri-KAZ-ka", "example": "Мама ми четеше приказки преди лягане.", "type": "noun" },
+    { "bg": "легенда", "en": "legend", "pronunciation": "le-GEN-da", "example": "Има легенда за основаването на София.", "type": "noun" },
+    { "bg": "чета", "en": "to read", "pronunciation": "che-TA", "example": "Чета по една книга на месец.", "type": "verb" },
+    { "bg": "пиша", "en": "to write", "pronunciation": "PI-sha", "example": "Пише нов роман от две години.", "type": "verb" },
+    { "bg": "издавам", "en": "to publish", "pronunciation": "iz-DA-vam", "example": "Издадоха книгата миналата есен.", "type": "verb" },
+    { "bg": "превод", "en": "translation", "pronunciation": "PRE-vod", "example": "Четох романа в превод на български.", "type": "noun" },
+    { "bg": "издателство", "en": "publishing house", "pronunciation": "iz-DA-tel-stvo", "example": "Издателството публикува нови автори.", "type": "noun" },
+    { "bg": "книжарница", "en": "bookstore", "pronunciation": "kni-ZHAR-ni-tsa", "example": "Купих книга от книжарницата на ъгъла.", "type": "noun" },
+    { "bg": "литература", "en": "literature", "pronunciation": "li-te-ra-TU-ra", "example": "Българската литература е богата и разнообразна.", "type": "noun" },
+    { "bg": "басня", "en": "fable", "pronunciation": "BAS-nya", "example": "Басните на Езоп учат на морал.", "type": "noun" },
+    { "bg": "автобиография", "en": "autobiography", "pronunciation": "av-to-bi-o-GRA-fi-ya", "example": "Прочетох автобиографията на известния писател.", "type": "noun" }
+  ]
+}
