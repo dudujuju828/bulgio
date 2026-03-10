@@ -1,0 +1,28 @@
+{
+  "category": "Trees",
+  "cards": [
+    { "bg": "дърво", "en": "tree", "pronunciation": "dur-VO", "example": "В парка има много стари дървета.", "type": "noun" },
+    { "bg": "дъб", "en": "oak", "pronunciation": "dub", "example": "Дъбът е символ на сила.", "type": "noun" },
+    { "bg": "бук", "en": "beech", "pronunciation": "buk", "example": "Буковите гори в Стара планина са красиви.", "type": "noun" },
+    { "bg": "бор", "en": "pine", "pronunciation": "bor", "example": "Борът мирише прекрасно в планината.", "type": "noun" },
+    { "bg": "ела", "en": "fir", "pronunciation": "e-LA", "example": "За Коледа украсяваме ела.", "type": "noun" },
+    { "bg": "бреза", "en": "birch", "pronunciation": "BRE-za", "example": "Брезата има бяла кора.", "type": "noun" },
+    { "bg": "върба", "en": "willow", "pronunciation": "VUR-ba", "example": "Върбата расте край реката.", "type": "noun" },
+    { "bg": "липа", "en": "linden/lime tree", "pronunciation": "LI-pa", "example": "Липовият чай е много полезен.", "type": "noun" },
+    { "bg": "орех", "en": "walnut tree", "pronunciation": "o-REH", "example": "Орехът в двора дава много плодове.", "type": "noun" },
+    { "bg": "ябълка", "en": "apple tree", "pronunciation": "YA-bul-ka", "example": "Ябълката е пълна с плодове през есента.", "type": "noun" },
+    { "bg": "круша", "en": "pear tree", "pronunciation": "KRU-sha", "example": "Крушата в градината е много стара.", "type": "noun" },
+    { "bg": "череша", "en": "cherry tree", "pronunciation": "che-RE-sha", "example": "Черешата цъфти с бели цветчета.", "type": "noun" },
+    { "bg": "клон", "en": "branch", "pronunciation": "klon", "example": "Птицата кацна на клона.", "type": "noun" },
+    { "bg": "лист", "en": "leaf", "pronunciation": "list", "example": "Листата пожълтяват през есента.", "type": "noun" },
+    { "bg": "корен", "en": "root", "pronunciation": "KO-ren", "example": "Корените на дъба са много дълбоки.", "type": "noun" },
+    { "bg": "кора", "en": "bark", "pronunciation": "ko-RA", "example": "Кората на брезата е гладка и бяла.", "type": "noun" },
+    { "bg": "ствол", "en": "trunk", "pronunciation": "stvol", "example": "Стволът на дъба е много дебел.", "type": "noun" },
+    { "bg": "сянка", "en": "shade", "pronunciation": "SYAN-ka", "example": "Седнахме на сянка под дървото.", "type": "noun" },
+    { "bg": "гора", "en": "forest", "pronunciation": "go-RA", "example": "Ходихме на разходка в гората.", "type": "noun" },
+    { "bg": "засаждам", "en": "to plant", "pronunciation": "za-SAZH-dam", "example": "Засадихме ново дърво в двора.", "type": "verb" },
+    { "bg": "отсичам", "en": "to cut down/fell", "pronunciation": "ot-SI-cham", "example": "Забранено е да се отсичат дървета в парка.", "type": "verb" },
+    { "bg": "жълъд", "en": "acorn", "pronunciation": "ZHU-lud", "example": "Катериците събират жълъди за зимата.", "type": "noun" },
+    { "bg": "шишарка", "en": "pine cone", "pronunciation": "shi-SHAR-ka", "example": "Децата събират шишарки в гората.", "type": "noun" }
+  ]
+}
