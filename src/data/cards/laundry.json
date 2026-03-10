@@ -1,0 +1,27 @@
+{
+  "category": "Laundry",
+  "cards": [
+    { "bg": "пране", "en": "laundry/washing", "pronunciation": "PRA-ne", "example": "Днес имам много пране за правене.", "type": "noun" },
+    { "bg": "пера", "en": "to wash (clothes)", "pronunciation": "pe-RA", "example": "Пера дрехите на шейсет градуса.", "type": "verb" },
+    { "bg": "пералня", "en": "washing machine", "pronunciation": "pe-RAL-nya", "example": "Пералнята е в банята.", "type": "noun" },
+    { "bg": "сушилня", "en": "dryer", "pronunciation": "su-SHIL-nya", "example": "Сложих дрехите в сушилнята.", "type": "noun" },
+    { "bg": "простирам", "en": "to hang out to dry", "pronunciation": "pros-TI-ram", "example": "Простирам дрехите на балкона.", "type": "verb" },
+    { "bg": "простор", "en": "clothesline/drying rack", "pronunciation": "pros-TOR", "example": "Дрехите съхнат на простора.", "type": "noun" },
+    { "bg": "щипка", "en": "clothespin", "pronunciation": "SHTIP-ka", "example": "Закачи чаршафа с щипки.", "type": "noun" },
+    { "bg": "гладя", "en": "to iron", "pronunciation": "GLA-dya", "example": "Гладя ризите за работа.", "type": "verb" },
+    { "bg": "ютия", "en": "iron (appliance)", "pronunciation": "yu-TI-ya", "example": "Ютията е много гореща, внимавай.", "type": "noun" },
+    { "bg": "дъска за гладене", "en": "ironing board", "pronunciation": "DUS-ka za GLA-de-ne", "example": "Разгъни дъската за гладене.", "type": "noun" },
+    { "bg": "перилен препарат", "en": "laundry detergent", "pronunciation": "pe-RI-len pre-pa-RAT", "example": "Купи перилен препарат от магазина.", "type": "noun" },
+    { "bg": "омекотител", "en": "fabric softener", "pronunciation": "o-me-ko-TI-tel", "example": "Омекотителят прави дрехите меки.", "type": "noun" },
+    { "bg": "петно", "en": "stain", "pronunciation": "pet-NO", "example": "Има петно от кафе на ризата.", "type": "noun" },
+    { "bg": "избелвам", "en": "to bleach", "pronunciation": "iz-BEL-vam", "example": "Избелвам белите чаршафи.", "type": "verb" },
+    { "bg": "свивам се", "en": "to shrink", "pronunciation": "SVI-vam se", "example": "Пуловерът се сви от горещата вода.", "type": "verb" },
+    { "bg": "сортирам", "en": "to sort", "pronunciation": "sor-TI-ram", "example": "Сортирам дрехите по цвят.", "type": "verb" },
+    { "bg": "бяло пране", "en": "whites (laundry)", "pronunciation": "BYA-lo PRA-ne", "example": "Перем бялото пране отделно.", "type": "noun" },
+    { "bg": "цветно пране", "en": "colors (laundry)", "pronunciation": "TSVET-no PRA-ne", "example": "Цветното пране е на тридесет градуса.", "type": "noun" },
+    { "bg": "изсъхнал", "en": "dry (clothes)", "pronunciation": "iz-SUH-nal", "example": "Дрехите вече са изсъхнали.", "type": "adjective" },
+    { "bg": "намачкан", "en": "wrinkled/creased", "pronunciation": "na-MACH-kan", "example": "Ризата е намачкана, трябва да я изгладя.", "type": "adjective" },
+    { "bg": "химическо чистене", "en": "dry cleaning", "pronunciation": "hi-MI-ches-ko CHIS-te-ne", "example": "Палтото е за химическо чистене.", "type": "noun" },
+    { "bg": "сгъвам", "en": "to fold", "pronunciation": "sgu-VAM", "example": "Сгъвам чистите дрехи и ги прибирам.", "type": "verb" }
+  ]
+}
