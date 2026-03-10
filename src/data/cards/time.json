@@ -1,0 +1,31 @@
+{
+  "category": "Time",
+  "cards": [
+    { "bg": "понеделник", "en": "Monday", "pronunciation": "po-ne-DEL-nik", "example": "В понеделник започвам работа.", "type": "noun" },
+    { "bg": "вторник", "en": "Tuesday", "pronunciation": "VTOR-nik", "example": "Във вторник имам среща.", "type": "noun" },
+    { "bg": "сряда", "en": "Wednesday", "pronunciation": "srya-DA", "example": "В сряда ходя на фитнес.", "type": "noun" },
+    { "bg": "четвъртък", "en": "Thursday", "pronunciation": "chet-VUR-tuk", "example": "В четвъртък пазарувам.", "type": "noun" },
+    { "bg": "петък", "en": "Friday", "pronunciation": "PE-tuk", "example": "В петък излизаме с приятели.", "type": "noun" },
+    { "bg": "събота", "en": "Saturday", "pronunciation": "SU-bo-ta", "example": "В събота почивам вкъщи.", "type": "noun" },
+    { "bg": "неделя", "en": "Sunday", "pronunciation": "ne-DE-lya", "example": "В неделя ходим на разходка.", "type": "noun" },
+    { "bg": "януари", "en": "January", "pronunciation": "ya-nu-A-ri", "example": "Януари е най-студеният месец.", "type": "noun" },
+    { "bg": "февруари", "en": "February", "pronunciation": "fev-ru-A-ri", "example": "Февруари е кратък месец.", "type": "noun" },
+    { "bg": "март", "en": "March", "pronunciation": "mart", "example": "На първи март празнуваме Баба Марта.", "type": "noun" },
+    { "bg": "април", "en": "April", "pronunciation": "ap-RIL", "example": "През април цъфтят цветята.", "type": "noun" },
+    { "bg": "час", "en": "hour/o'clock", "pronunciation": "chas", "example": "Колко е часът?", "type": "noun" },
+    { "bg": "минута", "en": "minute", "pronunciation": "mi-NU-ta", "example": "Чакай една минута.", "type": "noun" },
+    { "bg": "ден", "en": "day", "pronunciation": "den", "example": "Какъв ден е днес?", "type": "noun" },
+    { "bg": "седмица", "en": "week", "pronunciation": "sed-MI-tsa", "example": "Следващата седмица заминавам.", "type": "noun" },
+    { "bg": "месец", "en": "month", "pronunciation": "ME-sets", "example": "Този месец е много натоварен.", "type": "noun" },
+    { "bg": "година", "en": "year", "pronunciation": "go-DI-na", "example": "Тази година ще пътувам повече.", "type": "noun" },
+    { "bg": "днес", "en": "today", "pronunciation": "dnes", "example": "Днес е хубав ден.", "type": "phrase" },
+    { "bg": "утре", "en": "tomorrow", "pronunciation": "U-tre", "example": "Утре ще ходим на кино.", "type": "phrase" },
+    { "bg": "вчера", "en": "yesterday", "pronunciation": "vche-RA", "example": "Вчера валя цял ден.", "type": "phrase" },
+    { "bg": "сутрин", "en": "morning", "pronunciation": "su-TRIN", "example": "Сутрин пия кафе.", "type": "noun" },
+    { "bg": "вечер", "en": "evening", "pronunciation": "VE-cher", "example": "Вечер гледам филм.", "type": "noun" },
+    { "bg": "пролет", "en": "spring", "pronunciation": "pro-LET", "example": "Пролетта е любимият ми сезон.", "type": "noun" },
+    { "bg": "лято", "en": "summer", "pronunciation": "LYA-to", "example": "През лятото ходим на море.", "type": "noun" },
+    { "bg": "есен", "en": "autumn", "pronunciation": "E-sen", "example": "Есента листата падат.", "type": "noun" },
+    { "bg": "зима", "en": "winter", "pronunciation": "zi-MA", "example": "Зимата обичам да карам ски.", "type": "noun" }
+  ]
+}
