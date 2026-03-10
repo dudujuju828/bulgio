@@ -1,0 +1,27 @@
+{
+  "category": "News",
+  "cards": [
+    { "bg": "новина", "en": "news (item)", "pronunciation": "no-VI-na", "example": "Чу ли последните новини?", "type": "noun" },
+    { "bg": "вестник", "en": "newspaper", "pronunciation": "VEST-nik", "example": "Чета вестника всяка сутрин.", "type": "noun" },
+    { "bg": "списание", "en": "magazine", "pronunciation": "spi-SA-ni-e", "example": "Купих ново списание за пътешествия.", "type": "noun" },
+    { "bg": "журналист", "en": "journalist", "pronunciation": "zhur-na-LIST", "example": "Журналистът написа статия за събитието.", "type": "noun" },
+    { "bg": "статия", "en": "article", "pronunciation": "STA-ti-ya", "example": "Статията е за климатичните промени.", "type": "noun" },
+    { "bg": "заглавие", "en": "headline/title", "pronunciation": "zag-LA-vi-e", "example": "Заглавието привлече вниманието ми.", "type": "noun" },
+    { "bg": "репортаж", "en": "report/coverage", "pronunciation": "re-por-TAZH", "example": "Гледах репортаж за наводненията.", "type": "noun" },
+    { "bg": "репортер", "en": "reporter", "pronunciation": "re-por-TER", "example": "Репортерът предава на живо от събитието.", "type": "noun" },
+    { "bg": "интервю", "en": "interview", "pronunciation": "in-ter-VYU", "example": "Министърът даде интервю за телевизията.", "type": "noun" },
+    { "bg": "телевизия", "en": "television", "pronunciation": "te-le-VI-zi-ya", "example": "Гледам новините по телевизията.", "type": "noun" },
+    { "bg": "радио", "en": "radio", "pronunciation": "RA-di-o", "example": "Слушам новини по радиото в колата.", "type": "noun" },
+    { "bg": "предаване", "en": "broadcast/show", "pronunciation": "pre-DA-va-ne", "example": "Предаването започва в осем часа.", "type": "noun" },
+    { "bg": "на живо", "en": "live (broadcast)", "pronunciation": "na ZHI-vo", "example": "Мачът се излъчва на живо.", "type": "phrase" },
+    { "bg": "събитие", "en": "event", "pronunciation": "su-BI-ti-e", "example": "Това е важно събитие за страната.", "type": "noun" },
+    { "bg": "съобщавам", "en": "to report/announce", "pronunciation": "su-ob-SHTA-vam", "example": "Съобщиха за пожар в центъра.", "type": "verb" },
+    { "bg": "разследване", "en": "investigation", "pronunciation": "raz-SLED-va-ne", "example": "Полицията започна разследване.", "type": "noun" },
+    { "bg": "пресконференция", "en": "press conference", "pronunciation": "pres-kon-fe-REN-tsi-ya", "example": "Кметът даде пресконференция.", "type": "noun" },
+    { "bg": "редактор", "en": "editor", "pronunciation": "re-DAK-tor", "example": "Главният редактор одобри статията.", "type": "noun" },
+    { "bg": "източник", "en": "source", "pronunciation": "iz-TOCH-nik", "example": "Журналистът не разкри източника си.", "type": "noun" },
+    { "bg": "медия", "en": "media", "pronunciation": "ME-di-ya", "example": "Медиите отразиха протеста.", "type": "noun" },
+    { "bg": "публикувам", "en": "to publish", "pronunciation": "pub-li-KU-vam", "example": "Публикуваха снимки от инцидента.", "type": "verb" },
+    { "bg": "извънредни новини", "en": "breaking news", "pronunciation": "iz-vun-RED-ni no-VI-ni", "example": "Извънредни новини: земетресение удари Турция.", "type": "phrase" }
+  ]
+}
