@@ -9,6 +9,7 @@ export interface Card {
   example: string;
   type: string;
   category: string;
+  image?: string;
 }
 
 interface CardFile {

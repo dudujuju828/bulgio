@@ -60,6 +60,7 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
       <div id="flashcard" role="button" tabindex="0" aria-label="Click to flip card">
         <div class="card-inner">
           <div class="card-front">
+            <img class="card-image" id="front-image" src="" alt="" />
             <span class="card-label">Bulgarian</span>
             <span class="card-text" id="front-text"></span>
             <span class="card-pronunciation" id="front-pronunciation"></span>
@@ -113,6 +114,7 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
     const backExample = document.getElementById('back-example');
     const frontPronunciation = document.getElementById('front-pronunciation');
     const frontMeta = document.getElementById('front-meta');
+    const frontImage = document.getElementById('front-image');
     const frontLabel = card.querySelector('.card-front .card-label');
     const backLabel = card.querySelector('.card-back .card-label');
     const progress = document.getElementById('progress');
@@ -182,6 +184,17 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
     function renderCard() {
       if (cards.length === 0) return;
       const c = cards[currentIndex];
+      if (c.image) {
+        frontImage.src = `/images/cards/${c.image}`;
+        frontImage.alt = c.en;
+        frontImage.style.display = '';
+        card.classList.add('has-image');
+      } else {
+        frontImage.src = '';
+        frontImage.alt = '';
+        frontImage.style.display = 'none';
+        card.classList.remove('has-image');
+      }
       if (mode === 'bg') {
         frontText.textContent = c.bg;
         frontPronunciation.textContent = c.pronunciation;
@@ -590,6 +603,29 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
     transform: rotateY(180deg);
   }
 
+  .card-image {
+    display: none;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 0.75rem;
+    border: 1px solid #2e2e3e;
+    flex-shrink: 0;
+  }
+
+  #flashcard.has-image {
+    height: 340px;
+  }
+
+  #flashcard.has-image .card-front {
+    gap: 0.5rem;
+    padding: 1.25rem 2rem;
+  }
+
+  #flashcard.has-image .card-text {
+    font-size: 1.8rem;
+  }
+
   .card-label {
     font-size: 0.7rem;
     text-transform: uppercase;
@@ -681,6 +717,16 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
     }
     #flashcard {
       height: 240px;
+    }
+    #flashcard.has-image {
+      height: 300px;
+    }
+    .card-image {
+      width: 64px;
+      height: 64px;
+    }
+    #flashcard.has-image .card-text {
+      font-size: 1.4rem;
     }
   }
 </style>
