@@ -1,0 +1,28 @@
+{
+  "category": "Sculpture & 3D Art",
+  "cards": [
+    { "bg": "скулптура", "en": "sculpture", "pronunciation": "skulp-TU-ra", "example": "Скулптурата на площада е от бронз.", "type": "noun" },
+    { "bg": "скулптор", "en": "sculptor", "pronunciation": "SKULP-tor", "example": "Скулпторът работи с мрамор и глина.", "type": "noun" },
+    { "bg": "статуя", "en": "statue", "pronunciation": "STA-tu-ya", "example": "Статуята на Света София е символ на столицата.", "type": "noun" },
+    { "bg": "бюст", "en": "bust", "pronunciation": "byust", "example": "Бюстът на Ботев е пред училището.", "type": "noun" },
+    { "bg": "паметник", "en": "monument/memorial", "pronunciation": "PA-met-nik", "example": "Паметникът на Левски е в центъра на града.", "type": "noun" },
+    { "bg": "релеф", "en": "relief (sculpture)", "pronunciation": "re-LEF", "example": "Релефът на фасадата изобразява битка.", "type": "noun" },
+    { "bg": "глина", "en": "clay", "pronunciation": "GLI-na", "example": "Глината е мека и лесна за моделиране.", "type": "noun" },
+    { "bg": "мрамор", "en": "marble", "pronunciation": "MRA-mor", "example": "Мраморът идва от кариера край Велинград.", "type": "noun" },
+    { "bg": "бронз", "en": "bronze", "pronunciation": "bronz", "example": "Бронзовата скулптура тежи двеста килограма.", "type": "noun" },
+    { "bg": "гипс", "en": "plaster/gypsum", "pronunciation": "gips", "example": "Гипсовият модел е първият етап от работата.", "type": "noun" },
+    { "bg": "дърворезба", "en": "wood carving", "pronunciation": "dur-vo-REZ-ba", "example": "Дърворезбата е традиционен български занаят.", "type": "noun" },
+    { "bg": "моделирам", "en": "to model/sculpt", "pronunciation": "mo-de-LI-ram", "example": "Моделирам фигура от глина с ръце.", "type": "verb" },
+    { "bg": "дълбая", "en": "to carve/chisel", "pronunciation": "dul-ba-YA", "example": "Дълбая орнамент в дървена дъска.", "type": "verb" },
+    { "bg": "отливам", "en": "to cast (metal)", "pronunciation": "ot-LI-vam", "example": "Отливаме скулптурата в бронз.", "type": "verb" },
+    { "bg": "длето", "en": "chisel", "pronunciation": "dle-TO", "example": "Длетото е основен инструмент на скулптора.", "type": "noun" },
+    { "bg": "чук", "en": "hammer/mallet", "pronunciation": "chuk", "example": "Скулпторът удря с чук по длетото.", "type": "noun" },
+    { "bg": "форма", "en": "form/mold", "pronunciation": "FOR-ma", "example": "Формата е направена от силикон.", "type": "noun" },
+    { "bg": "фигура", "en": "figure", "pronunciation": "fi-GU-ra", "example": "Фигурата изобразява жена с дете.", "type": "noun" },
+    { "bg": "постамент", "en": "pedestal/base", "pronunciation": "pos-ta-MENT", "example": "Постаментът на паметника е от гранит.", "type": "noun" },
+    { "bg": "пропорции", "en": "proportions", "pronunciation": "pro-POR-tsi-i", "example": "Пропорциите на тялото трябва да са точни.", "type": "noun" },
+    { "bg": "инсталация", "en": "installation (art)", "pronunciation": "in-sta-LA-tsi-ya", "example": "Инсталацията в галерията е от рециклирани материали.", "type": "noun" },
+    { "bg": "пленер", "en": "plein air/outdoor workshop", "pronunciation": "ple-NER", "example": "Скулптурният пленер събира художници от цяла Европа.", "type": "noun" },
+    { "bg": "изложба", "en": "exhibition", "pronunciation": "iz-LOZH-ba", "example": "Изложбата на скулптури е в Националната галерия.", "type": "noun" }
+  ]
+}
