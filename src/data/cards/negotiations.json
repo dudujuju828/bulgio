@@ -1,0 +1,28 @@
+{
+  "category": "Negotiations",
+  "cards": [
+    { "bg": "преговори", "en": "negotiations", "pronunciation": "pre-GO-vo-ri", "example": "Преговорите продължиха три часа.", "type": "noun" },
+    { "bg": "преговарям", "en": "to negotiate", "pronunciation": "pre-go-VA-ryam", "example": "Преговаряме за по-добра цена.", "type": "verb" },
+    { "bg": "сделка", "en": "deal", "pronunciation": "SDEL-ka", "example": "Сключихме изгодна сделка.", "type": "noun" },
+    { "bg": "предложение", "en": "offer/proposal", "pronunciation": "pred-lo-ZHE-ni-e", "example": "Предложението им е добро, но искам повече.", "type": "noun" },
+    { "bg": "контраоферта", "en": "counteroffer", "pronunciation": "kon-tra-o-FER-ta", "example": "Направих контраоферта с по-висока цена.", "type": "noun" },
+    { "bg": "отстъпка", "en": "discount/concession", "pronunciation": "ot-STUP-ka", "example": "Можете ли да направите отстъпка?", "type": "noun" },
+    { "bg": "цена", "en": "price", "pronunciation": "tse-NA", "example": "Цената е твърде висока за нас.", "type": "noun" },
+    { "bg": "бюджет", "en": "budget", "pronunciation": "byu-DZHET", "example": "Бюджетът ни не позволява повече.", "type": "noun" },
+    { "bg": "партньор", "en": "partner", "pronunciation": "part-NYOR", "example": "Търсим надежден бизнес партньор.", "type": "noun" },
+    { "bg": "споразумение", "en": "agreement", "pronunciation": "spo-ra-zu-ME-ni-e", "example": "Постигнахме споразумение и двете страни са доволни.", "type": "noun" },
+    { "bg": "условия", "en": "terms/conditions", "pronunciation": "us-LO-vi-ya", "example": "Приемаме условията на договора.", "type": "noun" },
+    { "bg": "краен срок", "en": "deadline", "pronunciation": "KRA-en srok", "example": "Крайният срок за офертата е петък.", "type": "noun" },
+    { "bg": "печалба", "en": "profit", "pronunciation": "pe-CHAL-ba", "example": "Печалбата се разделя поравно.", "type": "noun" },
+    { "bg": "загуба", "en": "loss", "pronunciation": "za-GU-ba", "example": "Тази сделка ни носи загуба.", "type": "noun" },
+    { "bg": "рискувам", "en": "to risk", "pronunciation": "ris-KU-vam", "example": "Не искам да рискувам с тази инвестиция.", "type": "verb" },
+    { "bg": "доверие", "en": "trust", "pronunciation": "do-VE-ri-e", "example": "Доверието е основата на добрия бизнес.", "type": "noun" },
+    { "bg": "приемам", "en": "to accept", "pronunciation": "pri-E-mam", "example": "Приемам предложението ви.", "type": "verb" },
+    { "bg": "отказвам", "en": "to decline/refuse", "pronunciation": "ot-KAZ-vam", "example": "Отказвам тези условия.", "type": "verb" },
+    { "bg": "обмислям", "en": "to consider/think over", "pronunciation": "ob-MIS-lyam", "example": "Трябва да обмисля предложението.", "type": "verb" },
+    { "bg": "ръкостискане", "en": "handshake", "pronunciation": "ru-ko-STIS-ka-ne", "example": "Сделката се скрепи с ръкостискане.", "type": "noun" },
+    { "bg": "взаимноизгоден", "en": "mutually beneficial", "pronunciation": "vza-im-no-iz-GO-den", "example": "Търсим взаимноизгодно решение.", "type": "adjective" },
+    { "bg": "натиск", "en": "pressure", "pronunciation": "na-TISK", "example": "Не вземай решение под натиск.", "type": "noun" },
+    { "bg": "срещa", "en": "meeting", "pronunciation": "SRESH-ta", "example": "Срещата с клиента е в три часа.", "type": "noun" }
+  ]
+}
