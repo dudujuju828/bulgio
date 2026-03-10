@@ -1,0 +1,28 @@
+{
+  "category": "Sewing",
+  "cards": [
+    { "bg": "шиене", "en": "sewing", "pronunciation": "shi-E-ne", "example": "Шиенето е полезно умение.", "type": "noun" },
+    { "bg": "шия", "en": "to sew", "pronunciation": "SHI-ya", "example": "Баба ми шие дрехи от малка.", "type": "verb" },
+    { "bg": "шивачка", "en": "seamstress/tailor (f)", "pronunciation": "shi-VACH-ka", "example": "Шивачката скъси панталоните ми.", "type": "noun" },
+    { "bg": "шивач", "en": "tailor (m)", "pronunciation": "shi-VACH", "example": "Шивачът уши костюм по мярка.", "type": "noun" },
+    { "bg": "ателие", "en": "tailor's shop/atelier", "pronunciation": "a-te-li-E", "example": "Ателието е на втория етаж.", "type": "noun" },
+    { "bg": "игла", "en": "needle", "pronunciation": "ig-LA", "example": "Вдени конеца в иглата.", "type": "noun" },
+    { "bg": "конец", "en": "thread", "pronunciation": "ko-NETS", "example": "Купи черен и бял конец.", "type": "noun" },
+    { "bg": "шевна машина", "en": "sewing machine", "pronunciation": "SHEV-na ma-SHI-na", "example": "Шевната машина на баба е от шестдесетте години.", "type": "noun" },
+    { "bg": "ножица", "en": "scissors", "pronunciation": "NO-zhi-tsa", "example": "Режи плата с острата ножица.", "type": "noun" },
+    { "bg": "плат", "en": "fabric/cloth", "pronunciation": "plat", "example": "Избрах памучен плат за лятна рокля.", "type": "noun" },
+    { "bg": "копче", "en": "button", "pronunciation": "KOP-che", "example": "Падна ми копче от ризата.", "type": "noun" },
+    { "bg": "цип", "en": "zipper", "pronunciation": "tsip", "example": "Ципът на якето се скъса.", "type": "noun" },
+    { "bg": "кройка", "en": "pattern/cut", "pronunciation": "KROY-ka", "example": "Кройката е за размер четиридесет.", "type": "noun" },
+    { "bg": "мярка", "en": "measurement", "pronunciation": "MYAR-ka", "example": "Шивачката ми взе мярка за рокля.", "type": "noun" },
+    { "bg": "скъсявам", "en": "to shorten/hem", "pronunciation": "sku-SYA-vam", "example": "Трябва да скъся панталона с три сантиметра.", "type": "verb" },
+    { "bg": "подгъв", "en": "hem", "pronunciation": "pod-GUV", "example": "Подгъвът на полата се разшил.", "type": "noun" },
+    { "bg": "шев", "en": "seam/stitch", "pronunciation": "shev", "example": "Шевът е равен и чист.", "type": "noun" },
+    { "bg": "закърпвам", "en": "to mend/patch", "pronunciation": "za-KUR-pvam", "example": "Закърпих дупката на чорапа.", "type": "verb" },
+    { "bg": "кръпка", "en": "patch", "pronunciation": "KRUP-ka", "example": "Сложих кръпка на коляното на дънките.", "type": "noun" },
+    { "bg": "топлийка", "en": "pin cushion", "pronunciation": "top-LIY-ka", "example": "Забождам карфиците в топлийката.", "type": "noun" },
+    { "bg": "карфица", "en": "pin", "pronunciation": "kar-FI-tsa", "example": "Захвани плата с карфици преди да шиеш.", "type": "noun" },
+    { "bg": "сантиметър", "en": "measuring tape", "pronunciation": "san-ti-ME-tur", "example": "Измери талията със сантиметъра.", "type": "noun" },
+    { "bg": "по мярка", "en": "custom-made/tailored", "pronunciation": "po MYAR-ka", "example": "Роклята е ушита по мярка.", "type": "phrase" }
+  ]
+}
