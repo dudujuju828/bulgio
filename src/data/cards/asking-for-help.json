@@ -1,0 +1,28 @@
+{
+  "category": "Asking for Help & Politeness",
+  "cards": [
+    { "bg": "Може ли да ми помогнете?", "en": "Can you help me?", "pronunciation": "MO-zhe li da mi po-MOG-ne-te", "example": "Извинете, може ли да ми помогнете?", "type": "phrase" },
+    { "bg": "моля", "en": "please", "pronunciation": "MO-lya", "example": "Едно кафе, моля.", "type": "interjection" },
+    { "bg": "благодаря", "en": "thank you", "pronunciation": "bla-go-da-RYA", "example": "Благодаря за помощта.", "type": "verb" },
+    { "bg": "мерси", "en": "thanks (informal)", "pronunciation": "mer-SI", "example": "Мерси, много си мил.", "type": "interjection" },
+    { "bg": "извинете", "en": "excuse me (formal)", "pronunciation": "iz-vi-NE-te", "example": "Извинете, къде е метрото?", "type": "verb" },
+    { "bg": "извинявай", "en": "sorry/excuse me (informal)", "pronunciation": "iz-vi-NYA-vay", "example": "Извинявай, че закъснях.", "type": "verb" },
+    { "bg": "няма нищо", "en": "it's nothing/don't mention it", "pronunciation": "NYA-ma NISH-to", "example": "— Извинявай. — Няма нищо.", "type": "phrase" },
+    { "bg": "няма за какво", "en": "you're welcome/don't mention it", "pronunciation": "NYA-ma za KAK-vo", "example": "— Благодаря! — Няма за какво.", "type": "phrase" },
+    { "bg": "Бихте ли...?", "en": "Would you...? (polite request)", "pronunciation": "BIH-te li", "example": "Бихте ли ми казали колко е часът?", "type": "phrase" },
+    { "bg": "Може ли...?", "en": "May I...?/Is it possible...?", "pronunciation": "MO-zhe li", "example": "Може ли да седна тук?", "type": "phrase" },
+    { "bg": "Имате ли...?", "en": "Do you have...?", "pronunciation": "I-ma-te li", "example": "Имате ли свободна маса?", "type": "phrase" },
+    { "bg": "Бих искал/а...", "en": "I would like...", "pronunciation": "bih IS-kal/a", "example": "Бих искал едно кафе и вода.", "type": "phrase" },
+    { "bg": "Не разбирам.", "en": "I don't understand.", "pronunciation": "ne raz-BI-ram", "example": "Съжалявам, не разбирам.", "type": "phrase" },
+    { "bg": "Говорите ли английски?", "en": "Do you speak English?", "pronunciation": "go-VO-ri-te li an-GLIY-ski", "example": "Извинете, говорите ли английски?", "type": "phrase" },
+    { "bg": "Може ли по-бавно?", "en": "Can you speak more slowly?", "pronunciation": "MO-zhe li po-BAV-no", "example": "Може ли по-бавно, уча български.", "type": "phrase" },
+    { "bg": "Как се казва това?", "en": "What is this called?", "pronunciation": "kak se KAZ-va to-VA", "example": "Как се казва това на български?", "type": "phrase" },
+    { "bg": "Може ли да повторите?", "en": "Can you repeat that?", "pronunciation": "MO-zhe li da pov-TO-ri-te", "example": "Може ли да повторите, не чух.", "type": "phrase" },
+    { "bg": "съжалявам", "en": "I'm sorry (apologizing)", "pronunciation": "su-zha-LYA-vam", "example": "Съжалявам за неудобството.", "type": "verb" },
+    { "bg": "С удоволствие.", "en": "With pleasure./Gladly.", "pronunciation": "s u-do-VOL-stvi-e", "example": "— Може ли да ми помогнеш? — С удоволствие.", "type": "phrase" },
+    { "bg": "Нямам нищо против.", "en": "I don't mind./I have no objection.", "pronunciation": "NYA-mam NISH-to PRO-tiv", "example": "Нямам нищо против, заповядай.", "type": "phrase" },
+    { "bg": "Заповядайте.", "en": "Here you go./Please (offering)", "pronunciation": "za-po-VYA-day-te", "example": "Заповядайте, седнете тук.", "type": "phrase" },
+    { "bg": "Моля за сметката.", "en": "The check, please.", "pronunciation": "MO-lya za SMET-ka-ta", "example": "Моля за сметката, бързаме.", "type": "phrase" },
+    { "bg": "Нищо страшно.", "en": "No big deal./It's fine.", "pronunciation": "NISH-to STRASH-no", "example": "— Разлях водата. — Нищо страшно.", "type": "phrase" }
+  ]
+}
