@@ -1,0 +1,27 @@
+{
+  "category": "Carnival & Masquerade",
+  "cards": [
+    { "bg": "карнавал", "en": "carnival", "pronunciation": "kar-na-VAL", "example": "Карнавалът в Габрово е пълен с хумор.", "type": "noun" },
+    { "bg": "маскарад", "en": "masquerade", "pronunciation": "mas-ka-RAD", "example": "Маскарадът е стара традиция в България.", "type": "noun" },
+    { "bg": "маска", "en": "mask", "pronunciation": "MAS-ka", "example": "Маската е ръчно изработена от дърво и козина.", "type": "noun" },
+    { "bg": "кукер", "en": "kukeri (masked figure)", "pronunciation": "KU-ker", "example": "Кукерите прогонват злите духове с танц и шум.", "type": "noun" },
+    { "bg": "кукерски игри", "en": "kukeri games/rituals", "pronunciation": "KU-ker-ski IG-ri", "example": "Кукерските игри са включени в списъка на ЮНЕСКО.", "type": "noun" },
+    { "bg": "звънец", "en": "bell (worn by kukeri)", "pronunciation": "zvu-NETS", "example": "Звънците тежат до тридесет килограма.", "type": "noun" },
+    { "bg": "костюм", "en": "costume", "pronunciation": "kos-TYUM", "example": "Костюмът е от козя кожа и пера.", "type": "noun" },
+    { "bg": "шествие", "en": "parade/procession", "pronunciation": "SHEST-vi-e", "example": "Шествието минава през центъра на града.", "type": "noun" },
+    { "bg": "танц", "en": "dance", "pronunciation": "tants", "example": "Танцът на кукерите е ритуален и енергичен.", "type": "noun" },
+    { "bg": "ритуал", "en": "ritual", "pronunciation": "ri-tu-AL", "example": "Ритуалът символизира прогонване на злото.", "type": "noun" },
+    { "bg": "конфети", "en": "confetti", "pronunciation": "kon-FE-ti", "example": "Конфетите летят навсякъде по време на парада.", "type": "noun" },
+    { "bg": "серпентина", "en": "streamer", "pronunciation": "ser-pen-TI-na", "example": "Серпентините украсяват улиците.", "type": "noun" },
+    { "bg": "платформа", "en": "float (parade)", "pronunciation": "plat-FOR-ma", "example": "Платформата е украсена с цветя и фигури.", "type": "noun" },
+    { "bg": "зрител", "en": "spectator", "pronunciation": "ZRI-tel", "example": "Зрителите аплодираха групите.", "type": "noun" },
+    { "bg": "група", "en": "group/troupe", "pronunciation": "GRU-pa", "example": "Групата от село Широка лъка спечели награда.", "type": "noun" },
+    { "bg": "Сурва", "en": "Surva (kukeri festival)", "pronunciation": "SUR-va", "example": "Сурва в Перник е най-големият маскараден фестивал.", "type": "noun" },
+    { "bg": "Фестивал на хумора", "en": "Humor Festival", "pronunciation": "fes-ti-VAL na HU-mo-ra", "example": "Фестивалът на хумора в Габрово е уникален.", "type": "noun" },
+    { "bg": "пролетен празник", "en": "spring celebration", "pronunciation": "pro-LE-ten PRAZ-nik", "example": "Пролетният празник е свързан с плодородието.", "type": "noun" },
+    { "bg": "плодородие", "en": "fertility", "pronunciation": "plo-do-RO-di-e", "example": "Кукерските ритуали символизират плодородие.", "type": "noun" },
+    { "bg": "хоро", "en": "horo (traditional circle dance)", "pronunciation": "ho-RO", "example": "Хорото обединява участниците и зрителите.", "type": "noun" },
+    { "bg": "тъпан", "en": "drum (traditional)", "pronunciation": "tu-PAN", "example": "Тъпанът задава ритъма на танца.", "type": "noun" },
+    { "bg": "традиция", "en": "tradition", "pronunciation": "tra-DI-tsi-ya", "example": "Традицията се предава от поколение на поколение.", "type": "noun" }
+  ]
+}
