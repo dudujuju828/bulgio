@@ -1,0 +1,28 @@
+{
+  "category": "Skiing & Snowboarding",
+  "cards": [
+    { "bg": "ски", "en": "skis/skiing", "pronunciation": "ski", "example": "Карам ски от десетгодишен.", "type": "noun" },
+    { "bg": "сноуборд", "en": "snowboard", "pronunciation": "SNOU-bord", "example": "Предпочитам сноуборд пред ски.", "type": "noun" },
+    { "bg": "ски писта", "en": "ski slope/piste", "pronunciation": "ski PIS-ta", "example": "Пистата в Банско е дълга пет километра.", "type": "noun" },
+    { "bg": "лифт", "en": "ski lift", "pronunciation": "lift", "example": "Лифтът ни качи до върха за десет минути.", "type": "noun" },
+    { "bg": "кабинков лифт", "en": "gondola lift", "pronunciation": "ka-BIN-kov lift", "example": "Кабинковият лифт е затворен заради вятър.", "type": "noun" },
+    { "bg": "ски училище", "en": "ski school", "pronunciation": "ski u-CHI-lish-te", "example": "Записах детето на ски училище в Пампорово.", "type": "noun" },
+    { "bg": "ски инструктор", "en": "ski instructor", "pronunciation": "ski in-struk-TOR", "example": "Ски инструкторът показа правилната техника.", "type": "noun" },
+    { "bg": "ски обувки", "en": "ski boots", "pronunciation": "ski o-BUV-ki", "example": "Ски обувките трябва да стоят плътно.", "type": "noun" },
+    { "bg": "ски палки", "en": "ski poles", "pronunciation": "ski PAL-ki", "example": "Забравих ски палките в колата.", "type": "noun" },
+    { "bg": "автоматици", "en": "ski bindings", "pronunciation": "av-to-MA-ti-tsi", "example": "Автоматиците се отключиха при падането.", "type": "noun" },
+    { "bg": "каска", "en": "helmet", "pronunciation": "KAS-ka", "example": "Каската е задължителна за деца на пистата.", "type": "noun" },
+    { "bg": "ски очила", "en": "ski goggles", "pronunciation": "ski o-chi-LA", "example": "Ски очилата предпазват от слънцето и вятъра.", "type": "noun" },
+    { "bg": "лавина", "en": "avalanche", "pronunciation": "la-VI-na", "example": "Опасност от лавини извън пистите.", "type": "noun" },
+    { "bg": "сняг", "en": "snow", "pronunciation": "snyag", "example": "Снегът е прясен и пухкав.", "type": "noun" },
+    { "bg": "ски курорт", "en": "ski resort", "pronunciation": "ski ku-RORT", "example": "Боровец е най-старият ски курорт в България.", "type": "noun" },
+    { "bg": "Банско", "en": "Bansko (ski resort)", "pronunciation": "BAN-sko", "example": "Банско е домакин на състезания от Световната купа.", "type": "noun" },
+    { "bg": "Пампорово", "en": "Pamporovo (ski resort)", "pronunciation": "pam-PO-ro-vo", "example": "Пампорово е подходящо за начинаещи скиори.", "type": "noun" },
+    { "bg": "Боровец", "en": "Borovets (ski resort)", "pronunciation": "BO-ro-vets", "example": "Боровец е близо до София.", "type": "noun" },
+    { "bg": "слалом", "en": "slalom", "pronunciation": "SLA-lom", "example": "Състезанието по слалом е утре.", "type": "noun" },
+    { "bg": "начинаещ", "en": "beginner", "pronunciation": "na-chi-NA-esht", "example": "Пистата е подходяща за начинаещи.", "type": "noun" },
+    { "bg": "напреднал", "en": "advanced", "pronunciation": "na-pred-NAL", "example": "Черната писта е за напреднали скиори.", "type": "adjective" },
+    { "bg": "ски гардероб", "en": "ski locker room", "pronunciation": "ski gar-de-ROB", "example": "Оставих снаряжението в ски гардероба.", "type": "noun" },
+    { "bg": "снаряжение", "en": "equipment/gear", "pronunciation": "sna-ra-ZHE-ni-e", "example": "Наех снаряжение от магазина до пистата.", "type": "noun" }
+  ]
+}
