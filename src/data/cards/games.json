@@ -1,0 +1,27 @@
+{
+  "category": "Games",
+  "cards": [
+    { "bg": "игра", "en": "game", "pronunciation": "ig-RA", "example": "Да играем една игра!", "type": "noun" },
+    { "bg": "играя", "en": "to play", "pronunciation": "ig-RA-ya", "example": "Децата играят на двора.", "type": "verb" },
+    { "bg": "играч", "en": "player", "pronunciation": "ig-RACH", "example": "Играта е за четирима играчи.", "type": "noun" },
+    { "bg": "настолна игра", "en": "board game", "pronunciation": "nas-TOL-na ig-RA", "example": "Обичам настолни игри с приятели.", "type": "noun" },
+    { "bg": "карти", "en": "cards", "pronunciation": "KAR-ti", "example": "Играем карти всяка вечер.", "type": "noun" },
+    { "bg": "шах", "en": "chess", "pronunciation": "shah", "example": "Дядо ме научи да играя шах.", "type": "noun" },
+    { "bg": "табла", "en": "backgammon", "pronunciation": "tab-LA", "example": "Таблата е популярна в кафенетата.", "type": "noun" },
+    { "bg": "зар", "en": "dice", "pronunciation": "zar", "example": "Хвърли зара и виж колко ще паднат.", "type": "noun" },
+    { "bg": "пъзел", "en": "puzzle", "pronunciation": "PU-zel", "example": "Пъзелът има хиляда парчета.", "type": "noun" },
+    { "bg": "видеоигра", "en": "video game", "pronunciation": "VI-de-o ig-RA", "example": "Децата играят видеоигри цял ден.", "type": "noun" },
+    { "bg": "печеля", "en": "to win", "pronunciation": "pe-CHE-lya", "example": "Печеля почти всеки път на шах.", "type": "verb" },
+    { "bg": "губя", "en": "to lose", "pronunciation": "GU-bya", "example": "Не обичам да губя, но приемам.", "type": "verb" },
+    { "bg": "равенство", "en": "draw/tie", "pronunciation": "ra-VEN-stvo", "example": "Играта завърши с равенство.", "type": "noun" },
+    { "bg": "ред", "en": "turn", "pronunciation": "red", "example": "Твой ред е да играеш.", "type": "noun" },
+    { "bg": "правило", "en": "rule", "pronunciation": "PRA-vi-lo", "example": "Правилата на играта са прости.", "type": "noun" },
+    { "bg": "отбор", "en": "team", "pronunciation": "ot-BOR", "example": "Нашият отбор спечели мача.", "type": "noun" },
+    { "bg": "противник", "en": "opponent", "pronunciation": "pro-TIV-nik", "example": "Противникът ми е много добър.", "type": "noun" },
+    { "bg": "резултат", "en": "score/result", "pronunciation": "re-zul-TAT", "example": "Крайният резултат е три на две.", "type": "noun" },
+    { "bg": "криеница", "en": "hide and seek", "pronunciation": "kri-e-NI-tsa", "example": "Децата играят на криеница в парка.", "type": "noun" },
+    { "bg": "дама", "en": "checkers", "pronunciation": "DA-ma", "example": "Играем дама на верандата.", "type": "noun" },
+    { "bg": "гатанка", "en": "riddle", "pronunciation": "ga-TAN-ka", "example": "Кажи ми една гатанка!", "type": "noun" },
+    { "bg": "забавлявам се", "en": "to have fun", "pronunciation": "za-bav-LYA-vam se", "example": "Забавлявахме се цяла вечер с игри.", "type": "verb" }
+  ]
+}
