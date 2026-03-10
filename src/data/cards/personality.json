@@ -1,0 +1,28 @@
+{
+  "category": "Personality",
+  "cards": [
+    { "bg": "умен", "en": "smart/intelligent", "pronunciation": "U-men", "example": "Тя е много умна ученичка.", "type": "adjective" },
+    { "bg": "добър", "en": "kind/good", "pronunciation": "DO-bur", "example": "Той е много добър човек.", "type": "adjective" },
+    { "bg": "честен", "en": "honest", "pronunciation": "CHES-ten", "example": "Честните хора печелят доверие.", "type": "adjective" },
+    { "bg": "търпелив", "en": "patient", "pronunciation": "tur-pe-LIV", "example": "Учителят е много търпелив с децата.", "type": "adjective" },
+    { "bg": "мързелив", "en": "lazy", "pronunciation": "mur-ze-LIV", "example": "Не бъди мързелив, стани да помогнеш.", "type": "adjective" },
+    { "bg": "трудолюбив", "en": "hardworking", "pronunciation": "tru-do-lyu-BIV", "example": "Баща ми е много трудолюбив.", "type": "adjective" },
+    { "bg": "срамежлив", "en": "shy", "pronunciation": "sra-me-ZHLIV", "example": "Детето е срамежливо пред непознати.", "type": "adjective" },
+    { "bg": "общителен", "en": "sociable/outgoing", "pronunciation": "ob-SHTI-te-len", "example": "Тя е много общителна и има много приятели.", "type": "adjective" },
+    { "bg": "упорит", "en": "stubborn/persistent", "pronunciation": "u-PO-rit", "example": "Той е упорит и никога не се отказва.", "type": "adjective" },
+    { "bg": "щедър", "en": "generous", "pronunciation": "SHTE-dur", "example": "Щедрият човек винаги помага.", "type": "adjective" },
+    { "bg": "скромен", "en": "modest/humble", "pronunciation": "SKRO-men", "example": "Въпреки успеха си, тя е много скромна.", "type": "adjective" },
+    { "bg": "горделив", "en": "proud/arrogant", "pronunciation": "gor-de-LIV", "example": "Понякога е твърде горделив.", "type": "adjective" },
+    { "bg": "весел", "en": "cheerful/merry", "pronunciation": "VE-sel", "example": "Той винаги е весел и усмихнат.", "type": "adjective" },
+    { "bg": "сериозен", "en": "serious", "pronunciation": "se-ri-O-zen", "example": "Тя е много сериозна към работата си.", "type": "adjective" },
+    { "bg": "смел", "en": "brave/courageous", "pronunciation": "smel", "example": "Пожарникарите са много смели.", "type": "adjective" },
+    { "bg": "страхлив", "en": "cowardly/timid", "pronunciation": "strah-LIV", "example": "Не бъди страхлив, опитай!", "type": "adjective" },
+    { "bg": "любопитен", "en": "curious", "pronunciation": "lyu-bo-PI-ten", "example": "Децата са много любопитни.", "type": "adjective" },
+    { "bg": "завистлив", "en": "envious/jealous", "pronunciation": "za-VIST-liv", "example": "Не бъди завистлив към другите.", "type": "adjective" },
+    { "bg": "отговорен", "en": "responsible", "pronunciation": "ot-go-VO-ren", "example": "Тя е отговорна и надеждна колежка.", "type": "adjective" },
+    { "bg": "егоист", "en": "selfish person/egoist", "pronunciation": "e-go-IST", "example": "Не бъди егоист, сподели с другите.", "type": "noun" },
+    { "bg": "оптимист", "en": "optimist", "pronunciation": "op-ti-MIST", "example": "Той е оптимист и вярва в доброто.", "type": "noun" },
+    { "bg": "характер", "en": "character/personality", "pronunciation": "ha-RAK-ter", "example": "Тя има силен характер.", "type": "noun" },
+    { "bg": "талантлив", "en": "talented", "pronunciation": "ta-lant-LIV", "example": "Момичето е много талантливо в музиката.", "type": "adjective" }
+  ]
+}
