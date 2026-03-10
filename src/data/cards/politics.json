@@ -1,0 +1,27 @@
+{
+  "category": "Politics",
+  "cards": [
+    { "bg": "политика", "en": "politics", "pronunciation": "po-LI-ti-ka", "example": "Политиката е сложна тема.", "type": "noun" },
+    { "bg": "правителство", "en": "government", "pronunciation": "pra-VI-tel-stvo", "example": "Правителството взе ново решение.", "type": "noun" },
+    { "bg": "парламент", "en": "parliament", "pronunciation": "par-la-MENT", "example": "Народното събрание е парламентът на България.", "type": "noun" },
+    { "bg": "президент", "en": "president", "pronunciation": "pre-zi-DENT", "example": "Президентът е държавен глава.", "type": "noun" },
+    { "bg": "министър-председател", "en": "prime minister", "pronunciation": "mi-nis-TUR pred-se-DA-tel", "example": "Министър-председателят ръководи правителството.", "type": "noun" },
+    { "bg": "депутат", "en": "member of parliament", "pronunciation": "de-pu-TAT", "example": "Депутатите гласуват нови закони.", "type": "noun" },
+    { "bg": "избори", "en": "elections", "pronunciation": "IZ-bo-ri", "example": "Парламентарните избори са през април.", "type": "noun" },
+    { "bg": "гласувам", "en": "to vote", "pronunciation": "gla-SU-vam", "example": "Гласувах на изборите тази сутрин.", "type": "verb" },
+    { "bg": "партия", "en": "political party", "pronunciation": "PAR-ti-ya", "example": "В парламента има няколко партии.", "type": "noun" },
+    { "bg": "закон", "en": "law", "pronunciation": "za-KON", "example": "Приеха нов закон за образованието.", "type": "noun" },
+    { "bg": "конституция", "en": "constitution", "pronunciation": "kon-sti-TU-tsi-ya", "example": "Конституцията е основният закон на страната.", "type": "noun" },
+    { "bg": "демокрация", "en": "democracy", "pronunciation": "de-mo-KRA-tsi-ya", "example": "България е парламентарна демокрация.", "type": "noun" },
+    { "bg": "гражданин", "en": "citizen", "pronunciation": "grazh-da-NIN", "example": "Всеки гражданин има право на глас.", "type": "noun" },
+    { "bg": "право", "en": "right", "pronunciation": "PRA-vo", "example": "Свободата на словото е основно право.", "type": "noun" },
+    { "bg": "данък", "en": "tax", "pronunciation": "da-NUK", "example": "Данъкът върху доходите е десет процента.", "type": "noun" },
+    { "bg": "бюджет", "en": "budget", "pronunciation": "BYUD-zhet", "example": "Парламентът одобри държавния бюджет.", "type": "noun" },
+    { "bg": "протест", "en": "protest", "pronunciation": "pro-TEST", "example": "Имаше голям протест в центъра на София.", "type": "noun" },
+    { "bg": "реформа", "en": "reform", "pronunciation": "re-FOR-ma", "example": "Страната има нужда от реформи.", "type": "noun" },
+    { "bg": "кмет", "en": "mayor", "pronunciation": "kmet", "example": "Кметът на града откри нов парк.", "type": "noun" },
+    { "bg": "община", "en": "municipality", "pronunciation": "ob-SHTI-na", "example": "Общината отговаря за местните услуги.", "type": "noun" },
+    { "bg": "Европейски съюз", "en": "European Union", "pronunciation": "ev-ro-PEY-ski su-YUZ", "example": "България е член на Европейския съюз от 2007.", "type": "noun" },
+    { "bg": "корупция", "en": "corruption", "pronunciation": "ko-RUP-tsi-ya", "example": "Борбата с корупцията е важна.", "type": "noun" }
+  ]
+}
