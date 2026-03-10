@@ -1,0 +1,26 @@
+{
+  "category": "Professions",
+  "cards": [
+    { "bg": "лекар", "en": "doctor", "pronunciation": "LE-kar", "example": "Лекарят ме прегледа в болницата.", "type": "noun" },
+    { "bg": "учител", "en": "teacher", "pronunciation": "u-CHI-tel", "example": "Учителят обяснява урока.", "type": "noun" },
+    { "bg": "инженер", "en": "engineer", "pronunciation": "in-zhe-NER", "example": "Инженерът проектира нова сграда.", "type": "noun" },
+    { "bg": "адвокат", "en": "lawyer", "pronunciation": "ad-vo-KAT", "example": "Адвокатът защитава клиента си.", "type": "noun" },
+    { "bg": "програмист", "en": "programmer", "pronunciation": "pro-gra-MIST", "example": "Програмистът пише код всеки ден.", "type": "noun" },
+    { "bg": "готвач", "en": "cook/chef", "pronunciation": "got-VACH", "example": "Готвачът в ресторанта е много добър.", "type": "noun" },
+    { "bg": "полицай", "en": "police officer", "pronunciation": "po-li-TSAY", "example": "Полицаят спря колата на кръстовището.", "type": "noun" },
+    { "bg": "пожарникар", "en": "firefighter", "pronunciation": "po-zhar-ni-KAR", "example": "Пожарникарите пристигнаха бързо.", "type": "noun" },
+    { "bg": "медицинска сестра", "en": "nurse", "pronunciation": "me-di-TSIN-ska ses-TRA", "example": "Медицинската сестра ми сложи превръзка.", "type": "noun" },
+    { "bg": "журналист", "en": "journalist", "pronunciation": "zhur-na-LIST", "example": "Журналистът пише за вестника.", "type": "noun" },
+    { "bg": "архитект", "en": "architect", "pronunciation": "ar-hi-TEKT", "example": "Архитектът проектира красиви къщи.", "type": "noun" },
+    { "bg": "фризьор", "en": "hairdresser", "pronunciation": "fri-ZYOR", "example": "Отивам при фризьора утре.", "type": "noun" },
+    { "bg": "продавач", "en": "salesperson", "pronunciation": "pro-da-VACH", "example": "Продавачът в магазина е любезен.", "type": "noun" },
+    { "bg": "шофьор", "en": "driver", "pronunciation": "sho-FYOR", "example": "Шофьорът на автобуса кара внимателно.", "type": "noun" },
+    { "bg": "счетоводител", "en": "accountant", "pronunciation": "scheto-VO-di-tel", "example": "Счетоводителят подготвя данъците.", "type": "noun" },
+    { "bg": "зъболекар", "en": "dentist", "pronunciation": "zu-bo-LE-kar", "example": "Ходя на зъболекар два пъти годишно.", "type": "noun" },
+    { "bg": "музикант", "en": "musician", "pronunciation": "mu-zi-KANT", "example": "Музикантът свири на китара.", "type": "noun" },
+    { "bg": "художник", "en": "artist/painter", "pronunciation": "hu-DOZH-nik", "example": "Художникът рисува портрети.", "type": "noun" },
+    { "bg": "фермер", "en": "farmer", "pronunciation": "FER-mer", "example": "Фермерът отглежда зеленчуци.", "type": "noun" },
+    { "bg": "работа", "en": "work/job", "pronunciation": "ra-BO-ta", "example": "Каква е твоята работа?", "type": "noun" },
+    { "bg": "професия", "en": "profession", "pronunciation": "pro-FE-si-ya", "example": "Каква професия искаш да имаш?", "type": "noun" }
+  ]
+}
