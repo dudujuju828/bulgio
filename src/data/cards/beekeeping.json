@@ -1,0 +1,28 @@
+{
+  "category": "Beekeeping",
+  "cards": [
+    { "bg": "пчеларство", "en": "beekeeping", "pronunciation": "pche-LAR-stvo", "example": "Пчеларството е древен занаят в България.", "type": "noun" },
+    { "bg": "пчелар", "en": "beekeeper", "pronunciation": "pche-LAR", "example": "Дядо ми е пчелар от петдесет години.", "type": "noun" },
+    { "bg": "пчела", "en": "bee", "pronunciation": "pche-LA", "example": "Пчелите опрашват цветята.", "type": "noun" },
+    { "bg": "кошер", "en": "beehive", "pronunciation": "ko-SHER", "example": "В двора имаме двадесет кошера.", "type": "noun" },
+    { "bg": "мед", "en": "honey", "pronunciation": "med", "example": "Българският мед е известен с високото си качество.", "type": "noun" },
+    { "bg": "пчелен восък", "en": "beeswax", "pronunciation": "pche-LEN vo-SUK", "example": "От пчелния восък правим свещи.", "type": "noun" },
+    { "bg": "пчелно млечице", "en": "royal jelly", "pronunciation": "pchel-NO mle-CHI-tse", "example": "Пчелното млечице е много ценен продукт.", "type": "noun" },
+    { "bg": "прополис", "en": "propolis", "pronunciation": "PRO-po-lis", "example": "Прополисът има лечебни свойства.", "type": "noun" },
+    { "bg": "пита", "en": "honeycomb", "pronunciation": "PI-ta", "example": "Медът директно от питата е най-вкусен.", "type": "noun" },
+    { "bg": "царица", "en": "queen bee", "pronunciation": "tsa-RI-tsa", "example": "Царицата снася до две хиляди яйца на ден.", "type": "noun" },
+    { "bg": "търтей", "en": "drone (male bee)", "pronunciation": "tur-TEY", "example": "Търтеите не събират мед.", "type": "noun" },
+    { "bg": "работничка", "en": "worker bee", "pronunciation": "ra-BOT-nich-ka", "example": "Работничките събират нектар от цветята.", "type": "noun" },
+    { "bg": "рояк", "en": "swarm", "pronunciation": "ro-YAK", "example": "Роякът кацна на клона на дървото.", "type": "noun" },
+    { "bg": "роя се", "en": "to swarm", "pronunciation": "ro-YA se", "example": "Пчелите се рояват напролет.", "type": "verb" },
+    { "bg": "нектар", "en": "nectar", "pronunciation": "nek-TAR", "example": "Пчелите събират нектар от акацията.", "type": "noun" },
+    { "bg": "опрашване", "en": "pollination", "pronunciation": "op-RASH-va-ne", "example": "Без опрашване нямаше да има плодове.", "type": "noun" },
+    { "bg": "дименe", "en": "smoker (beekeeping tool)", "pronunciation": "di-me-NE", "example": "Пчеларят пуска дим с дименето, за да успокои пчелите.", "type": "noun" },
+    { "bg": "маска", "en": "beekeeper's veil/mask", "pronunciation": "MAS-ka", "example": "Носи маска, за да не те ужилят.", "type": "noun" },
+    { "bg": "ужилване", "en": "sting", "pronunciation": "u-ZHIL-va-ne", "example": "Ужилването на пчела боли, но минава бързо.", "type": "noun" },
+    { "bg": "център", "en": "centrifuge/extractor", "pronunciation": "tsen-tro-FU-ga", "example": "С центрофугата изваждаме меда от питите.", "type": "noun" },
+    { "bg": "акациев мед", "en": "acacia honey", "pronunciation": "a-KA-tsi-ev med", "example": "Акациевият мед е светъл и деликатен.", "type": "noun" },
+    { "bg": "липов мед", "en": "linden honey", "pronunciation": "LI-pov med", "example": "Липовият мед помага при настинка.", "type": "noun" },
+    { "bg": "манов мед", "en": "honeydew honey", "pronunciation": "MA-nov med", "example": "Мановият мед от иглолистни гори е тъмен.", "type": "noun" }
+  ]
+}
