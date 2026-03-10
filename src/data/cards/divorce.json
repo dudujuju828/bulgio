@@ -1,0 +1,27 @@
+{
+  "category": "Divorce & Separation",
+  "cards": [
+    { "bg": "развод", "en": "divorce", "pronunciation": "raz-VOD", "example": "Разводът беше по взаимно съгласие.", "type": "noun" },
+    { "bg": "развеждам се", "en": "to get divorced", "pronunciation": "raz-VEZH-dam se", "example": "Разведоха се след десет години брак.", "type": "verb" },
+    { "bg": "раздяла", "en": "separation", "pronunciation": "raz-DYA-la", "example": "Раздялата беше трудна за двамата.", "type": "noun" },
+    { "bg": "бракоразводно дело", "en": "divorce proceedings", "pronunciation": "bra-ko-raz-VOD-no DE-lo", "example": "Бракоразводното дело продължи шест месеца.", "type": "noun" },
+    { "bg": "взаимно съгласие", "en": "mutual consent", "pronunciation": "vza-IM-no su-GLA-si-e", "example": "Разводът по взаимно съгласие е по-бърз.", "type": "noun" },
+    { "bg": "адвокат", "en": "lawyer", "pronunciation": "ad-vo-KAT", "example": "Адвокатът ме представлява в съда.", "type": "noun" },
+    { "bg": "родителски права", "en": "custody/parental rights", "pronunciation": "ro-DI-tel-ski pra-VA", "example": "Родителските права бяха дадени на майката.", "type": "noun" },
+    { "bg": "споразумение", "en": "agreement/settlement", "pronunciation": "spo-ra-zu-ME-ni-e", "example": "Споразумението определя условията за децата.", "type": "noun" },
+    { "bg": "издръжка", "en": "alimony/child support", "pronunciation": "iz-DRUZH-ka", "example": "Издръжката за децата е четиристотин лева.", "type": "noun" },
+    { "bg": "имущество", "en": "property/assets", "pronunciation": "i-mu-SHEST-vo", "example": "Имуществото се разделя по равно.", "type": "noun" },
+    { "bg": "разделяне на имущество", "en": "division of assets", "pronunciation": "raz-de-LYA-ne na i-mu-SHEST-vo-to", "example": "Разделянето на имуществото е сложен процес.", "type": "noun" },
+    { "bg": "посещение", "en": "visitation (rights)", "pronunciation": "po-se-SHTE-ni-e", "example": "Посещенията на бащата са всяка втора седмица.", "type": "noun" },
+    { "bg": "медиатор", "en": "mediator", "pronunciation": "me-di-A-tor", "example": "Медиаторът помага на двойката да се споразумеят.", "type": "noun" },
+    { "bg": "медиация", "en": "mediation", "pronunciation": "me-di-A-tsi-ya", "example": "Медиацията е алтернатива на съдебния процес.", "type": "noun" },
+    { "bg": "брачен договор", "en": "prenuptial agreement", "pronunciation": "BRA-chen do-go-VOR", "example": "Брачният договор определя имуществените отношения.", "type": "noun" },
+    { "bg": "попечителство", "en": "guardianship/custody", "pronunciation": "po-pe-CHI-tel-stvo", "example": "Съвместното попечителство е в интерес на детето.", "type": "noun" },
+    { "bg": "бивш съпруг", "en": "ex-husband", "pronunciation": "bivsh su-PRUG", "example": "Бившият ми съпруг живее в друг град.", "type": "noun" },
+    { "bg": "бивша съпруга", "en": "ex-wife", "pronunciation": "BIV-sha su-PRU-ga", "example": "Бившата му съпруга се омъжи отново.", "type": "noun" },
+    { "bg": "съдебно заседание", "en": "court hearing", "pronunciation": "su-DEB-no za-se-DA-ni-e", "example": "Следващото съдебно заседание е през март.", "type": "noun" },
+    { "bg": "емоционална подкрепа", "en": "emotional support", "pronunciation": "e-mo-tsi-o-NAL-na pod-KREP-a", "example": "Емоционалната подкрепа от близките е важна.", "type": "noun" },
+    { "bg": "нов живот", "en": "new life/fresh start", "pronunciation": "nov zhi-VOT", "example": "Започна нов живот след развода.", "type": "noun" },
+    { "bg": "съвместно отглеждане", "en": "co-parenting", "pronunciation": "suv-MEST-no ot-GLEZH-da-ne", "example": "Съвместното отглеждане изисква добра комуникация.", "type": "noun" }
+  ]
+}
