@@ -1,0 +1,29 @@
+{
+  "category": "Airport",
+  "cards": [
+    { "bg": "летище", "en": "airport", "pronunciation": "le-TISH-te", "example": "Летището е на десет километра от центъра.", "type": "noun" },
+    { "bg": "самолет", "en": "airplane", "pronunciation": "sa-mo-LET", "example": "Самолетът излита в шест часа.", "type": "noun" },
+    { "bg": "полет", "en": "flight", "pronunciation": "po-LET", "example": "Полетът до Лондон е три часа.", "type": "noun" },
+    { "bg": "билет", "en": "ticket", "pronunciation": "bi-LET", "example": "Купих билет за самолета онлайн.", "type": "noun" },
+    { "bg": "бордна карта", "en": "boarding pass", "pronunciation": "BORD-na KAR-ta", "example": "Покажете бордната си карта на входа.", "type": "noun" },
+    { "bg": "паспорт", "en": "passport", "pronunciation": "PAS-port", "example": "Паспортът ми е валиден още две години.", "type": "noun" },
+    { "bg": "багаж", "en": "luggage/baggage", "pronunciation": "ba-GAZH", "example": "Багажът ми тежи двадесет килограма.", "type": "noun" },
+    { "bg": "ръчен багаж", "en": "carry-on luggage", "pronunciation": "RU-chen ba-GAZH", "example": "Вземам само ръчен багаж за уикенда.", "type": "noun" },
+    { "bg": "регистрация", "en": "check-in", "pronunciation": "re-gis-TRA-tsi-ya", "example": "Регистрацията започва два часа преди полета.", "type": "noun" },
+    { "bg": "излитане", "en": "takeoff/departure", "pronunciation": "iz-LI-ta-ne", "example": "Излитането е закъсняло с един час.", "type": "noun" },
+    { "bg": "кацане", "en": "landing", "pronunciation": "KA-tsa-ne", "example": "Кацането беше много гладко.", "type": "noun" },
+    { "bg": "закъснение", "en": "delay", "pronunciation": "za-kus-NE-ni-e", "example": "Полетът има закъснение от тридесет минути.", "type": "noun" },
+    { "bg": "гише", "en": "counter/desk", "pronunciation": "GI-she", "example": "Отидете на гишето за информация.", "type": "noun" },
+    { "bg": "митница", "en": "customs", "pronunciation": "MIT-ni-tsa", "example": "Минахме бързо през митницата.", "type": "noun" },
+    { "bg": "паспортен контрол", "en": "passport control", "pronunciation": "pas-POR-ten kon-TROL", "example": "Опашката на паспортния контрол беше дълга.", "type": "noun" },
+    { "bg": "изход", "en": "gate/exit", "pronunciation": "IZ-hod", "example": "Полетът заминава от изход четиринадесет.", "type": "noun" },
+    { "bg": "пилот", "en": "pilot", "pronunciation": "pi-LOT", "example": "Пилотът обяви, че ще кацнем скоро.", "type": "noun" },
+    { "bg": "стюардеса", "en": "flight attendant (f)", "pronunciation": "styu-ar-DE-sa", "example": "Стюардесата предложи напитки.", "type": "noun" },
+    { "bg": "излитам", "en": "to take off", "pronunciation": "iz-LI-tam", "example": "Самолетът излита точно в осем.", "type": "verb" },
+    { "bg": "кацам", "en": "to land", "pronunciation": "KA-tsam", "example": "Кацнахме безопасно в София.", "type": "verb" },
+    { "bg": "пътувам", "en": "to travel", "pronunciation": "pu-TU-vam", "example": "Обичам да пътувам със самолет.", "type": "verb" },
+    { "bg": "пристигане", "en": "arrival", "pronunciation": "pris-TI-ga-ne", "example": "Пристигането е в десет часа местно време.", "type": "noun" },
+    { "bg": "директен полет", "en": "direct flight", "pronunciation": "di-REK-ten po-LET", "example": "Има директен полет от София до Виена.", "type": "noun" },
+    { "bg": "връзка", "en": "connection/layover", "pronunciation": "VRUZ-ka", "example": "Имам връзка в Мюнхен.", "type": "noun" }
+  ]
+}
