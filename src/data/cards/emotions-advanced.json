@@ -1,0 +1,28 @@
+{
+  "category": "Emotions (Advanced)",
+  "cards": [
+    { "bg": "носталгия", "en": "nostalgia", "pronunciation": "nos-tal-GI-ya", "example": "Чувствам носталгия по детството си в село.", "type": "noun" },
+    { "bg": "завист", "en": "envy", "pronunciation": "ZA-vist", "example": "Завистта е лошо чувство.", "type": "noun" },
+    { "bg": "срам", "en": "shame", "pronunciation": "sram", "example": "Почервенях от срам пред всички.", "type": "noun" },
+    { "bg": "гордост", "en": "pride", "pronunciation": "GOR-dost", "example": "Изпитвам гордост от успехите на децата си.", "type": "noun" },
+    { "bg": "вина", "en": "guilt", "pronunciation": "vi-NA", "example": "Чувствам вина, че не му помогнах.", "type": "noun" },
+    { "bg": "съжаление", "en": "regret", "pronunciation": "su-zha-LE-ni-e", "example": "Нямам съжаление за решението си.", "type": "noun" },
+    { "bg": "облекчение", "en": "relief", "pronunciation": "ob-lek-CHE-ni-e", "example": "Изпитах огромно облекчение след изпита.", "type": "noun" },
+    { "bg": "възхищение", "en": "admiration", "pronunciation": "vuz-hi-SHTE-ni-e", "example": "Гледам с възхищение как танцува.", "type": "noun" },
+    { "bg": "отвращение", "en": "disgust", "pronunciation": "ot-vra-SHTE-ni-e", "example": "Отвращението му беше изписано на лицето.", "type": "noun" },
+    { "bg": "копнеж", "en": "longing/yearning", "pronunciation": "kop-NEZH", "example": "Копнежът по родината не спира.", "type": "noun" },
+    { "bg": "безпокойство", "en": "anxiety/worry", "pronunciation": "bez-po-KOY-stvo", "example": "Безпокойството ми расте преди всеки полет.", "type": "noun" },
+    { "bg": "любопитство", "en": "curiosity", "pronunciation": "lyu-bo-PIT-stvo", "example": "Любопитството на децата е безкрайно.", "type": "noun" },
+    { "bg": "благодарност", "en": "gratitude", "pronunciation": "bla-go-DAR-nost", "example": "Изпитвам дълбока благодарност към учителите си.", "type": "noun" },
+    { "bg": "отчаяние", "en": "despair", "pronunciation": "ot-CHA-ya-ni-e", "example": "В момент на отчаяние потърси помощ.", "type": "noun" },
+    { "bg": "умиление", "en": "tenderness/being moved", "pronunciation": "u-mi-LE-ni-e", "example": "Гледам бебето с умиление.", "type": "noun" },
+    { "bg": "разочарование", "en": "disappointment", "pronunciation": "ra-zo-cha-ro-VA-ni-e", "example": "Разочарованието от резултата беше голямо.", "type": "noun" },
+    { "bg": "ревност", "en": "jealousy", "pronunciation": "REV-nost", "example": "Ревността разрушава връзките.", "type": "noun" },
+    { "bg": "състрадание", "en": "compassion", "pronunciation": "sus-tra-DA-ni-e", "example": "Състраданието към другите ни прави хора.", "type": "noun" },
+    { "bg": "неудобство", "en": "discomfort/awkwardness", "pronunciation": "ne-u-DOB-stvo", "example": "Почувствах неудобство от въпроса.", "type": "noun" },
+    { "bg": "вдъхновен", "en": "inspired", "pronunciation": "vduh-no-VEN", "example": "Чувствам се вдъхновен след концерта.", "type": "adjective" },
+    { "bg": "объркан", "en": "confused", "pronunciation": "ob-UR-kan", "example": "Объркан съм, не разбирам какво искаш.", "type": "adjective" },
+    { "bg": "потиснат", "en": "depressed/down", "pronunciation": "po-TIS-nat", "example": "Чувствам се потиснат от дъждовното време.", "type": "adjective" },
+    { "bg": "въодушевен", "en": "enthusiastic/thrilled", "pronunciation": "vu-o-du-SHE-ven", "example": "Въодушевен съм от новата работа!", "type": "adjective" }
+  ]
+}
