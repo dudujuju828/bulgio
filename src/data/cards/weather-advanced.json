@@ -1,0 +1,28 @@
+{
+  "category": "Weather (Advanced)",
+  "cards": [
+    { "bg": "прогноза за времето", "en": "weather forecast", "pronunciation": "prog-NO-za za VRE-me-to", "example": "Прогнозата за времето обещава дъжд.", "type": "noun" },
+    { "bg": "градушка", "en": "hail", "pronunciation": "gra-DUSH-ka", "example": "Градушката потроши стъклата на колите.", "type": "noun" },
+    { "bg": "гръмотевица", "en": "thunder", "pronunciation": "gru-mo-te-VI-tsa", "example": "Гръмотевиците плашат кучето.", "type": "noun" },
+    { "bg": "мълния", "en": "lightning", "pronunciation": "MUL-ni-ya", "example": "Мълнията удари дървото в парка.", "type": "noun" },
+    { "bg": "буря", "en": "storm", "pronunciation": "BU-rya", "example": "Бурята повали няколко дървета.", "type": "noun" },
+    { "bg": "виелица", "en": "blizzard", "pronunciation": "vi-E-li-tsa", "example": "Виелицата затвори пътя за Шипка.", "type": "noun" },
+    { "bg": "суша", "en": "drought", "pronunciation": "su-SHA", "example": "Сушата унищожи реколтата.", "type": "noun" },
+    { "bg": "наводнение", "en": "flood", "pronunciation": "na-vod-NE-ni-e", "example": "Наводнението в Карлово причини щети.", "type": "noun" },
+    { "bg": "роса", "en": "dew", "pronunciation": "ro-SA", "example": "Росата блести по тревата сутрин.", "type": "noun" },
+    { "bg": "слана", "en": "frost (ground)", "pronunciation": "sla-NA", "example": "Сланата уби цветята в градината.", "type": "noun" },
+    { "bg": "преспа", "en": "snowdrift", "pronunciation": "PRES-pa", "example": "Преспите са до прозорците на къщата.", "type": "noun" },
+    { "bg": "поледица", "en": "black ice", "pronunciation": "po-le-DI-tsa", "example": "Внимавай на пътя, има поледица.", "type": "noun" },
+    { "bg": "мъгла", "en": "fog", "pronunciation": "mug-LA", "example": "Мъглата е гъста и не се вижда нищо.", "type": "noun" },
+    { "bg": "влажност", "en": "humidity", "pronunciation": "VLAZH-nost", "example": "Влажността в Бургас е висока лятото.", "type": "noun" },
+    { "bg": "атмосферно налягане", "en": "atmospheric pressure", "pronunciation": "at-mos-FER-no na-LYA-ga-ne", "example": "Ниското атмосферно налягане предвещава дъжд.", "type": "noun" },
+    { "bg": "дъга", "en": "rainbow", "pronunciation": "du-GA", "example": "След дъжда излезе красива дъга.", "type": "noun" },
+    { "bg": "горещина", "en": "heat/heatwave", "pronunciation": "go-resh-ti-NA", "example": "Горещината достига четиридесет градуса.", "type": "noun" },
+    { "bg": "хладно", "en": "chilly/cool", "pronunciation": "HLAD-no", "example": "Навън е хладно, вземи якето.", "type": "adjective" },
+    { "bg": "задушно", "en": "humid/muggy/stuffy", "pronunciation": "za-DUSH-no", "example": "Задушно е, ще вали скоро.", "type": "adjective" },
+    { "bg": "ветровито", "en": "windy", "pronunciation": "vet-ro-VI-to", "example": "Много е ветровито край морето днес.", "type": "adjective" },
+    { "bg": "облачно", "en": "cloudy", "pronunciation": "OB-lach-no", "example": "Облачно е, но няма да вали.", "type": "adjective" },
+    { "bg": "ясно", "en": "clear (sky)", "pronunciation": "YAS-no", "example": "Небето е ясно и звездите се виждат.", "type": "adjective" },
+    { "bg": "оранжев код", "en": "orange weather warning", "pronunciation": "o-RAN-zhev kod", "example": "Обявиха оранжев код за силни валежи.", "type": "noun" }
+  ]
+}
