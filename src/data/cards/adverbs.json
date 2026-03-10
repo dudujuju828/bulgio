@@ -1,0 +1,26 @@
+{
+  "category": "Adverbs",
+  "cards": [
+    { "bg": "много", "en": "very/much", "pronunciation": "MNO-go", "example": "Много съм доволен от резултата.", "type": "phrase" },
+    { "bg": "малко", "en": "a little/few", "pronunciation": "MAL-ko", "example": "Говоря малко български.", "type": "phrase" },
+    { "bg": "бързо", "en": "quickly/fast", "pronunciation": "BUR-zo", "example": "Ела бързо, закъсняваме!", "type": "phrase" },
+    { "bg": "бавно", "en": "slowly", "pronunciation": "BAV-no", "example": "Моля, говорете по-бавно.", "type": "phrase" },
+    { "bg": "добре", "en": "well/good", "pronunciation": "dob-RE", "example": "Чувствам се добре днес.", "type": "phrase" },
+    { "bg": "зле", "en": "badly", "pronunciation": "zle", "example": "Зле ми е, имам нужда от помощ.", "type": "phrase" },
+    { "bg": "вече", "en": "already", "pronunciation": "VE-che", "example": "Вече свърших работата си.", "type": "phrase" },
+    { "bg": "още", "en": "still/yet/more", "pronunciation": "O-shte", "example": "Искаш ли още кафе?", "type": "phrase" },
+    { "bg": "никога", "en": "never", "pronunciation": "ni-KO-ga", "example": "Никога не съм бил в Япония.", "type": "phrase" },
+    { "bg": "винаги", "en": "always", "pronunciation": "vi-NA-gi", "example": "Тя винаги е усмихната.", "type": "phrase" },
+    { "bg": "понякога", "en": "sometimes", "pronunciation": "po-NYA-ko-ga", "example": "Понякога ходя на разходка.", "type": "phrase" },
+    { "bg": "често", "en": "often", "pronunciation": "CHES-to", "example": "Често пътувам с влак.", "type": "phrase" },
+    { "bg": "рядко", "en": "rarely", "pronunciation": "RYAD-ko", "example": "Рядко гледам телевизия.", "type": "phrase" },
+    { "bg": "тук", "en": "here", "pronunciation": "tuk", "example": "Ела тук, моля те.", "type": "phrase" },
+    { "bg": "там", "en": "there", "pronunciation": "tam", "example": "Магазинът е там, зад ъгъла.", "type": "phrase" },
+    { "bg": "навън", "en": "outside", "pronunciation": "na-VUN", "example": "Навън е хубаво време.", "type": "phrase" },
+    { "bg": "вътре", "en": "inside", "pronunciation": "VUT-re", "example": "Влез вътре, студено е.", "type": "phrase" },
+    { "bg": "веднага", "en": "immediately", "pronunciation": "ved-NA-ga", "example": "Ела веднага, спешно е!", "type": "phrase" },
+    { "bg": "почти", "en": "almost", "pronunciation": "poch-TI", "example": "Почти свърших с работата.", "type": "phrase" },
+    { "bg": "наистина", "en": "really/truly", "pronunciation": "na-IS-ti-na", "example": "Наистина ли? Не мога да повярвам!", "type": "phrase" },
+    { "bg": "може би", "en": "maybe/perhaps", "pronunciation": "MO-zhe bi", "example": "Може би ще дойда утре.", "type": "phrase" }
+  ]
+}
