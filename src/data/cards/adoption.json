@@ -1,0 +1,27 @@
+{
+  "category": "Adoption & Foster Care",
+  "cards": [
+    { "bg": "осиновяване", "en": "adoption", "pronunciation": "o-si-no-VYA-va-ne", "example": "Осиновяването промени живота на семейството.", "type": "noun" },
+    { "bg": "осиновявам", "en": "to adopt", "pronunciation": "o-si-no-VYA-vam", "example": "Осиновихме момиченце на две годинки.", "type": "verb" },
+    { "bg": "осиновител", "en": "adoptive parent", "pronunciation": "o-si-no-VI-tel", "example": "Осиновителите минават през дълга процедура.", "type": "noun" },
+    { "bg": "осиновено дете", "en": "adopted child", "pronunciation": "o-si-no-VE-no de-TE", "example": "Осиновеното дете бързо се адаптира.", "type": "noun" },
+    { "bg": "приемно семейство", "en": "foster family", "pronunciation": "pri-EM-no se-MEY-stvo", "example": "Приемното семейство се грижи за детето временно.", "type": "noun" },
+    { "bg": "приемен родител", "en": "foster parent", "pronunciation": "pri-E-men ro-DI-tel", "example": "Приемният родител получава подкрепа от държавата.", "type": "noun" },
+    { "bg": "приемна грижа", "en": "foster care", "pronunciation": "pri-EM-na GRI-zha", "example": "Приемната грижа дава дом на деца в нужда.", "type": "noun" },
+    { "bg": "дом за деца", "en": "children's home/orphanage", "pronunciation": "dom za de-TSA", "example": "Домовете за деца постепенно се закриват.", "type": "noun" },
+    { "bg": "процедура", "en": "procedure/process", "pronunciation": "pro-tse-DU-ra", "example": "Процедурата по осиновяване трае около година.", "type": "noun" },
+    { "bg": "социален работник", "en": "social worker", "pronunciation": "so-tsi-A-len ra-BOT-nik", "example": "Социалният работник оценява условията в дома.", "type": "noun" },
+    { "bg": "съгласие", "en": "consent", "pronunciation": "su-GLA-si-e", "example": "Съгласието на биологичните родители е необходимо.", "type": "noun" },
+    { "bg": "биологичен родител", "en": "biological parent", "pronunciation": "bi-o-lo-GI-chen ro-DI-tel", "example": "Биологичният родител може да поиска контакт.", "type": "noun" },
+    { "bg": "попечител", "en": "guardian", "pronunciation": "po-pe-CHI-tel", "example": "Попечителят взима решения от името на детето.", "type": "noun" },
+    { "bg": "попечителство", "en": "guardianship", "pronunciation": "po-pe-CHI-tel-stvo", "example": "Попечителството беше предоставено на леля му.", "type": "noun" },
+    { "bg": "съдебно решение", "en": "court decision/ruling", "pronunciation": "su-DEB-no re-SHE-ni-e", "example": "Съдебното решение одобри осиновяването.", "type": "noun" },
+    { "bg": "документи", "en": "documents/paperwork", "pronunciation": "do-ku-MEN-ti", "example": "Документите включват удостоверение и декларация.", "type": "noun" },
+    { "bg": "проучване", "en": "assessment/home study", "pronunciation": "pro-UCH-va-ne", "example": "Проучването на дома е задължителна стъпка.", "type": "noun" },
+    { "bg": "адаптация", "en": "adaptation/adjustment", "pronunciation": "a-dap-TA-tsi-ya", "example": "Адаптацията на детето изисква търпение и любов.", "type": "noun" },
+    { "bg": "привързаност", "en": "attachment/bonding", "pronunciation": "pri-VUR-za-nost", "example": "Привързаността между родител и дете расте с времето.", "type": "noun" },
+    { "bg": "международно осиновяване", "en": "international adoption", "pronunciation": "mezh-du-na-ROD-no o-si-no-VYA-va-ne", "example": "Международното осиновяване изисква допълнителни документи.", "type": "noun" },
+    { "bg": "права на детето", "en": "children's rights", "pronunciation": "pra-VA na de-TE-to", "example": "Правата на детето са защитени от закона.", "type": "noun" },
+    { "bg": "семейство", "en": "family", "pronunciation": "se-MEY-stvo", "example": "Семейството е най-важното за всяко дете.", "type": "noun" }
+  ]
+}
