@@ -1,0 +1,27 @@
+{
+  "category": "Soccer",
+  "cards": [
+    { "bg": "футбол", "en": "soccer/football", "pronunciation": "fut-BOL", "example": "Футболът е най-популярният спорт в България.", "type": "noun" },
+    { "bg": "мач", "en": "match/game", "pronunciation": "mach", "example": "Мачът започва в осем часа.", "type": "noun" },
+    { "bg": "отбор", "en": "team", "pronunciation": "ot-BOR", "example": "Нашият отбор спечели дербито.", "type": "noun" },
+    { "bg": "футболист", "en": "soccer player", "pronunciation": "fut-bo-LIST", "example": "Стоичков е най-великият български футболист.", "type": "noun" },
+    { "bg": "вратар", "en": "goalkeeper", "pronunciation": "vra-TAR", "example": "Вратарят спаси дузпата.", "type": "noun" },
+    { "bg": "нападател", "en": "forward/striker", "pronunciation": "na-pa-DA-tel", "example": "Нападателят вкара два гола.", "type": "noun" },
+    { "bg": "защитник", "en": "defender", "pronunciation": "za-SHIT-nik", "example": "Защитникът спря атаката.", "type": "noun" },
+    { "bg": "полузащитник", "en": "midfielder", "pronunciation": "po-lu-za-SHIT-nik", "example": "Полузащитникът подаде точно на нападателя.", "type": "noun" },
+    { "bg": "гол", "en": "goal", "pronunciation": "gol", "example": "Гол! Резултатът е две на едно!", "type": "noun" },
+    { "bg": "дузпа", "en": "penalty kick", "pronunciation": "DUZ-pa", "example": "Съдията отсъди дузпа.", "type": "noun" },
+    { "bg": "съдия", "en": "referee", "pronunciation": "su-di-YA", "example": "Съдията показа червен картон.", "type": "noun" },
+    { "bg": "червен картон", "en": "red card", "pronunciation": "cher-VEN kar-TON", "example": "Играчът получи червен картон и беше изгонен.", "type": "noun" },
+    { "bg": "жълт картон", "en": "yellow card", "pronunciation": "zhult kar-TON", "example": "Жълтият картон е предупреждение.", "type": "noun" },
+    { "bg": "засада", "en": "offside", "pronunciation": "za-SA-da", "example": "Голът беше отменен заради засада.", "type": "noun" },
+    { "bg": "топка", "en": "ball", "pronunciation": "TOP-ka", "example": "Подай топката на мен!", "type": "noun" },
+    { "bg": "стадион", "en": "stadium", "pronunciation": "sta-di-ON", "example": "Стадионът беше пълен с фенове.", "type": "noun" },
+    { "bg": "фен", "en": "fan/supporter", "pronunciation": "fen", "example": "Феновете пяха по време на целия мач.", "type": "noun" },
+    { "bg": "полувреме", "en": "half-time", "pronunciation": "po-lu-VRE-me", "example": "На полувремето резултатът е нула на нула.", "type": "noun" },
+    { "bg": "вкарвам гол", "en": "to score a goal", "pronunciation": "VKAR-vam gol", "example": "Вкара гол в последната минута!", "type": "phrase" },
+    { "bg": "подавам", "en": "to pass", "pronunciation": "po-DA-vam", "example": "Подай топката наляво!", "type": "verb" },
+    { "bg": "шутирам", "en": "to shoot/kick", "pronunciation": "shu-TI-ram", "example": "Шутира от двадесет метра и вкара.", "type": "verb" },
+    { "bg": "дерби", "en": "derby", "pronunciation": "DER-bi", "example": "Дербито между Левски и ЦСКА е вечно.", "type": "noun" }
+  ]
+}
