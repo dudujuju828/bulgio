@@ -1,0 +1,28 @@
+{
+  "category": "Folklore",
+  "cards": [
+    { "bg": "фолклор", "en": "folklore", "pronunciation": "fol-KLOR", "example": "Българският фолклор е богат и уникален.", "type": "noun" },
+    { "bg": "народна песен", "en": "folk song", "pronunciation": "na-ROD-na PE-sen", "example": "Валя Балканска изпя народна песен в космоса.", "type": "noun" },
+    { "bg": "носия", "en": "folk costume/national dress", "pronunciation": "NO-si-ya", "example": "Носията се различава по региони.", "type": "noun" },
+    { "bg": "гайда", "en": "bagpipe", "pronunciation": "GAY-da", "example": "Гайдата е символ на родопския фолклор.", "type": "noun" },
+    { "bg": "кавал", "en": "kaval (end-blown flute)", "pronunciation": "ka-VAL", "example": "Кавалът свири нежни овчарски мелодии.", "type": "noun" },
+    { "bg": "гъдулка", "en": "gadulka (bowed string instrument)", "pronunciation": "gu-DUL-ka", "example": "Гъдулката е традиционен български инструмент.", "type": "noun" },
+    { "bg": "тамбура", "en": "tambura (long-necked lute)", "pronunciation": "tam-BU-ra", "example": "На тамбурата се свирят весели мелодии.", "type": "noun" },
+    { "bg": "тъпан", "en": "tapan (large drum)", "pronunciation": "tu-PAN", "example": "Без тъпан няма хоро.", "type": "noun" },
+    { "bg": "хоро", "en": "horo (chain dance)", "pronunciation": "ho-RO", "example": "Хващаме се на хоро на мегдана.", "type": "noun" },
+    { "bg": "ръченица", "en": "rachenitsa (solo folk dance)", "pronunciation": "ru-che-NI-tsa", "example": "Ръченицата е в неравноделен ритъм — седем осми.", "type": "noun" },
+    { "bg": "неравноделен ритъм", "en": "irregular/asymmetric rhythm", "pronunciation": "ne-rav-no-DE-len RI-tum", "example": "Българската музика е известна с неравноделните ритми.", "type": "noun" },
+    { "bg": "мегдан", "en": "village square", "pronunciation": "meg-DAN", "example": "На мегдана се събираше цялото село.", "type": "noun" },
+    { "bg": "предание", "en": "legend/folk tale", "pronunciation": "pre-DA-ni-e", "example": "Има предание за Крали Марко и неговия кон.", "type": "noun" },
+    { "bg": "Крали Марко", "en": "Krali Marko (legendary hero)", "pronunciation": "KRA-li MAR-ko", "example": "Крали Марко е герой от българския фолклор.", "type": "noun" },
+    { "bg": "самодива", "en": "samodiva (forest nymph/fairy)", "pronunciation": "sa-mo-DI-va", "example": "Самодивите танцуват на поляните при пълнолуние.", "type": "noun" },
+    { "bg": "везба", "en": "embroidery", "pronunciation": "VEZ-ba", "example": "Везбата по ризата е ръчна работа.", "type": "noun" },
+    { "bg": "стан", "en": "loom", "pronunciation": "stan", "example": "Бабите тъчеха на стан килими и черги.", "type": "noun" },
+    { "bg": "черга", "en": "cherga (woven blanket/rug)", "pronunciation": "CHER-ga", "example": "Чергата от Котел е с красиви шарки.", "type": "noun" },
+    { "bg": "грънчарство", "en": "pottery", "pronunciation": "grun-CHAR-stvo", "example": "Троянското грънчарство е известно с капковата керамика.", "type": "noun" },
+    { "bg": "двуглас", "en": "two-voice singing (diaphony)", "pronunciation": "dvu-GLAS", "example": "Двугласното пеене е характерно за Шопската област.", "type": "noun" },
+    { "bg": "гласовит", "en": "having a powerful voice", "pronunciation": "gla-so-VIT", "example": "Тя е много гласовита — пее на сватби.", "type": "adjective" },
+    { "bg": "оро", "en": "oro (regional term for horo)", "pronunciation": "o-RO", "example": "В Македонския регион казват оро вместо хоро.", "type": "noun" },
+    { "bg": "обичай", "en": "custom/tradition", "pronunciation": "o-bi-CHAY", "example": "Старите обичаи се пазят в малките села.", "type": "noun" }
+  ]
+}
