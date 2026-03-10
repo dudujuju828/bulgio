@@ -1,0 +1,29 @@
+{
+  "category": "Body",
+  "cards": [
+    { "bg": "глава", "en": "head", "pronunciation": "gla-VA", "example": "Боли ме главата.", "type": "noun" },
+    { "bg": "лице", "en": "face", "pronunciation": "li-TSE", "example": "Мия лицето си сутрин.", "type": "noun" },
+    { "bg": "око / очи", "en": "eye / eyes", "pronunciation": "o-KO / o-CHI", "example": "Тя има зелени очи.", "type": "noun" },
+    { "bg": "нос", "en": "nose", "pronunciation": "nos", "example": "Носът ми е червен от студа.", "type": "noun" },
+    { "bg": "уста", "en": "mouth", "pronunciation": "us-TA", "example": "Отвори устата и кажи 'А'.", "type": "noun" },
+    { "bg": "ухо / уши", "en": "ear / ears", "pronunciation": "U-ho / U-shi", "example": "Ушите ми замръзнаха.", "type": "noun" },
+    { "bg": "зъб / зъби", "en": "tooth / teeth", "pronunciation": "zab / ZA-bi", "example": "Мия зъбите си два пъти на ден.", "type": "noun" },
+    { "bg": "език", "en": "tongue / language", "pronunciation": "e-ZIK", "example": "Изгорих си езика с горещо кафе.", "type": "noun" },
+    { "bg": "коса", "en": "hair", "pronunciation": "ko-SA", "example": "Тя има дълга руса коса.", "type": "noun" },
+    { "bg": "врат", "en": "neck", "pronunciation": "vrat", "example": "Боли ме вратът от компютъра.", "type": "noun" },
+    { "bg": "рамо / рамене", "en": "shoulder / shoulders", "pronunciation": "ra-MO / ra-ME-ne", "example": "Раменете ме болят след тренировка.", "type": "noun" },
+    { "bg": "ръка / ръце", "en": "hand / arm / hands", "pronunciation": "ra-KA / ra-TSE", "example": "Мия ръцете си преди ядене.", "type": "noun" },
+    { "bg": "пръст / пръсти", "en": "finger / fingers", "pronunciation": "prast / PRAS-ti", "example": "Порязах си пръста с нож.", "type": "noun" },
+    { "bg": "крак / крака", "en": "leg / foot / legs", "pronunciation": "krak / kra-KA", "example": "Краката ме болят от ходене.", "type": "noun" },
+    { "bg": "коляно / колене", "en": "knee / knees", "pronunciation": "ko-LYA-no / ko-LE-ne", "example": "Удари си коляното в масата.", "type": "noun" },
+    { "bg": "гръб", "en": "back", "pronunciation": "grab", "example": "Боли ме гърбът от седене.", "type": "noun" },
+    { "bg": "корем", "en": "stomach / belly", "pronunciation": "ko-REM", "example": "Коремът ми е празен.", "type": "noun" },
+    { "bg": "гърди", "en": "chest", "pronunciation": "gar-DI", "example": "Дишай дълбоко с гърдите.", "type": "noun" },
+    { "bg": "сърце", "en": "heart", "pronunciation": "sar-TSE", "example": "Сърцето ми бие бързо.", "type": "noun" },
+    { "bg": "кръв", "en": "blood", "pronunciation": "krav", "example": "Дадох кръв в болницата.", "type": "noun" },
+    { "bg": "кост / кости", "en": "bone / bones", "pronunciation": "kost / KOS-ti", "example": "Счупих си костта на ръката.", "type": "noun" },
+    { "bg": "кожа", "en": "skin", "pronunciation": "KO-zha", "example": "Слънцето изгори кожата ми.", "type": "noun" },
+    { "bg": "лакът", "en": "elbow", "pronunciation": "LA-kat", "example": "Ударих си лакътя в вратата.", "type": "noun" },
+    { "bg": "бузa", "en": "cheek", "pronunciation": "bu-ZA", "example": "Бузите й станаха червени.", "type": "noun" }
+  ]
+}
