@@ -1,0 +1,27 @@
+{
+  "category": "Model Building & Miniatures",
+  "cards": [
+    { "bg": "модел", "en": "model", "pronunciation": "mo-DEL", "example": "Моделът на замъка е в мащаб едно към сто.", "type": "noun" },
+    { "bg": "макет", "en": "scale model/diorama", "pronunciation": "ma-KET", "example": "Макетът на града е в музея по архитектура.", "type": "noun" },
+    { "bg": "миниатюра", "en": "miniature", "pronunciation": "mi-ni-a-TYU-ra", "example": "Миниатюрата е нарисувана с много детайли.", "type": "noun" },
+    { "bg": "мащаб", "en": "scale", "pronunciation": "mash-TAB", "example": "Мащабът на влакчетата е едно към осемдесет и седем.", "type": "noun" },
+    { "bg": "модел влакче", "en": "model train", "pronunciation": "mo-DEL VLAK-che", "example": "Модел влакчетата обикалят по макета.", "type": "noun" },
+    { "bg": "релси", "en": "tracks/rails", "pronunciation": "REL-si", "example": "Релсите са поставени на дървена основа.", "type": "noun" },
+    { "bg": "локомотив", "en": "locomotive", "pronunciation": "lo-ko-mo-TIV", "example": "Локомотивът е копие на истински парен влак.", "type": "noun" },
+    { "bg": "пластмасов модел", "en": "plastic model kit", "pronunciation": "plast-MA-sov mo-DEL", "example": "Пластмасовият модел на самолет се сглобява от части.", "type": "noun" },
+    { "bg": "сглобявам", "en": "to assemble", "pronunciation": "sglo-BYA-vam", "example": "Сглобявам модела стъпка по стъпка.", "type": "verb" },
+    { "bg": "лепило", "en": "glue", "pronunciation": "le-PI-lo", "example": "Лепилото за модели е специално за пластмаса.", "type": "noun" },
+    { "bg": "боядисвам", "en": "to paint", "pronunciation": "bo-ya-DIS-vam", "example": "Боядисвам модела с акрилни бои и четка.", "type": "verb" },
+    { "bg": "четка", "en": "brush (painting)", "pronunciation": "CHET-ka", "example": "Четката е много тънка за фините детайли.", "type": "noun" },
+    { "bg": "аерограф", "en": "airbrush", "pronunciation": "a-e-ro-GRAF", "example": "Аерографът нанася боята равномерно.", "type": "noun" },
+    { "bg": "декал", "en": "decal/transfer", "pronunciation": "de-KAL", "example": "Декалите добавят надписи и маркировки.", "type": "noun" },
+    { "bg": "детайл", "en": "detail", "pronunciation": "de-TAYL", "example": "Детайлите на модела са невероятно реалистични.", "type": "noun" },
+    { "bg": "фигурка", "en": "figurine", "pronunciation": "fi-GUR-ka", "example": "Фигурките на войници са от олово.", "type": "noun" },
+    { "bg": "диорама", "en": "diorama", "pronunciation": "di-o-RA-ma", "example": "Диорамата пресъздава битка от Освобождението.", "type": "noun" },
+    { "bg": "дистанционно управление", "en": "remote control", "pronunciation": "dis-tan-tsi-ON-no up-rav-LE-ni-e", "example": "Дистанционното управление контролира скоростта на влакчето.", "type": "noun" },
+    { "bg": "инструкция", "en": "instructions/manual", "pronunciation": "in-STRUK-tsi-ya", "example": "Инструкцията описва всяка стъпка на сглобяването.", "type": "noun" },
+    { "bg": "хоби магазин", "en": "hobby shop", "pronunciation": "HO-bi ma-ga-ZIN", "example": "Хоби магазинът продава модели и бои.", "type": "noun" },
+    { "bg": "пинсета", "en": "tweezers", "pronunciation": "pin-SE-ta", "example": "Пинсетата помага за поставяне на малки части.", "type": "noun" },
+    { "bg": "увеличително стъкло", "en": "magnifying glass", "pronunciation": "u-ve-li-CHI-tel-no STUK-lo", "example": "Увеличителното стъкло помага при боядисване.", "type": "noun" }
+  ]
+}
