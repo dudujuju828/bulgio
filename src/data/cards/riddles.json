@@ -1,0 +1,26 @@
+{
+  "category": "Riddles",
+  "cards": [
+    { "bg": "гатанка", "en": "riddle", "pronunciation": "ga-TAN-ka", "example": "Обичам да отгатвам гатанки.", "type": "noun" },
+    { "bg": "Бяло поле, черно семе. Който го чете, всичко ще разбере.", "en": "White field, black seed. Whoever reads it, will understand all. (Answer: a book)", "pronunciation": "BYA-lo PO-le, CHER-no SE-me", "example": "Отговорът на тази гатанка е книга.", "type": "phrase" },
+    { "bg": "Има уши, а не чува. Има листа, а не е дърво.", "en": "It has ears but can't hear. It has leaves but isn't a tree. (Answer: a book)", "pronunciation": "I-ma U-shi, a ne CHU-va", "example": "Децата бързо отгатват тази гатанка.", "type": "phrase" },
+    { "bg": "Има крака, а не ходи.", "en": "It has legs but doesn't walk. (Answer: a table/chair)", "pronunciation": "I-ma kra-KA, a ne HO-di", "example": "Масата има крака, а не ходи!", "type": "phrase" },
+    { "bg": "Отгатвам", "en": "to guess/solve (a riddle)", "pronunciation": "ot-GAT-vam", "example": "Можеш ли да отгатнеш тази гатанка?", "type": "verb" },
+    { "bg": "Без крила лети, без крака тича, без уста свири.", "en": "It flies without wings, runs without legs, whistles without a mouth. (Answer: the wind)", "pronunciation": "bez kri-LA le-TI, bez kra-KA TI-cha", "example": "Вятърът лети без крила!", "type": "phrase" },
+    { "bg": "Зимата бяло, лятото зелено.", "en": "White in winter, green in summer. (Answer: a field/meadow)", "pronunciation": "zi-MA-ta BYA-lo, LYA-to-to ze-LE-no", "example": "Полето е бяло зимата и зелено лятото.", "type": "phrase" },
+    { "bg": "Какво расте надолу?", "en": "What grows downward? (Answer: an icicle)", "pronunciation": "kak-VO ras-TE na-DO-lu", "example": "Ледената висулка расте надолу!", "type": "phrase" },
+    { "bg": "Отговор", "en": "answer", "pronunciation": "ot-GO-vor", "example": "Знаеш ли отговора на тази гатанка?", "type": "noun" },
+    { "bg": "Червено отвън, бяло отвътре, а по средата камъче.", "en": "Red outside, white inside, with a stone in the middle. (Answer: a cherry)", "pronunciation": "cher-VE-no ot-VUN, BYA-lo ot-VUT-re", "example": "Черешата е червена отвън с камъче!", "type": "phrase" },
+    { "bg": "Какво има навсякъде?", "en": "What is everywhere? (Answer: air)", "pronunciation": "kak-VO I-ma nav-SYAK-u-de", "example": "Въздухът е навсякъде около нас.", "type": "phrase" },
+    { "bg": "Ходи без крака, плаче без очи.", "en": "It walks without legs, cries without eyes. (Answer: a cloud)", "pronunciation": "HO-di bez kra-KA, PLA-che bez o-CHI", "example": "Облакът „ходи" по небето и „плаче" дъжд.", "type": "phrase" },
+    { "bg": "замислям се", "en": "to think/ponder", "pronunciation": "za-MIS-lyam se", "example": "Замислих се дълго над гатанката.", "type": "verb" },
+    { "bg": "Сто ризки има, но нито един копче.", "en": "It has a hundred shirts but not a single button. (Answer: a cabbage)", "pronunciation": "sto RIZH-ki I-ma, no ni-TO e-DIN KOP-che", "example": "Зелето има сто листа като ризки!", "type": "phrase" },
+    { "bg": "Какво е по-бързо от всичко?", "en": "What is faster than everything? (Answer: thought)", "pronunciation": "kak-VO e po-BUR-zo ot VSICH-ko", "example": "Мисълта е по-бърза от всичко!", "type": "phrase" },
+    { "bg": "подсказка", "en": "hint/clue", "pronunciation": "pod-SKAZ-ka", "example": "Дай ми подсказка, не мога да отгатна.", "type": "noun" },
+    { "bg": "Има зъби, а не хапе.", "en": "It has teeth but doesn't bite. (Answer: a comb)", "pronunciation": "I-ma ZU-bi, a ne HA-pe", "example": "Гребенът има зъби, а не хапе.", "type": "phrase" },
+    { "bg": "Колкото повече взимаш, толкова повече расте.", "en": "The more you take, the more it grows. (Answer: a hole)", "pronunciation": "KOL-ko-to PO-ve-che VZI-mash, TOL-ko-va PO-ve-che ras-TE", "example": "Дупката расте, колкото повече копаеш.", "type": "phrase" },
+    { "bg": "хитър", "en": "clever/tricky", "pronunciation": "HI-tur", "example": "Тази гатанка е много хитра.", "type": "adjective" },
+    { "bg": "лесен", "en": "easy", "pronunciation": "LE-sen", "example": "Тази гатанка е лесна за деца.", "type": "adjective" },
+    { "bg": "труден", "en": "difficult", "pronunciation": "TRU-den", "example": "Последната гатанка беше много трудна.", "type": "adjective" }
+  ]
+}
