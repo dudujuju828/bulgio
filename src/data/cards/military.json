@@ -1,0 +1,27 @@
+{
+  "category": "Military",
+  "cards": [
+    { "bg": "армия", "en": "army", "pronunciation": "AR-mi-ya", "example": "Българската армия участва в мисии на НАТО.", "type": "noun" },
+    { "bg": "войник", "en": "soldier", "pronunciation": "VOY-nik", "example": "Войниците маршируват на парада.", "type": "noun" },
+    { "bg": "офицер", "en": "officer", "pronunciation": "o-fi-TSER", "example": "Офицерът командва ротата.", "type": "noun" },
+    { "bg": "генерал", "en": "general", "pronunciation": "ge-ne-RAL", "example": "Генералът ръководи военната операция.", "type": "noun" },
+    { "bg": "казарма", "en": "barracks", "pronunciation": "ka-ZAR-ma", "example": "Войниците живеят в казармата.", "type": "noun" },
+    { "bg": "оръжие", "en": "weapon", "pronunciation": "o-RU-zhi-e", "example": "Носенето на оръжие е забранено.", "type": "noun" },
+    { "bg": "пушка", "en": "rifle/gun", "pronunciation": "PUSH-ka", "example": "Войниците тренират стрелба с пушка.", "type": "noun" },
+    { "bg": "танк", "en": "tank", "pronunciation": "tank", "example": "Танковете участваха в учението.", "type": "noun" },
+    { "bg": "война", "en": "war", "pronunciation": "voy-NA", "example": "Войната е най-голямото зло.", "type": "noun" },
+    { "bg": "мир", "en": "peace", "pronunciation": "mir", "example": "Всички искаме мир по света.", "type": "noun" },
+    { "bg": "отбрана", "en": "defense", "pronunciation": "ot-BRA-na", "example": "Министерството на отбраната е в София.", "type": "noun" },
+    { "bg": "военна служба", "en": "military service", "pronunciation": "VO-en-na SLUZH-ba", "example": "Военната служба вече не е задължителна.", "type": "noun" },
+    { "bg": "униформа", "en": "uniform", "pronunciation": "u-ni-FOR-ma", "example": "Войниците носят зелена униформа.", "type": "noun" },
+    { "bg": "битка", "en": "battle", "pronunciation": "BIT-ka", "example": "Битката при Шипка е легендарна.", "type": "noun" },
+    { "bg": "победа", "en": "victory", "pronunciation": "po-BE-da", "example": "Празнуваме победата на Трети март.", "type": "noun" },
+    { "bg": "поражение", "en": "defeat", "pronunciation": "po-ra-ZHE-ni-e", "example": "Поражението беше тежко за армията.", "type": "noun" },
+    { "bg": "съюзник", "en": "ally", "pronunciation": "su-YUZ-nik", "example": "България е съюзник в НАТО.", "type": "noun" },
+    { "bg": "враг", "en": "enemy", "pronunciation": "vrag", "example": "Врагът беше отблъснат от границата.", "type": "noun" },
+    { "bg": "граница", "en": "border", "pronunciation": "gra-NI-tsa", "example": "Войниците охраняват границата.", "type": "noun" },
+    { "bg": "знаме", "en": "flag", "pronunciation": "ZNA-me", "example": "Българското знаме е бяло, зелено и червено.", "type": "noun" },
+    { "bg": "защитавам", "en": "to defend", "pronunciation": "za-shti-TA-vam", "example": "Защитаваме родината си.", "type": "verb" },
+    { "bg": "воювам", "en": "to fight/wage war", "pronunciation": "vo-YU-vam", "example": "Народът воюва за свободата си.", "type": "verb" }
+  ]
+}
