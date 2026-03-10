@@ -1,0 +1,27 @@
+{
+  "category": "Cycling",
+  "cards": [
+    { "bg": "велосипед", "en": "bicycle", "pronunciation": "ve-lo-si-PED", "example": "Карам велосипед до работа всеки ден.", "type": "noun" },
+    { "bg": "колело", "en": "bike/wheel", "pronunciation": "ko-le-LO", "example": "Купих ново колело за планината.", "type": "noun" },
+    { "bg": "карам колело", "en": "to ride a bike", "pronunciation": "KA-ram ko-le-LO", "example": "Научих се да карам колело на шест години.", "type": "phrase" },
+    { "bg": "педал", "en": "pedal", "pronunciation": "pe-DAL", "example": "Натискай педалите по-бързо!", "type": "noun" },
+    { "bg": "кормило", "en": "handlebar", "pronunciation": "kor-MI-lo", "example": "Дръж кормилото здраво в завоите.", "type": "noun" },
+    { "bg": "седалка", "en": "seat/saddle", "pronunciation": "se-DAL-ka", "example": "Седалката е твърде висока за мен.", "type": "noun" },
+    { "bg": "верига", "en": "chain", "pronunciation": "ve-RI-ga", "example": "Веригата на колелото се скъса.", "type": "noun" },
+    { "bg": "спирачка", "en": "brake", "pronunciation": "spi-RACH-ka", "example": "Спирачките трябва да се проверяват редовно.", "type": "noun" },
+    { "bg": "гума", "en": "tire", "pronunciation": "GU-ma", "example": "Предната гума е спукана.", "type": "noun" },
+    { "bg": "помпа", "en": "pump", "pronunciation": "POM-pa", "example": "Напомпай гумите с помпата.", "type": "noun" },
+    { "bg": "каска", "en": "helmet", "pronunciation": "KAS-ka", "example": "Винаги нося каска, когато карам колело.", "type": "noun" },
+    { "bg": "велоалея", "en": "bike lane", "pronunciation": "ve-lo-a-LE-ya", "example": "В София има нови велоалеи.", "type": "noun" },
+    { "bg": "скорост", "en": "gear/speed", "pronunciation": "SKO-rost", "example": "Смени на по-ниска скорост на нагоре.", "type": "noun" },
+    { "bg": "планинско колело", "en": "mountain bike", "pronunciation": "pla-NIN-sko ko-le-LO", "example": "Планинското колело е по-здраво за терен.", "type": "noun" },
+    { "bg": "електрическо колело", "en": "e-bike", "pronunciation": "e-lek-TRI-ches-ko ko-le-LO", "example": "Електрическото колело помага в нагорнищата.", "type": "noun" },
+    { "bg": "катинар", "en": "lock", "pronunciation": "ka-ti-NAR", "example": "Заключи колелото с катинар.", "type": "noun" },
+    { "bg": "звънец", "en": "bell", "pronunciation": "zvu-NETS", "example": "Звъни със звънеца, за да те чуят.", "type": "noun" },
+    { "bg": "светлина", "en": "light", "pronunciation": "svet-li-NA", "example": "Сложи светлина отпред и отзад.", "type": "noun" },
+    { "bg": "маршрут", "en": "route", "pronunciation": "marsh-RUT", "example": "Маршрутът покрай реката е красив.", "type": "noun" },
+    { "bg": "нагоре", "en": "uphill", "pronunciation": "na-GO-re", "example": "Нагоре е трудно, но си заслужава.", "type": "adverb" },
+    { "bg": "надолу", "en": "downhill", "pronunciation": "na-DO-lu", "example": "Надолу се спускам бързо.", "type": "adverb" },
+    { "bg": "обиколка", "en": "tour/ride", "pronunciation": "o-bi-KOL-ka", "example": "Направихме обиколка с колело из града.", "type": "noun" }
+  ]
+}
