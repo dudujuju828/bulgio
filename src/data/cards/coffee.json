@@ -1,0 +1,28 @@
+{
+  "category": "Coffee",
+  "cards": [
+    { "bg": "кафе", "en": "coffee", "pronunciation": "ka-FE", "example": "Без сутрешно кафе не мога да функционирам.", "type": "noun" },
+    { "bg": "кафене", "en": "café/coffee shop", "pronunciation": "ka-fe-NE", "example": "Да отидем на кафене в центъра.", "type": "noun" },
+    { "bg": "еспресо", "en": "espresso", "pronunciation": "es-PRE-so", "example": "Едно еспресо, моля.", "type": "noun" },
+    { "bg": "капучино", "en": "cappuccino", "pronunciation": "ka-pu-CHI-no", "example": "Капучиното е с много пяна.", "type": "noun" },
+    { "bg": "лате", "en": "latte", "pronunciation": "LA-te", "example": "Искам лате с бадемово мляко.", "type": "noun" },
+    { "bg": "турско кафе", "en": "Turkish coffee", "pronunciation": "TUR-sko ka-FE", "example": "Баба ми вари турско кафе на джезве.", "type": "noun" },
+    { "bg": "джезве", "en": "cezve (Turkish coffee pot)", "pronunciation": "DZHEZ-ve", "example": "Кафето от джезве е най-ароматно.", "type": "noun" },
+    { "bg": "фреш", "en": "fresh juice", "pronunciation": "fresh", "example": "Портокалов фреш и кафе за закуска.", "type": "noun" },
+    { "bg": "захар", "en": "sugar", "pronunciation": "za-HAR", "example": "Без захар, моля, пия го горчиво.", "type": "noun" },
+    { "bg": "мляко", "en": "milk", "pronunciation": "MLYA-ko", "example": "Искате ли мляко в кафето?", "type": "noun" },
+    { "bg": "пяна", "en": "foam/froth", "pronunciation": "PYA-na", "example": "Пяната на капучиното е гъста.", "type": "noun" },
+    { "bg": "кафеин", "en": "caffeine", "pronunciation": "ka-fe-IN", "example": "Без кафеин след обяд, иначе не спя.", "type": "noun" },
+    { "bg": "безкофеиново", "en": "decaf", "pronunciation": "bez-ko-fe-I-no-vo", "example": "Имате ли безкофеиново кафе?", "type": "adjective" },
+    { "bg": "айс кафе", "en": "iced coffee", "pronunciation": "ays ka-FE", "example": "През лятото пия айс кафе.", "type": "noun" },
+    { "bg": "фрапе", "en": "frappé", "pronunciation": "fra-PE", "example": "Фрапето е популярно на морето.", "type": "noun" },
+    { "bg": "кафемашина", "en": "coffee machine", "pronunciation": "ka-fe-ma-SHI-na", "example": "В офиса имаме нова кафемашина.", "type": "noun" },
+    { "bg": "чаша", "en": "cup", "pronunciation": "CHA-sha", "example": "Още една чаша кафе, моля.", "type": "noun" },
+    { "bg": "горчив", "en": "bitter", "pronunciation": "gor-CHIV", "example": "Еспресото е горчиво, но силно.", "type": "adjective" },
+    { "bg": "ароматен", "en": "aromatic/fragrant", "pronunciation": "a-ro-MA-ten", "example": "Кафето е много ароматно.", "type": "adjective" },
+    { "bg": "смляно кафе", "en": "ground coffee", "pronunciation": "SMLYA-no ka-FE", "example": "Купих пакет прясно смляно кафе.", "type": "noun" },
+    { "bg": "кафе на зърна", "en": "coffee beans", "pronunciation": "ka-FE na ZUR-na", "example": "Предпочитам да меля кафе на зърна вкъщи.", "type": "noun" },
+    { "bg": "да пием по едно кафе", "en": "let's grab a coffee", "pronunciation": "da PI-em po ed-NO ka-FE", "example": "Хайде да пием по едно кафе и да поговорим.", "type": "phrase" },
+    { "bg": "сметка", "en": "bill/check", "pronunciation": "SMET-ka", "example": "Аз черпя, сметката е за мен.", "type": "noun" }
+  ]
+}
