@@ -1,0 +1,25 @@
+{
+  "category": "Law",
+  "cards": [
+    { "bg": "закон", "en": "law", "pronunciation": "za-KON", "example": "Законът е еднакъв за всички.", "type": "noun" },
+    { "bg": "съд", "en": "court", "pronunciation": "sud", "example": "Делото се гледа в съда.", "type": "noun" },
+    { "bg": "съдия", "en": "judge", "pronunciation": "su-DI-ya", "example": "Съдията произнесе присъдата.", "type": "noun" },
+    { "bg": "адвокат", "en": "lawyer", "pronunciation": "ad-vo-KAT", "example": "Имам нужда от добър адвокат.", "type": "noun" },
+    { "bg": "престъпление", "en": "crime", "pronunciation": "pre-STUP-le-ni-e", "example": "Полицията разследва престъплението.", "type": "noun" },
+    { "bg": "наказание", "en": "punishment/penalty", "pronunciation": "na-ka-ZA-ni-e", "example": "Наказанието е глоба от петстотин лева.", "type": "noun" },
+    { "bg": "глоба", "en": "fine", "pronunciation": "GLO-ba", "example": "Получих глоба за превишена скорост.", "type": "noun" },
+    { "bg": "документ", "en": "document", "pronunciation": "do-ku-MENT", "example": "Покажете документите си, моля.", "type": "noun" },
+    { "bg": "лична карта", "en": "ID card", "pronunciation": "LICH-na KAR-ta", "example": "Личната карта ми изтече.", "type": "noun" },
+    { "bg": "свидетел", "en": "witness", "pronunciation": "svi-DE-tel", "example": "Свидетелят разказа какво видя.", "type": "noun" },
+    { "bg": "право", "en": "right/law", "pronunciation": "PRA-vo", "example": "Всеки има право на образование.", "type": "noun" },
+    { "bg": "жалба", "en": "complaint/appeal", "pronunciation": "ZHAL-ba", "example": "Подадох жалба в общината.", "type": "noun" },
+    { "bg": "подпис", "en": "signature", "pronunciation": "POD-pis", "example": "Сложете подписа си тук.", "type": "noun" },
+    { "bg": "затвор", "en": "prison", "pronunciation": "zat-VOR", "example": "Осъдиха го на три години затвор.", "type": "noun" },
+    { "bg": "невинен", "en": "innocent", "pronunciation": "ne-VI-nen", "example": "Той е невинен, не е направил нищо.", "type": "adjective" },
+    { "bg": "виновен", "en": "guilty", "pronunciation": "vi-NO-ven", "example": "Съдът го призна за виновен.", "type": "adjective" },
+    { "bg": "забранено", "en": "forbidden/prohibited", "pronunciation": "za-bra-NE-no", "example": "Пушенето тук е забранено.", "type": "adjective" },
+    { "bg": "разрешено", "en": "allowed/permitted", "pronunciation": "raz-re-SHE-no", "example": "Паркирането тук е разрешено.", "type": "adjective" },
+    { "bg": "подписвам", "en": "to sign", "pronunciation": "pod-PIS-vam", "example": "Подпишете договора тук.", "type": "verb" },
+    { "bg": "жертва", "en": "victim", "pronunciation": "ZHER-tva", "example": "Жертвата е в безопасност.", "type": "noun" }
+  ]
+}
