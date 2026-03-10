@@ -1,0 +1,29 @@
+{
+  "category": "Sailing",
+  "cards": [
+    { "bg": "кораб", "en": "ship", "pronunciation": "ko-RAB", "example": "Корабът отплава от Варна за Истанбул.", "type": "noun" },
+    { "bg": "лодка", "en": "boat", "pronunciation": "LOD-ka", "example": "Наехме лодка за разходка по морето.", "type": "noun" },
+    { "bg": "яхта", "en": "yacht", "pronunciation": "YAH-ta", "example": "Яхтата е акостирала в марината на Бургас.", "type": "noun" },
+    { "bg": "платно", "en": "sail", "pronunciation": "plat-NO", "example": "Вятърът надува платната.", "type": "noun" },
+    { "bg": "мачта", "en": "mast", "pronunciation": "MACH-ta", "example": "Мачтата е висока дванадесет метра.", "type": "noun" },
+    { "bg": "котва", "en": "anchor", "pronunciation": "KOT-va", "example": "Хвърли котва в залива.", "type": "noun" },
+    { "bg": "палуба", "en": "deck", "pronunciation": "pa-LU-ba", "example": "Седнахме на палубата да гледаме залеза.", "type": "noun" },
+    { "bg": "кормило", "en": "helm/rudder", "pronunciation": "kor-MI-lo", "example": "Капитанът стои на кормилото.", "type": "noun" },
+    { "bg": "капитан", "en": "captain", "pronunciation": "ka-pi-TAN", "example": "Капитанът има двадесет години опит.", "type": "noun" },
+    { "bg": "моряк", "en": "sailor", "pronunciation": "mo-RYAK", "example": "Моряците вдигнаха платната при вятър.", "type": "noun" },
+    { "bg": "пристанище", "en": "port/harbor", "pronunciation": "pris-TA-nish-te", "example": "Пристанище Бургас е най-голямото в България.", "type": "noun" },
+    { "bg": "марина", "en": "marina", "pronunciation": "ma-RI-na", "example": "Марината в Свети Влас е модерна.", "type": "noun" },
+    { "bg": "отплавам", "en": "to set sail/depart", "pronunciation": "ot-PLA-vam", "example": "Отплаваме рано сутринта.", "type": "verb" },
+    { "bg": "акостирам", "en": "to dock/moor", "pronunciation": "a-kos-TI-ram", "example": "Акостирахме в малко пристанище.", "type": "verb" },
+    { "bg": "вълна", "en": "wave", "pronunciation": "VUL-na", "example": "Вълните днес са високи два метра.", "type": "noun" },
+    { "bg": "прилив", "en": "tide (high)", "pronunciation": "pri-LIV", "example": "В Черно море почти няма прилив.", "type": "noun" },
+    { "bg": "вятър", "en": "wind", "pronunciation": "VYA-tur", "example": "Вятърът духа от северозапад.", "type": "noun" },
+    { "bg": "буря", "en": "storm", "pronunciation": "BU-rya", "example": "Прибрахме се в пристанището заради бурята.", "type": "noun" },
+    { "bg": "залив", "en": "bay/gulf", "pronunciation": "za-LIV", "example": "Заливът е защитен от вълните.", "type": "noun" },
+    { "bg": "нос", "en": "cape/headland", "pronunciation": "nos", "example": "Нос Калиакра е красив и стръмен.", "type": "noun" },
+    { "bg": "фар", "en": "lighthouse", "pronunciation": "far", "example": "Фарът свети в мъглата.", "type": "noun" },
+    { "bg": "спасителна жилетка", "en": "life jacket", "pronunciation": "spa-SI-tel-na zhi-LET-ka", "example": "Всеки пътник трябва да има спасителна жилетка.", "type": "noun" },
+    { "bg": "морска болест", "en": "seasickness", "pronunciation": "MOR-ska BO-lest", "example": "Взех хапче за морска болест.", "type": "noun" },
+    { "bg": "хоризонт", "en": "horizon", "pronunciation": "ho-ri-ZONT", "example": "Слънцето залязва зад хоризонта.", "type": "noun" }
+  ]
+}
