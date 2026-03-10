@@ -1,0 +1,25 @@
+{
+  "category": "Furniture",
+  "cards": [
+    { "bg": "мебели", "en": "furniture", "pronunciation": "ME-be-li", "example": "Купихме нови мебели за хола.", "type": "noun" },
+    { "bg": "стол", "en": "chair", "pronunciation": "stol", "example": "Седни на стола, моля.", "type": "noun" },
+    { "bg": "маса", "en": "table", "pronunciation": "MA-sa", "example": "Масата е в средата на стаята.", "type": "noun" },
+    { "bg": "диван", "en": "sofa/couch", "pronunciation": "di-VAN", "example": "Диванът е много удобен.", "type": "noun" },
+    { "bg": "легло", "en": "bed", "pronunciation": "leg-LO", "example": "Леглото е голямо и мeко.", "type": "noun" },
+    { "bg": "гардероб", "en": "wardrobe", "pronunciation": "gar-de-ROB", "example": "Дрехите са в гардероба.", "type": "noun" },
+    { "bg": "шкаф", "en": "cabinet/cupboard", "pronunciation": "shkaf", "example": "Чиниите са в шкафа.", "type": "noun" },
+    { "bg": "рафт", "en": "shelf", "pronunciation": "raft", "example": "Книгите са на рафта.", "type": "noun" },
+    { "bg": "бюро", "en": "desk", "pronunciation": "byu-RO", "example": "Работя на бюрото си.", "type": "noun" },
+    { "bg": "огледало", "en": "mirror", "pronunciation": "og-le-DA-lo", "example": "Огледалото е в банята.", "type": "noun" },
+    { "bg": "лампа", "en": "lamp", "pronunciation": "LAM-pa", "example": "Запали лампата, тъмно е.", "type": "noun" },
+    { "bg": "килим", "en": "carpet/rug", "pronunciation": "ki-LIM", "example": "Килимът е мек и топъл.", "type": "noun" },
+    { "bg": "завеса", "en": "curtain", "pronunciation": "za-VE-sa", "example": "Затвори завесите, моля.", "type": "noun" },
+    { "bg": "възглавница", "en": "pillow", "pronunciation": "vuz-glav-NI-tsa", "example": "Тази възглавница е много мека.", "type": "noun" },
+    { "bg": "одеяло", "en": "blanket", "pronunciation": "o-de-YA-lo", "example": "Зимата спя с дебело одеяло.", "type": "noun" },
+    { "bg": "чекмедже", "en": "drawer", "pronunciation": "chek-me-DZHE", "example": "Ключовете са в чекмеджето.", "type": "noun" },
+    { "bg": "етажерка", "en": "bookshelf/shelving unit", "pronunciation": "e-ta-ZHER-ka", "example": "Етажерката е пълна с книги.", "type": "noun" },
+    { "bg": "фотьойл", "en": "armchair", "pronunciation": "fo-TOYЛ", "example": "Дядо обича да седи във фотьойла.", "type": "noun" },
+    { "bg": "нощно шкафче", "en": "nightstand", "pronunciation": "NOSHT-no SHKAF-che", "example": "Телефонът е на нощното шкафче.", "type": "noun" },
+    { "bg": "полица", "en": "shelf (small)", "pronunciation": "PO-li-tsa", "example": "Сложи вазата на полицата.", "type": "noun" }
+  ]
+}
