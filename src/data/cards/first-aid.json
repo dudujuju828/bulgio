@@ -1,0 +1,28 @@
+{
+  "category": "First Aid",
+  "cards": [
+    { "bg": "първа помощ", "en": "first aid", "pronunciation": "PUR-va PO-mosht", "example": "Всеки трябва да знае първа помощ.", "type": "noun" },
+    { "bg": "аптечка", "en": "first aid kit", "pronunciation": "ap-TECH-ka", "example": "Аптечката е в жабката на колата.", "type": "noun" },
+    { "bg": "бинт", "en": "bandage", "pronunciation": "bint", "example": "Превържи раната с чист бинт.", "type": "noun" },
+    { "bg": "пластир", "en": "adhesive bandage/plaster", "pronunciation": "plas-TIR", "example": "Сложи пластир на порязването.", "type": "noun" },
+    { "bg": "дезинфектант", "en": "disinfectant", "pronunciation": "dez-in-fek-TANT", "example": "Почисти раната с дезинфектант.", "type": "noun" },
+    { "bg": "рана", "en": "wound/injury", "pronunciation": "RA-na", "example": "Раната не е дълбока, ще зарасне бързо.", "type": "noun" },
+    { "bg": "кръвотечение", "en": "bleeding", "pronunciation": "kru-vo-te-CHE-ni-e", "example": "Притисни раната, за да спреш кръвотечението.", "type": "noun" },
+    { "bg": "изгаряне", "en": "burn", "pronunciation": "iz-GA-rya-ne", "example": "При изгаряне дръж под студена вода десет минути.", "type": "noun" },
+    { "bg": "счупване", "en": "fracture/break", "pronunciation": "SCHUP-va-ne", "example": "Счупването на ръката изисква гипс.", "type": "noun" },
+    { "bg": "навяхване", "en": "sprain", "pronunciation": "na-VYAH-va-ne", "example": "Навяхнах глезена при играта.", "type": "noun" },
+    { "bg": "изкуствено дишане", "en": "CPR/artificial respiration", "pronunciation": "iz-KUS-tve-no DI-sha-ne", "example": "Изкуственото дишане може да спаси живот.", "type": "noun" },
+    { "bg": "сърдечен масаж", "en": "chest compressions", "pronunciation": "sur-DE-chen ma-SAZH", "example": "Започни сърдечен масаж и повикай Спешна помощ.", "type": "noun" },
+    { "bg": "задушаване", "en": "choking", "pronunciation": "za-du-SHA-va-ne", "example": "При задушаване използвай прийома на Хаймлих.", "type": "noun" },
+    { "bg": "припадък", "en": "fainting", "pronunciation": "PRI-pa-duk", "example": "При припадък сложи човека в легнало положение.", "type": "noun" },
+    { "bg": "алергична реакция", "en": "allergic reaction", "pronunciation": "a-ler-GICH-na re-AK-tsi-ya", "example": "Алергичната реакция може да бъде животозастрашаваща.", "type": "noun" },
+    { "bg": "шина", "en": "splint", "pronunciation": "SHI-na", "example": "Сложи шина на счупения крак.", "type": "noun" },
+    { "bg": "турникет", "en": "tourniquet", "pronunciation": "tur-ni-KET", "example": "Турникетът спира силно кръвотечение.", "type": "noun" },
+    { "bg": "Спешна помощ", "en": "Emergency services/ambulance", "pronunciation": "SPESH-na PO-mosht", "example": "Обади се на Спешна помощ на сто и петдесет.", "type": "noun" },
+    { "bg": "пострадал", "en": "injured person/casualty", "pronunciation": "pos-tra-DAL", "example": "Пострадалият е в съзнание и диша.", "type": "noun" },
+    { "bg": "в съзнание", "en": "conscious", "pronunciation": "v suz-NA-ni-e", "example": "Пострадалият е в съзнание, говори с него.", "type": "phrase" },
+    { "bg": "в безсъзнание", "en": "unconscious", "pronunciation": "v bez-suz-NA-ni-e", "example": "Човекът е в безсъзнание, повикай помощ.", "type": "phrase" },
+    { "bg": "ухапване", "en": "bite (insect/animal)", "pronunciation": "u-HAP-va-ne", "example": "Ухапването от змия изисква спешна помощ.", "type": "noun" },
+    { "bg": "възстановителна поза", "en": "recovery position", "pronunciation": "vuz-sta-no-VI-tel-na PO-za", "example": "Сложи го във възстановителна поза и чакай линейката.", "type": "noun" }
+  ]
+}
