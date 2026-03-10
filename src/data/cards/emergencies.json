@@ -1,0 +1,25 @@
+{
+  "category": "Emergencies",
+  "cards": [
+    { "bg": "помощ", "en": "help", "pronunciation": "PO-mosht", "example": "Помощ! Някой да ми помогне!", "type": "noun" },
+    { "bg": "спешно", "en": "urgent/emergency", "pronunciation": "SPESH-no", "example": "Това е спешно, обадете се на линейка.", "type": "adjective" },
+    { "bg": "полиция", "en": "police", "pronunciation": "po-LI-tsi-ya", "example": "Обадете се на полицията!", "type": "noun" },
+    { "bg": "пожар", "en": "fire", "pronunciation": "po-ZHAR", "example": "Има пожар в сградата!", "type": "noun" },
+    { "bg": "крадец", "en": "thief", "pronunciation": "kra-DETS", "example": "Крадецът избяга с чантата ми.", "type": "noun" },
+    { "bg": "откраднаха ми", "en": "I was robbed", "pronunciation": "ot-KRAD-na-ha mi", "example": "Откраднаха ми портфейла.", "type": "phrase" },
+    { "bg": "загубих се", "en": "I'm lost", "pronunciation": "za-GU-bih se", "example": "Загубих се, можете ли да ми помогнете?", "type": "phrase" },
+    { "bg": "авария", "en": "accident/breakdown", "pronunciation": "a-VA-ri-ya", "example": "Имаше авария на пътя.", "type": "noun" },
+    { "bg": "катастрофа", "en": "car crash", "pronunciation": "ka-ta-STRO-fa", "example": "Видяхме катастрофа на магистралата.", "type": "noun" },
+    { "bg": "опасно", "en": "dangerous", "pronunciation": "o-PAS-no", "example": "Тук е опасно, не влизайте!", "type": "adjective" },
+    { "bg": "земетресение", "en": "earthquake", "pronunciation": "ze-me-tre-SE-ni-e", "example": "Усетихте ли земетресението снощи?", "type": "noun" },
+    { "bg": "наводнение", "en": "flood", "pronunciation": "na-vod-NE-ni-e", "example": "Наводнението разруши моста.", "type": "noun" },
+    { "bg": "бърза помощ", "en": "emergency services", "pronunciation": "BUR-za PO-mosht", "example": "Обадете се на бърза помощ веднага.", "type": "noun" },
+    { "bg": "посолство", "en": "embassy", "pronunciation": "po-SOL-stvo", "example": "Трябва да отида в посолството.", "type": "noun" },
+    { "bg": "изгубен", "en": "lost (item)", "pronunciation": "iz-GU-ben", "example": "Търся изгубения си паспорт.", "type": "adjective" },
+    { "bg": "помогнете ми", "en": "help me", "pronunciation": "po-mog-NE-te mi", "example": "Моля, помогнете ми!", "type": "phrase" },
+    { "bg": "не се чувствам добре", "en": "I don't feel well", "pronunciation": "ne se CHUV-stvam dob-RE", "example": "Не се чувствам добре, имам нужда от лекар.", "type": "phrase" },
+    { "bg": "алергичен съм към", "en": "I'm allergic to", "pronunciation": "a-ler-GI-chen sum kum", "example": "Алергичен съм към фъстъци.", "type": "phrase" },
+    { "bg": "обадете се", "en": "call (someone)", "pronunciation": "o-ba-DE-te se", "example": "Обадете се на линейка, моля!", "type": "phrase" },
+    { "bg": "внимание", "en": "attention/warning", "pronunciation": "vni-MA-ni-e", "example": "Внимание! Пътят е затворен.", "type": "noun" }
+  ]
+}
