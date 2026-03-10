@@ -1,0 +1,26 @@
+{
+  "category": "Holidays",
+  "cards": [
+    { "bg": "празник", "en": "holiday/celebration", "pronunciation": "PRAZ-nik", "example": "Днес е национален празник.", "type": "noun" },
+    { "bg": "Коледа", "en": "Christmas", "pronunciation": "ko-LE-da", "example": "На Коледа се събираме със семейството.", "type": "noun" },
+    { "bg": "Великден", "en": "Easter", "pronunciation": "ve-LIK-den", "example": "На Великден боядисваме яйца.", "type": "noun" },
+    { "bg": "Нова година", "en": "New Year", "pronunciation": "NO-va go-DI-na", "example": "Честита Нова година!", "type": "noun" },
+    { "bg": "Баба Марта", "en": "Baba Marta (March 1st)", "pronunciation": "BA-ba MAR-ta", "example": "На Баба Марта си подаряваме мартеници.", "type": "noun" },
+    { "bg": "мартеница", "en": "martenitsa (red-white charm)", "pronunciation": "mar-te-NI-tsa", "example": "Мартеницата е символ на здраве и щастие.", "type": "noun" },
+    { "bg": "именен ден", "en": "name day", "pronunciation": "I-me-nen den", "example": "Честит именен ден!", "type": "noun" },
+    { "bg": "рожден ден", "en": "birthday", "pronunciation": "ROZH-den den", "example": "Честит рожден ден! Колко години стана?", "type": "noun" },
+    { "bg": "подарък", "en": "gift/present", "pronunciation": "po-DA-ruk", "example": "Купих подарък за рождения ти ден.", "type": "noun" },
+    { "bg": "торта", "en": "cake", "pronunciation": "TOR-ta", "example": "Тортата е с шоколад и ягоди.", "type": "noun" },
+    { "bg": "свещ", "en": "candle", "pronunciation": "svesht", "example": "Духни свещите на тортата!", "type": "noun" },
+    { "bg": "честит", "en": "happy/congratulations", "pronunciation": "ches-TIT", "example": "Честит празник на всички!", "type": "adjective" },
+    { "bg": "празнувам", "en": "to celebrate", "pronunciation": "PRAZ-nu-vam", "example": "Празнуваме с цялото семейство.", "type": "verb" },
+    { "bg": "поздравявам", "en": "to congratulate", "pronunciation": "poz-dra-VYA-vam", "example": "Поздравявам те за успеха!", "type": "verb" },
+    { "bg": "трети март", "en": "March 3rd (Liberation Day)", "pronunciation": "TRE-ti mart", "example": "Трети март е Денят на Освобождението.", "type": "noun" },
+    { "bg": "двадесет и четвърти май", "en": "May 24th (Culture Day)", "pronunciation": "DVA-de-set i CHET-vur-ti may", "example": "На двадесет и четвърти май празнуваме културата.", "type": "noun" },
+    { "bg": "сурвакам", "en": "to wish (on New Year)", "pronunciation": "sur-VA-kam", "example": "Децата сурвакат за здраве и берекет.", "type": "verb" },
+    { "bg": "парти", "en": "party", "pronunciation": "PAR-ti", "example": "Организирам парти за рождения си ден.", "type": "noun" },
+    { "bg": "фойерверки", "en": "fireworks", "pronunciation": "fo-yer-VER-ki", "example": "На Нова година гледаме фойерверки.", "type": "noun" },
+    { "bg": "традиция", "en": "tradition", "pronunciation": "tra-DI-tsi-ya", "example": "Боядисването на яйца е стара традиция.", "type": "noun" },
+    { "bg": "пожелание", "en": "wish", "pronunciation": "po-zhe-LA-ni-e", "example": "Най-доброто ми пожелание е за здраве.", "type": "noun" }
+  ]
+}
