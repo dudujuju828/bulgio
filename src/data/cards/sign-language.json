@@ -1,0 +1,27 @@
+{
+  "category": "Sign Language & Deaf Culture",
+  "cards": [
+    { "bg": "жестов език", "en": "sign language", "pronunciation": "ZHES-tov e-ZIK", "example": "Жестовият език е пълноценен език с граматика.", "type": "noun" },
+    { "bg": "жест", "en": "sign/gesture", "pronunciation": "zhest", "example": "Всеки жест има определено значение.", "type": "noun" },
+    { "bg": "глух", "en": "deaf", "pronunciation": "gluh", "example": "Глухите хора общуват чрез жестов език.", "type": "adjective" },
+    { "bg": "увреден слух", "en": "hearing impaired", "pronunciation": "uv-RE-den sluh", "example": "Хората с увреден слух използват слухови апарати.", "type": "noun" },
+    { "bg": "слухов апарат", "en": "hearing aid", "pronunciation": "SLU-hov a-pa-RAT", "example": "Слуховият апарат усилва звуците.", "type": "noun" },
+    { "bg": "кохлеарен имплант", "en": "cochlear implant", "pronunciation": "koh-le-A-ren im-PLANT", "example": "Кохлеарният имплант помага на някои да чуват.", "type": "noun" },
+    { "bg": "преводач", "en": "interpreter", "pronunciation": "pre-vo-DACH", "example": "Преводачът на жестов език е до лектора.", "type": "noun" },
+    { "bg": "дактилна азбука", "en": "finger alphabet/fingerspelling", "pronunciation": "dak-TIL-na AZ-bu-ka", "example": "Дактилната азбука се използва за имена.", "type": "noun" },
+    { "bg": "мимика", "en": "facial expression", "pronunciation": "MI-mi-ka", "example": "Мимиката е важна част от жестовия език.", "type": "noun" },
+    { "bg": "устно четене", "en": "lip reading", "pronunciation": "UST-no CHE-te-ne", "example": "Устното четене помага да разбереш говорещия.", "type": "noun" },
+    { "bg": "общувам", "en": "to communicate", "pronunciation": "ob-SHU-vam", "example": "Общуваме свободно на жестов език.", "type": "verb" },
+    { "bg": "тишина", "en": "silence", "pronunciation": "ti-shi-NA", "example": "Тишината е естественото състояние за глухите.", "type": "noun" },
+    { "bg": "субтитри", "en": "subtitles/captions", "pronunciation": "sub-TIT-ri", "example": "Субтитрите правят филмите достъпни.", "type": "noun" },
+    { "bg": "достъпност", "en": "accessibility", "pronunciation": "dos-TUP-nost", "example": "Достъпността означава равни възможности за всички.", "type": "noun" },
+    { "bg": "включване", "en": "inclusion", "pronunciation": "vklyu-CHVA-ne", "example": "Включването на глухите деца в училище е важно.", "type": "noun" },
+    { "bg": "специално училище", "en": "special school", "pronunciation": "spe-tsi-AL-no u-CHI-lish-te", "example": "Специалното училище за деца с увреден слух е в София.", "type": "noun" },
+    { "bg": "вибрация", "en": "vibration", "pronunciation": "vib-RA-tsi-ya", "example": "Глухите усещат музиката чрез вибрации.", "type": "noun" },
+    { "bg": "визуален сигнал", "en": "visual signal/alert", "pronunciation": "vi-zu-A-len sig-NAL", "example": "Визуалният сигнал замества звуковия звънец.", "type": "noun" },
+    { "bg": "права на глухите", "en": "deaf rights", "pronunciation": "pra-VA na GLU-hi-te", "example": "Правата на глухите са защитени от закона.", "type": "noun" },
+    { "bg": "общност", "en": "community", "pronunciation": "OBSHT-nost", "example": "Общността на глухите е сплотена и активна.", "type": "noun" },
+    { "bg": "курс по жестов език", "en": "sign language course", "pronunciation": "kurs po ZHES-tov e-ZIK", "example": "Записах се на курс по жестов език.", "type": "noun" },
+    { "bg": "разбирам", "en": "to understand", "pronunciation": "raz-BI-ram", "example": "Разбирам основните жестове.", "type": "verb" }
+  ]
+}
