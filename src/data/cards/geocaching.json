@@ -1,0 +1,27 @@
+{
+  "category": "Geocaching & Orienteering",
+  "cards": [
+    { "bg": "геокешинг", "en": "geocaching", "pronunciation": "ge-o-KE-shing", "example": "Геокешингът е търсене на скрити контейнери с GPS.", "type": "noun" },
+    { "bg": "кеш", "en": "cache (container)", "pronunciation": "kesh", "example": "Кешът беше скрит под камък в гората.", "type": "noun" },
+    { "bg": "координати", "en": "coordinates", "pronunciation": "ko-or-di-NA-ti", "example": "Координатите водят до точното място.", "type": "noun" },
+    { "bg": "GPS навигация", "en": "GPS navigation", "pronunciation": "dji-pi-ES na-vi-GA-tsi-ya", "example": "GPS навигацията показва разстоянието до кеша.", "type": "noun" },
+    { "bg": "ориентиране", "en": "orienteering", "pronunciation": "o-ri-en-TI-ra-ne", "example": "Ориентирането е спорт с карта и компас.", "type": "noun" },
+    { "bg": "карта", "en": "map", "pronunciation": "KAR-ta", "example": "Картата показва терена и контролните точки.", "type": "noun" },
+    { "bg": "компас", "en": "compass", "pronunciation": "KOM-pas", "example": "Компасът сочи на север.", "type": "noun" },
+    { "bg": "контролна точка", "en": "checkpoint/control point", "pronunciation": "kon-TROL-na TOCH-ka", "example": "Контролната точка е маркирана с оранжево-бял флаг.", "type": "noun" },
+    { "bg": "търся", "en": "to search/look for", "pronunciation": "TUR-sya", "example": "Търсим кеша вече половин час.", "type": "verb" },
+    { "bg": "намирам", "en": "to find", "pronunciation": "na-MI-ram", "example": "Намерих кеша под стария дъб.", "type": "verb" },
+    { "bg": "скривам", "en": "to hide", "pronunciation": "SKRI-vam", "example": "Скрих нов кеш на интересно място.", "type": "verb" },
+    { "bg": "дневник", "en": "logbook", "pronunciation": "dnev-NIK", "example": "Записах името си в дневника на кеша.", "type": "noun" },
+    { "bg": "контейнер", "en": "container", "pronunciation": "kon-TEY-ner", "example": "Контейнерът е малка водонепроницаема кутия.", "type": "noun" },
+    { "bg": "предмет за размяна", "en": "trade item/swag", "pronunciation": "pred-MET za raz-MYA-na", "example": "Взех значка и оставих играчка за размяна.", "type": "noun" },
+    { "bg": "трудност", "en": "difficulty rating", "pronunciation": "TRUD-nost", "example": "Трудността на кеша е четири от пет.", "type": "noun" },
+    { "bg": "терен", "en": "terrain", "pronunciation": "te-REN", "example": "Теренът е планински и труднодостъпен.", "type": "noun" },
+    { "bg": "маскировка", "en": "camouflage", "pronunciation": "mas-ki-ROV-ka", "example": "Маскировката на кеша го прави почти невидим.", "type": "noun" },
+    { "bg": "загадка", "en": "puzzle/mystery (cache type)", "pronunciation": "za-GAD-ka", "example": "Загадката трябва да се реши преди да получиш координатите.", "type": "noun" },
+    { "bg": "приключение", "en": "adventure", "pronunciation": "prik-lyu-CHE-ni-e", "example": "Геокешингът е приключение за цялото семейство.", "type": "noun" },
+    { "bg": "пътека", "en": "trail/path", "pronunciation": "pu-TE-ka", "example": "Пътеката до кеша минава през буковата гора.", "type": "noun" },
+    { "bg": "находка", "en": "find/discovery", "pronunciation": "na-HOD-ka", "example": "Днешната находка е стотната ми.", "type": "noun" },
+    { "bg": "водоустойчив", "en": "waterproof", "pronunciation": "vo-do-us-TOY-chiv", "example": "Контейнерът е водоустойчив и издръжлив.", "type": "adjective" }
+  ]
+}
