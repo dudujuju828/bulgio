@@ -1,0 +1,27 @@
+{
+  "category": "Archery & Target Sports",
+  "cards": [
+    { "bg": "стрелба с лък", "en": "archery", "pronunciation": "strel-BA s luk", "example": "Стрелбата с лък изисква концентрация и търпение.", "type": "noun" },
+    { "bg": "лък", "en": "bow", "pronunciation": "luk", "example": "Лъкът е направен от фибростъкло.", "type": "noun" },
+    { "bg": "стрела", "en": "arrow", "pronunciation": "stre-LA", "example": "Стрелата улучи центъра на мишената.", "type": "noun" },
+    { "bg": "мишена", "en": "target", "pronunciation": "mi-SHE-na", "example": "Мишената е на разстояние седемдесет метра.", "type": "noun" },
+    { "bg": "стрелец", "en": "archer/shooter", "pronunciation": "stre-LETS", "example": "Стрелецът се прицели внимателно.", "type": "noun" },
+    { "bg": "тетива", "en": "bowstring", "pronunciation": "te-ti-VA", "example": "Тетивата трябва да се сменя регулярно.", "type": "noun" },
+    { "bg": "колчан", "en": "quiver", "pronunciation": "kol-CHAN", "example": "Колчанът побира двадесет стрели.", "type": "noun" },
+    { "bg": "прицелвам се", "en": "to aim", "pronunciation": "pri-TSEL-vam se", "example": "Прицели се в центъра и дишай спокойно.", "type": "verb" },
+    { "bg": "изстрелвам", "en": "to shoot/release", "pronunciation": "iz-STREL-vam", "example": "Изстрелях стрелата с плавно движение.", "type": "verb" },
+    { "bg": "точност", "en": "accuracy/precision", "pronunciation": "TOCH-nost", "example": "Точността се подобрява с практика.", "type": "noun" },
+    { "bg": "десетка", "en": "bullseye/ten", "pronunciation": "de-SET-ka", "example": "Улучих десетката три пъти поред.", "type": "noun" },
+    { "bg": "опъвам", "en": "to draw (the bow)", "pronunciation": "o-PU-vam", "example": "Опъвам тетивата до брадичката.", "type": "verb" },
+    { "bg": "рекурсивен лък", "en": "recurve bow", "pronunciation": "re-kur-SI-ven luk", "example": "Рекурсивният лък се използва на Олимпийските игри.", "type": "noun" },
+    { "bg": "блоков лък", "en": "compound bow", "pronunciation": "BLO-kov luk", "example": "Блоковият лък има система от ролки.", "type": "noun" },
+    { "bg": "арбалет", "en": "crossbow", "pronunciation": "ar-ba-LET", "example": "Арбалетът е по-мощен от обикновения лък.", "type": "noun" },
+    { "bg": "състезание", "en": "competition", "pronunciation": "sus-te-ZA-ni-e", "example": "Състезанието по стрелба с лък е на открито.", "type": "noun" },
+    { "bg": "стойка", "en": "stance/posture", "pronunciation": "STOY-ka", "example": "Правилната стойка е основа за добър изстрел.", "type": "noun" },
+    { "bg": "закрит стрелбище", "en": "indoor range", "pronunciation": "za-KRIT strel-BI-shte", "example": "Закритото стрелбище е отворено целогодишно.", "type": "noun" },
+    { "bg": "предпазител за пръсти", "en": "finger tab/guard", "pronunciation": "pred-pa-ZI-tel za PRUS-ti", "example": "Предпазителят за пръсти пази от тетивата.", "type": "noun" },
+    { "bg": "прицел", "en": "sight (aiming device)", "pronunciation": "pri-TSEL", "example": "Прицелът помага за по-точни изстрели.", "type": "noun" },
+    { "bg": "серия", "en": "end/round (set of arrows)", "pronunciation": "SE-ri-ya", "example": "Всяка серия е от шест стрели.", "type": "noun" },
+    { "bg": "стрелбище", "en": "shooting range", "pronunciation": "strel-BI-shte", "example": "Стрелбището е в покрайнините на града.", "type": "noun" }
+  ]
+}
