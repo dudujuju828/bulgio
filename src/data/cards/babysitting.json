@@ -1,0 +1,28 @@
+{
+  "category": "Babysitting & Childcare",
+  "cards": [
+    { "bg": "бавачка", "en": "babysitter/nanny", "pronunciation": "ba-VACH-ka", "example": "Бавачката идва всеки ден следобед.", "type": "noun" },
+    { "bg": "детска градина", "en": "kindergarten", "pronunciation": "DET-ska gra-DI-na", "example": "Детето тръгва на детска градина на три години.", "type": "noun" },
+    { "bg": "ясла", "en": "nursery/crèche", "pronunciation": "YAS-la", "example": "Записахме бебето в яслата.", "type": "noun" },
+    { "bg": "пелена", "en": "diaper/nappy", "pronunciation": "pe-le-NA", "example": "Трябва да сменим пелената на бебето.", "type": "noun" },
+    { "bg": "бебешка количка", "en": "stroller/pram", "pronunciation": "BE-besh-ka ko-LICH-ka", "example": "Разхождам бебето с количката в парка.", "type": "noun" },
+    { "bg": "биберон", "en": "baby bottle", "pronunciation": "bi-be-RON", "example": "Стоплих млякото в биберона.", "type": "noun" },
+    { "bg": "залъгалка", "en": "pacifier/dummy", "pronunciation": "za-lu-GAL-ka", "example": "Бебето заспа с залъгалката.", "type": "noun" },
+    { "bg": "люлка", "en": "cradle/swing", "pronunciation": "LYUL-ka", "example": "Люлеем бебето в люлката.", "type": "noun" },
+    { "bg": "приспивам", "en": "to put to sleep", "pronunciation": "pris-PI-vam", "example": "Приспивам детето с приспивна песен.", "type": "verb" },
+    { "bg": "приспивна песен", "en": "lullaby", "pronunciation": "pris-PIV-na pe-SEN", "example": "Мама пее приспивна песен всяка вечер.", "type": "noun" },
+    { "bg": "хранене", "en": "feeding", "pronunciation": "hra-NE-ne", "example": "Храненето на бебето е на всеки три часа.", "type": "noun" },
+    { "bg": "кърмя", "en": "to breastfeed", "pronunciation": "kur-MYA", "example": "Кърми бебето поне шест месеца.", "type": "verb" },
+    { "bg": "каша", "en": "porridge/baby food", "pronunciation": "ka-SHA", "example": "Бебето яде каша от ориз.", "type": "noun" },
+    { "bg": "лигавник", "en": "bib", "pronunciation": "li-GAV-nik", "example": "Сложи лигавника на бебето преди хранене.", "type": "noun" },
+    { "bg": "бебешко креватче", "en": "crib", "pronunciation": "BE-besh-ko kre-VAT-che", "example": "Бебешкото креватче е до нашето легло.", "type": "noun" },
+    { "bg": "детска площадка", "en": "playground", "pronunciation": "DET-ska plosh-TAD-ka", "example": "Водим децата на детската площадка.", "type": "noun" },
+    { "bg": "пълзя", "en": "to crawl", "pronunciation": "PUL-zya", "example": "Бебето започна да пълзи на осем месеца.", "type": "verb" },
+    { "bg": "прохождам", "en": "to take first steps", "pronunciation": "pro-HOZH-dam", "example": "Детето проходи на единадесет месеца.", "type": "verb" },
+    { "bg": "играчка", "en": "toy", "pronunciation": "ig-RACH-ka", "example": "Стаята е пълна с играчки.", "type": "noun" },
+    { "bg": "плача", "en": "to cry", "pronunciation": "PLA-cha", "example": "Бебето плаче, защото е гладно.", "type": "verb" },
+    { "bg": "гушкам", "en": "to cuddle/hug", "pronunciation": "GUSH-kam", "example": "Гушкам детето преди лягане.", "type": "verb" },
+    { "bg": "столче за хранене", "en": "high chair", "pronunciation": "STOL-che za hra-NE-ne", "example": "Сложи бебето в столчето за хранене.", "type": "noun" },
+    { "bg": "детско столче за кола", "en": "car seat", "pronunciation": "DET-sko STOL-che za ko-LA", "example": "Детското столче за кола е задължително.", "type": "noun" }
+  ]
+}
