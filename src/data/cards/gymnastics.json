@@ -1,0 +1,28 @@
+{
+  "category": "Gymnastics",
+  "cards": [
+    { "bg": "гимнастика", "en": "gymnastics", "pronunciation": "gim-NAS-ti-ka", "example": "България е световна сила в художествената гимнастика.", "type": "noun" },
+    { "bg": "художествена гимнастика", "en": "rhythmic gymnastics", "pronunciation": "hu-DO-zhes-tve-na gim-NAS-ti-ka", "example": "Художествената гимнастика съчетава танц и спорт.", "type": "noun" },
+    { "bg": "спортна гимнастика", "en": "artistic gymnastics", "pronunciation": "SPORT-na gim-NAS-ti-ka", "example": "Спортната гимнастика включва уреди.", "type": "noun" },
+    { "bg": "гимнастичка", "en": "gymnast (female)", "pronunciation": "gim-NAS-tich-ka", "example": "Българските гимнастички печелят златни медали.", "type": "noun" },
+    { "bg": "обръч", "en": "hoop", "pronunciation": "ob-RUCH", "example": "Упражнението с обръч беше перфектно.", "type": "noun" },
+    { "bg": "топка", "en": "ball", "pronunciation": "TOP-ka", "example": "Топката се търкаля елегантно по ръцете.", "type": "noun" },
+    { "bg": "бухалки", "en": "clubs", "pronunciation": "bu-HAL-ki", "example": "Бухалките изискват координация и прецизност.", "type": "noun" },
+    { "bg": "лента", "en": "ribbon", "pronunciation": "LEN-ta", "example": "Лентата рисува спирали във въздуха.", "type": "noun" },
+    { "bg": "въже", "en": "rope", "pronunciation": "vu-ZHE", "example": "Въжето е един от уредите в гимнастиката.", "type": "noun" },
+    { "bg": "упражнение", "en": "exercise/routine", "pronunciation": "up-razh-NE-ni-e", "example": "Упражнението трае минута и половина.", "type": "noun" },
+    { "bg": "хореография", "en": "choreography", "pronunciation": "ho-re-o-GRA-fi-ya", "example": "Хореографията е съчетана с музиката.", "type": "noun" },
+    { "bg": "гъвкавост", "en": "flexibility", "pronunciation": "guv-KA-vost", "example": "Гъвкавостта е основно качество за гимнастичките.", "type": "noun" },
+    { "bg": "шпагат", "en": "split", "pronunciation": "shpa-GAT", "example": "Тя прави шпагат без усилие.", "type": "noun" },
+    { "bg": "салто", "en": "somersault/flip", "pronunciation": "SAL-to", "example": "Направи двойно салто на финала.", "type": "noun" },
+    { "bg": "равновесие", "en": "balance", "pronunciation": "rav-no-VE-si-e", "example": "Стойката на равновесие издържа пет секунди.", "type": "noun" },
+    { "bg": "ансамбъл", "en": "ensemble/group", "pronunciation": "an-SAM-bul", "example": "Българският ансамбъл спечели олимпийско злато.", "type": "noun" },
+    { "bg": "оценка", "en": "score/mark", "pronunciation": "o-TSEN-ka", "example": "Получи оценка четиринадесет и петстотин.", "type": "noun" },
+    { "bg": "съдия", "en": "judge", "pronunciation": "su-di-YA", "example": "Съдиите оценяват техника и артистичност.", "type": "noun" },
+    { "bg": "постелка", "en": "mat/floor", "pronunciation": "pos-TEL-ka", "example": "Упражнението на постелка е без уред.", "type": "noun" },
+    { "bg": "грация", "en": "grace/elegance", "pronunciation": "GRA-tsi-ya", "example": "Движенията й излъчват невероятна грация.", "type": "noun" },
+    { "bg": "златен медал", "en": "gold medal", "pronunciation": "zla-TEN me-DAL", "example": "Илиана Раева води отбора към златни медали.", "type": "noun" },
+    { "bg": "състезание", "en": "competition", "pronunciation": "sus-te-ZA-ni-e", "example": "Състезанието е в зала Армеец.", "type": "noun" },
+    { "bg": "треньор", "en": "coach", "pronunciation": "tre-NYOR", "example": "Треньорката работи с момичетата от малки.", "type": "noun" }
+  ]
+}
