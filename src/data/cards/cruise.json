@@ -1,0 +1,27 @@
+{
+  "category": "Cruise & Sea Travel",
+  "cards": [
+    { "bg": "круиз", "en": "cruise", "pronunciation": "kru-IZ", "example": "Отиваме на круиз по гръцките острови.", "type": "noun" },
+    { "bg": "круизен кораб", "en": "cruise ship", "pronunciation": "kru-I-zen ko-RAB", "example": "Круизният кораб побира три хиляди пътници.", "type": "noun" },
+    { "bg": "ферибот", "en": "ferry", "pronunciation": "FE-ri-bot", "example": "Фериботът от Бургас до Несебър пътува един час.", "type": "noun" },
+    { "bg": "пристанище", "en": "port/harbor", "pronunciation": "pris-TA-ni-shte", "example": "Пристанището във Варна е голямо.", "type": "noun" },
+    { "bg": "кей", "en": "pier/quay", "pronunciation": "key", "example": "Корабът акостира на кея.", "type": "noun" },
+    { "bg": "палуба", "en": "deck", "pronunciation": "pa-LU-ba", "example": "Слънчевата палуба е на горния етаж.", "type": "noun" },
+    { "bg": "каюта", "en": "cabin (ship)", "pronunciation": "ka-YU-ta", "example": "Каютата е малка, но удобна.", "type": "noun" },
+    { "bg": "капитан", "en": "captain", "pronunciation": "ka-pi-TAN", "example": "Капитанът приветства пътниците.", "type": "noun" },
+    { "bg": "екипаж", "en": "crew", "pronunciation": "e-ki-PAZH", "example": "Екипажът е от двадесет страни.", "type": "noun" },
+    { "bg": "котва", "en": "anchor", "pronunciation": "KOT-va", "example": "Спуснаха котва край острова.", "type": "noun" },
+    { "bg": "морска болест", "en": "seasickness", "pronunciation": "MOR-ska BO-lest", "example": "Имам морска болест при силни вълни.", "type": "noun" },
+    { "bg": "вълна", "en": "wave", "pronunciation": "vul-NA", "example": "Вълните са високи три метра.", "type": "noun" },
+    { "bg": "спасителна лодка", "en": "lifeboat", "pronunciation": "spa-SI-tel-na LOD-ka", "example": "Спасителните лодки са на палубата.", "type": "noun" },
+    { "bg": "маршрут", "en": "route/itinerary", "pronunciation": "marsh-RUT", "example": "Маршрутът включва пет пристанища.", "type": "noun" },
+    { "bg": "акостирам", "en": "to dock/berth", "pronunciation": "a-kos-TI-ram", "example": "Корабът акостира рано сутринта.", "type": "verb" },
+    { "bg": "отплавам", "en": "to set sail/depart", "pronunciation": "ot-PLA-vam", "example": "Отплаваме в пет часа следобед.", "type": "verb" },
+    { "bg": "яхта", "en": "yacht", "pronunciation": "YAH-ta", "example": "Яхтите са на марината в Балчик.", "type": "noun" },
+    { "bg": "марина", "en": "marina", "pronunciation": "ma-RI-na", "example": "Марината в Несебър е пълна лятото.", "type": "noun" },
+    { "bg": "залез над морето", "en": "sunset over the sea", "pronunciation": "za-LEZ nad mo-RE-to", "example": "Залезът над морето от палубата е незабравим.", "type": "noun" },
+    { "bg": "бряг", "en": "coast/shore", "pronunciation": "bryag", "example": "Виждаме българския бряг от кораба.", "type": "noun" },
+    { "bg": "фар", "en": "lighthouse", "pronunciation": "far", "example": "Фарът на нос Калиакра свети нощем.", "type": "noun" },
+    { "bg": "навигация", "en": "navigation", "pronunciation": "na-vi-GA-tsi-ya", "example": "Навигацията разчита на GPS и радар.", "type": "noun" }
+  ]
+}
