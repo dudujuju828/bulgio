@@ -1,0 +1,28 @@
+{
+  "category": "Scents & Perfumery",
+  "cards": [
+    { "bg": "аромат", "en": "scent/fragrance", "pronunciation": "a-ro-MAT", "example": "Ароматът на рози изпълва градината.", "type": "noun" },
+    { "bg": "мирис", "en": "smell/odor", "pronunciation": "mi-RIS", "example": "Мирисът на прясно изпечен хляб е невероятен.", "type": "noun" },
+    { "bg": "мириша", "en": "to smell", "pronunciation": "mi-RI-sha", "example": "Мирише на лавандула тук.", "type": "verb" },
+    { "bg": "парфюмерия", "en": "perfumery/perfume shop", "pronunciation": "par-fyu-me-RI-ya", "example": "Парфюмерията в центъра има голям избор.", "type": "noun" },
+    { "bg": "есенция", "en": "essence/essential oil", "pronunciation": "e-SEN-tsi-ya", "example": "Розовата есенция е скъпа и ценна.", "type": "noun" },
+    { "bg": "розово масло", "en": "rose oil", "pronunciation": "RO-zo-vo MAS-lo", "example": "Българското розово масло е най-доброто в света.", "type": "noun" },
+    { "bg": "Розова долина", "en": "Rose Valley", "pronunciation": "RO-zo-va do-LI-na", "example": "Розовата долина е край Казанлък и Карлово.", "type": "noun" },
+    { "bg": "розобер", "en": "rose picking/harvest", "pronunciation": "ro-zo-BER", "example": "Розоберът е през май и юни.", "type": "noun" },
+    { "bg": "лавандула", "en": "lavender", "pronunciation": "la-van-DU-la", "example": "Лавандулата расте добре в България.", "type": "noun" },
+    { "bg": "жасмин", "en": "jasmine", "pronunciation": "zhas-MIN", "example": "Жасминът цъфти вечер и мирише прекрасно.", "type": "noun" },
+    { "bg": "тамян", "en": "incense/frankincense", "pronunciation": "ta-MYAN", "example": "В църквата мирише на тамян.", "type": "noun" },
+    { "bg": "ароматерапия", "en": "aromatherapy", "pronunciation": "a-ro-ma-te-ra-PI-ya", "example": "Ароматерапията помага за релаксация.", "type": "noun" },
+    { "bg": "ароматна свещ", "en": "scented candle", "pronunciation": "a-ro-MAT-na svesht", "example": "Запалих ароматна свещ с мирис на ванилия.", "type": "noun" },
+    { "bg": "етерично масло", "en": "essential oil", "pronunciation": "e-te-RICH-no MAS-lo", "example": "Етеричното масло от мента освежава.", "type": "noun" },
+    { "bg": "дезодорант", "en": "deodorant", "pronunciation": "de-zo-do-RANT", "example": "Използвам дезодорант без алуминий.", "type": "noun" },
+    { "bg": "ухание", "en": "fragrance/pleasant smell", "pronunciation": "u-HA-ni-e", "example": "Уханието на цветята е опияняващо.", "type": "noun" },
+    { "bg": "воня", "en": "stench/bad smell", "pronunciation": "vo-NYA", "example": "Каква воня идва от контейнера!", "type": "noun" },
+    { "bg": "дестилация", "en": "distillation", "pronunciation": "des-ti-LA-tsi-ya", "example": "Розовото масло се получава чрез дестилация.", "type": "noun" },
+    { "bg": "казанче", "en": "still (distillation vessel)", "pronunciation": "ka-zan-CHE", "example": "В казанчето се вари розов цвят.", "type": "noun" },
+    { "bg": "ванилия", "en": "vanilla", "pronunciation": "va-NI-li-ya", "example": "Ванилията е един от най-популярните аромати.", "type": "noun" },
+    { "bg": "мента", "en": "mint", "pronunciation": "MEN-ta", "example": "Ментата има освежаващ аромат.", "type": "noun" },
+    { "bg": "сандалово дърво", "en": "sandalwood", "pronunciation": "SAN-da-lo-vo DUR-vo", "example": "Парфюмът е с нотки на сандалово дърво.", "type": "noun" },
+    { "bg": "нотка", "en": "note (fragrance)", "pronunciation": "NOT-ka", "example": "Горните нотки са цитрусови.", "type": "noun" }
+  ]
+}
