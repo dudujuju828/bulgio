@@ -1,0 +1,26 @@
+{
+  "category": "Music",
+  "cards": [
+    { "bg": "музика", "en": "music", "pronunciation": "MU-zi-ka", "example": "Обичам да слушам музика.", "type": "noun" },
+    { "bg": "песен", "en": "song", "pronunciation": "PE-sen", "example": "Тази песен е много хубава.", "type": "noun" },
+    { "bg": "певец", "en": "singer (male)", "pronunciation": "pe-VETS", "example": "Певецът има невероятен глас.", "type": "noun" },
+    { "bg": "певица", "en": "singer (female)", "pronunciation": "pe-VI-tsa", "example": "Певицата пее на концерта.", "type": "noun" },
+    { "bg": "концерт", "en": "concert", "pronunciation": "kon-TSERT", "example": "Отиваме на концерт утре.", "type": "noun" },
+    { "bg": "китара", "en": "guitar", "pronunciation": "ki-TA-ra", "example": "Той свири на китара от малък.", "type": "noun" },
+    { "bg": "пиано", "en": "piano", "pronunciation": "pi-A-no", "example": "Дъщеря ми учи пиано.", "type": "noun" },
+    { "bg": "барабан", "en": "drum", "pronunciation": "ba-ra-BAN", "example": "Барабаните задават ритъма.", "type": "noun" },
+    { "bg": "цигулка", "en": "violin", "pronunciation": "tsi-GUL-ka", "example": "Цигулката звучи прекрасно.", "type": "noun" },
+    { "bg": "флейта", "en": "flute", "pronunciation": "FLEY-ta", "example": "Тя свири на флейта в оркестъра.", "type": "noun" },
+    { "bg": "пея", "en": "to sing", "pronunciation": "PE-ya", "example": "Обичам да пея под душа.", "type": "verb" },
+    { "bg": "свиря", "en": "to play (instrument)", "pronunciation": "SVI-rya", "example": "Свириш ли на някакъв инструмент?", "type": "verb" },
+    { "bg": "слушам", "en": "to listen", "pronunciation": "SLU-sham", "example": "Слушам музика всеки ден.", "type": "verb" },
+    { "bg": "танцувам", "en": "to dance", "pronunciation": "tan-TSU-vam", "example": "Обичам да танцувам на народна музика.", "type": "verb" },
+    { "bg": "мелодия", "en": "melody", "pronunciation": "me-LO-di-ya", "example": "Мелодията е много запомняща се.", "type": "noun" },
+    { "bg": "ритъм", "en": "rhythm", "pronunciation": "RI-tum", "example": "Ритъмът на песента е бърз.", "type": "noun" },
+    { "bg": "оркестър", "en": "orchestra", "pronunciation": "or-KES-tur", "example": "Оркестърът свири класическа музика.", "type": "noun" },
+    { "bg": "хор", "en": "choir", "pronunciation": "hor", "example": "Пея в училищния хор.", "type": "noun" },
+    { "bg": "гъдулка", "en": "gadulka (Bulgarian instrument)", "pronunciation": "gu-DUL-ka", "example": "Гъдулката е традиционен български инструмент.", "type": "noun" },
+    { "bg": "каба гайда", "en": "bagpipe (Bulgarian)", "pronunciation": "ka-BA GAY-da", "example": "Каба гайдата звучи на народни празници.", "type": "noun" },
+    { "bg": "народна музика", "en": "folk music", "pronunciation": "na-ROD-na MU-zi-ka", "example": "Българската народна музика е уникална.", "type": "noun" }
+  ]
+}
