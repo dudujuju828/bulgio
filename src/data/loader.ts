@@ -1,3 +1,5 @@
+import { categoryGroups, categoryToGroup, groupNames } from './category-groups';
+
 const modules = import.meta.glob('./cards/*.json', { eager: true });
 
 export interface Card {
@@ -30,3 +32,5 @@ for (const mod of Object.values(modules)) {
 export const cards = allCards;
 export const categories = [...categorySet];
 export const types = [...typeSet];
+export const groups = groupNames;
+export { categoryGroups, categoryToGroup };

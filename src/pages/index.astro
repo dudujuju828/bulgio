@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { cards as flashcards, categories, types } from '../data/loader';
+import { cards as flashcards, categories, types, groups, categoryGroups } from '../data/loader';
 ---
 
 <Layout title="Bulgio - Learn Bulgarian">
@@ -11,13 +11,29 @@ import { cards as flashcards, categories, types } from '../data/loader';
     </header>
 
     <div class="filters">
-      <div class="filter-row">
-        <span class="filter-label">Category</span>
-        <div class="filter-pills" id="category-filters">
+      <div class="filter-section">
+        <div class="filter-header">
+          <span class="filter-label">Category</span>
+          <input
+            type="text"
+            id="category-search"
+            class="category-search"
+            placeholder="Search categories..."
+            autocomplete="off"
+          />
+        </div>
+        <div class="filter-pills" id="group-filters">
           <button class="pill active" data-value="all" type="button">All</button>
-          {categories.map(cat => (
-            <button class="pill" data-value={cat} type="button">{cat}</button>
+          {groups.map(g => (
+            <button class="pill group-pill" data-value={g} type="button">{g}</button>
           ))}
+        </div>
+        <div class="category-panel" id="category-panel">
+          <div class="filter-pills" id="category-filters">
+            {categories.map(cat => (
+              <button class="pill category-pill" data-value={cat} type="button">{cat}</button>
+            ))}
+          </div>
         </div>
       </div>
       <div class="filter-row">
@@ -78,14 +94,16 @@ import { cards as flashcards, categories, types } from '../data/loader';
     </div>
   </main>
 
-  <script define:vars={{ flashcards }}>
+  <script define:vars={{ flashcards, categoryGroups }}>
     const allCards = flashcards;
     let cards = [...allCards];
     let currentIndex = 0;
     let isFlipped = false;
     let mode = 'bg';
     let activeCategory = 'all';
+    let activeGroup = 'all';
     let activeType = 'all';
+    let searchQuery = '';
 
     const card = document.getElementById('flashcard');
     const cardContainer = document.getElementById('card-container');
@@ -103,12 +121,50 @@ import { cards as flashcards, categories, types } from '../data/loader';
     const shuffleBtn = document.getElementById('shuffle-btn');
     const modeBg = document.getElementById('mode-bg');
     const modeEn = document.getElementById('mode-en');
+    const groupFilters = document.getElementById('group-filters');
     const categoryFilters = document.getElementById('category-filters');
+    const categoryPanel = document.getElementById('category-panel');
     const typeFilters = document.getElementById('type-filters');
+    const categorySearch = document.getElementById('category-search');
+    const categoryPills = categoryFilters.querySelectorAll('.category-pill');
+
+    // Build a set of categories for the active group
+    function getCategoriesForGroup(group) {
+      if (group === 'all') return null;
+      return new Set(categoryGroups[group] || []);
+    }
+
+    function updateCategoryPanel() {
+      const query = searchQuery.toLowerCase();
+      const groupCats = getCategoriesForGroup(activeGroup);
+      let anyVisible = false;
+
+      categoryPills.forEach(pill => {
+        const cat = pill.dataset.value;
+        const matchesGroup = !groupCats || groupCats.has(cat);
+        const matchesSearch = !query || cat.toLowerCase().includes(query);
+        const visible = matchesGroup && matchesSearch;
+        pill.style.display = visible ? '' : 'none';
+        if (visible) anyVisible = true;
+      });
+
+      // Show panel when a group is selected or search is active
+      const showPanel = activeGroup !== 'all' || query.length > 0;
+      categoryPanel.classList.toggle('open', showPanel && anyVisible);
+    }
 
     function filterCards() {
+      const groupCats = getCategoriesForGroup(activeGroup);
+
       cards = allCards.filter(c => {
-        const catMatch = activeCategory === 'all' || c.category === activeCategory;
+        let catMatch;
+        if (activeCategory !== 'all') {
+          catMatch = c.category === activeCategory;
+        } else if (groupCats) {
+          catMatch = groupCats.has(c.category);
+        } else {
+          catMatch = true;
+        }
         const typeMatch = activeType === 'all' || c.type === activeType;
         return catMatch && typeMatch;
       });
@@ -178,6 +234,61 @@ import { cards as flashcards, categories, types } from '../data/loader';
       renderCard();
     }
 
+    // Group filter clicks
+    groupFilters.addEventListener('click', (e) => {
+      const btn = e.target.closest('.pill');
+      if (!btn) return;
+      groupFilters.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeGroup = btn.dataset.value;
+      activeCategory = 'all';
+      // Clear any active category pill
+      categoryPills.forEach(b => b.classList.remove('active'));
+      searchQuery = '';
+      categorySearch.value = '';
+      updateCategoryPanel();
+      filterCards();
+    });
+
+    // Category filter clicks
+    categoryFilters.addEventListener('click', (e) => {
+      const btn = e.target.closest('.pill');
+      if (!btn) return;
+      // Toggle: clicking active category deselects it
+      if (btn.classList.contains('active')) {
+        btn.classList.remove('active');
+        activeCategory = 'all';
+      } else {
+        categoryPills.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCategory = btn.dataset.value;
+      }
+      filterCards();
+    });
+
+    // Search input
+    categorySearch.addEventListener('input', (e) => {
+      searchQuery = e.target.value;
+      activeCategory = 'all';
+      categoryPills.forEach(b => b.classList.remove('active'));
+
+      if (searchQuery.length > 0) {
+        // When searching, deselect group and show all matching
+        activeGroup = 'all';
+        groupFilters.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
+        groupFilters.querySelector('[data-value="all"]').classList.add('active');
+      }
+
+      updateCategoryPanel();
+      filterCards();
+    });
+
+    // Prevent space/arrow keys from triggering card actions when search is focused
+    categorySearch.addEventListener('keydown', (e) => {
+      e.stopPropagation();
+    });
+
+    // Type filter clicks
     function setupFilterGroup(container, setActive) {
       container.addEventListener('click', (e) => {
         const btn = e.target.closest('.pill');
@@ -189,7 +300,6 @@ import { cards as flashcards, categories, types } from '../data/loader';
       });
     }
 
-    setupFilterGroup(categoryFilters, v => { activeCategory = v; });
     setupFilterGroup(typeFilters, v => { activeType = v; });
 
     card.addEventListener('click', flip);
@@ -212,6 +322,7 @@ import { cards as flashcards, categories, types } from '../data/loader';
     });
 
     document.addEventListener('keydown', (e) => {
+      if (document.activeElement === categorySearch) return;
       if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); flip(); }
       if (e.key === 'ArrowRight' || e.key === 'ArrowDown') next();
       if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') prev();
@@ -269,6 +380,38 @@ import { cards as flashcards, categories, types } from '../data/loader';
     gap: 0.6rem;
   }
 
+  .filter-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .filter-header {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .category-search {
+    flex: 1;
+    background: #1e1e2e;
+    border: 1px solid #2e2e3e;
+    color: #e4e4e7;
+    padding: 0.35rem 0.7rem;
+    border-radius: 0.5rem;
+    font-size: 0.8rem;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .category-search::placeholder {
+    color: #52525b;
+  }
+
+  .category-search:focus {
+    border-color: #22c55e;
+  }
+
   .filter-row {
     display: flex;
     align-items: center;
@@ -312,6 +455,36 @@ import { cards as flashcards, categories, types } from '../data/loader';
     border-color: #22c55e;
     color: #0f1117;
     font-weight: 600;
+  }
+
+  .group-pill {
+    font-weight: 500;
+  }
+
+  .category-panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.25s ease, padding 0.25s ease;
+    background: #161622;
+    border-radius: 0.6rem;
+    padding: 0 0.6rem;
+  }
+
+  .category-panel.open {
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 0.6rem;
+    border: 1px solid #2e2e3e;
+  }
+
+  .category-panel .filter-pills {
+    gap: 0.3rem;
+  }
+
+  .category-pill {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.5rem;
+    text-transform: none;
   }
 
   .controls {
