@@ -1,0 +1,28 @@
+{
+  "category": "Dentist",
+  "cards": [
+    { "bg": "зъболекар", "en": "dentist", "pronunciation": "zu-bo-LE-kar", "example": "Ходя на зъболекар два пъти годишно.", "type": "noun" },
+    { "bg": "зъб", "en": "tooth", "pronunciation": "zub", "example": "Боли ме зъб от вчера.", "type": "noun" },
+    { "bg": "зъби", "en": "teeth", "pronunciation": "ZU-bi", "example": "Мия зъбите си три пъти на ден.", "type": "noun" },
+    { "bg": "зъбобол", "en": "toothache", "pronunciation": "zu-bo-BOL", "example": "Имам ужасен зъбобол, не мога да спя.", "type": "noun" },
+    { "bg": "венец", "en": "gum", "pronunciation": "ve-NETS", "example": "Венците ми кървят, когато мия зъби.", "type": "noun" },
+    { "bg": "пломба", "en": "filling", "pronunciation": "PLOM-ba", "example": "Зъболекарят ми сложи нова пломба.", "type": "noun" },
+    { "bg": "кариес", "en": "cavity/decay", "pronunciation": "KA-ri-es", "example": "Имаш малък кариес на задния зъб.", "type": "noun" },
+    { "bg": "вадя зъб", "en": "to pull/extract a tooth", "pronunciation": "VA-dya zub", "example": "Трябва да ти извадим мъдреца.", "type": "phrase" },
+    { "bg": "мъдрец", "en": "wisdom tooth", "pronunciation": "mud-RETS", "example": "Мъдрецът ме боли отдавна.", "type": "noun" },
+    { "bg": "коронка", "en": "crown", "pronunciation": "ko-RON-ka", "example": "Сложиха ми керамична коронка.", "type": "noun" },
+    { "bg": "мост", "en": "dental bridge", "pronunciation": "most", "example": "Мостът замества липсващите зъби.", "type": "noun" },
+    { "bg": "имплант", "en": "implant", "pronunciation": "im-PLANT", "example": "Зъбният имплант е скъп, но трае дълго.", "type": "noun" },
+    { "bg": "упойка", "en": "anesthesia/numbing", "pronunciation": "u-POY-ka", "example": "Ще ви сложа упойка, няма да боли.", "type": "noun" },
+    { "bg": "четка за зъби", "en": "toothbrush", "pronunciation": "CHET-ka za ZU-bi", "example": "Сменяй четката за зъби на всеки три месеца.", "type": "noun" },
+    { "bg": "паста за зъби", "en": "toothpaste", "pronunciation": "PAS-ta za ZU-bi", "example": "Купи паста за зъби с флуорид.", "type": "noun" },
+    { "bg": "конец за зъби", "en": "dental floss", "pronunciation": "ko-NETS za ZU-bi", "example": "Използвай конец за зъби всяка вечер.", "type": "noun" },
+    { "bg": "рентген", "en": "X-ray", "pronunciation": "rent-GEN", "example": "Направихме рентген, за да видим корена.", "type": "noun" },
+    { "bg": "почиствам зъбен камък", "en": "to clean tartar", "pronunciation": "po-CHIST-vam ZU-ben ka-MUK", "example": "Зъболекарят ми почисти зъбния камък.", "type": "phrase" },
+    { "bg": "избелване", "en": "whitening", "pronunciation": "iz-BEL-va-ne", "example": "Искам да си направя избелване на зъбите.", "type": "noun" },
+    { "bg": "протеза", "en": "dentures", "pronunciation": "pro-TE-za", "example": "Дядо слага протезата всяка сутрин.", "type": "noun" },
+    { "bg": "брекети", "en": "braces", "pronunciation": "bre-KE-ti", "example": "Детето ще носи брекети две години.", "type": "noun" },
+    { "bg": "отвори уста", "en": "open your mouth", "pronunciation": "ot-VO-ri us-TA", "example": "Отвори уста по-широко, моля.", "type": "phrase" },
+    { "bg": "изплакни", "en": "rinse (out)", "pronunciation": "iz-PLAK-ni", "example": "Изплакни и изплюй водата.", "type": "verb" }
+  ]
+}
