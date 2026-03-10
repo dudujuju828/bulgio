@@ -1,0 +1,28 @@
+{
+  "category": "Printing & Publishing",
+  "cards": [
+    { "bg": "печатница", "en": "printing house", "pronunciation": "pe-CHAT-ni-tsa", "example": "Книгата се печата в печатницата.", "type": "noun" },
+    { "bg": "печатам", "en": "to print", "pronunciation": "pe-CHA-tam", "example": "Печатам доклада на принтера.", "type": "verb" },
+    { "bg": "принтер", "en": "printer", "pronunciation": "PRIN-ter", "example": "Принтерът няма мастило.", "type": "noun" },
+    { "bg": "копирна машина", "en": "copier/photocopier", "pronunciation": "ko-PIR-na ma-SHI-na", "example": "Направи копие на документа.", "type": "noun" },
+    { "bg": "копие", "en": "copy", "pronunciation": "KO-pi-e", "example": "Трябва ми три копия от договора.", "type": "noun" },
+    { "bg": "ксерокс", "en": "photocopy", "pronunciation": "KSE-roks", "example": "Ксероксът на личната карта е готов.", "type": "noun" },
+    { "bg": "издателство", "en": "publishing house", "pronunciation": "iz-DA-tel-stvo", "example": "Издателството публикува нов роман.", "type": "noun" },
+    { "bg": "издавам", "en": "to publish", "pronunciation": "iz-DA-vam", "example": "Издадоха книгата в тираж от пет хиляди.", "type": "verb" },
+    { "bg": "автор", "en": "author", "pronunciation": "AV-tor", "example": "Авторът подписва книги в книжарницата.", "type": "noun" },
+    { "bg": "корица", "en": "cover (book)", "pronunciation": "ko-RI-tsa", "example": "Корицата е с красива илюстрация.", "type": "noun" },
+    { "bg": "страница", "en": "page", "pronunciation": "stra-NI-tsa", "example": "Книгата е триста и петдесет страници.", "type": "noun" },
+    { "bg": "тираж", "en": "print run/circulation", "pronunciation": "ti-RAZH", "example": "Тиражът на вестника намалява.", "type": "noun" },
+    { "bg": "коректура", "en": "proofreading", "pronunciation": "ko-rek-TU-ra", "example": "Коректурата отне две седмици.", "type": "noun" },
+    { "bg": "редактиране", "en": "editing", "pronunciation": "re-dak-TI-ra-ne", "example": "Редактирането подобри текста значително.", "type": "noun" },
+    { "bg": "предпечат", "en": "prepress", "pronunciation": "pred-pe-CHAT", "example": "Файлът е готов за предпечат.", "type": "noun" },
+    { "bg": "подвързия", "en": "binding (book)", "pronunciation": "pod-VUR-zi-ya", "example": "Подвързията е твърда с кожена корица.", "type": "noun" },
+    { "bg": "илюстрация", "en": "illustration", "pronunciation": "i-lyus-TRA-tsi-ya", "example": "Илюстрациите в детската книга са цветни.", "type": "noun" },
+    { "bg": "шрифт", "en": "font/typeface", "pronunciation": "shrift", "example": "Шрифтът е твърде малък за четене.", "type": "noun" },
+    { "bg": "хартия", "en": "paper", "pronunciation": "har-TI-ya", "example": "Хартията за печат е висококачествена.", "type": "noun" },
+    { "bg": "мастило", "en": "ink (printer)", "pronunciation": "mas-TI-lo", "example": "Смени касетата с мастило.", "type": "noun" },
+    { "bg": "електронна книга", "en": "e-book", "pronunciation": "e-lek-TRON-na KNI-ga", "example": "Електронните книги са по-евтини от хартиените.", "type": "noun" },
+    { "bg": "ISBN", "en": "ISBN", "pronunciation": "i-es-be-EN", "example": "Всяка книга има уникален ISBN номер.", "type": "noun" },
+    { "bg": "самоиздаване", "en": "self-publishing", "pronunciation": "sa-mo-iz-DA-va-ne", "example": "Самоиздаването става все по-популярно.", "type": "noun" }
+  ]
+}
