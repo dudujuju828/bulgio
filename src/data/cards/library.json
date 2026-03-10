@@ -1,0 +1,28 @@
+{
+  "category": "Library",
+  "cards": [
+    { "bg": "библиотека", "en": "library", "pronunciation": "bib-li-o-TE-ka", "example": "Националната библиотека е до Орлов мост.", "type": "noun" },
+    { "bg": "книга", "en": "book", "pronunciation": "KNI-ga", "example": "Прочетох три книги този месец.", "type": "noun" },
+    { "bg": "заемам", "en": "to borrow/check out", "pronunciation": "za-E-mam", "example": "Заех две книги от библиотеката.", "type": "verb" },
+    { "bg": "връщам", "en": "to return", "pronunciation": "VRUSH-tam", "example": "Трябва да върна книгите до петък.", "type": "verb" },
+    { "bg": "читалня", "en": "reading room", "pronunciation": "chi-TAL-nya", "example": "Учих в читалнята до затваряне.", "type": "noun" },
+    { "bg": "читалище", "en": "chitalishte (community center)", "pronunciation": "chi-ta-LISH-te", "example": "Читалището е сърцето на българското село.", "type": "noun" },
+    { "bg": "читателска карта", "en": "library card", "pronunciation": "chi-TA-tel-ska KAR-ta", "example": "Направих си читателска карта безплатно.", "type": "noun" },
+    { "bg": "рафт", "en": "shelf", "pronunciation": "raft", "example": "Книгите по история са на горния рафт.", "type": "noun" },
+    { "bg": "каталог", "en": "catalog", "pronunciation": "ka-ta-LOG", "example": "Потърси заглавието в електронния каталог.", "type": "noun" },
+    { "bg": "роман", "en": "novel", "pronunciation": "ro-MAN", "example": "Чета роман от Димитър Димов.", "type": "noun" },
+    { "bg": "сборник", "en": "anthology/collection", "pronunciation": "SBOR-nik", "example": "Купих сборник с разкази от български автори.", "type": "noun" },
+    { "bg": "справочник", "en": "reference book", "pronunciation": "spra-VOCH-nik", "example": "Справочникът е само за ползване в залата.", "type": "noun" },
+    { "bg": "речник", "en": "dictionary", "pronunciation": "RECH-nik", "example": "Имаш ли българо-английски речник?", "type": "noun" },
+    { "bg": "енциклопедия", "en": "encyclopedia", "pronunciation": "en-tsik-lo-PE-di-ya", "example": "Енциклопедията е на десет тома.", "type": "noun" },
+    { "bg": "списание", "en": "magazine", "pronunciation": "spi-SA-ni-e", "example": "В библиотеката има и списания.", "type": "noun" },
+    { "bg": "вестник", "en": "newspaper", "pronunciation": "VEST-nik", "example": "Чета вестника всяка сутрин.", "type": "noun" },
+    { "bg": "автор", "en": "author", "pronunciation": "AV-tor", "example": "Кой е авторът на тази книга?", "type": "noun" },
+    { "bg": "заглавие", "en": "title", "pronunciation": "zag-LA-vi-e", "example": "Не помня заглавието, но помня автора.", "type": "noun" },
+    { "bg": "страница", "en": "page", "pronunciation": "stra-NI-tsa", "example": "Книгата има триста страници.", "type": "noun" },
+    { "bg": "глава", "en": "chapter", "pronunciation": "gla-VA", "example": "Стигнах до пета глава.", "type": "noun" },
+    { "bg": "електронна книга", "en": "e-book", "pronunciation": "e-lek-TRON-na KNI-ga", "example": "Чета електронни книги на таблета.", "type": "noun" },
+    { "bg": "тишина", "en": "silence/quiet", "pronunciation": "ti-shi-NA", "example": "В библиотеката трябва да е тишина.", "type": "noun" },
+    { "bg": "срок за връщане", "en": "due date (for return)", "pronunciation": "srok za VRUSH-ta-ne", "example": "Срокът за връщане е две седмици.", "type": "noun" }
+  ]
+}
