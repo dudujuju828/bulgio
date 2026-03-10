@@ -1,0 +1,26 @@
+{
+  "category": "Prepositions",
+  "cards": [
+    { "bg": "в", "en": "in/at", "pronunciation": "v", "example": "Живея в София.", "type": "phrase" },
+    { "bg": "на", "en": "on/at/to", "pronunciation": "na", "example": "Книгата е на масата.", "type": "phrase" },
+    { "bg": "от", "en": "from/of", "pronunciation": "ot", "example": "Аз съм от България.", "type": "phrase" },
+    { "bg": "за", "en": "for/about", "pronunciation": "za", "example": "Това е подарък за теб.", "type": "phrase" },
+    { "bg": "с", "en": "with", "pronunciation": "s", "example": "Отивам с приятели на кино.", "type": "phrase" },
+    { "bg": "без", "en": "without", "pronunciation": "bez", "example": "Кафе без захар, моля.", "type": "phrase" },
+    { "bg": "до", "en": "to/next to/until", "pronunciation": "do", "example": "Магазинът е до аптеката.", "type": "phrase" },
+    { "bg": "при", "en": "at/near/to (someone)", "pronunciation": "pri", "example": "Отивам при лекаря утре.", "type": "phrase" },
+    { "bg": "след", "en": "after", "pronunciation": "sled", "example": "След работа отивам на фитнес.", "type": "phrase" },
+    { "bg": "преди", "en": "before", "pronunciation": "pre-DI", "example": "Преди обяд имам среща.", "type": "phrase" },
+    { "bg": "над", "en": "above/over", "pronunciation": "nad", "example": "Картината виси над дивана.", "type": "phrase" },
+    { "bg": "под", "en": "under/below", "pronunciation": "pod", "example": "Котката е под масата.", "type": "phrase" },
+    { "bg": "пред", "en": "in front of", "pronunciation": "pred", "example": "Колата е пред къщата.", "type": "phrase" },
+    { "bg": "зад", "en": "behind", "pronunciation": "zad", "example": "Градината е зад къщата.", "type": "phrase" },
+    { "bg": "между", "en": "between", "pronunciation": "MEZH-du", "example": "Паркът е между двете сгради.", "type": "phrase" },
+    { "bg": "около", "en": "around/about", "pronunciation": "o-KO-lo", "example": "Около парка има много дървета.", "type": "phrase" },
+    { "bg": "към", "en": "toward", "pronunciation": "kum", "example": "Вървя към центъра.", "type": "phrase" },
+    { "bg": "през", "en": "through/during", "pronunciation": "prez", "example": "През лятото ходя на море.", "type": "phrase" },
+    { "bg": "срещу", "en": "opposite/against", "pronunciation": "SRESHT-u", "example": "Банката е срещу парка.", "type": "phrase" },
+    { "bg": "вместо", "en": "instead of", "pronunciation": "VMES-to", "example": "Вместо кафе, ще пия чай.", "type": "phrase" },
+    { "bg": "освен", "en": "besides/except", "pronunciation": "os-VEN", "example": "Всички дойдоха, освен Петър.", "type": "phrase" }
+  ]
+}
