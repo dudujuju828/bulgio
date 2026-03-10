@@ -1,0 +1,28 @@
+{
+  "category": "Interior Design",
+  "cards": [
+    { "bg": "интериорен дизайн", "en": "interior design", "pronunciation": "in-te-ri-O-ren di-ZAYN", "example": "Интериорният дизайн на апартамента е модерен.", "type": "noun" },
+    { "bg": "дизайнер", "en": "designer", "pronunciation": "di-ZAY-ner", "example": "Дизайнерът предложи нова цветова схема.", "type": "noun" },
+    { "bg": "стил", "en": "style", "pronunciation": "stil", "example": "Стилът е минималистичен и светъл.", "type": "noun" },
+    { "bg": "тапет", "en": "wallpaper", "pronunciation": "ta-PET", "example": "Тапетът в спалнята е с флорален мотив.", "type": "noun" },
+    { "bg": "боядисвам", "en": "to paint (walls)", "pronunciation": "bo-ya-DIS-vam", "example": "Боядисахме стените в бяло.", "type": "verb" },
+    { "bg": "латекс", "en": "latex paint", "pronunciation": "LA-teks", "example": "Купи пет литра бял латекс.", "type": "noun" },
+    { "bg": "паркет", "en": "parquet/hardwood floor", "pronunciation": "par-KET", "example": "Паркетът е от дъб и блести.", "type": "noun" },
+    { "bg": "плочки", "en": "tiles", "pronunciation": "PLOCH-ki", "example": "Плочките в банята са сиви.", "type": "noun" },
+    { "bg": "мокет", "en": "carpet/fitted carpet", "pronunciation": "mo-KET", "example": "Мокетът в спалнята е мек и топъл.", "type": "noun" },
+    { "bg": "килим", "en": "rug/carpet", "pronunciation": "ki-LIM", "example": "Килимът в хола е ръчно тъкан.", "type": "noun" },
+    { "bg": "завеса", "en": "curtain", "pronunciation": "za-VE-sa", "example": "Завесите са от лен в естествен цвят.", "type": "noun" },
+    { "bg": "щора", "en": "blind/roller blind", "pronunciation": "SHTO-ra", "example": "Щорите блокират слънчевата светлина.", "type": "noun" },
+    { "bg": "полилей", "en": "chandelier", "pronunciation": "po-li-LEY", "example": "Полилеят в хола е с кристали.", "type": "noun" },
+    { "bg": "лампа", "en": "lamp", "pronunciation": "LAM-pa", "example": "Нощната лампа е до леглото.", "type": "noun" },
+    { "bg": "рафт", "en": "shelf", "pronunciation": "raft", "example": "Рафтовете на стената са за книги.", "type": "noun" },
+    { "bg": "възглавница", "en": "cushion/pillow", "pronunciation": "vuz-glav-NI-tsa", "example": "Декоративните възглавници са в жълто и синьо.", "type": "noun" },
+    { "bg": "ваза", "en": "vase", "pronunciation": "VA-za", "example": "Вазата с цветя е на масата.", "type": "noun" },
+    { "bg": "огледало", "en": "mirror", "pronunciation": "og-LE-da-lo", "example": "Голямото огледало уголемява стаята визуално.", "type": "noun" },
+    { "bg": "цветова схема", "en": "color scheme", "pronunciation": "tsve-TO-va SKHE-ma", "example": "Цветовата схема е в неутрални тонове.", "type": "noun" },
+    { "bg": "акцент", "en": "accent (design)", "pronunciation": "ak-TSENT", "example": "Зелените растения са акцент в интериора.", "type": "noun" },
+    { "bg": "минимализъм", "en": "minimalism", "pronunciation": "mi-ni-ma-LI-zum", "example": "Минимализмът е модерен стил.", "type": "noun" },
+    { "bg": "обзавеждане", "en": "furnishing", "pronunciation": "ob-za-VEZH-da-ne", "example": "Обзавеждането е от IKEA.", "type": "noun" },
+    { "bg": "ремонт", "en": "renovation/remodeling", "pronunciation": "re-MONT", "example": "Ремонтът на кухнята отне два месеца.", "type": "noun" }
+  ]
+}
