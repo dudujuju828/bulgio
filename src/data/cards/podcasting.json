@@ -1,0 +1,28 @@
+{
+  "category": "Podcasting & Audio Production",
+  "cards": [
+    { "bg": "подкаст", "en": "podcast", "pronunciation": "POD-kast", "example": "Подкастът за българска история има много слушатели.", "type": "noun" },
+    { "bg": "епизод", "en": "episode", "pronunciation": "e-pi-ZOD", "example": "Новият епизод излиза всяка сряда.", "type": "noun" },
+    { "bg": "водещ", "en": "host/presenter", "pronunciation": "vo-DESHT", "example": "Водещият задава интересни въпроси на гостите.", "type": "noun" },
+    { "bg": "гост", "en": "guest", "pronunciation": "gost", "example": "Гостът днес е известен писател.", "type": "noun" },
+    { "bg": "микрофон", "en": "microphone", "pronunciation": "mik-ro-FON", "example": "Микрофонът е кондензаторен и с добро качество.", "type": "noun" },
+    { "bg": "слушалки", "en": "headphones", "pronunciation": "slu-SHAL-ki", "example": "Слушалките изолират външния шум.", "type": "noun" },
+    { "bg": "запис", "en": "recording", "pronunciation": "ZA-pis", "example": "Записът беше дълъг час и половина.", "type": "noun" },
+    { "bg": "записвам", "en": "to record", "pronunciation": "za-PIS-vam", "example": "Записвам подкаста в домашното ми студио.", "type": "verb" },
+    { "bg": "монтаж", "en": "editing/post-production", "pronunciation": "mon-TAZH", "example": "Монтажът на епизода отне три часа.", "type": "noun" },
+    { "bg": "монтирам", "en": "to edit (audio)", "pronunciation": "mon-TI-ram", "example": "Монтирам звука и махам паузите.", "type": "verb" },
+    { "bg": "звук", "en": "sound/audio", "pronunciation": "zvuk", "example": "Звукът трябва да е чист и ясен.", "type": "noun" },
+    { "bg": "звуково оформление", "en": "sound design", "pronunciation": "zvu-KO-vo o-form-LE-ni-e", "example": "Звуковото оформление включва музика и ефекти.", "type": "noun" },
+    { "bg": "интервю", "en": "interview", "pronunciation": "in-ter-VYU", "example": "Интервюто с актьора беше много откровено.", "type": "noun" },
+    { "bg": "слушател", "en": "listener", "pronunciation": "slu-SHA-tel", "example": "Слушателите изпращат въпроси по имейл.", "type": "noun" },
+    { "bg": "абониране", "en": "subscription", "pronunciation": "a-bo-NI-ra-ne", "example": "Абонирането е безплатно във всички платформи.", "type": "noun" },
+    { "bg": "платформа", "en": "platform", "pronunciation": "plat-FOR-ma", "example": "Подкастът е достъпен в Spotify и Apple Podcasts.", "type": "noun" },
+    { "bg": "аудиокнига", "en": "audiobook", "pronunciation": "AU-di-o-KNI-ga", "example": "Аудиокнигата е чудесна за в колата.", "type": "noun" },
+    { "bg": "разказвач", "en": "narrator", "pronunciation": "raz-KAZ-vach", "example": "Разказвачът има приятен и спокоен глас.", "type": "noun" },
+    { "bg": "джингъл", "en": "jingle", "pronunciation": "DJIN-gul", "example": "Джингълът в началото е запомнящ се.", "type": "noun" },
+    { "bg": "стрийминг", "en": "streaming", "pronunciation": "STRIY-ming", "example": "Стриймингът позволява да слушаш без изтегляне.", "type": "noun" },
+    { "bg": "ехо", "en": "echo", "pronunciation": "E-ho", "example": "Ехото в стаята пречи на записа.", "type": "noun" },
+    { "bg": "шумоизолация", "en": "soundproofing", "pronunciation": "shu-mo-i-zo-LA-tsi-ya", "example": "Шумоизолацията на студиото е от пяна.", "type": "noun" },
+    { "bg": "транскрипция", "en": "transcript", "pronunciation": "tran-SKRIP-tsi-ya", "example": "Транскрипцията на епизода е на сайта.", "type": "noun" }
+  ]
+}
