@@ -1,0 +1,29 @@
+{
+  "category": "Computers",
+  "cards": [
+    { "bg": "компютър", "en": "computer", "pronunciation": "kom-PYU-tur", "example": "Компютърът ми е стар и бавен.", "type": "noun" },
+    { "bg": "лаптоп", "en": "laptop", "pronunciation": "lap-TOP", "example": "Взех лаптопа със себе си в кафенето.", "type": "noun" },
+    { "bg": "клавиатура", "en": "keyboard", "pronunciation": "kla-vi-a-TU-ra", "example": "Българската клавиатура има кирилица.", "type": "noun" },
+    { "bg": "мишка", "en": "mouse", "pronunciation": "MISH-ka", "example": "Безжичната мишка е по-удобна.", "type": "noun" },
+    { "bg": "монитор", "en": "monitor/screen", "pronunciation": "mo-ni-TOR", "example": "Купих нов монитор за работа.", "type": "noun" },
+    { "bg": "файл", "en": "file", "pronunciation": "fayl", "example": "Запази файла преди да изключиш.", "type": "noun" },
+    { "bg": "папка", "en": "folder", "pronunciation": "PAP-ka", "example": "Сложи документите в нова папка.", "type": "noun" },
+    { "bg": "програма", "en": "program/software", "pronunciation": "pro-GRA-ma", "example": "Инсталирах нова програма за редактиране.", "type": "noun" },
+    { "bg": "парола", "en": "password", "pronunciation": "pa-RO-la", "example": "Забравих паролата си за имейла.", "type": "noun" },
+    { "bg": "интернет страница", "en": "website", "pronunciation": "in-ter-NET stra-NI-tsa", "example": "Отвори интернет страницата на университета.", "type": "noun" },
+    { "bg": "браузър", "en": "browser", "pronunciation": "BRA-u-zur", "example": "Кой браузър използваш?", "type": "noun" },
+    { "bg": "имейл", "en": "email", "pronunciation": "i-MEYL", "example": "Изпрати ми имейл с подробностите.", "type": "noun" },
+    { "bg": "изтеглям", "en": "to download", "pronunciation": "iz-TEG-lyam", "example": "Изтеглих приложението от сайта.", "type": "verb" },
+    { "bg": "качвам", "en": "to upload", "pronunciation": "KACH-vam", "example": "Качих снимките в облака.", "type": "verb" },
+    { "bg": "записвам", "en": "to save", "pronunciation": "za-PIS-vam", "example": "Записвай работата си редовно.", "type": "verb" },
+    { "bg": "изтривам", "en": "to delete", "pronunciation": "iz-TRI-vam", "example": "Изтрих файла по погрешка.", "type": "verb" },
+    { "bg": "принтер", "en": "printer", "pronunciation": "PRIN-ter", "example": "Принтерът няма мастило.", "type": "noun" },
+    { "bg": "принтирам", "en": "to print", "pronunciation": "prin-TI-ram", "example": "Принтирай ми две копия от документа.", "type": "verb" },
+    { "bg": "твърд диск", "en": "hard drive", "pronunciation": "tvurd disk", "example": "Твърдият диск е почти пълен.", "type": "noun" },
+    { "bg": "флашка", "en": "USB flash drive", "pronunciation": "FLASH-ka", "example": "Сложи презентацията на флашка.", "type": "noun" },
+    { "bg": "вирус", "en": "virus", "pronunciation": "VI-rus", "example": "Компютърът ми хвана вирус.", "type": "noun" },
+    { "bg": "актуализация", "en": "update", "pronunciation": "ak-tu-a-li-ZA-tsi-ya", "example": "Системата иска рестартиране за актуализация.", "type": "noun" },
+    { "bg": "рестартирам", "en": "to restart/reboot", "pronunciation": "re-star-TI-ram", "example": "Опитай да рестартираш компютъра.", "type": "verb" },
+    { "bg": "замръзва", "en": "to freeze/hang", "pronunciation": "za-MRUZ-va", "example": "Компютърът замръзна и не реагира.", "type": "verb" }
+  ]
+}
