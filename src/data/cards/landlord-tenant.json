@@ -1,0 +1,28 @@
+{
+  "category": "Landlord & Tenant Relations",
+  "cards": [
+    { "bg": "наемодател", "en": "landlord", "pronunciation": "na-e-mo-DA-tel", "example": "Наемодателят живее в чужбина.", "type": "noun" },
+    { "bg": "наемател", "en": "tenant", "pronunciation": "na-e-MA-tel", "example": "Наемателят плаща наема на първо число.", "type": "noun" },
+    { "bg": "наем", "en": "rent", "pronunciation": "na-EM", "example": "Наемът е петстотин лева на месец.", "type": "noun" },
+    { "bg": "договор за наем", "en": "lease/rental agreement", "pronunciation": "do-go-VOR za na-EM", "example": "Договорът за наем е за една година.", "type": "noun" },
+    { "bg": "депозит", "en": "security deposit", "pronunciation": "de-po-ZIT", "example": "Депозитът е равен на един месечен наем.", "type": "noun" },
+    { "bg": "предупреждение", "en": "notice (to vacate)", "pronunciation": "pre-du-prezh-DE-ni-e", "example": "Трябва да дадеш едномесечно предупреждение.", "type": "noun" },
+    { "bg": "изгонване", "en": "eviction", "pronunciation": "iz-GON-va-ne", "example": "Изгонването е законно само по съдебен ред.", "type": "noun" },
+    { "bg": "ключ", "en": "key", "pronunciation": "klyuch", "example": "Наемодателят ми даде два ключа.", "type": "noun" },
+    { "bg": "входна врата", "en": "front door/entrance", "pronunciation": "VHOD-na vra-TA", "example": "Входната врата се заключва с два ключа.", "type": "noun" },
+    { "bg": "домоуправител", "en": "building manager", "pronunciation": "do-mo-up-ra-VI-tel", "example": "Домоуправителят събира таксите за входа.", "type": "noun" },
+    { "bg": "такса за вход", "en": "building maintenance fee", "pronunciation": "TAK-sa za vhod", "example": "Таксата за входа покрива чистенето и осветлението.", "type": "noun" },
+    { "bg": "комунални разходи", "en": "utility bills", "pronunciation": "ko-mu-NAL-ni raz-HO-di", "example": "Комуналните разходи са за сметка на наемателя.", "type": "noun" },
+    { "bg": "сметка за ток", "en": "electricity bill", "pronunciation": "SMET-ka za tok", "example": "Сметката за ток е висока през зимата.", "type": "noun" },
+    { "bg": "сметка за вода", "en": "water bill", "pronunciation": "SMET-ka za vo-DA", "example": "Сметката за вода идва на всеки два месеца.", "type": "noun" },
+    { "bg": "парно", "en": "central heating", "pronunciation": "PAR-no", "example": "Парното се включва от октомври.", "type": "noun" },
+    { "bg": "авария", "en": "breakdown/emergency repair", "pronunciation": "a-va-RI-ya", "example": "Има авария с водопровода, тече вода.", "type": "noun" },
+    { "bg": "поддръжка", "en": "maintenance", "pronunciation": "pod-DRUZH-ka", "example": "Поддръжката на жилището е задължение на наемодателя.", "type": "noun" },
+    { "bg": "оглед", "en": "viewing/inspection", "pronunciation": "OG-led", "example": "Огледът на апартамента е утре в три.", "type": "noun" },
+    { "bg": "обзаведен", "en": "furnished", "pronunciation": "ob-za-VE-den", "example": "Апартаментът е напълно обзаведен.", "type": "adjective" },
+    { "bg": "необзаведен", "en": "unfurnished", "pronunciation": "ne-ob-za-VE-den", "example": "Необзаведеният апартамент е по-евтин.", "type": "adjective" },
+    { "bg": "протокол", "en": "inventory/handover report", "pronunciation": "pro-to-KOL", "example": "Подписахме протокол за състоянието на имота.", "type": "noun" },
+    { "bg": "съсед", "en": "neighbor", "pronunciation": "su-SED", "example": "Съседите са тихи и приятни хора.", "type": "noun" },
+    { "bg": "шум", "en": "noise", "pronunciation": "shum", "example": "Шумът след десет вечерта е забранен.", "type": "noun" }
+  ]
+}
