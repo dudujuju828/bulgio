@@ -1,0 +1,28 @@
+{
+  "category": "Gardening",
+  "cards": [
+    { "bg": "градинарство", "en": "gardening", "pronunciation": "gra-di-NAR-stvo", "example": "Градинарството е чудесно хоби за пролетта.", "type": "noun" },
+    { "bg": "градина", "en": "garden", "pronunciation": "gra-DI-na", "example": "Градината е пълна с цветя и зеленчуци.", "type": "noun" },
+    { "bg": "градинар", "en": "gardener", "pronunciation": "gra-di-NAR", "example": "Градинарят подрязва розите всяка пролет.", "type": "noun" },
+    { "bg": "семе", "en": "seed", "pronunciation": "se-ME", "example": "Посадих семена от домати в саксията.", "type": "noun" },
+    { "bg": "посаждам", "en": "to plant", "pronunciation": "po-SAZH-dam", "example": "Посаждаме картофи в края на март.", "type": "verb" },
+    { "bg": "поливам", "en": "to water", "pronunciation": "po-LI-vam", "example": "Поливай цветята всяка сутрин.", "type": "verb" },
+    { "bg": "маркуч", "en": "garden hose", "pronunciation": "mar-KUCH", "example": "Поливам градината с маркуча.", "type": "noun" },
+    { "bg": "лейка", "en": "watering can", "pronunciation": "LEY-ka", "example": "Напълни лейката и полей саксиите.", "type": "noun" },
+    { "bg": "лопата", "en": "shovel/spade", "pronunciation": "lo-PA-ta", "example": "Копай с лопатата по-дълбоко.", "type": "noun" },
+    { "bg": "гребло", "en": "rake", "pronunciation": "greb-LO", "example": "Събери листата с греблото.", "type": "noun" },
+    { "bg": "почва", "en": "soil", "pronunciation": "POCH-va", "example": "Почвата тук е плодородна.", "type": "noun" },
+    { "bg": "тор", "en": "fertilizer/manure", "pronunciation": "tor", "example": "Сложи тор на розите през пролетта.", "type": "noun" },
+    { "bg": "плевел", "en": "weed", "pronunciation": "PLE-vel", "example": "Плевелите задушават доматите.", "type": "noun" },
+    { "bg": "плевя", "en": "to weed", "pronunciation": "ple-VYA", "example": "Трябва да изплевим лехите.", "type": "verb" },
+    { "bg": "подрязвам", "en": "to prune/trim", "pronunciation": "pod-RYAZ-vam", "example": "Подрязвай розите през февруари.", "type": "verb" },
+    { "bg": "леха", "en": "flower bed", "pronunciation": "le-HA", "example": "Направих нова леха за лавандула.", "type": "noun" },
+    { "bg": "саксия", "en": "flower pot", "pronunciation": "SAK-si-ya", "example": "Саксията на балкона е с босилек.", "type": "noun" },
+    { "bg": "оранжерия", "en": "greenhouse", "pronunciation": "o-ran-zhe-RI-ya", "example": "В оранжерията отглеждаме домати през зимата.", "type": "noun" },
+    { "bg": "ограда", "en": "fence", "pronunciation": "og-RA-da", "example": "Оградата пази градината от зайци.", "type": "noun" },
+    { "bg": "тревa", "en": "grass/lawn", "pronunciation": "tre-VA", "example": "Косим тревата всяка седмица.", "type": "noun" },
+    { "bg": "косачка", "en": "lawn mower", "pronunciation": "ko-SACH-ka", "example": "Косачката се развали, трябва нова.", "type": "noun" },
+    { "bg": "реколта", "en": "harvest/crop", "pronunciation": "re-KOL-ta", "example": "Тази година реколтата от домати е богата.", "type": "noun" },
+    { "bg": "компост", "en": "compost", "pronunciation": "kom-POST", "example": "Правим компост от кухненски отпадъци.", "type": "noun" }
+  ]
+}
