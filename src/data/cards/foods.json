@@ -1,0 +1,25 @@
+{
+  "category": "Foods",
+  "cards": [
+    { "bg": "хляб", "en": "bread", "pronunciation": "hlyab", "example": "Искам пресен хляб, моля.", "type": "noun" },
+    { "bg": "сирене", "en": "cheese", "pronunciation": "si-RE-ne", "example": "Българското бяло сирене е много вкусно.", "type": "noun" },
+    { "bg": "месо", "en": "meat", "pronunciation": "me-SO", "example": "Обичам месо на скара.", "type": "noun" },
+    { "bg": "риба", "en": "fish", "pronunciation": "RI-ba", "example": "Рибата е прясна днес.", "type": "noun" },
+    { "bg": "яйце", "en": "egg", "pronunciation": "yay-TSE", "example": "Искам две яйца за закуска.", "type": "noun" },
+    { "bg": "ориз", "en": "rice", "pronunciation": "o-RIZ", "example": "Оризът е готов за обяд.", "type": "noun" },
+    { "bg": "картофи", "en": "potatoes", "pronunciation": "kar-TO-fi", "example": "Пържените картофи са горещи.", "type": "noun" },
+    { "bg": "домат", "en": "tomato", "pronunciation": "do-MAT", "example": "Доматите са зрели и червени.", "type": "noun" },
+    { "bg": "краставица", "en": "cucumber", "pronunciation": "kras-ta-VI-tsa", "example": "Шопската салата има много краставици.", "type": "noun" },
+    { "bg": "ябълка", "en": "apple", "pronunciation": "YA-bul-ka", "example": "Ябълката е сладка и сочна.", "type": "noun" },
+    { "bg": "банан", "en": "banana", "pronunciation": "ba-NAN", "example": "Купих банани от пазара.", "type": "noun" },
+    { "bg": "кисело мляко", "en": "yogurt", "pronunciation": "KI-se-lo MLYA-ko", "example": "Българското кисело мляко е известно по цял свят.", "type": "noun" },
+    { "bg": "супа", "en": "soup", "pronunciation": "SU-pa", "example": "Супата е гореща и вкусна.", "type": "noun" },
+    { "bg": "салата", "en": "salad", "pronunciation": "sa-LA-ta", "example": "Шопската салата е традиционно българско ястие.", "type": "noun" },
+    { "bg": "баница", "en": "banitsa (pastry)", "pronunciation": "BA-ni-tsa", "example": "Баницата със сирене е много вкусна.", "type": "noun" },
+    { "bg": "кебапче", "en": "kebapche (grilled meat)", "pronunciation": "ke-BAP-che", "example": "Кебапчетата на скара са любимото ми ястие.", "type": "noun" },
+    { "bg": "лук", "en": "onion", "pronunciation": "luk", "example": "Добави малко лук в салатата.", "type": "noun" },
+    { "bg": "чушка", "en": "pepper", "pronunciation": "CHUSH-ka", "example": "Пълнените чушки са много вкусни.", "type": "noun" },
+    { "bg": "грозде", "en": "grapes", "pronunciation": "GROZ-de", "example": "Гроздето е узряло и сладко.", "type": "noun" },
+    { "bg": "диня", "en": "watermelon", "pronunciation": "DI-nya", "example": "Динята е перфектна за лятото.", "type": "noun" }
+  ]
+}
