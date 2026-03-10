@@ -187,7 +187,7 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
       if (c.image) {
         frontImage.src = `/images/cards/${c.image}`;
         frontImage.alt = c.en;
-        frontImage.style.display = '';
+        frontImage.style.display = 'block';
         card.classList.add('has-image');
       } else {
         frontImage.src = '';
