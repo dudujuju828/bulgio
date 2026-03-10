@@ -1,0 +1,28 @@
+{
+  "category": "Shipping & Logistics",
+  "cards": [
+    { "bg": "доставка", "en": "delivery/shipment", "pronunciation": "dos-TAV-ka", "example": "Доставката пристига утре.", "type": "noun" },
+    { "bg": "пратка", "en": "parcel/package", "pronunciation": "PRAT-ka", "example": "Пратката е на път от два дни.", "type": "noun" },
+    { "bg": "колет", "en": "parcel/package (postal)", "pronunciation": "ko-LET", "example": "Получих колет от чужбина.", "type": "noun" },
+    { "bg": "товар", "en": "cargo/freight", "pronunciation": "to-VAR", "example": "Товарът е натоварен на камиона.", "type": "noun" },
+    { "bg": "склад", "en": "warehouse", "pronunciation": "sklad", "example": "Складът е пълен със стока.", "type": "noun" },
+    { "bg": "куриер", "en": "courier", "pronunciation": "ku-ri-ER", "example": "Куриерът ще дойде между девет и дванадесет.", "type": "noun" },
+    { "bg": "Еконт", "en": "Econt (Bulgarian courier)", "pronunciation": "e-KONT", "example": "Изпращам колета с Еконт.", "type": "noun" },
+    { "bg": "Спиди", "en": "Speedy (Bulgarian courier)", "pronunciation": "SPI-di", "example": "Поръчката ще дойде със Спиди до офис.", "type": "noun" },
+    { "bg": "наложен платеж", "en": "cash on delivery", "pronunciation": "na-LO-zhen pla-TEZH", "example": "Плащам с наложен платеж при получаване.", "type": "noun" },
+    { "bg": "проследяване", "en": "tracking", "pronunciation": "pro-sle-DYA-va-ne", "example": "Проверих проследяването на пратката онлайн.", "type": "noun" },
+    { "bg": "товарен камион", "en": "truck/lorry", "pronunciation": "TO-va-ren ka-mi-ON", "example": "Товарният камион пристига в шест сутринта.", "type": "noun" },
+    { "bg": "палет", "en": "pallet", "pronunciation": "pa-LET", "example": "Стоката е подредена на палети.", "type": "noun" },
+    { "bg": "опаковка", "en": "packaging", "pronunciation": "o-pa-KOV-ka", "example": "Опаковката трябва да е здрава за транспорт.", "type": "noun" },
+    { "bg": "опаковам", "en": "to pack/package", "pronunciation": "o-pa-KO-vam", "example": "Опаковай чашите внимателно с фолио.", "type": "verb" },
+    { "bg": "разтоварвам", "en": "to unload", "pronunciation": "raz-to-VAR-vam", "example": "Разтоварваме камиона на рампата.", "type": "verb" },
+    { "bg": "натоварвам", "en": "to load", "pronunciation": "na-to-VAR-vam", "example": "Натоварихме всичко за два часа.", "type": "verb" },
+    { "bg": "митница", "en": "customs", "pronunciation": "MIT-ni-tsa", "example": "Пратката е задържана на митницата.", "type": "noun" },
+    { "bg": "мито", "en": "customs duty", "pronunciation": "MI-to", "example": "Плащам мито за стока от извън ЕС.", "type": "noun" },
+    { "bg": "товарителница", "en": "bill of lading/waybill", "pronunciation": "to-va-ri-TEL-ni-tsa", "example": "Подпиши товарителницата при получаване.", "type": "noun" },
+    { "bg": "застраховка", "en": "insurance (shipping)", "pronunciation": "za-stra-HOV-ka", "example": "Застраховах пратката за счупване.", "type": "noun" },
+    { "bg": "контейнер", "en": "container", "pronunciation": "kon-TEY-ner", "example": "Стоката пристига в морски контейнер.", "type": "noun" },
+    { "bg": "автомат", "en": "locker/parcel machine", "pronunciation": "av-to-MAT", "example": "Взех колета от автомата на Еконт.", "type": "noun" },
+    { "bg": "безплатна доставка", "en": "free shipping", "pronunciation": "bez-PLAT-na dos-TAV-ka", "example": "Над петдесет лева доставката е безплатна.", "type": "noun" }
+  ]
+}
