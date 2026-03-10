@@ -1,0 +1,29 @@
+{
+  "category": "Ancient History",
+  "cards": [
+    { "bg": "история", "en": "history", "pronunciation": "is-TO-ri-ya", "example": "България има над хилядолетна история.", "type": "noun" },
+    { "bg": "траки", "en": "Thracians", "pronunciation": "TRA-ki", "example": "Траките са едни от най-древните народи в Европа.", "type": "noun" },
+    { "bg": "тракийски", "en": "Thracian", "pronunciation": "tra-KIY-ski", "example": "Тракийската гробница в Казанлък е в списъка на ЮНЕСКО.", "type": "adjective" },
+    { "bg": "гробница", "en": "tomb", "pronunciation": "grob-NI-tsa", "example": "Археолозите откриха тракийска гробница с богати дарове.", "type": "noun" },
+    { "bg": "крепост", "en": "fortress", "pronunciation": "KRE-post", "example": "Крепостта Царевец е символ на Велико Търново.", "type": "noun" },
+    { "bg": "римски", "en": "Roman", "pronunciation": "RIM-ski", "example": "Античният театър в Пловдив е римски.", "type": "adjective" },
+    { "bg": "амфитеатър", "en": "amphitheater", "pronunciation": "am-fi-te-A-tur", "example": "Римският амфитеатър в Пловдив е от втори век.", "type": "noun" },
+    { "bg": "хан", "en": "khan (ruler)", "pronunciation": "han", "example": "Хан Аспарух основава Първата българска държава.", "type": "noun" },
+    { "bg": "цар", "en": "tsar/emperor", "pronunciation": "tsar", "example": "Цар Симеон Велики разширява България.", "type": "noun" },
+    { "bg": "Първа българска държава", "en": "First Bulgarian Empire", "pronunciation": "PUR-va bul-GAR-ska dur-ZHA-va", "example": "Първата българска държава е основана през 681 година.", "type": "noun" },
+    { "bg": "Втора българска държава", "en": "Second Bulgarian Empire", "pronunciation": "VTO-ra bul-GAR-ska dur-ZHA-va", "example": "Втората българска държава е със столица Велико Търново.", "type": "noun" },
+    { "bg": "столица", "en": "capital city", "pronunciation": "sto-LI-tsa", "example": "Плиска е първата столица на България.", "type": "noun" },
+    { "bg": "кирилица", "en": "Cyrillic alphabet", "pronunciation": "ki-RI-li-tsa", "example": "Кирилицата е създадена от учениците на Кирил и Методий.", "type": "noun" },
+    { "bg": "азбука", "en": "alphabet", "pronunciation": "AZ-bu-ka", "example": "Българската азбука има тридесет букви.", "type": "noun" },
+    { "bg": "робство", "en": "slavery/Ottoman rule", "pronunciation": "ROB-stvo", "example": "Османското робство продължава почти пет века.", "type": "noun" },
+    { "bg": "освобождение", "en": "liberation", "pronunciation": "os-vo-bozh-DE-ni-e", "example": "Освобождението на България е през 1878 година.", "type": "noun" },
+    { "bg": "битка", "en": "battle", "pronunciation": "BIT-ka", "example": "Битката на Шипка е една от най-важните.", "type": "noun" },
+    { "bg": "воин", "en": "warrior", "pronunciation": "vo-IN", "example": "Тракийските воини са били безстрашни.", "type": "noun" },
+    { "bg": "меч", "en": "sword", "pronunciation": "mech", "example": "Намериха златен меч в тракийска гробница.", "type": "noun" },
+    { "bg": "щит", "en": "shield", "pronunciation": "shtit", "example": "Щитовете на траките имали богата украса.", "type": "noun" },
+    { "bg": "археолог", "en": "archaeologist", "pronunciation": "ar-he-O-log", "example": "Археолозите разкопават селище от бронзовата епоха.", "type": "noun" },
+    { "bg": "разкопки", "en": "excavation/dig", "pronunciation": "ras-KOP-ki", "example": "Разкопките край Перперикон продължават.", "type": "noun" },
+    { "bg": "светилище", "en": "sanctuary/shrine", "pronunciation": "sve-ti-LISH-te", "example": "Перперикон е древно тракийско светилище.", "type": "noun" },
+    { "bg": "наследство", "en": "heritage/legacy", "pronunciation": "nas-LED-stvo", "example": "Културното наследство на България е безценно.", "type": "noun" }
+  ]
+}
