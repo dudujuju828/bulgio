@@ -1,0 +1,28 @@
+{
+  "category": "Mythology & Legends",
+  "cards": [
+    { "bg": "митология", "en": "mythology", "pronunciation": "mi-to-LO-gi-ya", "example": "Българската митология е богата и разнообразна.", "type": "noun" },
+    { "bg": "легенда", "en": "legend", "pronunciation": "le-GEN-da", "example": "Легендата за Крали Марко е известна на Балканите.", "type": "noun" },
+    { "bg": "мит", "en": "myth", "pronunciation": "mit", "example": "Митът обяснява произхода на света.", "type": "noun" },
+    { "bg": "герой", "en": "hero", "pronunciation": "ge-ROY", "example": "Героят победи змея и спаси принцесата.", "type": "noun" },
+    { "bg": "змей", "en": "dragon (Slavic)", "pronunciation": "zmey", "example": "Змеят пази съкровище в пещерата.", "type": "noun" },
+    { "bg": "хала", "en": "hala (storm dragon)", "pronunciation": "ha-LA", "example": "Халата носи градушка и бури.", "type": "noun" },
+    { "bg": "самодива", "en": "samodiva (woodland nymph)", "pronunciation": "sa-mo-DI-va", "example": "Самодивите танцуват на поляната при пълнолуние.", "type": "noun" },
+    { "bg": "юнак", "en": "brave warrior/hero", "pronunciation": "yu-NAK", "example": "Юнакът тръгна да търси вълшебния извор.", "type": "noun" },
+    { "bg": "вампир", "en": "vampire", "pronunciation": "vam-PIR", "example": "Вярването във вампири е старо балканско предание.", "type": "noun" },
+    { "bg": "върколак", "en": "werewolf", "pronunciation": "vur-ko-LAK", "example": "Върколакът се появява при пълна луна.", "type": "noun" },
+    { "bg": "караконджул", "en": "karakondjul (evil spirit)", "pronunciation": "ka-ra-kon-DJUL", "example": "Караконджулите излизат между Коледа и Йордановден.", "type": "noun" },
+    { "bg": "талисман", "en": "talisman/charm", "pronunciation": "ta-lis-MAN", "example": "Талисманът го пазел от зли сили.", "type": "noun" },
+    { "bg": "магия", "en": "magic", "pronunciation": "MA-gi-ya", "example": "Магията превърна принца в жаба.", "type": "noun" },
+    { "bg": "заклинание", "en": "spell/incantation", "pronunciation": "za-kli-NA-ni-e", "example": "Вещицата произнесе заклинание над котела.", "type": "noun" },
+    { "bg": "вещица", "en": "witch", "pronunciation": "VESH-ti-tsa", "example": "Вещицата живеела в гъста гора.", "type": "noun" },
+    { "bg": "съкровище", "en": "treasure", "pronunciation": "suk-RO-vish-te", "example": "Съкровището било заровено под стария дъб.", "type": "noun" },
+    { "bg": "пророчество", "en": "prophecy", "pronunciation": "pro-RO-ches-tvo", "example": "Пророчеството предсказало падането на крепостта.", "type": "noun" },
+    { "bg": "безсмъртие", "en": "immortality", "pronunciation": "bez-SMUR-ti-e", "example": "Героят търсел водата на безсмъртието.", "type": "noun" },
+    { "bg": "подвиг", "en": "feat/heroic deed", "pronunciation": "POD-vig", "example": "Подвигът на юнака се предавал от поколение на поколение.", "type": "noun" },
+    { "bg": "предание", "en": "tale/oral tradition", "pronunciation": "pre-DA-ni-e", "example": "Преданието разказва за основаването на града.", "type": "noun" },
+    { "bg": "проклятие", "en": "curse", "pronunciation": "prok-LYA-ti-e", "example": "Проклятието можело да се свали само с любов.", "type": "noun" },
+    { "bg": "орисница", "en": "orisnitsa (fate fairy)", "pronunciation": "o-ris-NI-tsa", "example": "Орисниците идват на третата нощ след раждането.", "type": "noun" },
+    { "bg": "вълшебен", "en": "magical/enchanted", "pronunciation": "vul-SHE-ben", "example": "Вълшебният меч можел да сече камък.", "type": "adjective" }
+  ]
+}
