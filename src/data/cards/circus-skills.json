@@ -1,0 +1,27 @@
+{
+  "category": "Juggling & Circus Skills",
+  "cards": [
+    { "bg": "жонглиране", "en": "juggling", "pronunciation": "zhon-gli-RA-ne", "example": "Жонглирането с три топки е за начинаещи.", "type": "noun" },
+    { "bg": "жонглирам", "en": "to juggle", "pronunciation": "zhon-gli-RAM", "example": "Жонглирам с пет топки без да изпускам.", "type": "verb" },
+    { "bg": "акробат", "en": "acrobat", "pronunciation": "ak-ro-BAT", "example": "Акробатът направи тройно салто.", "type": "noun" },
+    { "bg": "акробатика", "en": "acrobatics", "pronunciation": "ak-ro-BA-ti-ka", "example": "Акробатиката изисква сила и гъвкавост.", "type": "noun" },
+    { "bg": "въженце", "en": "tightrope/wire", "pronunciation": "vu-ZHEN-tse", "example": "Ходенето по въженце е опасно без мрежа.", "type": "noun" },
+    { "bg": "еквилибрист", "en": "tightrope walker/equilibrist", "pronunciation": "ek-vi-lib-RIST", "example": "Еквилибристът премина над публиката.", "type": "noun" },
+    { "bg": "трапец", "en": "trapeze", "pronunciation": "tra-PETS", "example": "Артистката се люлее на трапеца високо горе.", "type": "noun" },
+    { "bg": "салто", "en": "somersault/flip", "pronunciation": "SAL-to", "example": "Салтото назад изглеждаше невероятно.", "type": "noun" },
+    { "bg": "еднорог", "en": "unicycle", "pronunciation": "ed-no-ROG", "example": "Карането на еднорог изисква отличен баланс.", "type": "noun" },
+    { "bg": "кълбо", "en": "ball (juggling)", "pronunciation": "KUL-bo", "example": "Кълбата за жонглиране са с различни цветове.", "type": "noun" },
+    { "bg": "булава", "en": "club (juggling)", "pronunciation": "bu-LA-va", "example": "Булавите се въртят красиво във въздуха.", "type": "noun" },
+    { "bg": "обръч", "en": "hoop", "pronunciation": "ob-RUCH", "example": "Обръчът се върти около кръста.", "type": "noun" },
+    { "bg": "хула-хуп", "en": "hula hoop", "pronunciation": "HU-la hup", "example": "Хула-хупът се използва и в танца.", "type": "noun" },
+    { "bg": "огнено шоу", "en": "fire show", "pronunciation": "OG-ne-no SHO-u", "example": "Огненото шоу привлече стотици зрители.", "type": "noun" },
+    { "bg": "факла", "en": "torch (fire)", "pronunciation": "FAK-la", "example": "Жонглирането с факли е за напреднали.", "type": "noun" },
+    { "bg": "контактно жонглиране", "en": "contact juggling", "pronunciation": "kon-TAK-tno zhon-gli-RA-ne", "example": "Контактното жонглиране създава илюзия, че топката лети.", "type": "noun" },
+    { "bg": "диаболо", "en": "diabolo", "pronunciation": "di-A-bo-lo", "example": "Диаболото се върти на конец между две пръчки.", "type": "noun" },
+    { "bg": "въздушна акробатика", "en": "aerial acrobatics", "pronunciation": "vuz-DUSH-na ak-ro-BA-ti-ka", "example": "Въздушната акробатика на свилени платна е зрелищна.", "type": "noun" },
+    { "bg": "свилени платна", "en": "aerial silks", "pronunciation": "SVI-le-ni plat-NA", "example": "Артистката се увива в свилени платна на височина.", "type": "noun" },
+    { "bg": "пирамида", "en": "human pyramid", "pronunciation": "pi-ra-MI-da", "example": "Пирамидата от акробати е финалът на шоуто.", "type": "noun" },
+    { "bg": "гъвкавост", "en": "flexibility", "pronunciation": "guv-ka-VOST", "example": "Гъвкавостта се развива с ежедневни упражнения.", "type": "noun" },
+    { "bg": "представление", "en": "performance", "pronunciation": "pred-stav-LE-ni-e", "example": "Представлението на уличните артисти събра тълпа.", "type": "noun" }
+  ]
+}
