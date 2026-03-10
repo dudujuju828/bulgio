@@ -1,0 +1,27 @@
+{
+  "category": "Feng Shui & Home Harmony",
+  "cards": [
+    { "bg": "фъншуй", "en": "feng shui", "pronunciation": "fun-SHUY", "example": "Фъншуят подрежда пространството за хармония.", "type": "noun" },
+    { "bg": "хармония", "en": "harmony", "pronunciation": "har-MO-ni-ya", "example": "Хармонията в дома носи спокойствие.", "type": "noun" },
+    { "bg": "енергия", "en": "energy (chi)", "pronunciation": "e-NER-gi-ya", "example": "Енергията трябва да тече свободно в стаята.", "type": "noun" },
+    { "bg": "баланс", "en": "balance", "pronunciation": "ba-LANS", "example": "Балансът между елементите е важен.", "type": "noun" },
+    { "bg": "подреждане", "en": "arrangement/organizing", "pronunciation": "pod-REZH-da-ne", "example": "Подреждането на мебелите влияе на атмосферата.", "type": "noun" },
+    { "bg": "пространство", "en": "space", "pronunciation": "pros-TRAN-stvo", "example": "Свободното пространство създава усещане за лекота.", "type": "noun" },
+    { "bg": "разчиствам", "en": "to declutter", "pronunciation": "raz-CHIST-vam", "example": "Разчиствам ненужните неща от дома.", "type": "verb" },
+    { "bg": "безредие", "en": "clutter/mess", "pronunciation": "bez-RE-di-e", "example": "Безредието блокира потока на енергията.", "type": "noun" },
+    { "bg": "светлина", "en": "light", "pronunciation": "svet-li-NA", "example": "Естествената светлина е важна за доброто настроение.", "type": "noun" },
+    { "bg": "растение", "en": "plant", "pronunciation": "ras-TE-ni-e", "example": "Растенията внасят жива енергия в дома.", "type": "noun" },
+    { "bg": "вода", "en": "water (element)", "pronunciation": "vo-DA", "example": "Водата символизира изобилие и спокойствие.", "type": "noun" },
+    { "bg": "фонтан", "en": "fountain", "pronunciation": "fon-TAN", "example": "Малкият фонтан създава приятна атмосфера.", "type": "noun" },
+    { "bg": "огледало", "en": "mirror", "pronunciation": "og-LE-da-lo", "example": "Огледалото уголемява пространството визуално.", "type": "noun" },
+    { "bg": "цвят", "en": "color", "pronunciation": "tsvyat", "example": "Цветът на стените влияе на настроението.", "type": "noun" },
+    { "bg": "вход", "en": "entrance", "pronunciation": "vhod", "example": "Входът трябва да е чист и приветлив.", "type": "noun" },
+    { "bg": "спалня", "en": "bedroom", "pronunciation": "SPAL-nya", "example": "Спалнята е място за почивка и релаксация.", "type": "noun" },
+    { "bg": "посока", "en": "direction", "pronunciation": "po-SO-ka", "example": "Посоката на леглото влияе на съня.", "type": "noun" },
+    { "bg": "елемент", "en": "element", "pronunciation": "e-le-MENT", "example": "Петте елемента са дърво, огън, земя, метал и вода.", "type": "noun" },
+    { "bg": "уют", "en": "coziness/comfort", "pronunciation": "u-YUT", "example": "Уютът в дома е важен за доброто самочувствие.", "type": "noun" },
+    { "bg": "атмосфера", "en": "atmosphere/ambiance", "pronunciation": "at-mos-FE-ra", "example": "Атмосферата е топла и спокойна.", "type": "noun" },
+    { "bg": "свещ", "en": "candle", "pronunciation": "svesht", "example": "Свещите създават мека и романтична светлина.", "type": "noun" },
+    { "bg": "кристал", "en": "crystal", "pronunciation": "kris-TAL", "example": "Кристалът привлича положителна енергия.", "type": "noun" }
+  ]
+}
