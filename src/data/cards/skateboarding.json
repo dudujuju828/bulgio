@@ -1,0 +1,28 @@
+{
+  "category": "Skateboarding & Rollerblading",
+  "cards": [
+    { "bg": "скейтборд", "en": "skateboard", "pronunciation": "SKEYT-bord", "example": "Скейтбордът е от клен с шкурка отгоре.", "type": "noun" },
+    { "bg": "скейтбордист", "en": "skateboarder", "pronunciation": "skeyt-bor-DIST", "example": "Скейтбордистът направи трик на рампата.", "type": "noun" },
+    { "bg": "карам скейтборд", "en": "to skateboard", "pronunciation": "KA-ram SKEYT-bord", "example": "Карам скейтборд от дванадесет годишен.", "type": "verb" },
+    { "bg": "дъска", "en": "deck/board", "pronunciation": "DUS-ka", "example": "Дъската е с графити дизайн отдолу.", "type": "noun" },
+    { "bg": "колелца", "en": "wheels", "pronunciation": "ko-LEL-tsa", "example": "Колелцата са меки за по-добро сцепление.", "type": "noun" },
+    { "bg": "оска", "en": "truck/axle", "pronunciation": "OS-ka", "example": "Оските определят колко лесно завиваш.", "type": "noun" },
+    { "bg": "лагер", "en": "bearing", "pronunciation": "la-GER", "example": "Лагерите трябва да се смазват редовно.", "type": "noun" },
+    { "bg": "шкурка", "en": "grip tape", "pronunciation": "SHKUR-ka", "example": "Шкурката осигурява сцепление за обувките.", "type": "noun" },
+    { "bg": "трик", "en": "trick", "pronunciation": "trik", "example": "Трикът изисква месеци на тренировка.", "type": "noun" },
+    { "bg": "олли", "en": "ollie", "pronunciation": "O-li", "example": "Оллито е основният трик в скейтборда.", "type": "noun" },
+    { "bg": "кикфлип", "en": "kickflip", "pronunciation": "KIK-flip", "example": "Кикфлипът завърта дъската на триста и шейсет градуса.", "type": "noun" },
+    { "bg": "грайнд", "en": "grind", "pronunciation": "graynd", "example": "Грайндът по перилото беше дълъг.", "type": "noun" },
+    { "bg": "рампа", "en": "ramp/halfpipe", "pronunciation": "RAM-pa", "example": "Рампата в скейтпарка е три метра висока.", "type": "noun" },
+    { "bg": "скейтпарк", "en": "skatepark", "pronunciation": "SKEYT-park", "example": "Скейтпаркът в Южния парк е най-големият в София.", "type": "noun" },
+    { "bg": "перило", "en": "rail/handrail", "pronunciation": "pe-RI-lo", "example": "Перилото е идеално за грайндове.", "type": "noun" },
+    { "bg": "ролери", "en": "rollerblades/inline skates", "pronunciation": "RO-le-ri", "example": "Ролерите са удобни за разходка в парка.", "type": "noun" },
+    { "bg": "карам ролери", "en": "to rollerblade", "pronunciation": "KA-ram RO-le-ri", "example": "Карам ролери по алеите край НДК.", "type": "verb" },
+    { "bg": "наколенки", "en": "knee pads", "pronunciation": "na-ko-LEN-ki", "example": "Наколенките предпазват при падане.", "type": "noun" },
+    { "bg": "налакътници", "en": "elbow pads", "pronunciation": "na-la-KUT-ni-tsi", "example": "Налакътниците са задължителни за начинаещи.", "type": "noun" },
+    { "bg": "каска", "en": "helmet", "pronunciation": "KAS-ka", "example": "Каската спаси главата ми при падане.", "type": "noun" },
+    { "bg": "падане", "en": "fall/wipeout", "pronunciation": "PA-da-ne", "example": "Падането е част от ученето.", "type": "noun" },
+    { "bg": "баланс", "en": "balance", "pronunciation": "ba-LANS", "example": "Балансът се подобрява с практика.", "type": "noun" },
+    { "bg": "скорост", "en": "speed", "pronunciation": "SKO-rost", "example": "Скоростта надолу по хълма е вълнуваща.", "type": "noun" }
+  ]
+}
