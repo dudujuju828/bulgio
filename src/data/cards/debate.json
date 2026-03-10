@@ -1,0 +1,29 @@
+{
+  "category": "Debate",
+  "cards": [
+    { "bg": "дискусия", "en": "discussion", "pronunciation": "dis-KU-si-ya", "example": "Имахме интересна дискусия за образованието.", "type": "noun" },
+    { "bg": "спор", "en": "argument/debate", "pronunciation": "spor", "example": "Спорът продължи повече от час.", "type": "noun" },
+    { "bg": "аргумент", "en": "argument/point", "pronunciation": "ar-gu-MENT", "example": "Нямаш достатъчно силен аргумент.", "type": "noun" },
+    { "bg": "съгласен съм", "en": "I agree", "pronunciation": "su-GLA-sen sum", "example": "Напълно съм съгласен с теб.", "type": "phrase" },
+    { "bg": "не съм съгласен", "en": "I disagree", "pronunciation": "ne sum su-GLA-sen", "example": "Не съм съгласен с това твърдение.", "type": "phrase" },
+    { "bg": "имаш право", "en": "you're right", "pronunciation": "I-mash PRA-vo", "example": "Да, имаш право, не бях помислил за това.", "type": "phrase" },
+    { "bg": "грешиш", "en": "you're wrong", "pronunciation": "gre-SHISH", "example": "Мисля, че грешиш по този въпрос.", "type": "phrase" },
+    { "bg": "мнение", "en": "opinion", "pronunciation": "MNE-ni-e", "example": "Всеки има право на мнение.", "type": "noun" },
+    { "bg": "според мен", "en": "in my opinion", "pronunciation": "spo-RED men", "example": "Според мен проблемът е по-сложен.", "type": "phrase" },
+    { "bg": "от една страна", "en": "on one hand", "pronunciation": "ot ED-na stra-NA", "example": "От една страна е удобно, от друга — скъпо.", "type": "phrase" },
+    { "bg": "от друга страна", "en": "on the other hand", "pronunciation": "ot DRU-ga stra-NA", "example": "От друга страна, има и предимства.", "type": "phrase" },
+    { "bg": "твърдя", "en": "to claim/assert", "pronunciation": "tvur-DYA", "example": "Той твърди, че няма друго решение.", "type": "verb" },
+    { "bg": "доказвам", "en": "to prove", "pronunciation": "do-KAZ-vam", "example": "Можеш ли да докажеш това с факти?", "type": "verb" },
+    { "bg": "опровергавам", "en": "to refute/disprove", "pronunciation": "op-ro-ver-GA-vam", "example": "Данните опровергават тази теория.", "type": "verb" },
+    { "bg": "убеждавам", "en": "to convince/persuade", "pronunciation": "u-bezh-DA-vam", "example": "Успя да ме убеди с аргументите си.", "type": "verb" },
+    { "bg": "отстъпвам", "en": "to concede", "pronunciation": "ot-STUP-vam", "example": "Отстъпвам по тази точка, прав си.", "type": "verb" },
+    { "bg": "компромис", "en": "compromise", "pronunciation": "kom-pro-MIS", "example": "Нека намерим компромис.", "type": "noun" },
+    { "bg": "факт", "en": "fact", "pronunciation": "fakt", "example": "Това е факт, не мнение.", "type": "noun" },
+    { "bg": "извод", "en": "conclusion", "pronunciation": "IZ-vod", "example": "Какъв извод правиш от тези данни?", "type": "noun" },
+    { "bg": "обобщавам", "en": "to summarize/generalize", "pronunciation": "o-bob-SHTA-vam", "example": "Нека обобщя основните точки.", "type": "verb" },
+    { "bg": "прекъсвам", "en": "to interrupt", "pronunciation": "pre-KUS-vam", "example": "Моля, не ме прекъсвай.", "type": "verb" },
+    { "bg": "нека да кажа", "en": "let me say", "pronunciation": "NE-ka da KA-zha", "example": "Нека да кажа нещо по въпроса.", "type": "phrase" },
+    { "bg": "противоречие", "en": "contradiction", "pronunciation": "pro-ti-vo-RE-chi-e", "example": "Виждам противоречие в думите ти.", "type": "noun" },
+    { "bg": "изслушвам", "en": "to hear out/listen", "pronunciation": "iz-SLUSH-vam", "example": "Изслушай ме до край, моля.", "type": "verb" }
+  ]
+}
