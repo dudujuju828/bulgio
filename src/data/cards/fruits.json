@@ -1,0 +1,25 @@
+{
+  "category": "Fruits",
+  "cards": [
+    { "bg": "ябълка", "en": "apple", "pronunciation": "YA-bul-ka", "example": "Ябълката е червена и сочна.", "type": "noun" },
+    { "bg": "банан", "en": "banana", "pronunciation": "ba-NAN", "example": "Бананът е любимият плод на детето.", "type": "noun" },
+    { "bg": "портокал", "en": "orange", "pronunciation": "por-to-KAL", "example": "Пия прясно изцеден портокалов сок.", "type": "noun" },
+    { "bg": "ягода", "en": "strawberry", "pronunciation": "YA-go-da", "example": "Ягодите са сладки и ароматни.", "type": "noun" },
+    { "bg": "череша", "en": "cherry", "pronunciation": "che-RE-sha", "example": "Черешите узряват през юни.", "type": "noun" },
+    { "bg": "праскова", "en": "peach", "pronunciation": "PRAS-ko-va", "example": "Прасковата е мека и сладка.", "type": "noun" },
+    { "bg": "кайсия", "en": "apricot", "pronunciation": "kay-SI-ya", "example": "Правим сладко от кайсии.", "type": "noun" },
+    { "bg": "грозде", "en": "grapes", "pronunciation": "GROZ-de", "example": "Гроздето е узряло за бране.", "type": "noun" },
+    { "bg": "диня", "en": "watermelon", "pronunciation": "DI-nya", "example": "Динята е освежаваща през лятото.", "type": "noun" },
+    { "bg": "пъпеш", "en": "melon", "pronunciation": "PU-pesh", "example": "Пъпешът е много сладък.", "type": "noun" },
+    { "bg": "круша", "en": "pear", "pronunciation": "KRU-sha", "example": "Крушите от градината са вкусни.", "type": "noun" },
+    { "bg": "слива", "en": "plum", "pronunciation": "SLI-va", "example": "От сливите правим ракия.", "type": "noun" },
+    { "bg": "лимон", "en": "lemon", "pronunciation": "li-MON", "example": "Лимонът е кисел.", "type": "noun" },
+    { "bg": "малина", "en": "raspberry", "pronunciation": "ma-LI-na", "example": "Малините растат в планината.", "type": "noun" },
+    { "bg": "боровинка", "en": "blueberry", "pronunciation": "bo-ro-VIN-ka", "example": "Боровинките са много полезни.", "type": "noun" },
+    { "bg": "смокиня", "en": "fig", "pronunciation": "smo-KI-nya", "example": "Смокините узряват през август.", "type": "noun" },
+    { "bg": "нар", "en": "pomegranate", "pronunciation": "nar", "example": "Нарът е пълен с червени зърна.", "type": "noun" },
+    { "bg": "киви", "en": "kiwi", "pronunciation": "KI-vi", "example": "Кивито е богато на витамин C.", "type": "noun" },
+    { "bg": "ананас", "en": "pineapple", "pronunciation": "a-na-NAS", "example": "Ананасът е тропически плод.", "type": "noun" },
+    { "bg": "орех", "en": "walnut", "pronunciation": "o-REH", "example": "Орехите от дървото са едри.", "type": "noun" }
+  ]
+}
