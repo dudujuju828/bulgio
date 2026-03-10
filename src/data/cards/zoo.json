@@ -1,0 +1,28 @@
+{
+  "category": "Zoo & Wildlife Parks",
+  "cards": [
+    { "bg": "зоологическа градина", "en": "zoo", "pronunciation": "zo-o-lo-GI-ches-ka gra-DI-na", "example": "Зоологическата градина в София е най-старата на Балканите.", "type": "noun" },
+    { "bg": "клетка", "en": "cage/enclosure", "pronunciation": "KLET-ka", "example": "Клетката на лъвовете е голяма и просторна.", "type": "noun" },
+    { "bg": "заграждение", "en": "enclosure/pen", "pronunciation": "za-grazh-DE-ni-e", "example": "Заграждението за слоновете е с басейн.", "type": "noun" },
+    { "bg": "аквариум", "en": "aquarium", "pronunciation": "ak-VA-ri-um", "example": "Аквариумът във Варна е много популярен.", "type": "noun" },
+    { "bg": "диво животно", "en": "wild animal", "pronunciation": "DI-vo zhi-VOT-no", "example": "Дивите животни не могат да бъдат домашни любимци.", "type": "noun" },
+    { "bg": "хранене", "en": "feeding", "pronunciation": "HRA-ne-ne", "example": "Храненето на животните е в определени часове.", "type": "noun" },
+    { "bg": "пазач", "en": "keeper/guard", "pronunciation": "pa-ZACH", "example": "Пазачът се грижи за маймуните.", "type": "noun" },
+    { "bg": "ветеринар", "en": "veterinarian", "pronunciation": "ve-te-ri-NAR", "example": "Ветеринарят прегледа болния тигър.", "type": "noun" },
+    { "bg": "застрашен вид", "en": "endangered species", "pronunciation": "za-stra-SHEN vid", "example": "Зоопаркът помага за опазването на застрашени видове.", "type": "noun" },
+    { "bg": "маймуна", "en": "monkey/ape", "pronunciation": "may-MU-na", "example": "Маймуните са любимци на децата.", "type": "noun" },
+    { "bg": "жираф", "en": "giraffe", "pronunciation": "zhi-RAF", "example": "Жирафът е най-високото животно.", "type": "noun" },
+    { "bg": "хипопотам", "en": "hippopotamus", "pronunciation": "hi-po-po-TAM", "example": "Хипопотамът прекарва деня във водата.", "type": "noun" },
+    { "bg": "зебра", "en": "zebra", "pronunciation": "ZEB-ra", "example": "Зебрите имат уникални черно-бели ивици.", "type": "noun" },
+    { "bg": "крокодил", "en": "crocodile", "pronunciation": "kro-ko-DIL", "example": "Крокодилът лежи неподвижно на брега.", "type": "noun" },
+    { "bg": "пингвин", "en": "penguin", "pronunciation": "pin-GVIN", "example": "Пингвините обичат студената вода.", "type": "noun" },
+    { "bg": "фламинго", "en": "flamingo", "pronunciation": "fla-MIN-go", "example": "Фламингото е розово заради храната си.", "type": "noun" },
+    { "bg": "панда", "en": "panda", "pronunciation": "PAN-da", "example": "Пандата яде бамбук цял ден.", "type": "noun" },
+    { "bg": "папагал", "en": "parrot", "pronunciation": "pa-pa-GAL", "example": "Папагалът повтаря думи след посетителите.", "type": "noun" },
+    { "bg": "табела", "en": "sign/information board", "pronunciation": "ta-BE-la", "example": "Табелата показва информация за всяко животно.", "type": "noun" },
+    { "bg": "посетител", "en": "visitor", "pronunciation": "po-se-TI-tel", "example": "Посетителите не трябва да хранят животните.", "type": "noun" },
+    { "bg": "размножаване", "en": "breeding/reproduction", "pronunciation": "raz-mno-ZHA-va-ne", "example": "Програмата за размножаване спасява редки видове.", "type": "noun" },
+    { "bg": "местообитание", "en": "habitat", "pronunciation": "mes-to-o-bi-TA-ni-e", "example": "Местообитанието е пресъздадено максимално близко до природното.", "type": "noun" },
+    { "bg": "билет за зоопарка", "en": "zoo ticket", "pronunciation": "bi-LET za zo-o-PAR-ka", "example": "Билетът за зоопарка е по-евтин за деца.", "type": "noun" }
+  ]
+}
