@@ -1,0 +1,26 @@
+{
+  "category": "Senses",
+  "cards": [
+    { "bg": "виждам", "en": "to see", "pronunciation": "VIZH-dam", "example": "Виждам планина от прозореца.", "type": "verb" },
+    { "bg": "чувам", "en": "to hear", "pronunciation": "CHU-vam", "example": "Чуваш ли музиката?", "type": "verb" },
+    { "bg": "мириша", "en": "to smell", "pronunciation": "mi-RI-sha", "example": "Мириша на свежо кафе.", "type": "verb" },
+    { "bg": "вкусвам", "en": "to taste", "pronunciation": "VKUS-vam", "example": "Вкуси супата дали е достатъчно солена.", "type": "verb" },
+    { "bg": "пипам", "en": "to touch", "pronunciation": "PI-pam", "example": "Не пипай, боята е мокра!", "type": "verb" },
+    { "bg": "зрение", "en": "sight/vision", "pronunciation": "ZRE-ni-e", "example": "Зрението ми отслабва с годините.", "type": "noun" },
+    { "bg": "слух", "en": "hearing", "pronunciation": "sluh", "example": "Тя има много добър слух.", "type": "noun" },
+    { "bg": "обоняние", "en": "sense of smell", "pronunciation": "o-bo-NYA-ni-e", "example": "Кучетата имат силно обоняние.", "type": "noun" },
+    { "bg": "вкус", "en": "taste", "pronunciation": "vkus", "example": "Вкусът на ягодите е прекрасен.", "type": "noun" },
+    { "bg": "допир", "en": "touch (sense)", "pronunciation": "DO-pir", "example": "Допирът е важно чувство.", "type": "noun" },
+    { "bg": "сладък", "en": "sweet", "pronunciation": "SLA-duk", "example": "Тортата е много сладка.", "type": "adjective" },
+    { "bg": "кисел", "en": "sour", "pronunciation": "KI-sel", "example": "Лимонът е много кисел.", "type": "adjective" },
+    { "bg": "солен", "en": "salty", "pronunciation": "SO-len", "example": "Супата е твърде солена.", "type": "adjective" },
+    { "bg": "горчив", "en": "bitter", "pronunciation": "gor-CHIV", "example": "Кафето без захар е горчиво.", "type": "adjective" },
+    { "bg": "лют", "en": "spicy/hot", "pronunciation": "lyut", "example": "Чушката е много люта.", "type": "adjective" },
+    { "bg": "силен", "en": "loud/strong", "pronunciation": "SI-len", "example": "Музиката е твърде силна.", "type": "adjective" },
+    { "bg": "тих", "en": "quiet", "pronunciation": "tih", "example": "Бъди тих, бебето спи.", "type": "adjective" },
+    { "bg": "ярък", "en": "bright", "pronunciation": "ya-RUK", "example": "Светлината е много ярка.", "type": "adjective" },
+    { "bg": "аромат", "en": "aroma/fragrance", "pronunciation": "a-ro-MAT", "example": "Ароматът на розите е чудесен.", "type": "noun" },
+    { "bg": "шум", "en": "noise", "pronunciation": "shum", "example": "Навън има много шум от колите.", "type": "noun" },
+    { "bg": "тишина", "en": "silence", "pronunciation": "ti-shi-NA", "example": "Обичам тишината на планината.", "type": "noun" }
+  ]
+}
