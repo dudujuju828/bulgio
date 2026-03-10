@@ -1,0 +1,27 @@
+{
+  "category": "Superstitions",
+  "cards": [
+    { "bg": "суеверие", "en": "superstition", "pronunciation": "su-e-VE-ri-e", "example": "В България има много стари суеверия.", "type": "noun" },
+    { "bg": "късмет", "en": "luck/good fortune", "pronunciation": "kus-MET", "example": "Подковата носи късмет.", "type": "noun" },
+    { "bg": "нещастие", "en": "misfortune/bad luck", "pronunciation": "ne-SHAS-ti-e", "example": "Черната котка носи нещастие, казват хората.", "type": "noun" },
+    { "bg": "уроки", "en": "evil eye (curse)", "pronunciation": "u-RO-ki", "example": "Баба ми чете молитва срещу уроки.", "type": "noun" },
+    { "bg": "назар", "en": "evil eye amulet", "pronunciation": "na-ZAR", "example": "Синьото око назар пази от зло.", "type": "noun" },
+    { "bg": "мартеница", "en": "martenitsa (spring talisman)", "pronunciation": "mar-te-NI-tsa", "example": "На Първи март закачваме мартеници.", "type": "noun" },
+    { "bg": "амулет", "en": "amulet/charm", "pronunciation": "a-mu-LET", "example": "Амулетът го пази от зло.", "type": "noun" },
+    { "bg": "подкова", "en": "horseshoe", "pronunciation": "pod-ko-VA", "example": "Подковата на вратата носи късмет.", "type": "noun" },
+    { "bg": "чукам на дърво", "en": "knock on wood", "pronunciation": "CHU-kam na dur-VO", "example": "Чукам на дърво, за да не се случи нещо лошо.", "type": "phrase" },
+    { "bg": "черна котка", "en": "black cat", "pronunciation": "CHER-na KOT-ka", "example": "Черна котка мина пред мен — лош знак!", "type": "noun" },
+    { "bg": "огледало", "en": "mirror (breaking)", "pronunciation": "og-le-DA-lo", "example": "Счупено огледало носи седем години нещастие.", "type": "noun" },
+    { "bg": "поличба", "en": "omen/sign", "pronunciation": "po-LICH-ba", "example": "Сърбящата дясна ръка е поличба за пари.", "type": "noun" },
+    { "bg": "магия", "en": "magic/spell", "pronunciation": "MA-gi-ya", "example": "Бабата знаеше стари магии.", "type": "noun" },
+    { "bg": "вярвам", "en": "to believe", "pronunciation": "VYAR-vam", "example": "Вярваш ли в суеверия?", "type": "verb" },
+    { "bg": "предсказвам", "en": "to predict/foretell", "pronunciation": "pred-SKAZ-vam", "example": "Бабата предсказва бъдещето с карти.", "type": "verb" },
+    { "bg": "пожелавам", "en": "to wish", "pronunciation": "po-zhe-LA-vam", "example": "Пожелавам ти здраве и щастие!", "type": "verb" },
+    { "bg": "талисман", "en": "talisman/lucky charm", "pronunciation": "ta-lis-MAN", "example": "Носи талисман за късмет на изпита.", "type": "noun" },
+    { "bg": "баяч", "en": "folk healer/spell-caster", "pronunciation": "ba-YACH", "example": "Баячката лекува с билки и молитви.", "type": "noun" },
+    { "bg": "съдба", "en": "fate/destiny", "pronunciation": "sud-BA", "example": "Такава е съдбата, казват старите хора.", "type": "noun" },
+    { "bg": "прокълвам", "en": "to curse", "pronunciation": "pro-KUL-vam", "example": "Не го прокълвай, лошо е.", "type": "verb" },
+    { "bg": "благославям", "en": "to bless", "pronunciation": "bla-go-sla-VYAM", "example": "Свещеникът благослови новия дом.", "type": "verb" },
+    { "bg": "петък тринадесети", "en": "Friday the 13th", "pronunciation": "PE-tuk tri-na-DE-se-ti", "example": "Петък тринадесети е нещастен ден.", "type": "phrase" }
+  ]
+}
