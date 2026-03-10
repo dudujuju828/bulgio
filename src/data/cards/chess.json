@@ -1,0 +1,28 @@
+{
+  "category": "Chess",
+  "cards": [
+    { "bg": "шах", "en": "chess", "pronunciation": "shah", "example": "Играем шах всяка вечер с дядо.", "type": "noun" },
+    { "bg": "шахматна дъска", "en": "chessboard", "pronunciation": "shah-MAT-na DUS-ka", "example": "Подреди фигурите на шахматната дъска.", "type": "noun" },
+    { "bg": "фигура", "en": "piece", "pronunciation": "fi-GU-ra", "example": "Всяка фигура се движи по различен начин.", "type": "noun" },
+    { "bg": "цар", "en": "king", "pronunciation": "tsar", "example": "Целта на играта е да матираш царя.", "type": "noun" },
+    { "bg": "царица", "en": "queen", "pronunciation": "tsa-RI-tsa", "example": "Царицата е най-силната фигура.", "type": "noun" },
+    { "bg": "топ", "en": "rook", "pronunciation": "top", "example": "Топовете контролират отворените линии.", "type": "noun" },
+    { "bg": "офицер", "en": "bishop", "pronunciation": "o-fi-TSER", "example": "Офицерът се движи по диагонал.", "type": "noun" },
+    { "bg": "кон", "en": "knight", "pronunciation": "kon", "example": "Конят скача в буква Г.", "type": "noun" },
+    { "bg": "пешка", "en": "pawn", "pronunciation": "PESH-ka", "example": "Пешката може да стане царица.", "type": "noun" },
+    { "bg": "ход", "en": "move", "pronunciation": "hod", "example": "Твой ход е, помисли добре.", "type": "noun" },
+    { "bg": "шах!", "en": "check!", "pronunciation": "shah", "example": "Шах! Царят ти е под заплаха.", "type": "phrase" },
+    { "bg": "мат", "en": "checkmate", "pronunciation": "mat", "example": "Мат в три хода!", "type": "noun" },
+    { "bg": "пат", "en": "stalemate", "pronunciation": "pat", "example": "Играта завърши с пат — равенство.", "type": "noun" },
+    { "bg": "рокада", "en": "castling", "pronunciation": "ro-KA-da", "example": "Направи рокада, за да защитиш царя.", "type": "noun" },
+    { "bg": "взимам", "en": "to capture/take", "pronunciation": "VZI-mam", "example": "Взех офицера му с коня.", "type": "verb" },
+    { "bg": "жертвам", "en": "to sacrifice", "pronunciation": "ZHER-tvam", "example": "Жертвах топа за силна атака.", "type": "verb" },
+    { "bg": "дебют", "en": "opening", "pronunciation": "de-BYUT", "example": "Сицилианската защита е популярен дебют.", "type": "noun" },
+    { "bg": "ендшпил", "en": "endgame", "pronunciation": "end-SHPIL", "example": "В ендшпила пешките стават много важни.", "type": "noun" },
+    { "bg": "турнир", "en": "tournament", "pronunciation": "tur-NIR", "example": "Топалов спечели световния турнир.", "type": "noun" },
+    { "bg": "гросмайстор", "en": "grandmaster", "pronunciation": "gros-MAYS-tor", "example": "Веселин Топалов е български гросмайстор.", "type": "noun" },
+    { "bg": "реми", "en": "draw", "pronunciation": "re-MI", "example": "Предложих реми, защото позицията беше равна.", "type": "noun" },
+    { "bg": "часовник", "en": "chess clock", "pronunciation": "cha-sov-NIK", "example": "Натисни часовника след всеки ход.", "type": "noun" },
+    { "bg": "блиц", "en": "blitz (speed chess)", "pronunciation": "blits", "example": "На блиц имаш само пет минути за цялата игра.", "type": "noun" }
+  ]
+}
