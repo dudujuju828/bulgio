@@ -1,0 +1,28 @@
+{
+  "category": "Delivery",
+  "cards": [
+    { "bg": "доставка", "en": "delivery", "pronunciation": "dos-TAV-ka", "example": "Доставката е безплатна над тридесет лева.", "type": "noun" },
+    { "bg": "поръчка", "en": "order", "pronunciation": "po-RUCH-ka", "example": "Поръчката ти пристига утре.", "type": "noun" },
+    { "bg": "поръчвам", "en": "to order", "pronunciation": "po-RUCH-vam", "example": "Поръчах храна онлайн.", "type": "verb" },
+    { "bg": "куриер", "en": "courier", "pronunciation": "ku-ri-ER", "example": "Куриерът звъни на домофона.", "type": "noun" },
+    { "bg": "куриерска фирма", "en": "courier company", "pronunciation": "ku-ri-ER-ska FIR-ma", "example": "Еконт и Спиди са най-големите куриерски фирми.", "type": "noun" },
+    { "bg": "колет", "en": "parcel/package", "pronunciation": "ko-LET", "example": "Колетът ти е в офиса на Еконт.", "type": "noun" },
+    { "bg": "пратка", "en": "shipment", "pronunciation": "PRAT-ka", "example": "Пратката е с номер за проследяване.", "type": "noun" },
+    { "bg": "проследявам", "en": "to track", "pronunciation": "pro-sle-DYA-vam", "example": "Проследявам пратката с номера от SMS-а.", "type": "verb" },
+    { "bg": "наложен платеж", "en": "cash on delivery (COD)", "pronunciation": "na-LO-zhen pla-TEZH", "example": "Плащам с наложен платеж при получаване.", "type": "noun" },
+    { "bg": "безплатна доставка", "en": "free delivery", "pronunciation": "bez-PLAT-na dos-TAV-ka", "example": "При поръчка над петдесет лева доставката е безплатна.", "type": "noun" },
+    { "bg": "адрес за доставка", "en": "delivery address", "pronunciation": "ad-RES za dos-TAV-ka", "example": "Напиши правилен адрес за доставка.", "type": "noun" },
+    { "bg": "офис на куриер", "en": "courier office", "pronunciation": "O-fis na ku-ri-ER", "example": "Ще си взема колета от офиса на куриера.", "type": "noun" },
+    { "bg": "автомат", "en": "parcel locker", "pronunciation": "av-to-MAT", "example": "Вземи пратката от автомата с код.", "type": "noun" },
+    { "bg": "доставка до врата", "en": "door-to-door delivery", "pronunciation": "dos-TAV-ka do vra-TA", "example": "Искам доставка до врата, не до офис.", "type": "noun" },
+    { "bg": "храна за вкъщи", "en": "food delivery", "pronunciation": "hra-NA za VKUSH-ti", "example": "Поръчахме храна за вкъщи от Foodpanda.", "type": "noun" },
+    { "bg": "меню", "en": "menu", "pronunciation": "me-NYU", "example": "Провери менюто на ресторанта онлайн.", "type": "noun" },
+    { "bg": "получавам", "en": "to receive", "pronunciation": "po-lu-CHA-vam", "example": "Получих пратката тази сутрин.", "type": "verb" },
+    { "bg": "връщам", "en": "to return", "pronunciation": "VRUSH-tam", "example": "Можеш да върнеш продукта до четиринадесет дни.", "type": "verb" },
+    { "bg": "рекламация", "en": "complaint/return claim", "pronunciation": "rek-la-MA-tsi-ya", "example": "Направих рекламация за счупен продукт.", "type": "noun" },
+    { "bg": "опаковка", "en": "packaging", "pronunciation": "o-pa-KOV-ka", "example": "Опаковката беше повредена.", "type": "noun" },
+    { "bg": "чупливо", "en": "fragile", "pronunciation": "CHUP-li-vo", "example": "Сложи стикер „Чупливо" на кутията.", "type": "adjective" },
+    { "bg": "бакшиш", "en": "tip", "pronunciation": "bak-SHISH", "example": "Дадох бакшиш на куриера.", "type": "noun" },
+    { "bg": "закъснение", "en": "delay", "pronunciation": "za-kus-NE-ni-e", "example": "Поръчката има закъснение заради лошото време.", "type": "noun" }
+  ]
+}
