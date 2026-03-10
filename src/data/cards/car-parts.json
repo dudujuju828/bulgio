@@ -1,0 +1,29 @@
+{
+  "category": "Car Parts",
+  "cards": [
+    { "bg": "двигател", "en": "engine", "pronunciation": "DVI-ga-tel", "example": "Двигателят вдига странен шум.", "type": "noun" },
+    { "bg": "скоростна кутия", "en": "gearbox/transmission", "pronunciation": "sko-ROST-na KU-ti-ya", "example": "Колата е с автоматична скоростна кутия.", "type": "noun" },
+    { "bg": "спирачки", "en": "brakes", "pronunciation": "spi-RACH-ki", "example": "Спирачките трябва да се сменят.", "type": "noun" },
+    { "bg": "гума", "en": "tire", "pronunciation": "GU-ma", "example": "Предната лява гума е спукана.", "type": "noun" },
+    { "bg": "резервна гума", "en": "spare tire", "pronunciation": "re-ZERV-na GU-ma", "example": "Имаш ли резервна гума в багажника?", "type": "noun" },
+    { "bg": "волан", "en": "steering wheel", "pronunciation": "vo-LAN", "example": "Воланът вибрира при висока скорост.", "type": "noun" },
+    { "bg": "фар", "en": "headlight", "pronunciation": "far", "example": "Левият фар не свети, смени крушката.", "type": "noun" },
+    { "bg": "мигач", "en": "turn signal/indicator", "pronunciation": "mi-GACH", "example": "Включи мигача преди да завиеш.", "type": "noun" },
+    { "bg": "калник", "en": "fender/mudguard", "pronunciation": "KAL-nik", "example": "Калникът е одраскан от паркиране.", "type": "noun" },
+    { "bg": "броня", "en": "bumper", "pronunciation": "BRON-ya", "example": "Предната броня е пукната.", "type": "noun" },
+    { "bg": "предно стъкло", "en": "windshield", "pronunciation": "PRED-no STUK-lo", "example": "Предното стъкло има пукнатина.", "type": "noun" },
+    { "bg": "чистачки", "en": "windshield wipers", "pronunciation": "chis-TACH-ki", "example": "Чистачките размазват, вместо да чистят.", "type": "noun" },
+    { "bg": "ауспух", "en": "exhaust pipe", "pronunciation": "A-us-puh", "example": "Ауспухът пуши твърде много.", "type": "noun" },
+    { "bg": "акумулатор", "en": "car battery", "pronunciation": "a-ku-mu-LA-tor", "example": "Акумулаторът е изтощен, колата не пали.", "type": "noun" },
+    { "bg": "радиатор", "en": "radiator", "pronunciation": "ra-di-A-tor", "example": "Радиаторът тече, трябва поправка.", "type": "noun" },
+    { "bg": "маслен филтър", "en": "oil filter", "pronunciation": "MAS-len FIL-tur", "example": "Сменяме масления филтър на всеки десет хиляди километра.", "type": "noun" },
+    { "bg": "съединител", "en": "clutch", "pronunciation": "su-e-di-NI-tel", "example": "Съединителят е износен, трябва смяна.", "type": "noun" },
+    { "bg": "табло", "en": "dashboard", "pronunciation": "tab-LO", "example": "На таблото свети лампичка за масло.", "type": "noun" },
+    { "bg": "огледало", "en": "mirror", "pronunciation": "og-le-DA-lo", "example": "Страничното огледало е счупено.", "type": "noun" },
+    { "bg": "багажник", "en": "trunk/boot", "pronunciation": "ba-GAZH-nik", "example": "Сложи куфарите в багажника.", "type": "noun" },
+    { "bg": "капак", "en": "hood/bonnet", "pronunciation": "ka-PAK", "example": "Отвори капака да проверим маслото.", "type": "noun" },
+    { "bg": "седалка", "en": "seat", "pronunciation": "se-DAL-ka", "example": "Детската седалка е отзад.", "type": "noun" },
+    { "bg": "колан", "en": "seatbelt", "pronunciation": "ko-LAN", "example": "Сложи си колана, задължително е.", "type": "noun" },
+    { "bg": "крик", "en": "car jack", "pronunciation": "krik", "example": "Вземи крика, за да сменим гумата.", "type": "noun" }
+  ]
+}
