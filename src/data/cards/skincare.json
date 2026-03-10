@@ -1,0 +1,28 @@
+{
+  "category": "Skincare",
+  "cards": [
+    { "bg": "грижа за кожата", "en": "skincare", "pronunciation": "GRI-zha za KO-zha-ta", "example": "Грижата за кожата е важна всеки ден.", "type": "noun" },
+    { "bg": "кожа", "en": "skin", "pronunciation": "KO-zha", "example": "Кожата ми е суха през зимата.", "type": "noun" },
+    { "bg": "суха кожа", "en": "dry skin", "pronunciation": "SU-ha KO-zha", "example": "За суха кожа използвай хидратиращ крем.", "type": "noun" },
+    { "bg": "мазна кожа", "en": "oily skin", "pronunciation": "MAZ-na KO-zha", "example": "Мазната кожа се нуждае от матиращ крем.", "type": "noun" },
+    { "bg": "хидратирам", "en": "to moisturize", "pronunciation": "hid-ra-TI-ram", "example": "Хидратирай кожата сутрин и вечер.", "type": "verb" },
+    { "bg": "хидратиращ крем", "en": "moisturizer", "pronunciation": "hid-ra-TI-rasht krem", "example": "Хидратиращият крем е с хиалуронова киселина.", "type": "noun" },
+    { "bg": "почиствам", "en": "to cleanse", "pronunciation": "po-CHIST-vam", "example": "Почиствай лицето от грима всяка вечер.", "type": "verb" },
+    { "bg": "тоник", "en": "toner", "pronunciation": "TO-nik", "example": "Тоникът балансира pH на кожата.", "type": "noun" },
+    { "bg": "серум", "en": "serum", "pronunciation": "SE-rum", "example": "Серумът с витамин Ц изсветлява кожата.", "type": "noun" },
+    { "bg": "маска за лице", "en": "face mask", "pronunciation": "MAS-ka za li-TSE", "example": "Слагам маска за лице веднъж седмично.", "type": "noun" },
+    { "bg": "пилинг", "en": "exfoliation/peeling", "pronunciation": "PI-ling", "example": "Пилингът премахва мъртвите клетки.", "type": "noun" },
+    { "bg": "бръчка", "en": "wrinkle", "pronunciation": "BRUCH-ka", "example": "Първите бръчки се появиха край очите.", "type": "noun" },
+    { "bg": "акне", "en": "acne", "pronunciation": "AK-ne", "example": "Акнето се лекува с подходящи продукти.", "type": "noun" },
+    { "bg": "пъпка", "en": "pimple", "pronunciation": "PUP-ka", "example": "Появи се пъпка точно преди срещата.", "type": "noun" },
+    { "bg": "слънцезащита", "en": "sun protection", "pronunciation": "slun-tse-za-SHTI-ta", "example": "Слънцезащитата е важна целогодишно.", "type": "noun" },
+    { "bg": "SPF", "en": "SPF (sun protection factor)", "pronunciation": "es-pe-EF", "example": "Използвай крем с SPF петдесет.", "type": "noun" },
+    { "bg": "колаген", "en": "collagen", "pronunciation": "ko-la-GEN", "example": "Колагенът прави кожата по-еластична.", "type": "noun" },
+    { "bg": "хиалуронова киселина", "en": "hyaluronic acid", "pronunciation": "hi-a-lu-RO-no-va ki-se-LI-na", "example": "Хиалуроновата киселина задържа влагата.", "type": "noun" },
+    { "bg": "ретинол", "en": "retinol", "pronunciation": "re-ti-NOL", "example": "Ретинолът помага срещу бръчки.", "type": "noun" },
+    { "bg": "дерматолог", "en": "dermatologist", "pronunciation": "der-ma-TO-log", "example": "Дерматологът ми препоръча нов крем.", "type": "noun" },
+    { "bg": "чувствителна кожа", "en": "sensitive skin", "pronunciation": "CHUV-stvi-tel-na KO-zha", "example": "Чувствителната кожа се нуждае от нежни продукти.", "type": "noun" },
+    { "bg": "тен", "en": "tan/complexion", "pronunciation": "ten", "example": "Загорях и имам красив тен.", "type": "noun" },
+    { "bg": "слънчево изгаряне", "en": "sunburn", "pronunciation": "SLUN-che-vo iz-GA-rya-ne", "example": "Слънчевото изгаряне боли ужасно.", "type": "noun" }
+  ]
+}
