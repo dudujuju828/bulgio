@@ -1,0 +1,28 @@
+{
+  "category": "DJing & Electronic Music",
+  "cards": [
+    { "bg": "диджей", "en": "DJ", "pronunciation": "di-DJEY", "example": "Диджеят пусна любимата ми песен.", "type": "noun" },
+    { "bg": "електронна музика", "en": "electronic music", "pronunciation": "e-lek-TRON-na MU-zi-ka", "example": "Електронната музика е популярна в клубовете.", "type": "noun" },
+    { "bg": "пулт", "en": "mixing console/deck", "pronunciation": "pult", "example": "Пултът на диджея е с два грамофона.", "type": "noun" },
+    { "bg": "миксирам", "en": "to mix", "pronunciation": "mik-SI-ram", "example": "Миксирам две песни плавно една в друга.", "type": "verb" },
+    { "bg": "бийт", "en": "beat", "pronunciation": "biyt", "example": "Бийтът е бърз — сто тридесет удара в минута.", "type": "noun" },
+    { "bg": "бас", "en": "bass", "pronunciation": "bas", "example": "Басът е толкова силен, че вибрира подът.", "type": "noun" },
+    { "bg": "техно", "en": "techno", "pronunciation": "TEH-no", "example": "Техното е родом от Детройт.", "type": "noun" },
+    { "bg": "хаус", "en": "house (music)", "pronunciation": "haus", "example": "Хаус музиката е идеална за танци.", "type": "noun" },
+    { "bg": "транс", "en": "trance (music)", "pronunciation": "trans", "example": "Трансът е с дълги мелодични теми.", "type": "noun" },
+    { "bg": "драм енд бас", "en": "drum and bass", "pronunciation": "DRUM end bas", "example": "Драм енд басът е с бърз и енергичен ритъм.", "type": "noun" },
+    { "bg": "ремикс", "en": "remix", "pronunciation": "RE-miks", "example": "Ремиксът е по-добър от оригинала.", "type": "noun" },
+    { "bg": "семпъл", "en": "sample", "pronunciation": "SEM-pul", "example": "Семпълът е взет от стара джаз песен.", "type": "noun" },
+    { "bg": "синтезатор", "en": "synthesizer", "pronunciation": "sin-te-ZA-tor", "example": "Синтезаторът създава електронни звуци.", "type": "noun" },
+    { "bg": "грамофон", "en": "turntable", "pronunciation": "gra-mo-FON", "example": "Грамофоните се въртят с тридесет и три оборота.", "type": "noun" },
+    { "bg": "фестивал", "en": "festival", "pronunciation": "fes-ti-VAL", "example": "Фестивалът на Слънчевия бряг събира диджеи от света.", "type": "noun" },
+    { "bg": "сцена", "en": "stage", "pronunciation": "STSE-na", "example": "Главната сцена е с огромни високоговорители.", "type": "noun" },
+    { "bg": "високоговорител", "en": "speaker/loudspeaker", "pronunciation": "vi-so-ko-go-vo-RI-tel", "example": "Високоговорителите пълнят залата със звук.", "type": "noun" },
+    { "bg": "светлинно шоу", "en": "light show", "pronunciation": "svet-LIN-no SHO-u", "example": "Светлинното шоу с лазери е зрелищно.", "type": "noun" },
+    { "bg": "лазер", "en": "laser", "pronunciation": "LA-zer", "example": "Лазерите осветяват тълпата в синьо и зелено.", "type": "noun" },
+    { "bg": "дроп", "en": "drop (bass drop)", "pronunciation": "drop", "example": "Дропът вдигна публиката на крака.", "type": "noun" },
+    { "bg": "сет", "en": "set (DJ performance)", "pronunciation": "set", "example": "Сетът на диджея беше два часа.", "type": "noun" },
+    { "bg": "плейлист", "en": "playlist", "pronunciation": "PLEY-list", "example": "Плейлистът включва нови и стари хитове.", "type": "noun" },
+    { "bg": "afterparty", "en": "afterparty", "pronunciation": "AF-ter-PAR-ti", "example": "Afterparty-то продължи до сутринта.", "type": "noun" }
+  ]
+}
