@@ -18,6 +18,7 @@ pnpm-debug.log*
 .*
 !.gitignore
 !.vscode
+!.claude
 !public/.assetsignore
 
 # wrangler files
