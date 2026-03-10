@@ -1,0 +1,28 @@
+{
+  "category": "Wine",
+  "cards": [
+    { "bg": "вино", "en": "wine", "pronunciation": "vi-NO", "example": "Българското вино е известно по целия свят.", "type": "noun" },
+    { "bg": "червено вино", "en": "red wine", "pronunciation": "cher-VE-no vi-NO", "example": "Червеното вино се пие при стайна температура.", "type": "noun" },
+    { "bg": "бяло вино", "en": "white wine", "pronunciation": "BYA-lo vi-NO", "example": "Бялото вино е хубаво с риба.", "type": "noun" },
+    { "bg": "розе", "en": "rosé", "pronunciation": "ro-ZE", "example": "Розето е освежаващо през лятото.", "type": "noun" },
+    { "bg": "грозде", "en": "grapes", "pronunciation": "GROZ-de", "example": "Гроздето узрява през септември.", "type": "noun" },
+    { "bg": "лозе", "en": "vineyard", "pronunciation": "lo-ZE", "example": "Лозята край Мелник са много стари.", "type": "noun" },
+    { "bg": "изба", "en": "wine cellar/winery", "pronunciation": "IZ-ba", "example": "Посетихме винена изба в Тракия.", "type": "noun" },
+    { "bg": "мавруд", "en": "Mavrud (grape variety)", "pronunciation": "mav-RUD", "example": "Мавруд е най-известният български сорт грозде.", "type": "noun" },
+    { "bg": "мелник", "en": "Melnik (wine region)", "pronunciation": "MEL-nik", "example": "Мелнишкото вино е прочуто от векове.", "type": "noun" },
+    { "bg": "реколта", "en": "vintage/harvest", "pronunciation": "re-KOL-ta", "example": "Реколтата от 2020 година е отлична.", "type": "noun" },
+    { "bg": "бъчва", "en": "barrel/cask", "pronunciation": "BUCH-va", "example": "Виното отлежава в дъбова бъчва.", "type": "noun" },
+    { "bg": "тапа", "en": "cork", "pronunciation": "TA-pa", "example": "Отвори тапата на бутилката.", "type": "noun" },
+    { "bg": "чаша", "en": "glass", "pronunciation": "CHA-sha", "example": "Наля вино в голяма чаша.", "type": "noun" },
+    { "bg": "бутилка", "en": "bottle", "pronunciation": "bu-TIL-ka", "example": "Купих бутилка хубаво вино.", "type": "noun" },
+    { "bg": "дегустация", "en": "wine tasting", "pronunciation": "de-gus-TA-tsi-ya", "example": "Отидохме на дегустация в избата.", "type": "noun" },
+    { "bg": "аромат", "en": "aroma/bouquet", "pronunciation": "a-ro-MAT", "example": "Ароматът на виното е плодов.", "type": "noun" },
+    { "bg": "сухо", "en": "dry (wine)", "pronunciation": "SU-ho", "example": "Предпочитам сухо червено вино.", "type": "adjective" },
+    { "bg": "сладко", "en": "sweet (wine)", "pronunciation": "SLAD-ko", "example": "Сладкото вино е за десерт.", "type": "adjective" },
+    { "bg": "полусладко", "en": "semi-sweet", "pronunciation": "po-lu-SLAD-ko", "example": "Полусладкото розе е много популярно.", "type": "adjective" },
+    { "bg": "отлежавам", "en": "to age/mature (wine)", "pronunciation": "ot-le-ZHA-vam", "example": "Виното отлежава две години в бъчви.", "type": "verb" },
+    { "bg": "наздраве", "en": "cheers!", "pronunciation": "naz-DRA-ve", "example": "Наздраве! За здраве и щастие!", "type": "phrase" },
+    { "bg": "тиквеник", "en": "Triffon Zarezan (wine festival)", "pronunciation": "tri-FON za-RE-zan", "example": "На Трифон Зарезан се подрязват лозята.", "type": "noun" },
+    { "bg": "сорт", "en": "variety/grape type", "pronunciation": "sort", "example": "Каберне совиньон е популярен сорт грозде.", "type": "noun" }
+  ]
+}
