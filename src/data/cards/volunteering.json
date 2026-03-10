@@ -1,0 +1,27 @@
+{
+  "category": "Volunteering",
+  "cards": [
+    { "bg": "доброволец", "en": "volunteer", "pronunciation": "dob-ro-VO-lets", "example": "Доброволците помагаха след наводнението.", "type": "noun" },
+    { "bg": "доброволчество", "en": "volunteering", "pronunciation": "dob-ro-VOL-ches-tvo", "example": "Доброволчеството ме научи на много неща.", "type": "noun" },
+    { "bg": "помагам", "en": "to help", "pronunciation": "po-MA-gam", "example": "Помагам в приют за бездомни животни.", "type": "verb" },
+    { "bg": "дарявам", "en": "to donate", "pronunciation": "da-RYA-vam", "example": "Дарявам дрехи и храна на нуждаещи се.", "type": "verb" },
+    { "bg": "дарение", "en": "donation", "pronunciation": "da-RE-ni-e", "example": "Всяко дарение е важно, колкото и малко да е.", "type": "noun" },
+    { "bg": "благотворителност", "en": "charity", "pronunciation": "bla-go-tvo-RI-tel-nost", "example": "Организирахме благотворителен базар.", "type": "noun" },
+    { "bg": "кампания", "en": "campaign", "pronunciation": "kam-PA-ni-ya", "example": "Участвам в кампания за почистване на парковете.", "type": "noun" },
+    { "bg": "кауза", "en": "cause", "pronunciation": "KA-u-za", "example": "Всеки може да намери каузата, за която да се бори.", "type": "noun" },
+    { "bg": "приют", "en": "shelter", "pronunciation": "pri-YUT", "example": "Приютът за бездомни кучета търси доброволци.", "type": "noun" },
+    { "bg": "нуждаещ се", "en": "person in need", "pronunciation": "nuzh-DA-esht se", "example": "Раздаваме топла храна на нуждаещи се.", "type": "noun" },
+    { "bg": "организация", "en": "organization", "pronunciation": "or-ga-ni-ZA-tsi-ya", "example": "Неправителствените организации правят много добро.", "type": "noun" },
+    { "bg": "инициатива", "en": "initiative", "pronunciation": "i-ni-tsi-a-TI-va", "example": "Гражданската инициатива събра хиляди поддръжници.", "type": "noun" },
+    { "bg": "почиствам", "en": "to clean up", "pronunciation": "po-CHIST-vam", "example": "Всяка пролет почистваме плажа от боклуци.", "type": "verb" },
+    { "bg": "засаждам", "en": "to plant", "pronunciation": "za-SAZH-dam", "example": "Засадихме сто дървета в парка.", "type": "verb" },
+    { "bg": "кръводаряване", "en": "blood donation", "pronunciation": "kru-vo-da-RYA-va-ne", "example": "Отивам на кръводаряване два пъти годишно.", "type": "noun" },
+    { "bg": "събирам средства", "en": "to fundraise", "pronunciation": "su-BI-ram SRED-stva", "example": "Събираме средства за ремонт на детската градина.", "type": "phrase" },
+    { "bg": "безвъзмезден", "en": "unpaid/voluntary", "pronunciation": "bez-vuz-MEZ-den", "example": "Работата е безвъзмездна, но много удовлетворяваща.", "type": "adjective" },
+    { "bg": "общност", "en": "community", "pronunciation": "OBSHT-nost", "example": "Общността се обединява в трудни моменти.", "type": "noun" },
+    { "bg": "отговорност", "en": "responsibility", "pronunciation": "ot-go-VOR-nost", "example": "Чувствам отговорност към природата.", "type": "noun" },
+    { "bg": "промяна", "en": "change", "pronunciation": "pro-MYA-na", "example": "Всеки може да направи промяна.", "type": "noun" },
+    { "bg": "подкрепям", "en": "to support", "pronunciation": "pod-kre-PYAM", "example": "Подкрепяме семейства в затруднено положение.", "type": "verb" },
+    { "bg": "осиновявам", "en": "to adopt", "pronunciation": "o-si-no-VYA-vam", "example": "Осиновихме куче от приюта.", "type": "verb" }
+  ]
+}
