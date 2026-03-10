@@ -1,0 +1,27 @@
+{
+  "category": "Fairy Tales",
+  "cards": [
+    { "bg": "приказка", "en": "fairy tale/story", "pronunciation": "pri-KAZ-ka", "example": "Разкажи ми една приказка преди лягане.", "type": "noun" },
+    { "bg": "герой", "en": "hero", "pronunciation": "ge-ROY", "example": "Героят победи дракона.", "type": "noun" },
+    { "bg": "принцеса", "en": "princess", "pronunciation": "prin-TSE-sa", "example": "Принцесата живееше в голям замък.", "type": "noun" },
+    { "bg": "принц", "en": "prince", "pronunciation": "prints", "example": "Принцът тръгна на дълго пътешествие.", "type": "noun" },
+    { "bg": "крал", "en": "king", "pronunciation": "kral", "example": "Кралят управляваше мъдро.", "type": "noun" },
+    { "bg": "кралица", "en": "queen", "pronunciation": "kra-LI-tsa", "example": "Кралицата беше добра и справедлива.", "type": "noun" },
+    { "bg": "вещица", "en": "witch", "pronunciation": "vesh-TI-tsa", "example": "Злата вещица омагьоса принцесата.", "type": "noun" },
+    { "bg": "дракон", "en": "dragon", "pronunciation": "dra-KON", "example": "Драконът пазеше съкровището.", "type": "noun" },
+    { "bg": "замък", "en": "castle", "pronunciation": "ZA-muk", "example": "Замъкът беше на върха на планината.", "type": "noun" },
+    { "bg": "вълшебство", "en": "magic/enchantment", "pronunciation": "vul-SHEB-stvo", "example": "Вълшебството превърна жабата в принц.", "type": "noun" },
+    { "bg": "вълшебна пръчка", "en": "magic wand", "pronunciation": "vul-SHEB-na PRUCH-ka", "example": "Феята махна с вълшебната пръчка.", "type": "noun" },
+    { "bg": "фея", "en": "fairy", "pronunciation": "FE-ya", "example": "Добрата фея помогна на момичето.", "type": "noun" },
+    { "bg": "великан", "en": "giant", "pronunciation": "ve-li-KAN", "example": "Великанът живееше в облаците.", "type": "noun" },
+    { "bg": "съкровище", "en": "treasure", "pronunciation": "suk-RO-vish-te", "example": "Намериха съкровище в пещерата.", "type": "noun" },
+    { "bg": "змей", "en": "zmey (Slavic dragon)", "pronunciation": "zmey", "example": "Змеят в българските приказки е могъщ.", "type": "noun" },
+    { "bg": "самодива", "en": "samodiva (forest nymph)", "pronunciation": "sa-mo-DI-va", "example": "Самодивите танцуват на поляните нощем.", "type": "noun" },
+    { "bg": "юнак", "en": "brave hero/warrior", "pronunciation": "yu-NAK", "example": "Юнакът победи змея и спаси момата.", "type": "noun" },
+    { "bg": "омагьосвам", "en": "to enchant/bewitch", "pronunciation": "o-ma-GYOS-vam", "example": "Вещицата омагьоса цялото кралство.", "type": "verb" },
+    { "bg": "спасявам", "en": "to save/rescue", "pronunciation": "spa-SYA-vam", "example": "Принцът спаси принцесата от кулата.", "type": "verb" },
+    { "bg": "превръщам", "en": "to transform/turn into", "pronunciation": "pre-VRUSH-tam", "example": "Магията го превърна в лебед.", "type": "verb" },
+    { "bg": "имало едно време", "en": "once upon a time", "pronunciation": "i-MA-lo ed-NO VRE-me", "example": "Имало едно време един цар с три сина.", "type": "phrase" },
+    { "bg": "и заживели щастливо", "en": "and they lived happily ever after", "pronunciation": "i za-zhi-VE-li shtast-LI-vo", "example": "И заживели щастливо до края на дните си.", "type": "phrase" }
+  ]
+}
