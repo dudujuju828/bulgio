@@ -1,0 +1,30 @@
+{
+  "category": "Weddings",
+  "cards": [
+    { "bg": "сватба", "en": "wedding", "pronunciation": "SVAT-ba", "example": "Сватбата ще бъде през септември.", "type": "noun" },
+    { "bg": "булка", "en": "bride", "pronunciation": "BUL-ka", "example": "Булката беше прекрасна в бялата си рокля.", "type": "noun" },
+    { "bg": "младоженец", "en": "groom", "pronunciation": "mla-do-ZHE-nets", "example": "Младоженецът чакаше пред олтара.", "type": "noun" },
+    { "bg": "венчавка", "en": "church wedding ceremony", "pronunciation": "ven-CHAV-ka", "example": "Венчавката беше в старата църква.", "type": "noun" },
+    { "bg": "граждански брак", "en": "civil marriage", "pronunciation": "GRAZH-dan-ski brak", "example": "Първо направихме граждански брак в общината.", "type": "noun" },
+    { "bg": "халки", "en": "wedding rings", "pronunciation": "HAL-ki", "example": "Разменихме халките пред всички гости.", "type": "noun" },
+    { "bg": "букет", "en": "bouquet", "pronunciation": "bu-KET", "example": "Булката хвърли букета към неомъжените момичета.", "type": "noun" },
+    { "bg": "воал", "en": "veil", "pronunciation": "vo-AL", "example": "Воалът на булката беше дълъг и красив.", "type": "noun" },
+    { "bg": "кум", "en": "best man / godfather of wedding", "pronunciation": "kum", "example": "Кумът произнесе реч за младоженците.", "type": "noun" },
+    { "bg": "кума", "en": "maid of honor / godmother of wedding", "pronunciation": "ku-MA", "example": "Кумата помогна на булката с роклята.", "type": "noun" },
+    { "bg": "гости", "en": "guests", "pronunciation": "GOS-ti", "example": "На сватбата имаше над двеста гости.", "type": "noun" },
+    { "bg": "покана", "en": "invitation", "pronunciation": "po-KA-na", "example": "Получихме покана за сватбата.", "type": "noun" },
+    { "bg": "сватбена торта", "en": "wedding cake", "pronunciation": "SVAT-be-na TOR-ta", "example": "Сватбената торта беше на три етажа.", "type": "noun" },
+    { "bg": "първи танц", "en": "first dance", "pronunciation": "PUR-vi tants", "example": "Първият танц на двойката беше валс.", "type": "noun" },
+    { "bg": "меден месец", "en": "honeymoon", "pronunciation": "ME-den ME-sets", "example": "Заминаваме на меден месец в Гърция.", "type": "noun" },
+    { "bg": "шаферки", "en": "bridesmaids", "pronunciation": "sha-FER-ki", "example": "Шаферките бяха облечени в розово.", "type": "noun" },
+    { "bg": "сватбена рокля", "en": "wedding dress", "pronunciation": "SVAT-be-na ROK-lya", "example": "Тя избра сватбена рокля от дантела.", "type": "noun" },
+    { "bg": "предложение", "en": "proposal", "pronunciation": "pred-lo-ZHE-ni-e", "example": "Той ѝ направи предложение на плажа.", "type": "noun" },
+    { "bg": "годеник", "en": "fiancé", "pronunciation": "go-de-NIK", "example": "Годеникът ѝ е от Пловдив.", "type": "noun" },
+    { "bg": "годеница", "en": "fiancée", "pronunciation": "go-de-NI-tsa", "example": "Годеницата му е учителка.", "type": "noun" },
+    { "bg": "черпня", "en": "wedding reception feast", "pronunciation": "CHERP-nya", "example": "Черпнята продължи до сутринта.", "type": "noun" },
+    { "bg": "сватбар", "en": "wedding guest/reveler", "pronunciation": "svat-BAR", "example": "Сватбарите играха хоро до зори.", "type": "noun" },
+    { "bg": "горчиво!", "en": "bitter! (guests shout for couple to kiss)", "pronunciation": "gor-CHI-vo", "example": "Гостите викаха „Горчиво!" и двамата се целунаха.", "type": "phrase" },
+    { "bg": "ергенско парти", "en": "bachelor party", "pronunciation": "er-GEN-sko PAR-ti", "example": "Ергенското парти беше в събота.", "type": "noun" },
+    { "bg": "моминско парти", "en": "bachelorette party", "pronunciation": "mo-MIN-sko PAR-ti", "example": "Моминското парти беше на море.", "type": "noun" }
+  ]
+}
