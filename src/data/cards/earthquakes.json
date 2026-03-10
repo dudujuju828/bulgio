@@ -1,0 +1,28 @@
+{
+  "category": "Earthquakes",
+  "cards": [
+    { "bg": "земетресение", "en": "earthquake", "pronunciation": "ze-me-tre-SE-ni-e", "example": "Снощи имаше земетресение с магнитуд четири.", "type": "noun" },
+    { "bg": "трус", "en": "tremor/quake", "pronunciation": "trus", "example": "Усетихме лек трус около полунощ.", "type": "noun" },
+    { "bg": "вторичен трус", "en": "aftershock", "pronunciation": "vto-RI-chen trus", "example": "След основния трус имаше няколко вторични.", "type": "noun" },
+    { "bg": "магнитуд", "en": "magnitude", "pronunciation": "mag-ni-TUD", "example": "Земетресението беше с магнитуд пет и две.", "type": "noun" },
+    { "bg": "епицентър", "en": "epicenter", "pronunciation": "e-pi-TSEN-tur", "example": "Епицентърът беше близо до Перник.", "type": "noun" },
+    { "bg": "разлом", "en": "fault (geological)", "pronunciation": "raz-LOM", "example": "България се намира върху няколко разлома.", "type": "noun" },
+    { "bg": "тресе се", "en": "to shake/tremble", "pronunciation": "TRE-se se", "example": "Земята се тресеше десет секунди.", "type": "verb" },
+    { "bg": "люлея се", "en": "to sway", "pronunciation": "lyu-LE-ya se", "example": "Полилеят започна да се люлее.", "type": "verb" },
+    { "bg": "пукнатина", "en": "crack", "pronunciation": "puk-NA-ti-na", "example": "Появиха се пукнатини по стената.", "type": "noun" },
+    { "bg": "срутване", "en": "collapse", "pronunciation": "SRUT-va-ne", "example": "За щастие нямаше срутване на сгради.", "type": "noun" },
+    { "bg": "евакуирам", "en": "to evacuate", "pronunciation": "e-va-ku-I-ram", "example": "Евакуирахме сградата веднага.", "type": "verb" },
+    { "bg": "паника", "en": "panic", "pronunciation": "PA-ni-ka", "example": "Не изпадайте в паника при трус.", "type": "noun" },
+    { "bg": "сеизмолог", "en": "seismologist", "pronunciation": "se-iz-mo-LOG", "example": "Сеизмологът обясни причините за труса.", "type": "noun" },
+    { "bg": "сеизмограф", "en": "seismograph", "pronunciation": "se-iz-mo-GRAF", "example": "Сеизмографът регистрира трусове по цял свят.", "type": "noun" },
+    { "bg": "скала по Рихтер", "en": "Richter scale", "pronunciation": "ska-LA po RIH-ter", "example": "Земетресението е четири по скалата на Рихтер.", "type": "noun" },
+    { "bg": "подслонявам се", "en": "to take shelter", "pronunciation": "pod-slo-NYA-vam se", "example": "Подслони се под масата при земетресение.", "type": "verb" },
+    { "bg": "спасителен екип", "en": "rescue team", "pronunciation": "spa-SI-te-len e-KIP", "example": "Спасителните екипи претърсваха развалините.", "type": "noun" },
+    { "bg": "развалини", "en": "ruins/rubble", "pronunciation": "raz-VA-li-ni", "example": "Извадиха оцелели изпод развалините.", "type": "noun" },
+    { "bg": "щети", "en": "damage", "pronunciation": "SHTE-ti", "example": "Щетите от земетресението са значителни.", "type": "noun" },
+    { "bg": "сеизмична зона", "en": "seismic zone", "pronunciation": "se-IZ-mich-na ZO-na", "example": "Югозападна България е в активна сеизмична зона.", "type": "noun" },
+    { "bg": "земна кора", "en": "earth's crust", "pronunciation": "ZEM-na ko-RA", "example": "Трусовете се пораждат в земната кора.", "type": "noun" },
+    { "bg": "устойчивост", "en": "resistance/resilience", "pronunciation": "us-TOY-chi-vost", "example": "Новите сгради са с по-добра сеизмична устойчивост.", "type": "noun" },
+    { "bg": "аварийна чанта", "en": "emergency bag/go bag", "pronunciation": "a-va-RIY-na CHAN-ta", "example": "Подгответе аварийна чанта с вода и документи.", "type": "noun" }
+  ]
+}
