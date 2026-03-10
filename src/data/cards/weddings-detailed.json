@@ -1,0 +1,28 @@
+{
+  "category": "Weddings (Detailed)",
+  "cards": [
+    { "bg": "сватба", "en": "wedding", "pronunciation": "SVAT-ba", "example": "Сватбата е в събота в село Арбанаси.", "type": "noun" },
+    { "bg": "булка", "en": "bride", "pronunciation": "BUL-ka", "example": "Булката е с бяла рокля и воал.", "type": "noun" },
+    { "bg": "младоженец", "en": "groom", "pronunciation": "mla-do-ZHE-nets", "example": "Младоженецът чака пред олтара.", "type": "noun" },
+    { "bg": "кум", "en": "best man/godfather (wedding)", "pronunciation": "kum", "example": "Кумът държи речта на сватбата.", "type": "noun" },
+    { "bg": "кума", "en": "maid of honor/godmother (wedding)", "pronunciation": "ku-MA", "example": "Кумата помага на булката с подготовката.", "type": "noun" },
+    { "bg": "венчавка", "en": "church wedding ceremony", "pronunciation": "ven-CHAV-ka", "example": "Венчавката е в църквата Свети Александър Невски.", "type": "noun" },
+    { "bg": "граждански брак", "en": "civil marriage", "pronunciation": "GRAZH-dan-ski brak", "example": "Гражданският брак е в общината.", "type": "noun" },
+    { "bg": "халки", "en": "wedding rings", "pronunciation": "HAL-ki", "example": "Размениха халките пред олтара.", "type": "noun" },
+    { "bg": "булчински букет", "en": "bridal bouquet", "pronunciation": "bul-CHIN-ski bu-KET", "example": "Булката хвърля букета към неомъжените.", "type": "noun" },
+    { "bg": "воал", "en": "veil", "pronunciation": "vo-AL", "example": "Воалът е от дантела.", "type": "noun" },
+    { "bg": "булчинска рокля", "en": "wedding dress", "pronunciation": "bul-CHIN-ska ROK-lya", "example": "Булчинската рокля е ушита по поръчка.", "type": "noun" },
+    { "bg": "сватбена торта", "en": "wedding cake", "pronunciation": "SVAT-be-na TOR-ta", "example": "Сватбената торта е на три етажа.", "type": "noun" },
+    { "bg": "сватбен марш", "en": "wedding march", "pronunciation": "SVAT-ben marsh", "example": "Зазвуча сватбеният марш и булката влезе.", "type": "noun" },
+    { "bg": "годеж", "en": "engagement", "pronunciation": "go-DEZH", "example": "Годежът беше изненада за всички.", "type": "noun" },
+    { "bg": "годежен пръстен", "en": "engagement ring", "pronunciation": "go-DE-zhen PRUS-ten", "example": "Годежният пръстен е с диамант.", "type": "noun" },
+    { "bg": "покана", "en": "invitation", "pronunciation": "po-KA-na", "example": "Изпратихме сто покани за сватбата.", "type": "noun" },
+    { "bg": "тамада", "en": "toastmaster/MC", "pronunciation": "ta-ma-DA", "example": "Тамадата организира игрите и тостовете.", "type": "noun" },
+    { "bg": "тост", "en": "toast (speech)", "pronunciation": "tost", "example": "Кумът вдигна тост за младоженците.", "type": "noun" },
+    { "bg": "първи танц", "en": "first dance", "pronunciation": "PUR-vi tants", "example": "Първият танц на двойката беше валс.", "type": "noun" },
+    { "bg": "хоро", "en": "horo (traditional circle dance)", "pronunciation": "ho-RO", "example": "Цялата сватба се хвана на хоро.", "type": "noun" },
+    { "bg": "меден месец", "en": "honeymoon", "pronunciation": "ME-den ME-sets", "example": "Меденият месец е в Гърция.", "type": "noun" },
+    { "bg": "сватбен фотограф", "en": "wedding photographer", "pronunciation": "SVAT-ben fo-TO-graf", "example": "Сватбеният фотограф снима от сутринта.", "type": "noun" },
+    { "bg": "черпене", "en": "treating/offering (tradition)", "pronunciation": "CHER-pe-ne", "example": "На сватбата черпят с ракия и баница.", "type": "noun" }
+  ]
+}
