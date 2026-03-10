@@ -1,0 +1,26 @@
+{
+  "category": "Technology",
+  "cards": [
+    { "bg": "компютър", "en": "computer", "pronunciation": "kom-PYU-tur", "example": "Работя на компютъра всеки ден.", "type": "noun" },
+    { "bg": "телефон", "en": "phone", "pronunciation": "te-le-FON", "example": "Телефонът ми звъни.", "type": "noun" },
+    { "bg": "интернет", "en": "internet", "pronunciation": "in-ter-NET", "example": "Имате ли интернет тук?", "type": "noun" },
+    { "bg": "парола", "en": "password", "pronunciation": "pa-RO-la", "example": "Каква е паролата за WiFi?", "type": "noun" },
+    { "bg": "екран", "en": "screen", "pronunciation": "ek-RAN", "example": "Екранът е много голям.", "type": "noun" },
+    { "bg": "клавиатура", "en": "keyboard", "pronunciation": "kla-vi-a-TU-ra", "example": "Клавиатурата е на кирилица.", "type": "noun" },
+    { "bg": "мишка", "en": "mouse (computer)", "pronunciation": "MISH-ka", "example": "Мишката не работи добре.", "type": "noun" },
+    { "bg": "принтер", "en": "printer", "pronunciation": "PRIN-ter", "example": "Принтерът няма хартия.", "type": "noun" },
+    { "bg": "имейл", "en": "email", "pronunciation": "i-MEYL", "example": "Изпратих ти имейл снощи.", "type": "noun" },
+    { "bg": "съобщение", "en": "message", "pronunciation": "su-ob-SHTE-ni-e", "example": "Получих съобщение от приятел.", "type": "noun" },
+    { "bg": "приложение", "en": "app/application", "pronunciation": "pri-lo-ZHE-ni-e", "example": "Свалих ново приложение на телефона.", "type": "noun" },
+    { "bg": "уебсайт", "en": "website", "pronunciation": "ueb-SAYT", "example": "Уебсайтът има много информация.", "type": "noun" },
+    { "bg": "зареждам", "en": "to charge", "pronunciation": "za-REZH-dam", "example": "Трябва да заредя телефона си.", "type": "verb" },
+    { "bg": "изтеглям", "en": "to download", "pronunciation": "iz-TEG-lyam", "example": "Изтеглих филма от интернет.", "type": "verb" },
+    { "bg": "снимам", "en": "to take a photo", "pronunciation": "SNI-mam", "example": "Снимам с телефона си.", "type": "verb" },
+    { "bg": "батерия", "en": "battery", "pronunciation": "ba-TE-ri-ya", "example": "Батерията е почти празна.", "type": "noun" },
+    { "bg": "зарядно", "en": "charger", "pronunciation": "za-RYAD-no", "example": "Имаш ли зарядно за телефон?", "type": "noun" },
+    { "bg": "камера", "en": "camera", "pronunciation": "KA-me-ra", "example": "Камерата на телефона е много добра.", "type": "noun" },
+    { "bg": "слушалки", "en": "headphones", "pronunciation": "slu-SHAL-ki", "example": "Слушам музика със слушалки.", "type": "noun" },
+    { "bg": "таблет", "en": "tablet", "pronunciation": "tab-LET", "example": "Децата играят на таблета.", "type": "noun" },
+    { "bg": "социална мрежа", "en": "social network", "pronunciation": "so-tsi-AL-na MRE-zha", "example": "Не прекарвай много време в социалните мрежи.", "type": "noun" }
+  ]
+}
