@@ -1,0 +1,28 @@
+{
+  "category": "Knitting & Crochet",
+  "cards": [
+    { "bg": "плетене", "en": "knitting", "pronunciation": "ple-TE-ne", "example": "Плетенето е любимото ми хоби зимата.", "type": "noun" },
+    { "bg": "плета", "en": "to knit", "pronunciation": "ple-TA", "example": "Баба плете чорапи за внуците.", "type": "verb" },
+    { "bg": "една на игла", "en": "crochet", "pronunciation": "ed-NA na ig-LA", "example": "Една на игла е по-лесно от плетене с две игли.", "type": "noun" },
+    { "bg": "прежда", "en": "yarn", "pronunciation": "PREZH-da", "example": "Купих мека вълнена прежда от пазара.", "type": "noun" },
+    { "bg": "игла за плетене", "en": "knitting needle", "pronunciation": "ig-LA za ple-TE-ne", "example": "Иглите за плетене са от бамбук.", "type": "noun" },
+    { "bg": "кука", "en": "crochet hook", "pronunciation": "KU-ka", "example": "Куката е с размер пет милиметра.", "type": "noun" },
+    { "bg": "вълна", "en": "wool", "pronunciation": "VUL-na", "example": "Вълната от българските овце е топла.", "type": "noun" },
+    { "bg": "памук", "en": "cotton (yarn)", "pronunciation": "pa-MUK", "example": "Памучната прежда е подходяща за лятото.", "type": "noun" },
+    { "bg": "бримка", "en": "stitch/loop", "pronunciation": "BRIM-ka", "example": "Изпуснах една бримка и трябва да я вдигна.", "type": "noun" },
+    { "bg": "ред", "en": "row", "pronunciation": "red", "example": "Изплетох двадесет реда за вечерта.", "type": "noun" },
+    { "bg": "шарка", "en": "pattern/design", "pronunciation": "SHAR-ka", "example": "Шарката е традиционна българска.", "type": "noun" },
+    { "bg": "шал", "en": "scarf/shawl", "pronunciation": "shal", "example": "Изплетох топъл шал за зимата.", "type": "noun" },
+    { "bg": "шапка", "en": "hat/beanie", "pronunciation": "SHAP-ka", "example": "Плетената шапка е с помпон.", "type": "noun" },
+    { "bg": "ръкавици", "en": "gloves/mittens", "pronunciation": "ru-ka-VI-tsi", "example": "Ръкавиците са с шарка на снежинки.", "type": "noun" },
+    { "bg": "пуловер", "en": "sweater/pullover", "pronunciation": "pu-lo-VER", "example": "Пуловерът е ръчно плетен от баба.", "type": "noun" },
+    { "bg": "жилетка", "en": "vest/cardigan", "pronunciation": "zhi-LET-ka", "example": "Жилетката е с копчета и джобове.", "type": "noun" },
+    { "bg": "чорапи", "en": "socks", "pronunciation": "cho-RA-pi", "example": "Вълнените чорапи са най-топлите.", "type": "noun" },
+    { "bg": "одеяло", "en": "blanket", "pronunciation": "o-de-YA-lo", "example": "Плетеното одеяло е подарък за бебето.", "type": "noun" },
+    { "bg": "кълбо", "en": "ball (of yarn)", "pronunciation": "KUL-bo", "example": "Котката си играе с кълбото прежда.", "type": "noun" },
+    { "bg": "набирам бримки", "en": "to cast on", "pronunciation": "na-BI-ram BRIM-ki", "example": "Набери петдесет бримки за началото.", "type": "verb" },
+    { "bg": "закривам бримки", "en": "to cast off/bind off", "pronunciation": "za-kri-VAM BRIM-ki", "example": "Закрий бримките на последния ред.", "type": "verb" },
+    { "bg": "права бримка", "en": "knit stitch", "pronunciation": "PRA-va BRIM-ka", "example": "Редувай права и обратна бримка.", "type": "noun" },
+    { "bg": "обратна бримка", "en": "purl stitch", "pronunciation": "ob-RAT-na BRIM-ka", "example": "Обратната бримка създава различна текстура.", "type": "noun" }
+  ]
+}
