@@ -1,0 +1,28 @@
+{
+  "category": "Funerals & Mourning",
+  "cards": [
+    { "bg": "погребение", "en": "funeral", "pronunciation": "po-gre-BE-ni-e", "example": "Погребението е утре в два часа.", "type": "noun" },
+    { "bg": "смърт", "en": "death", "pronunciation": "smurt", "example": "Научихме за смъртта му вчера.", "type": "noun" },
+    { "bg": "починал", "en": "deceased", "pronunciation": "po-chi-NAL", "example": "Починалият беше обичан от всички.", "type": "adjective" },
+    { "bg": "съболезнования", "en": "condolences", "pronunciation": "su-bo-LEZ-no-va-ni-ya", "example": "Приемете моите съболезнования.", "type": "noun" },
+    { "bg": "траур", "en": "mourning", "pronunciation": "TRA-ur", "example": "Семейството е в траур.", "type": "noun" },
+    { "bg": "гробище", "en": "cemetery", "pronunciation": "GRO-bi-shte", "example": "Ходим на гробищата на Задушница.", "type": "noun" },
+    { "bg": "гроб", "en": "grave", "pronunciation": "grob", "example": "Сложихме цветя на гроба.", "type": "noun" },
+    { "bg": "паметник", "en": "tombstone/monument", "pronunciation": "pa-MET-nik", "example": "Паметникът е от черен мрамор.", "type": "noun" },
+    { "bg": "венец", "en": "wreath (funeral)", "pronunciation": "ve-NETS", "example": "Донесохме венец от бели цветя.", "type": "noun" },
+    { "bg": "свещ", "en": "candle", "pronunciation": "svesht", "example": "Запалихме свещ за покойника.", "type": "noun" },
+    { "bg": "черква", "en": "church", "pronunciation": "CHER-kva", "example": "Опелото е в черквата на селото.", "type": "noun" },
+    { "bg": "свещеник", "en": "priest", "pronunciation": "sve-shte-NIK", "example": "Свещеникът отслужи панихида.", "type": "noun" },
+    { "bg": "опело", "en": "funeral service", "pronunciation": "o-PE-lo", "example": "Опелото започва в единадесет часа.", "type": "noun" },
+    { "bg": "панихида", "en": "memorial service", "pronunciation": "pa-ni-HI-da", "example": "Правим панихида на четиридесетия ден.", "type": "noun" },
+    { "bg": "Задушница", "en": "All Souls' Day (Bulgarian)", "pronunciation": "za-DUSH-ni-tsa", "example": "На Задушница посещаваме гробовете на близките.", "type": "noun" },
+    { "bg": "помен", "en": "memorial gathering/wake", "pronunciation": "PO-men", "example": "След погребението имаше помен в ресторанта.", "type": "noun" },
+    { "bg": "коливо", "en": "kolivo (memorial wheat dish)", "pronunciation": "ko-LI-vo", "example": "Коливото се раздава в памет на починалия.", "type": "noun" },
+    { "bg": "некролог", "en": "obituary", "pronunciation": "nek-ro-LOG", "example": "Некрологът е залепен на входа на блока.", "type": "noun" },
+    { "bg": "скърбя", "en": "to grieve/mourn", "pronunciation": "SKUR-bya", "example": "Скърбим за загубата на нашия приятел.", "type": "verb" },
+    { "bg": "покойник", "en": "the deceased", "pronunciation": "po-KOY-nik", "example": "Покойникът беше добър и щедър човек.", "type": "noun" },
+    { "bg": "кремация", "en": "cremation", "pronunciation": "kre-MA-tsi-ya", "example": "В България кремацията е по-рядка от погребението.", "type": "noun" },
+    { "bg": "наследство", "en": "inheritance", "pronunciation": "na-SLED-stvo", "example": "Наследството се разпредели между децата.", "type": "noun" },
+    { "bg": "завещание", "en": "will/testament", "pronunciation": "za-ve-SHTA-ni-e", "example": "Завещанието е при нотариуса.", "type": "noun" }
+  ]
+}
