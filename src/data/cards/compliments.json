@@ -1,0 +1,27 @@
+{
+  "category": "Compliments",
+  "cards": [
+    { "bg": "комплимент", "en": "compliment", "pronunciation": "kom-pli-MENT", "example": "Обичам да получавам комплименти.", "type": "noun" },
+    { "bg": "красив", "en": "beautiful (m)", "pronunciation": "kra-SIV", "example": "Много си красив днес!", "type": "adjective" },
+    { "bg": "красива", "en": "beautiful (f)", "pronunciation": "kra-SI-va", "example": "Ти си толкова красива!", "type": "adjective" },
+    { "bg": "страхотен", "en": "awesome/amazing", "pronunciation": "stra-HO-ten", "example": "Ти си страхотен приятел.", "type": "adjective" },
+    { "bg": "чудесен", "en": "wonderful", "pronunciation": "chu-DE-sen", "example": "Направи чудесна работа!", "type": "adjective" },
+    { "bg": "браво", "en": "bravo/well done", "pronunciation": "BRA-vo", "example": "Браво, справи се отлично!", "type": "phrase" },
+    { "bg": "харесвам те", "en": "I like you", "pronunciation": "ha-RES-vam te", "example": "Много те харесвам, ти си добър човек.", "type": "phrase" },
+    { "bg": "отива ти", "en": "it suits you", "pronunciation": "o-TI-va ti", "example": "Тази рокля много ти отива!", "type": "phrase" },
+    { "bg": "готин", "en": "cool/awesome", "pronunciation": "GO-tin", "example": "Новата ти кола е много готина.", "type": "adjective" },
+    { "bg": "талантлив", "en": "talented", "pronunciation": "ta-lant-LIV", "example": "Ти си изключително талантлив музикант.", "type": "adjective" },
+    { "bg": "вкусно е", "en": "it's delicious", "pronunciation": "VKUS-no e", "example": "Много е вкусно, браво за готвенето!", "type": "phrase" },
+    { "bg": "прекрасен", "en": "magnificent/lovely", "pronunciation": "pre-KRA-sen", "example": "Имаш прекрасна усмивка.", "type": "adjective" },
+    { "bg": "впечатляващ", "en": "impressive", "pronunciation": "vpe-chat-LYA-vasht", "example": "Резултатите ти са впечатляващи.", "type": "adjective" },
+    { "bg": "горд съм с теб", "en": "I'm proud of you", "pronunciation": "gord sum s teb", "example": "Горд съм с теб, много се постара!", "type": "phrase" },
+    { "bg": "добре изглеждаш", "en": "you look good", "pronunciation": "dob-RE iz-GLEZH-dash", "example": "Добре изглеждаш с новата прическа.", "type": "phrase" },
+    { "bg": "благодаря", "en": "thank you", "pronunciation": "bla-go-da-RYA", "example": "Благодаря за хубавите думи!", "type": "phrase" },
+    { "bg": "мил", "en": "sweet/kind", "pronunciation": "mil", "example": "Много си мила, благодаря ти.", "type": "adjective" },
+    { "bg": "забавен", "en": "funny/entertaining", "pronunciation": "za-BA-ven", "example": "Ти си много забавен, винаги ме караш да се смея.", "type": "adjective" },
+    { "bg": "интелигентен", "en": "intelligent", "pronunciation": "in-te-li-GEN-ten", "example": "Ти си много интелигентен човек.", "type": "adjective" },
+    { "bg": "елегантен", "en": "elegant", "pronunciation": "e-le-GAN-ten", "example": "Изглеждаш много елегантен тази вечер.", "type": "adjective" },
+    { "bg": "вдъхновяващ", "en": "inspiring", "pronunciation": "vduh-no-VYA-vasht", "example": "Историята ти е вдъхновяваща.", "type": "adjective" },
+    { "bg": "незаменим", "en": "irreplaceable", "pronunciation": "ne-za-me-NIM", "example": "Ти си незаменим за екипа ни.", "type": "adjective" }
+  ]
+}
