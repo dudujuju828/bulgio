@@ -1,0 +1,27 @@
+{
+  "category": "Watches & Time Keeping",
+  "cards": [
+    { "bg": "часовник", "en": "watch/clock", "pronunciation": "cha-SOV-nik", "example": "Часовникът ми показва три часа.", "type": "noun" },
+    { "bg": "ръчен часовник", "en": "wristwatch", "pronunciation": "RU-chen cha-SOV-nik", "example": "Ръченият часовник е подарък за абитуриентски бал.", "type": "noun" },
+    { "bg": "стенен часовник", "en": "wall clock", "pronunciation": "STE-nen cha-SOV-nik", "example": "Стенният часовник в кухнята изостава.", "type": "noun" },
+    { "bg": "будилник", "en": "alarm clock", "pronunciation": "bu-DIL-nik", "example": "Будилникът ме събужда в шест.", "type": "noun" },
+    { "bg": "стрелка", "en": "hand (of clock)", "pronunciation": "STREL-ka", "example": "Голямата стрелка е на дванадесет.", "type": "noun" },
+    { "bg": "циферблат", "en": "dial/face (of clock)", "pronunciation": "tsi-fer-BLAT", "example": "Циферблатът е с римски цифри.", "type": "noun" },
+    { "bg": "кварцов часовник", "en": "quartz watch", "pronunciation": "KVAR-tsov cha-SOV-nik", "example": "Кварцовият часовник е точен и евтин.", "type": "noun" },
+    { "bg": "механичен часовник", "en": "mechanical watch", "pronunciation": "me-ha-NI-chen cha-SOV-nik", "example": "Механичният часовник се навива ръчно.", "type": "noun" },
+    { "bg": "смарт часовник", "en": "smartwatch", "pronunciation": "smart cha-SOV-nik", "example": "Смарт часовникът брои стъпките ми.", "type": "noun" },
+    { "bg": "хронометър", "en": "chronometer/stopwatch", "pronunciation": "hro-no-ME-tur", "example": "Хронометърът мери времето с точност.", "type": "noun" },
+    { "bg": "навивам", "en": "to wind (a watch)", "pronunciation": "na-VI-vam", "example": "Навивай часовника всяка сутрин.", "type": "verb" },
+    { "bg": "каишка", "en": "watch strap/band", "pronunciation": "ka-ISH-ka", "example": "Каишката е от кафява кожа.", "type": "noun" },
+    { "bg": "гривна", "en": "bracelet (watch)", "pronunciation": "GRIV-na", "example": "Металната гривна е от неръждаема стомана.", "type": "noun" },
+    { "bg": "водоустойчив", "en": "waterproof/water-resistant", "pronunciation": "vo-do-us-TOY-chiv", "example": "Часовникът е водоустойчив до сто метра.", "type": "adjective" },
+    { "bg": "лятно часово време", "en": "daylight saving time", "pronunciation": "LYAT-no cha-SO-vo VRE-me", "example": "Преминаваме към лятно часово време в март.", "type": "noun" },
+    { "bg": "зимно часово време", "en": "standard time", "pronunciation": "ZIM-no cha-SO-vo VRE-me", "example": "В октомври връщаме часовниците с час назад.", "type": "noun" },
+    { "bg": "часова зона", "en": "time zone", "pronunciation": "cha-SO-va ZO-na", "example": "България е в източноевропейската часова зона.", "type": "noun" },
+    { "bg": "точен", "en": "accurate/on time", "pronunciation": "TO-chen", "example": "Часовникът е много точен.", "type": "adjective" },
+    { "bg": "бързам", "en": "to be fast (clock)", "pronunciation": "BUR-zam", "example": "Часовникът ми бърза с пет минути.", "type": "verb" },
+    { "bg": "изостава", "en": "to be slow (clock)", "pronunciation": "i-zo-STA-va", "example": "Стенният часовник изостава.", "type": "verb" },
+    { "bg": "полунощ", "en": "midnight", "pronunciation": "po-lu-NOSHT", "example": "На полунощ на Нова година пием шампанско.", "type": "noun" },
+    { "bg": "пладне", "en": "noon/midday", "pronunciation": "PLAD-ne", "example": "Обедната почивка е в пладне.", "type": "noun" }
+  ]
+}
