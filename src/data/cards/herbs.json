@@ -1,0 +1,29 @@
+{
+  "category": "Herbs",
+  "cards": [
+    { "bg": "билка", "en": "herb", "pronunciation": "BIL-ka", "example": "В Родопите растат много лечебни билки.", "type": "noun" },
+    { "bg": "чай от билки", "en": "herbal tea", "pronunciation": "chay ot BIL-ki", "example": "Пия чай от билки преди лягане.", "type": "noun" },
+    { "bg": "мента", "en": "mint", "pronunciation": "MEN-ta", "example": "Ментата освежава и помага за храносмилането.", "type": "noun" },
+    { "bg": "лайка", "en": "chamomile", "pronunciation": "LAY-ka", "example": "Чай от лайка успокоява нервите.", "type": "noun" },
+    { "bg": "мащерка", "en": "thyme", "pronunciation": "mash-TER-ka", "example": "Мащерката расте по сухите хълмове.", "type": "noun" },
+    { "bg": "риган", "en": "oregano", "pronunciation": "ri-GAN", "example": "Риганът е незаменим за пица и салати.", "type": "noun" },
+    { "bg": "босилек", "en": "basil", "pronunciation": "bo-si-LEK", "example": "Босилекът гони комарите и мирише прекрасно.", "type": "noun" },
+    { "bg": "магданоз", "en": "parsley", "pronunciation": "mag-da-NOZ", "example": "Нарежи магданоз за гарнитура на супата.", "type": "noun" },
+    { "bg": "копър", "en": "dill", "pronunciation": "ko-PUR", "example": "Копърът е задължителен за таратора.", "type": "noun" },
+    { "bg": "розмарин", "en": "rosemary", "pronunciation": "roz-ma-RIN", "example": "Розмаринът е чудесен за печено агне.", "type": "noun" },
+    { "bg": "лавандула", "en": "lavender", "pronunciation": "la-van-DU-la", "example": "Лавандулата расте в полетата край Карлово.", "type": "noun" },
+    { "bg": "жълт кантарион", "en": "St. John's wort", "pronunciation": "zhult kan-ta-ri-ON", "example": "Жълтият кантарион се бере по Еньовден.", "type": "noun" },
+    { "bg": "шипка", "en": "rosehip", "pronunciation": "SHIP-ka", "example": "Чаят от шипка е богат на витамин C.", "type": "noun" },
+    { "bg": "липа", "en": "linden/lime blossom", "pronunciation": "LI-pa", "example": "Чай от липа пия при настинка.", "type": "noun" },
+    { "bg": "бъз", "en": "elderflower", "pronunciation": "buz", "example": "Правим сироп от бъз напролет.", "type": "noun" },
+    { "bg": "коприва", "en": "nettle", "pronunciation": "kop-RI-va", "example": "Копривата е много полезна, макар и да парí.", "type": "noun" },
+    { "bg": "градински чай", "en": "sage (garden tea)", "pronunciation": "gra-DIN-ski chay", "example": "Градинският чай помага при болно гърло.", "type": "noun" },
+    { "bg": "здравец", "en": "zdravets (Bulgarian geranium)", "pronunciation": "ZDRA-vets", "example": "Здравецът е символ на здравето в България.", "type": "noun" },
+    { "bg": "билкар", "en": "herbalist", "pronunciation": "bil-KAR", "example": "Билкарят от планината познава всяко растение.", "type": "noun" },
+    { "bg": "берач на билки", "en": "herb gatherer", "pronunciation": "be-RACH na BIL-ki", "example": "Берачите на билки тръгват рано сутринта.", "type": "noun" },
+    { "bg": "изсушавам", "en": "to dry (herbs)", "pronunciation": "iz-su-SHA-vam", "example": "Изсушаваме билките на сянка.", "type": "verb" },
+    { "bg": "отвара", "en": "decoction/brew", "pronunciation": "ot-VA-ra", "example": "Направи отвара от мащерка за кашлицата.", "type": "noun" },
+    { "bg": "лечебен", "en": "medicinal/healing", "pronunciation": "le-CHE-ben", "example": "Много билки имат лечебни свойства.", "type": "adjective" },
+    { "bg": "подправка", "en": "seasoning/spice", "pronunciation": "pod-PRAV-ka", "example": "Свежите подправки правят ястието по-вкусно.", "type": "noun" }
+  ]
+}
