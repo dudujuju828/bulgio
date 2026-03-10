@@ -1,0 +1,21 @@
+{
+  "category": "Grammar",
+  "cards": [
+    { "bg": "аз съм, ти си, той/тя е", "en": "Verb 'to be': аз съм (I am), ти си (you are), той/тя е (he/she is), ние сме, вие сте, те са", "pronunciation": "sum, si, e, sme, ste, sa", "example": "Аз съм ученик. Ти си готов. Тя е тук.", "type": "rule" },
+    { "bg": "Няма инфинитив — използвай 'да'", "en": "No infinitive form in Bulgarian. Use 'да' + verb instead: искам да ям (I want to eat)", "pronunciation": "da + verb", "example": "Искам да ям. Мога да говоря. Трябва да уча.", "type": "rule" },
+    { "bg": "Членуване: -ът/-а, -та, -то, -те", "en": "Articles are suffixes, not separate words: стол → столът (the chair), жена → жената (the woman)", "pronunciation": "suffix: -at/-a, -ta, -to, -te", "example": "Столът е нов. Жената е тук. Детето спи.", "type": "rule" },
+    { "bg": "Пълен vs. кратък член: -ът vs. -а", "en": "Use full article (-ът/-ят) for subjects, short (-а/-я) for objects: Мъжът (subject) вижда мъжа (object)", "pronunciation": "-at for subject, -a for object", "example": "Мъжът чете книгата. Виждам мъжа.", "type": "rule" },
+    { "bg": "Род: мъжки, женски, среден", "en": "3 genders: masculine (consonant ending), feminine (-а/-я), neuter (-о/-е): стол (m), маса (f), дете (n)", "pronunciation": "mazhki, zhenski, sreden", "example": "Голям стол. Голяма маса. Голямо дете.", "type": "rule" },
+    { "bg": "Множествено число", "en": "Plurals vary by gender: -и/-ове (m), -и (f), -а/-та (n): столове, жени, деца", "pronunciation": "-i, -ove, -a, -ta", "example": "Два стола. Три жени. Четири деца.", "type": "rule" },
+    { "bg": "Отрицание с 'не'", "en": "Negation: put 'не' before the verb. Не знам (I don't know). Не мога (I can't)", "pronunciation": "ne + verb", "example": "Не знам. Не мога. Не искам.", "type": "rule" },
+    { "bg": "Няма / нямам", "en": "'Няма' = there is no / doesn't exist. 'Нямам' = I don't have. Opposite of има/имам", "pronunciation": "NYA-ma / NYA-mam", "example": "Няма хляб. Нямам време. Няма проблем.", "type": "rule" },
+    { "bg": "Въпроси с 'ли'", "en": "Yes/no questions: add 'ли' after the verb. Говориш ли български? (Do you speak Bulgarian?)", "pronunciation": "verb + li", "example": "Искаш ли кафе? Можеш ли да дойдеш?", "type": "rule" },
+    { "bg": "Минало свършено време: -х, -и/а/о, -хме, -хте, -ха", "en": "Past tense (aorist): add endings to the verb stem. Аз писах (I wrote), той писа, ние писахме", "pronunciation": "-h, -0, -hme, -hte, -ha", "example": "Ядох баница. Тя отиде на работа. Те дойдоха вчера.", "type": "rule" },
+    { "bg": "Бъдеще време: ще + verb", "en": "Future tense: 'ще' + present tense verb. Ще ям (I will eat). Ще отида (I will go)", "pronunciation": "shte + verb", "example": "Ще дойда утре. Ще ядем навън. Ще учим заедно.", "type": "rule" },
+    { "bg": "Кратките местоимения: ми, ти, му, й", "en": "Short pronouns (clitic): ми (me), ти (you), му (him), й (her). Go before or after verb", "pronunciation": "mi, ti, mu, y", "example": "Дай ми вода. Кажи му. Помогни й.", "type": "rule" },
+    { "bg": "Местоимения: аз, ти, той/тя/то, ние, вие, те", "en": "Personal pronouns: аз (I), ти (you), той (he), тя (she), то (it), ние (we), вие (you pl./formal), те (they)", "pronunciation": "az, ti, toy, tya, to, nie, vie, te", "example": "Аз уча. Ти знаеш. Те идват.", "type": "rule" },
+    { "bg": "Глаголни спрежения: I, II, III", "en": "3 verb conjugations: I (-а/-я: четА), II (-а/-я: говорЯ with -и- stem), III (-ам/-ям: имАМ)", "pronunciation": "1st, 2nd, 3rd conjugation", "example": "Чета (I). Говоря (II). Имам (III).", "type": "rule" },
+    { "bg": "Предлози: в, на, от, за, с, до", "en": "Common prepositions: в (in), на (on/at/of), от (from), за (for/about), с (with), до (to/next to)", "pronunciation": "v, na, ot, za, s, do", "example": "Живея в София. Отивам на работа. Идвам от училище.", "type": "rule" },
+    { "bg": "Броене: мъжки род с '-а' след число", "en": "Counting masculine nouns: use -а/-я form after numbers. Два стола (not столове). Три молива", "pronunciation": "number + noun-a", "example": "Два стола. Пет молива. Три часа.", "type": "rule" }
+  ]
+}
