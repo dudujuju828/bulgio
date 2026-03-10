@@ -1,0 +1,27 @@
+{
+  "category": "Reptiles & Amphibians",
+  "cards": [
+    { "bg": "влечуго", "en": "reptile", "pronunciation": "VLE-chu-go", "example": "Влечугите са хладнокръвни животни.", "type": "noun" },
+    { "bg": "змия", "en": "snake", "pronunciation": "ZMI-ya", "example": "Видях змия на пътеката в планината.", "type": "noun" },
+    { "bg": "пепелянка", "en": "viper (common European)", "pronunciation": "pe-pe-LYAN-ka", "example": "Пепелянката е единствената отровна змия в България.", "type": "noun" },
+    { "bg": "смок", "en": "rat snake/non-venomous snake", "pronunciation": "smok", "example": "Смокът не е опасен и яде мишки.", "type": "noun" },
+    { "bg": "гущер", "en": "lizard", "pronunciation": "GU-shter", "example": "Гущерът се грее на слънце върху камъка.", "type": "noun" },
+    { "bg": "костенурка", "en": "tortoise/turtle", "pronunciation": "kos-te-NUR-ka", "example": "Шипобедрената костенурка е защитен вид в България.", "type": "noun" },
+    { "bg": "крокодил", "en": "crocodile", "pronunciation": "kro-ko-DIL", "example": "Крокодилите живеят в тропическите реки.", "type": "noun" },
+    { "bg": "хамелеон", "en": "chameleon", "pronunciation": "ha-me-le-ON", "example": "Хамелеонът сменя цвета си.", "type": "noun" },
+    { "bg": "игуана", "en": "iguana", "pronunciation": "i-gu-A-na", "example": "Игуаната е популярен екзотичен домашен любимец.", "type": "noun" },
+    { "bg": "жаба", "en": "frog", "pronunciation": "ZHA-ba", "example": "Жабите квакат в блатото вечер.", "type": "noun" },
+    { "bg": "дъждовник", "en": "salamander", "pronunciation": "duzh-dov-NIK", "example": "Дъждовникът живее в планинските потоци.", "type": "noun" },
+    { "bg": "тритон", "en": "newt", "pronunciation": "tri-TON", "example": "Тритонът е защитен вид в някои райони.", "type": "noun" },
+    { "bg": "отрова", "en": "venom/poison", "pronunciation": "ot-RO-va", "example": "Отровата на пепелянката рядко е смъртоносна.", "type": "noun" },
+    { "bg": "отровен", "en": "venomous/poisonous", "pronunciation": "ot-RO-ven", "example": "Не всички змии са отровни.", "type": "adjective" },
+    { "bg": "люспа", "en": "scale (reptile)", "pronunciation": "LYUS-pa", "example": "Люспите на змията блестят на слънце.", "type": "noun" },
+    { "bg": "смяна на кожата", "en": "shedding (skin)", "pronunciation": "SMYA-na na KO-zha-ta", "example": "Змията сменя кожата си няколко пъти годишно.", "type": "noun" },
+    { "bg": "черупка", "en": "shell (tortoise)", "pronunciation": "che-RUP-ka", "example": "Костенурката се крие в черупката си.", "type": "noun" },
+    { "bg": "яйце", "en": "egg (reptile)", "pronunciation": "yay-TSE", "example": "Костенурката снесе яйца в пясъка.", "type": "noun" },
+    { "bg": "терариум", "en": "terrarium", "pronunciation": "te-RA-ri-um", "example": "Държим гущера в терариум.", "type": "noun" },
+    { "bg": "хладнокръвен", "en": "cold-blooded", "pronunciation": "hlad-no-KRU-ven", "example": "Хладнокръвните животни зависят от топлината.", "type": "adjective" },
+    { "bg": "защитен вид", "en": "protected species", "pronunciation": "za-shti-TEN vid", "example": "Шипоопашатата костенурка е защитен вид.", "type": "noun" },
+    { "bg": "ухапване от змия", "en": "snakebite", "pronunciation": "u-HAP-va-ne ot ZMI-ya", "example": "При ухапване от змия отидете веднага в болница.", "type": "noun" }
+  ]
+}
