@@ -1,0 +1,27 @@
+{
+  "category": "Planets & Solar System",
+  "cards": [
+    { "bg": "Слънце", "en": "Sun", "pronunciation": "SLUN-tse", "example": "Слънцето е звездата в центъра на нашата система.", "type": "noun" },
+    { "bg": "Меркурий", "en": "Mercury", "pronunciation": "mer-KU-riy", "example": "Меркурий е най-близката планета до Слънцето.", "type": "noun" },
+    { "bg": "Венера", "en": "Venus", "pronunciation": "VE-ne-ra", "example": "Венера е най-горещата планета.", "type": "noun" },
+    { "bg": "Земя", "en": "Earth", "pronunciation": "zem-YA", "example": "Земята е единствената планета с живот.", "type": "noun" },
+    { "bg": "Марс", "en": "Mars", "pronunciation": "mars", "example": "Марс е известен като Червената планета.", "type": "noun" },
+    { "bg": "Юпитер", "en": "Jupiter", "pronunciation": "YU-pi-ter", "example": "Юпитер е най-голямата планета в Слънчевата система.", "type": "noun" },
+    { "bg": "Сатурн", "en": "Saturn", "pronunciation": "sa-TURN", "example": "Сатурн е известен с красивите си пръстени.", "type": "noun" },
+    { "bg": "Уран", "en": "Uranus", "pronunciation": "u-RAN", "example": "Уран се върти наклонен на една страна.", "type": "noun" },
+    { "bg": "Нептун", "en": "Neptune", "pronunciation": "nep-TUN", "example": "Нептун е най-далечната планета от Слънцето.", "type": "noun" },
+    { "bg": "Плутон", "en": "Pluto", "pronunciation": "plu-TON", "example": "Плутон вече не се счита за планета.", "type": "noun" },
+    { "bg": "пръстени", "en": "rings (planetary)", "pronunciation": "PRUS-te-ni", "example": "Пръстените на Сатурн са от лед и камъни.", "type": "noun" },
+    { "bg": "спътник", "en": "moon/satellite (natural)", "pronunciation": "SPUT-nik", "example": "Юпитер има над осемдесет спътника.", "type": "noun" },
+    { "bg": "атмосфера", "en": "atmosphere", "pronunciation": "at-mos-FE-ra", "example": "Атмосферата на Марс е много тънка.", "type": "noun" },
+    { "bg": "гравитация", "en": "gravity", "pronunciation": "gra-vi-TA-tsi-ya", "example": "Гравитацията на Луната е шест пъти по-слаба.", "type": "noun" },
+    { "bg": "кратер", "en": "crater", "pronunciation": "KRA-ter", "example": "Кратерите на Луната се виждат с бинокъл.", "type": "noun" },
+    { "bg": "повърхност", "en": "surface", "pronunciation": "po-VURH-nost", "example": "Повърхността на Марс е покрита с червен прах.", "type": "noun" },
+    { "bg": "въртене", "en": "rotation", "pronunciation": "vur-TE-ne", "example": "Въртенето на Земята отнема двадесет и четири часа.", "type": "noun" },
+    { "bg": "обиколка", "en": "orbit/revolution", "pronunciation": "o-bi-KOL-ka", "example": "Обиколката на Земята около Слънцето е една година.", "type": "noun" },
+    { "bg": "газов гигант", "en": "gas giant", "pronunciation": "GA-zov gi-GANT", "example": "Юпитер и Сатурн са газови гиганти.", "type": "noun" },
+    { "bg": "скалиста планета", "en": "rocky planet", "pronunciation": "ska-LIS-ta pla-NE-ta", "example": "Земята е скалиста планета с твърда повърхност.", "type": "noun" },
+    { "bg": "астероиден пояс", "en": "asteroid belt", "pronunciation": "as-te-ro-I-den PO-yas", "example": "Астероидният пояс е между Марс и Юпитер.", "type": "noun" },
+    { "bg": "светлинна година", "en": "light year", "pronunciation": "svet-LIN-na go-DI-na", "example": "Най-близката звезда е на четири светлинни години.", "type": "noun" }
+  ]
+}
