@@ -1,0 +1,28 @@
+{
+  "category": "Urban Transport",
+  "cards": [
+    { "bg": "градски транспорт", "en": "public transport", "pronunciation": "GRAD-ski TRANS-port", "example": "Градският транспорт в София работи от пет сутринта.", "type": "noun" },
+    { "bg": "метро", "en": "metro/subway", "pronunciation": "met-RO", "example": "Метрото е най-бързият транспорт в София.", "type": "noun" },
+    { "bg": "трамвай", "en": "tram/streetcar", "pronunciation": "tram-VAY", "example": "Трамваят минава на всеки десет минути.", "type": "noun" },
+    { "bg": "тролейбус", "en": "trolleybus", "pronunciation": "tro-LEY-bus", "example": "Тролейбусът е тих и екологичен.", "type": "noun" },
+    { "bg": "автобус", "en": "bus", "pronunciation": "av-to-BUS", "example": "Автобус номер двадесет и три спира до парка.", "type": "noun" },
+    { "bg": "маршрутка", "en": "minibus/marshrutka", "pronunciation": "marsh-RUT-ka", "example": "Маршрутката до Витоша тръгва от Хладилника.", "type": "noun" },
+    { "bg": "спирка", "en": "stop/station", "pronunciation": "SPIR-ka", "example": "Слизам на следващата спирка.", "type": "noun" },
+    { "bg": "метростанция", "en": "metro station", "pronunciation": "met-ro-STAN-tsi-ya", "example": "Метростанция Сердика е в центъра.", "type": "noun" },
+    { "bg": "билет", "en": "ticket", "pronunciation": "bi-LET", "example": "Купи билет от автомата.", "type": "noun" },
+    { "bg": "карта", "en": "travel card/pass", "pronunciation": "KAR-ta", "example": "Месечната карта е по-изгодна.", "type": "noun" },
+    { "bg": "валидирам", "en": "to validate (ticket)", "pronunciation": "va-li-DI-ram", "example": "Валидирай билета при качване.", "type": "verb" },
+    { "bg": "контрольор", "en": "ticket inspector", "pronunciation": "kon-tro-LYOR", "example": "Контрольорът глобява без валиден билет.", "type": "noun" },
+    { "bg": "разписание", "en": "schedule/timetable", "pronunciation": "raz-pi-SA-ni-e", "example": "Провери разписанието на спирката.", "type": "noun" },
+    { "bg": "линия", "en": "line/route", "pronunciation": "LI-ni-ya", "example": "Линия две на метрото минава през центъра.", "type": "noun" },
+    { "bg": "пътник", "en": "passenger", "pronunciation": "PUT-nik", "example": "Автобусът е пълен с пътници.", "type": "noun" },
+    { "bg": "качвам се", "en": "to get on/board", "pronunciation": "KACH-vam se", "example": "Качвам се от задната врата.", "type": "verb" },
+    { "bg": "слизам", "en": "to get off", "pronunciation": "SLI-zam", "example": "Слизам на Орлов мост.", "type": "verb" },
+    { "bg": "такси", "en": "taxi", "pronunciation": "tak-SI", "example": "Вземи такси, вече е късно.", "type": "noun" },
+    { "bg": "таксиметров шофьор", "en": "taxi driver", "pronunciation": "tak-si-MET-rov sho-FYOR", "example": "Таксиметровият шофьор знае всички улици.", "type": "noun" },
+    { "bg": "тротинетка", "en": "electric scooter", "pronunciation": "tro-ti-NET-ka", "example": "Тротинетките под наем са навсякъде в София.", "type": "noun" },
+    { "bg": "велоалея", "en": "bike lane", "pronunciation": "ve-lo-a-LE-ya", "example": "Велоалеята минава покрай реката.", "type": "noun" },
+    { "bg": "задръстване", "en": "traffic jam", "pronunciation": "za-DRUST-va-ne", "example": "В час пик задръстванията са ужасни.", "type": "noun" },
+    { "bg": "час пик", "en": "rush hour", "pronunciation": "chas pik", "example": "Избягвай центъра в час пик.", "type": "noun" }
+  ]
+}
