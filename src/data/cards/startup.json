@@ -1,0 +1,28 @@
+{
+  "category": "Startup & Entrepreneurship",
+  "cards": [
+    { "bg": "предприемач", "en": "entrepreneur", "pronunciation": "pred-pri-e-MACH", "example": "Предприемачът основа компанията на двадесет и пет.", "type": "noun" },
+    { "bg": "стартъп", "en": "startup", "pronunciation": "star-TUP", "example": "Стартъпът разработва мобилно приложение.", "type": "noun" },
+    { "bg": "бизнес план", "en": "business plan", "pronunciation": "BIZ-nes plan", "example": "Бизнес планът е готов за инвеститорите.", "type": "noun" },
+    { "bg": "инвеститор", "en": "investor", "pronunciation": "in-ves-TI-tor", "example": "Инвеститорът вложи сто хиляди лева.", "type": "noun" },
+    { "bg": "финансиране", "en": "funding", "pronunciation": "fi-nan-SI-ra-ne", "example": "Търсим финансиране за разширяване.", "type": "noun" },
+    { "bg": "капитал", "en": "capital", "pronunciation": "ka-pi-TAL", "example": "Началният капитал е от лични спестявания.", "type": "noun" },
+    { "bg": "съоснователь", "en": "co-founder", "pronunciation": "su-os-no-VA-tel", "example": "Съоснователите се запознаха в университета.", "type": "noun" },
+    { "bg": "екип", "en": "team", "pronunciation": "e-KIP", "example": "Екипът се състои от пет души.", "type": "noun" },
+    { "bg": "продукт", "en": "product", "pronunciation": "pro-DUKT", "example": "Продуктът решава реален проблем.", "type": "noun" },
+    { "bg": "прототип", "en": "prototype", "pronunciation": "pro-to-TIP", "example": "Прототипът е готов за тестване.", "type": "noun" },
+    { "bg": "клиент", "en": "client/customer", "pronunciation": "kli-ENT", "example": "Първите клиенти са от България.", "type": "noun" },
+    { "bg": "пазар", "en": "market", "pronunciation": "pa-ZAR", "example": "Пазарът за този продукт расте бързо.", "type": "noun" },
+    { "bg": "конкуренция", "en": "competition", "pronunciation": "kon-ku-REN-tsi-ya", "example": "Конкуренцията е силна, но ние сме по-добри.", "type": "noun" },
+    { "bg": "приложение", "en": "app/application", "pronunciation": "pri-lo-ZHE-ni-e", "example": "Приложението има хиляди изтегляния.", "type": "noun" },
+    { "bg": "растеж", "en": "growth", "pronunciation": "ras-TEZH", "example": "Растежът е тридесет процента на месец.", "type": "noun" },
+    { "bg": "печалба", "en": "profit/revenue", "pronunciation": "pe-CHAL-ba", "example": "Печалбата за първата година е скромна.", "type": "noun" },
+    { "bg": "оборот", "en": "turnover/revenue", "pronunciation": "o-bo-ROT", "example": "Оборотът на фирмата надмина очакванията.", "type": "noun" },
+    { "bg": "питч", "en": "pitch (presentation)", "pronunciation": "pitch", "example": "Питчът пред инвеститорите трае пет минути.", "type": "noun" },
+    { "bg": "ментор", "en": "mentor", "pronunciation": "men-TOR", "example": "Менторът споделя опит и съвети.", "type": "noun" },
+    { "bg": "акселератор", "en": "accelerator", "pronunciation": "ak-se-le-RA-tor", "example": "Стартъпът беше приет в акселераторска програма.", "type": "noun" },
+    { "bg": "фалит", "en": "bankruptcy/failure", "pronunciation": "fa-LIT", "example": "Много стартъпи завършват с фалит.", "type": "noun" },
+    { "bg": "мащабирам", "en": "to scale (business)", "pronunciation": "mash-ta-BI-ram", "example": "Мащабираме бизнеса към нови пазари.", "type": "verb" },
+    { "bg": "иновация", "en": "innovation", "pronunciation": "i-no-VA-tsi-ya", "example": "Иновацията е ключът към успеха.", "type": "noun" }
+  ]
+}
