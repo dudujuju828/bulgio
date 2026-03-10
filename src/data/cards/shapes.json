@@ -1,0 +1,26 @@
+{
+  "category": "Shapes",
+  "cards": [
+    { "bg": "кръг", "en": "circle", "pronunciation": "krug", "example": "Нарисувай кръг на листа.", "type": "noun" },
+    { "bg": "квадрат", "en": "square", "pronunciation": "kvad-RAT", "example": "Стаята е с формата на квадрат.", "type": "noun" },
+    { "bg": "триъгълник", "en": "triangle", "pronunciation": "tri-U-gul-nik", "example": "Триъгълникът има три страни.", "type": "noun" },
+    { "bg": "правоъгълник", "en": "rectangle", "pronunciation": "pra-vo-U-gul-nik", "example": "Масата е правоъгълна.", "type": "noun" },
+    { "bg": "звезда", "en": "star (shape)", "pronunciation": "zvez-DA", "example": "Детето нарисува звезда.", "type": "noun" },
+    { "bg": "сърце", "en": "heart (shape)", "pronunciation": "SUR-tse", "example": "Тя нарисува сърце на картичката.", "type": "noun" },
+    { "bg": "линия", "en": "line", "pronunciation": "LI-ni-ya", "example": "Начертай права линия.", "type": "noun" },
+    { "bg": "точка", "en": "dot/point", "pronunciation": "TOCH-ka", "example": "Постави точка в края на изречението.", "type": "noun" },
+    { "bg": "кълбо", "en": "sphere/ball", "pronunciation": "KUL-bo", "example": "Земята е с формата на кълбо.", "type": "noun" },
+    { "bg": "куб", "en": "cube", "pronunciation": "kub", "example": "Кубът има шест страни.", "type": "noun" },
+    { "bg": "форма", "en": "shape/form", "pronunciation": "FOR-ma", "example": "Каква е формата на тази фигура?", "type": "noun" },
+    { "bg": "кръгъл", "en": "round", "pronunciation": "KRU-gul", "example": "Масата е кръгла.", "type": "adjective" },
+    { "bg": "дълъг", "en": "long", "pronunciation": "DU-lug", "example": "Улицата е много дълга.", "type": "adjective" },
+    { "bg": "къс", "en": "short (length)", "pronunciation": "kus", "example": "Въжето е твърде късо.", "type": "adjective" },
+    { "bg": "широк", "en": "wide", "pronunciation": "shi-ROK", "example": "Реката е широка тук.", "type": "adjective" },
+    { "bg": "тесен", "en": "narrow", "pronunciation": "TE-sen", "example": "Улицата е много тясна.", "type": "adjective" },
+    { "bg": "висок", "en": "tall/high", "pronunciation": "vi-SOK", "example": "Сградата е много висока.", "type": "adjective" },
+    { "bg": "нисък", "en": "low/short", "pronunciation": "NI-suk", "example": "Таванът е нисък.", "type": "adjective" },
+    { "bg": "дебел", "en": "thick", "pronunciation": "de-BEL", "example": "Стената е много дебела.", "type": "adjective" },
+    { "bg": "тънък", "en": "thin", "pronunciation": "TU-nuk", "example": "Листът хартия е тънък.", "type": "adjective" },
+    { "bg": "равен", "en": "flat/even", "pronunciation": "RA-ven", "example": "Повърхността е равна и гладка.", "type": "adjective" }
+  ]
+}
