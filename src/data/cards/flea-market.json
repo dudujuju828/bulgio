@@ -1,0 +1,28 @@
+{
+  "category": "Flea Markets & Antiques",
+  "cards": [
+    { "bg": "битпазар", "en": "flea market", "pronunciation": "bit-pa-ZAR", "example": "Всяка неделя ходя на битпазара.", "type": "noun" },
+    { "bg": "антика", "en": "antique", "pronunciation": "an-TI-ka", "example": "Тази ваза е истинска антика.", "type": "noun" },
+    { "bg": "старина", "en": "antiquity/old item", "pronunciation": "sta-ri-NA", "example": "Магазинът за старини е пълен със съкровища.", "type": "noun" },
+    { "bg": "втора ръка", "en": "secondhand", "pronunciation": "VTO-ra ru-KA", "example": "Купувам дрехи втора ръка.", "type": "phrase" },
+    { "bg": "пазаря се", "en": "to bargain/haggle", "pronunciation": "pa-za-RYA se", "example": "На битпазара винаги се пазаря.", "type": "verb" },
+    { "bg": "колекционер", "en": "collector", "pronunciation": "ko-lek-tsi-o-NER", "example": "Колекционерът търси стари монети.", "type": "noun" },
+    { "bg": "колекция", "en": "collection", "pronunciation": "ko-LEK-tsi-ya", "example": "Колекцията му от марки е впечатляваща.", "type": "noun" },
+    { "bg": "рядкост", "en": "rarity", "pronunciation": "RYAD-kost", "example": "Тази книга е истинска рядкост.", "type": "noun" },
+    { "bg": "автентичен", "en": "authentic/genuine", "pronunciation": "av-ten-TI-chen", "example": "Автентична ли е тази икона?", "type": "adjective" },
+    { "bg": "фалшив", "en": "fake/counterfeit", "pronunciation": "fal-SHIV", "example": "Внимавай, може да е фалшив.", "type": "adjective" },
+    { "bg": "тезгях", "en": "stall/counter", "pronunciation": "tez-GYAH", "example": "Тезгяхът е пълен с ретро играчки.", "type": "noun" },
+    { "bg": "продавач", "en": "seller/vendor", "pronunciation": "pro-da-VACH", "example": "Продавачът иска петдесет лева.", "type": "noun" },
+    { "bg": "оценка", "en": "appraisal/valuation", "pronunciation": "o-TSEN-ka", "example": "Направи оценка на часовника при специалист.", "type": "noun" },
+    { "bg": "порцеланов сервиз", "en": "porcelain tea set", "pronunciation": "por-tse-LA-nov ser-VIZ", "example": "Порцелановият сервиз е от петдесетте години.", "type": "noun" },
+    { "bg": "грамофон", "en": "gramophone/record player", "pronunciation": "gra-mo-FON", "example": "Грамофонът още работи перфектно.", "type": "noun" },
+    { "bg": "плоча", "en": "vinyl record", "pronunciation": "PLO-cha", "example": "Купих плоча на Лили Иванова от битпазара.", "type": "noun" },
+    { "bg": "ретро", "en": "retro/vintage", "pronunciation": "RET-ro", "example": "Ретро мебелите са на мода отново.", "type": "adjective" },
+    { "bg": "реставрирам", "en": "to restore", "pronunciation": "res-tav-RI-ram", "example": "Реставрирах стар шкаф от битпазара.", "type": "verb" },
+    { "bg": "марка", "en": "stamp (postage)", "pronunciation": "MAR-ka", "example": "Тази марка е от хиляда деветстотин и тридесета.", "type": "noun" },
+    { "bg": "часовник", "en": "watch/clock (antique)", "pronunciation": "cha-SOV-nik", "example": "Джобният часовник е от началото на века.", "type": "noun" },
+    { "bg": "икона", "en": "icon (religious)", "pronunciation": "i-KO-na", "example": "Иконата е от деветнадесети век.", "type": "noun" },
+    { "bg": "находка", "en": "bargain/great find", "pronunciation": "na-HOD-ka", "example": "Тази лампа за пет лева е истинска находка!", "type": "noun" },
+    { "bg": "изгодно", "en": "at a good price/bargain", "pronunciation": "iz-GOD-no", "example": "Купих масата много изгодно.", "type": "adverb" }
+  ]
+}
