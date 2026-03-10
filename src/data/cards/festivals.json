@@ -1,0 +1,28 @@
+{
+  "category": "Festivals",
+  "cards": [
+    { "bg": "фестивал", "en": "festival", "pronunciation": "fes-ti-VAL", "example": "Фестивалът на розите е в Казанлък.", "type": "noun" },
+    { "bg": "празник", "en": "holiday/celebration", "pronunciation": "PRAZ-nik", "example": "Трети март е национален празник.", "type": "noun" },
+    { "bg": "тържество", "en": "ceremony/festivity", "pronunciation": "tur-ZHES-tvo", "example": "Тържеството по случай празника беше красиво.", "type": "noun" },
+    { "bg": "празнувам", "en": "to celebrate", "pronunciation": "PRAZ-nu-vam", "example": "Празнуваме Великден с цялото семейство.", "type": "verb" },
+    { "bg": "шествие", "en": "procession/parade", "pronunciation": "SHES-tvi-e", "example": "На двадесет и четвърти май има шествие в центъра.", "type": "noun" },
+    { "bg": "фойерверки", "en": "fireworks", "pronunciation": "fo-yer-VER-ki", "example": "На Нова година гледаме фойерверки.", "type": "noun" },
+    { "bg": "панаир", "en": "fair/carnival", "pronunciation": "pa-na-IR", "example": "Пловдивският панаир е най-старият в България.", "type": "noun" },
+    { "bg": "събор", "en": "village fair/gathering", "pronunciation": "su-BOR", "example": "На събора в село свирят народни оркестри.", "type": "noun" },
+    { "bg": "концерт на открито", "en": "open-air concert", "pronunciation": "kon-TSERT na ot-KRI-to", "example": "През лятото има концерти на открито в Античния театър.", "type": "noun" },
+    { "bg": "сцена", "en": "stage", "pronunciation": "STSE-na", "example": "Певицата излезе на сцената.", "type": "noun" },
+    { "bg": "програма", "en": "program/schedule", "pronunciation": "pro-GRA-ma", "example": "Програмата на фестивала е тридневна.", "type": "noun" },
+    { "bg": "маска", "en": "mask", "pronunciation": "MAS-ka", "example": "Кукерските маски са от дърво и козина.", "type": "noun" },
+    { "bg": "костюм", "en": "costume", "pronunciation": "kos-TYUM", "example": "Носят народни костюми на фестивала.", "type": "noun" },
+    { "bg": "народни танци", "en": "folk dances", "pronunciation": "na-ROD-ni TAN-tsi", "example": "На фестивала в Копривщица се играят народни танци.", "type": "noun" },
+    { "bg": "надсвирване", "en": "music competition (folk)", "pronunciation": "nad-SVIR-va-ne", "example": "Надсвирването събира гайдари от цяла България.", "type": "noun" },
+    { "bg": "гайда", "en": "bagpipe (Bulgarian)", "pronunciation": "GAY-da", "example": "Звукът на гайдата е символ на Родопите.", "type": "noun" },
+    { "bg": "тълпа", "en": "crowd", "pronunciation": "TUL-pa", "example": "Тълпата пееше заедно с артистите.", "type": "noun" },
+    { "bg": "вход свободен", "en": "free admission", "pronunciation": "vhod svo-BO-den", "example": "Входът за фестивала е свободен.", "type": "phrase" },
+    { "bg": "открити", "en": "opening (ceremony)", "pronunciation": "ot-KRI-ti-e", "example": "Откриването е в петък вечер.", "type": "noun" },
+    { "bg": "закриване", "en": "closing (ceremony)", "pronunciation": "zak-RI-va-ne", "example": "На закриването имаше специален концерт.", "type": "noun" },
+    { "bg": "спонсор", "en": "sponsor", "pronunciation": "SPON-sor", "example": "Спонсорът на фестивала е голяма компания.", "type": "noun" },
+    { "bg": "участник", "en": "participant", "pronunciation": "u-CHAST-nik", "example": "Тази година участниците са от дванадесет държави.", "type": "noun" },
+    { "bg": "награда", "en": "award/prize", "pronunciation": "nag-RA-da", "example": "Филмът спечели голямата награда на фестивала.", "type": "noun" }
+  ]
+}
