@@ -1,0 +1,28 @@
+{
+  "category": "Meditation & Mindfulness",
+  "cards": [
+    { "bg": "медитация", "en": "meditation", "pronunciation": "me-di-TA-tsi-ya", "example": "Медитацията помага за намаляване на стреса.", "type": "noun" },
+    { "bg": "медитирам", "en": "to meditate", "pronunciation": "me-di-TI-ram", "example": "Медитирам всяка сутрин по двадесет минути.", "type": "verb" },
+    { "bg": "осъзнатост", "en": "mindfulness", "pronunciation": "o-suz-NA-tost", "example": "Осъзнатостта означава да живееш в настоящия момент.", "type": "noun" },
+    { "bg": "дишане", "en": "breathing", "pronunciation": "DI-sha-ne", "example": "Дълбокото дишане успокоява нервната система.", "type": "noun" },
+    { "bg": "дишам", "en": "to breathe", "pronunciation": "DI-sham", "example": "Дишай бавно и дълбоко.", "type": "verb" },
+    { "bg": "вдишвам", "en": "to inhale", "pronunciation": "VDISH-vam", "example": "Вдишвам през носа за четири секунди.", "type": "verb" },
+    { "bg": "издишвам", "en": "to exhale", "pronunciation": "iz-DISH-vam", "example": "Издишвам бавно през устата.", "type": "verb" },
+    { "bg": "спокойствие", "en": "calm/peace", "pronunciation": "spo-KOY-stvi-e", "example": "Спокойствието идва с редовна практика.", "type": "noun" },
+    { "bg": "вътрешен мир", "en": "inner peace", "pronunciation": "VUT-re-shen mir", "example": "Вътрешният мир е цел на медитацията.", "type": "noun" },
+    { "bg": "съсредоточавам се", "en": "to focus/concentrate", "pronunciation": "sus-re-do-to-CHA-vam se", "example": "Съсредоточавам се върху дишането.", "type": "verb" },
+    { "bg": "мантра", "en": "mantra", "pronunciation": "MAN-tra", "example": "Мантрата се повтаря мислено или на глас.", "type": "noun" },
+    { "bg": "поза лотос", "en": "lotus position", "pronunciation": "PO-za LO-tos", "example": "Седни в поза лотос на постелката.", "type": "noun" },
+    { "bg": "постелка", "en": "mat/cushion", "pronunciation": "pos-TEL-ka", "example": "Постелката за медитация е мека и удобна.", "type": "noun" },
+    { "bg": "тишина", "en": "silence/quiet", "pronunciation": "ti-shi-NA", "example": "Тишината е важна за дълбока медитация.", "type": "noun" },
+    { "bg": "присъствие", "en": "presence (being present)", "pronunciation": "pri-SUS-tvi-e", "example": "Присъствието в момента намалява тревожността.", "type": "noun" },
+    { "bg": "тревожност", "en": "anxiety", "pronunciation": "tre-VOZH-nost", "example": "Медитацията помага при тревожност.", "type": "noun" },
+    { "bg": "визуализация", "en": "visualization", "pronunciation": "vi-zu-a-li-ZA-tsi-ya", "example": "Визуализацията използва въображението за релаксация.", "type": "noun" },
+    { "bg": "водена медитация", "en": "guided meditation", "pronunciation": "VO-de-na me-di-TA-tsi-ya", "example": "Водената медитация е подходяща за начинаещи.", "type": "noun" },
+    { "bg": "сканиране на тялото", "en": "body scan", "pronunciation": "ska-NI-ra-ne na TYA-lo-to", "example": "Сканирането на тялото помага да усетиш напрежението.", "type": "noun" },
+    { "bg": "благодарност", "en": "gratitude", "pronunciation": "bla-go-DAR-nost", "example": "Практиката на благодарност подобрява настроението.", "type": "noun" },
+    { "bg": "ритуал", "en": "ritual", "pronunciation": "ri-tu-AL", "example": "Сутрешният ритуал включва медитация и чай.", "type": "noun" },
+    { "bg": "звукова купа", "en": "singing bowl", "pronunciation": "zvu-KO-va KU-pa", "example": "Звуковата купа издава дълбок вибриращ тон.", "type": "noun" },
+    { "bg": "тамян", "en": "incense", "pronunciation": "ta-MYAN", "example": "Тамянът създава спокойна атмосфера.", "type": "noun" }
+  ]
+}
