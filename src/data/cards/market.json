@@ -1,0 +1,27 @@
+{
+  "category": "Market",
+  "cards": [
+    { "bg": "пазар", "en": "market", "pronunciation": "pa-ZAR", "example": "Ходя на пазара всяка събота.", "type": "noun" },
+    { "bg": "сергия", "en": "market stall", "pronunciation": "SER-gi-ya", "example": "Сергията е пълна с пресни зеленчуци.", "type": "noun" },
+    { "bg": "продавач", "en": "vendor/seller", "pronunciation": "pro-da-VACH", "example": "Продавачът предлага домашни сирена.", "type": "noun" },
+    { "bg": "купувач", "en": "buyer/customer", "pronunciation": "ku-pu-VACH", "example": "Купувачите идват рано за най-прясната стока.", "type": "noun" },
+    { "bg": "стока", "en": "goods/merchandise", "pronunciation": "STO-ka", "example": "Стоката на този продавач е винаги качествена.", "type": "noun" },
+    { "bg": "пресен", "en": "fresh", "pronunciation": "PRE-sen", "example": "Искам пресни домати от градината.", "type": "adjective" },
+    { "bg": "домашен", "en": "homemade", "pronunciation": "do-MA-shen", "example": "Домашното сирене е по-вкусно от магазинното.", "type": "adjective" },
+    { "bg": "килограм", "en": "kilogram", "pronunciation": "ki-lo-GRAM", "example": "Дайте ми два килограма ябълки.", "type": "noun" },
+    { "bg": "везна", "en": "scale", "pronunciation": "VEZ-na", "example": "Продавачът сложи доматите на везната.", "type": "noun" },
+    { "bg": "цена", "en": "price", "pronunciation": "tse-NA", "example": "Каква е цената на тези череши?", "type": "noun" },
+    { "bg": "евтин", "en": "cheap", "pronunciation": "ev-TIN", "example": "На пазара е по-евтино, отколкото в магазина.", "type": "adjective" },
+    { "bg": "скъп", "en": "expensive", "pronunciation": "skup", "example": "Тази зима зеленчуците станаха скъпи.", "type": "adjective" },
+    { "bg": "пазаря се", "en": "to bargain/haggle", "pronunciation": "pa-ZA-rya se", "example": "Баба винаги се пазари за по-добра цена.", "type": "verb" },
+    { "bg": "намаление", "en": "discount/sale", "pronunciation": "na-ma-LE-ni-e", "example": "Има намаление на ягодите днес.", "type": "noun" },
+    { "bg": "торбичка", "en": "bag (small)", "pronunciation": "tor-BICH-ka", "example": "Сложи ябълките в торбичката.", "type": "noun" },
+    { "bg": "кошница", "en": "basket", "pronunciation": "kosh-NI-tsa", "example": "Напълних кошницата с плодове.", "type": "noun" },
+    { "bg": "биопродукт", "en": "organic product", "pronunciation": "bi-o-pro-DUKT", "example": "Биопродуктите са по-здравословни.", "type": "noun" },
+    { "bg": "опитвам", "en": "to try/sample", "pronunciation": "o-PIT-vam", "example": "Опитайте от домашния мед!", "type": "verb" },
+    { "bg": "пресовам", "en": "to squeeze/press", "pronunciation": "pre-SO-vam", "example": "Не пресовайте плодовете, моля.", "type": "verb" },
+    { "bg": "ресто", "en": "change (money)", "pronunciation": "RES-to", "example": "Ето рестото ви, благодаря!", "type": "noun" },
+    { "bg": "опашка", "en": "queue/line", "pronunciation": "o-PASH-ka", "example": "Опашката за лютеница е дълга.", "type": "noun" },
+    { "bg": "Женски пазар", "en": "Zhenski Pazar (Sofia market)", "pronunciation": "ZHEN-ski pa-ZAR", "example": "Женският пазар е най-известният в София.", "type": "noun" }
+  ]
+}
