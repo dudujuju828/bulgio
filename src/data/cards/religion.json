@@ -1,0 +1,25 @@
+{
+  "category": "Religion",
+  "cards": [
+    { "bg": "църква", "en": "church", "pronunciation": "TSURK-va", "example": "Църквата е в центъра на селото.", "type": "noun" },
+    { "bg": "манастир", "en": "monastery", "pronunciation": "ma-na-STIR", "example": "Рилският манастир е най-известният в България.", "type": "noun" },
+    { "bg": "Бог", "en": "God", "pronunciation": "bog", "example": "Вярваш ли в Бог?", "type": "noun" },
+    { "bg": "молитва", "en": "prayer", "pronunciation": "mo-LIT-va", "example": "Казва молитва преди ядене.", "type": "noun" },
+    { "bg": "свещеник", "en": "priest", "pronunciation": "sve-SHTE-nik", "example": "Свещеникът служи в църквата.", "type": "noun" },
+    { "bg": "икона", "en": "icon", "pronunciation": "i-KO-na", "example": "Иконата е много стара и ценна.", "type": "noun" },
+    { "bg": "свещ", "en": "candle", "pronunciation": "svesht", "example": "Запалих свещ в църквата.", "type": "noun" },
+    { "bg": "кръщене", "en": "baptism/christening", "pronunciation": "krush-TE-ne", "example": "Кръщенето на бебето е в неделя.", "type": "noun" },
+    { "bg": "сватба", "en": "wedding (religious)", "pronunciation": "SVAT-ba", "example": "Сватбата е в църквата.", "type": "noun" },
+    { "bg": "погребение", "en": "funeral", "pronunciation": "pog-re-BE-ni-e", "example": "Погребението беше тъжно.", "type": "noun" },
+    { "bg": "вяра", "en": "faith/belief", "pronunciation": "VYA-ra", "example": "Вярата му е много силна.", "type": "noun" },
+    { "bg": "православие", "en": "Orthodox Christianity", "pronunciation": "pra-vo-SLA-vi-e", "example": "Православието е основната религия в България.", "type": "noun" },
+    { "bg": "светец", "en": "saint", "pronunciation": "sve-TETS", "example": "Днес е денят на Свети Георги.", "type": "noun" },
+    { "bg": "камбана", "en": "bell (church)", "pronunciation": "kam-BA-na", "example": "Камбаната звъни в неделя сутрин.", "type": "noun" },
+    { "bg": "моля се", "en": "to pray", "pronunciation": "MO-lya se", "example": "Тя се моли всяка вечер.", "type": "verb" },
+    { "bg": "вярвам", "en": "to believe", "pronunciation": "VYAR-vam", "example": "Вярвам в доброто в хората.", "type": "verb" },
+    { "bg": "кръст", "en": "cross", "pronunciation": "krust", "example": "Тя носи златен кръст.", "type": "noun" },
+    { "bg": "Библия", "en": "Bible", "pronunciation": "BIB-li-ya", "example": "Библията е свещена книга.", "type": "noun" },
+    { "bg": "благословия", "en": "blessing", "pronunciation": "bla-go-slo-VI-ya", "example": "Свещеникът даде благословия.", "type": "noun" },
+    { "bg": "душа", "en": "soul", "pronunciation": "du-SHA", "example": "Той е добър човек с чиста душа.", "type": "noun" }
+  ]
+}
