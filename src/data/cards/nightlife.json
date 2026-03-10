@@ -1,0 +1,29 @@
+{
+  "category": "Nightlife",
+  "cards": [
+    { "bg": "нощен живот", "en": "nightlife", "pronunciation": "NO-shten zhi-VOT", "example": "Нощният живот в София е разнообразен.", "type": "noun" },
+    { "bg": "бар", "en": "bar", "pronunciation": "bar", "example": "Отидохме на бар след вечеря.", "type": "noun" },
+    { "bg": "дискотека", "en": "nightclub/disco", "pronunciation": "dis-ko-TE-ka", "example": "Дискотеката затваря в пет сутринта.", "type": "noun" },
+    { "bg": "клуб", "en": "club", "pronunciation": "klub", "example": "В този клуб пускат електронна музика.", "type": "noun" },
+    { "bg": "танцувам", "en": "to dance", "pronunciation": "tan-TSU-vam", "example": "Танцувахме до сутринта.", "type": "verb" },
+    { "bg": "дансинг", "en": "dance floor", "pronunciation": "DAN-sing", "example": "Дансингът беше пълен с хора.", "type": "noun" },
+    { "bg": "диджей", "en": "DJ", "pronunciation": "di-DZHEY", "example": "Диджеят пусна страхотна песен.", "type": "noun" },
+    { "bg": "коктейл", "en": "cocktail", "pronunciation": "kok-TEYL", "example": "Поръчах си коктейл с водка.", "type": "noun" },
+    { "bg": "барман", "en": "bartender", "pronunciation": "bar-MAN", "example": "Барманът прави страхотни коктейли.", "type": "noun" },
+    { "bg": "парти", "en": "party", "pronunciation": "PAR-ti", "example": "Довечера има парти на открито.", "type": "noun" },
+    { "bg": "забавление", "en": "entertainment/fun", "pronunciation": "za-bav-LE-ni-e", "example": "В Слънчев бряг има много забавления.", "type": "noun" },
+    { "bg": "на открито", "en": "outdoors/open-air", "pronunciation": "na ot-KRI-to", "example": "Лятото барове на открито са навсякъде.", "type": "phrase" },
+    { "bg": "вход", "en": "entrance/cover charge", "pronunciation": "vhod", "example": "Входът за клуба е двадесет лева.", "type": "noun" },
+    { "bg": "охрана", "en": "security/bouncer", "pronunciation": "oh-RA-na", "example": "Охраната проверява лични карти на входа.", "type": "noun" },
+    { "bg": "резервация", "en": "reservation", "pronunciation": "re-zer-VA-tsi-ya", "example": "Направи резервация за маса в клуба.", "type": "noun" },
+    { "bg": "караоке", "en": "karaoke", "pronunciation": "ka-ra-O-ke", "example": "В петък ходим на караоке с приятели.", "type": "noun" },
+    { "bg": "на здраве!", "en": "cheers!", "pronunciation": "na ZDRA-ve", "example": "Вдигнаха чаши и казаха „На здраве!"", "type": "phrase" },
+    { "bg": "черпя", "en": "to treat/buy a round", "pronunciation": "CHER-pya", "example": "Аз черпя тази вечер!", "type": "verb" },
+    { "bg": "сметка", "en": "bill/tab", "pronunciation": "SMET-ka", "example": "Може ли сметката, моля?", "type": "noun" },
+    { "bg": "жива музика", "en": "live music", "pronunciation": "ZHI-va MU-zi-ka", "example": "Тази кръчма има жива музика всяка събота.", "type": "noun" },
+    { "bg": "кръчма", "en": "tavern/pub", "pronunciation": "KRUCH-ma", "example": "В кръчмата свирят народна музика.", "type": "noun" },
+    { "bg": "концерт", "en": "concert", "pronunciation": "kon-TSERT", "example": "Отиваме на концерт в Зала 1 на НДК.", "type": "noun" },
+    { "bg": "след полунощ", "en": "after midnight", "pronunciation": "sled po-lu-NOSHT", "example": "Най-интересно в клуба е след полунощ.", "type": "phrase" },
+    { "bg": "такси", "en": "taxi", "pronunciation": "tak-SI", "example": "Хванахме такси след партито.", "type": "noun" }
+  ]
+}
