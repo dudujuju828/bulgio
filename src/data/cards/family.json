@@ -1,0 +1,27 @@
+{
+  "category": "Family",
+  "cards": [
+    { "bg": "семейство", "en": "family", "pronunciation": "se-MEY-stvo", "example": "Имам голямо семейство.", "type": "noun" },
+    { "bg": "майка", "en": "mother", "pronunciation": "MAY-ka", "example": "Майка ми готви много вкусно.", "type": "noun" },
+    { "bg": "баща", "en": "father", "pronunciation": "bash-TA", "example": "Баща ми работи в офис.", "type": "noun" },
+    { "bg": "брат", "en": "brother", "pronunciation": "brat", "example": "Брат ми е по-голям от мен.", "type": "noun" },
+    { "bg": "сестра", "en": "sister", "pronunciation": "ses-TRA", "example": "Сестра ми учи в университета.", "type": "noun" },
+    { "bg": "баба", "en": "grandmother", "pronunciation": "BA-ba", "example": "Баба ми прави най-вкусната баница.", "type": "noun" },
+    { "bg": "дядо", "en": "grandfather", "pronunciation": "DYA-do", "example": "Дядо ми разказва стари истории.", "type": "noun" },
+    { "bg": "син", "en": "son", "pronunciation": "sin", "example": "Синът им ходи на училище.", "type": "noun" },
+    { "bg": "дъщеря", "en": "daughter", "pronunciation": "dush-te-RYA", "example": "Дъщеря ми свири на пиано.", "type": "noun" },
+    { "bg": "съпруг", "en": "husband", "pronunciation": "su-PRUG", "example": "Съпругът ѝ е лекар.", "type": "noun" },
+    { "bg": "съпруга", "en": "wife", "pronunciation": "su-PRU-ga", "example": "Съпругата му е учителка.", "type": "noun" },
+    { "bg": "чичо", "en": "uncle", "pronunciation": "CHI-cho", "example": "Чичо ми живее в Пловдив.", "type": "noun" },
+    { "bg": "леля", "en": "aunt", "pronunciation": "LE-lya", "example": "Леля ми ни донесе подаръци.", "type": "noun" },
+    { "bg": "братовчед", "en": "cousin (male)", "pronunciation": "bra-tov-CHED", "example": "Братовчед ми идва на гости утре.", "type": "noun" },
+    { "bg": "братовчедка", "en": "cousin (female)", "pronunciation": "bra-tov-CHED-ka", "example": "Братовчедка ми живее в София.", "type": "noun" },
+    { "bg": "внук", "en": "grandson", "pronunciation": "vnuk", "example": "Внукът им е на три години.", "type": "noun" },
+    { "bg": "внучка", "en": "granddaughter", "pronunciation": "VNUCH-ka", "example": "Внучката обича да рисува.", "type": "noun" },
+    { "bg": "бебе", "en": "baby", "pronunciation": "be-BE", "example": "Бебето спи в количката.", "type": "noun" },
+    { "bg": "дете", "en": "child", "pronunciation": "de-TE", "example": "Детето играе в парка.", "type": "noun" },
+    { "bg": "родители", "en": "parents", "pronunciation": "ro-DI-te-li", "example": "Родителите ми живеят в Бургас.", "type": "noun" },
+    { "bg": "роднини", "en": "relatives", "pronunciation": "rod-NI-ni", "example": "На Коледа се събираме с роднините.", "type": "noun" },
+    { "bg": "близнаци", "en": "twins", "pronunciation": "bliz-NA-tsi", "example": "Те са близнаци и изглеждат еднакво.", "type": "noun" }
+  ]
+}
