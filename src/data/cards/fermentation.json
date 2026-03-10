@@ -1,0 +1,28 @@
+{
+  "category": "Fermented Foods & Preserving",
+  "cards": [
+    { "bg": "ферментация", "en": "fermentation", "pronunciation": "fer-men-TA-tsi-ya", "example": "Ферментацията е стар начин за съхранение.", "type": "noun" },
+    { "bg": "кисело мляко", "en": "yogurt (Bulgarian)", "pronunciation": "KI-se-lo MLYA-ko", "example": "Българското кисело мляко е известно в света.", "type": "noun" },
+    { "bg": "кисело зеле", "en": "sauerkraut", "pronunciation": "KI-se-lo ZE-le", "example": "Киселото зеле е задължително за зимата.", "type": "noun" },
+    { "bg": "туршия", "en": "pickled vegetables", "pronunciation": "tur-SHI-ya", "example": "Баба прави туршия от зелени домати.", "type": "noun" },
+    { "bg": "компот", "en": "compote (preserved fruit)", "pronunciation": "kom-POT", "example": "Компотът от праскови е за зимата.", "type": "noun" },
+    { "bg": "мармалад", "en": "jam/marmalade", "pronunciation": "mar-ma-LAD", "example": "Мармаладът от сливи е домашен.", "type": "noun" },
+    { "bg": "сладко", "en": "sweet preserve/spoon sweet", "pronunciation": "SLAD-ko", "example": "Сладкото от рози е типично българско.", "type": "noun" },
+    { "bg": "лютеница", "en": "lyutenitsa (pepper-tomato relish)", "pronunciation": "lyu-te-NI-tsa", "example": "Правим лютеница всяка есен.", "type": "noun" },
+    { "bg": "айвар", "en": "ajvar (roasted pepper spread)", "pronunciation": "ay-VAR", "example": "Айварът е с печени чушки.", "type": "noun" },
+    { "bg": "бурканче", "en": "jar (preserving)", "pronunciation": "bur-KAN-che", "example": "Напълнихме тридесет бурканчета лютеница.", "type": "noun" },
+    { "bg": "стерилизирам", "en": "to sterilize (jars)", "pronunciation": "ste-ri-li-ZI-ram", "example": "Стерилизирай бурканите преди пълнене.", "type": "verb" },
+    { "bg": "капак", "en": "lid/cap", "pronunciation": "ka-PAK", "example": "Затвори капака плътно.", "type": "noun" },
+    { "bg": "мая", "en": "starter culture/yeast", "pronunciation": "ma-YA", "example": "Маята за кисело мляко е Lactobacillus bulgaricus.", "type": "noun" },
+    { "bg": "оцет", "en": "vinegar", "pronunciation": "o-TSET", "example": "Оцетът се използва за туршия.", "type": "noun" },
+    { "bg": "сол", "en": "salt", "pronunciation": "sol", "example": "Слагам сол в зелето за кисело зеле.", "type": "noun" },
+    { "bg": "саламура", "en": "brine", "pronunciation": "sa-la-MU-ra", "example": "Саламурата трябва да покрие зеленчуците.", "type": "noun" },
+    { "bg": "сушене", "en": "drying/dehydrating", "pronunciation": "su-SHE-ne", "example": "Сушенето на домати е популярно лятото.", "type": "noun" },
+    { "bg": "замразявам", "en": "to freeze", "pronunciation": "za-mra-ZYA-vam", "example": "Замразявам плодове за зимата.", "type": "verb" },
+    { "bg": "зимнина", "en": "winter preserves/provisions", "pronunciation": "zim-NI-na", "example": "Правим зимнина всяка есен.", "type": "noun" },
+    { "bg": "буркани", "en": "jars (preserves)", "pronunciation": "bur-KA-ni", "example": "Мазето е пълно с буркани.", "type": "noun" },
+    { "bg": "пектин", "en": "pectin", "pronunciation": "pek-TIN", "example": "Добави пектин, за да се сгъсти мармаладът.", "type": "noun" },
+    { "bg": "бъза", "en": "elderflower", "pronunciation": "bu-ZA", "example": "Сиропът от бъза е освежаващ лятото.", "type": "noun" },
+    { "bg": "ракия", "en": "rakia (fruit brandy)", "pronunciation": "ra-KI-ya", "example": "Ракията се вари от сливи или грозде.", "type": "noun" }
+  ]
+}
