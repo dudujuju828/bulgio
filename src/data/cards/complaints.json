@@ -1,0 +1,28 @@
+{
+  "category": "Complaining & Customer Service",
+  "cards": [
+    { "bg": "оплаквам се", "en": "to complain", "pronunciation": "op-LAK-vam se", "example": "Оплаквам се от лошото обслужване.", "type": "verb" },
+    { "bg": "жалба", "en": "complaint (formal)", "pronunciation": "ZHAL-ba", "example": "Подадох жалба до управителя.", "type": "noun" },
+    { "bg": "рекламация", "en": "warranty claim/return", "pronunciation": "rek-la-MA-tsi-ya", "example": "Направих рекламация на дефектния телефон.", "type": "noun" },
+    { "bg": "гаранция", "en": "warranty/guarantee", "pronunciation": "ga-RAN-tsi-ya", "example": "Гаранцията е две години.", "type": "noun" },
+    { "bg": "касов бон", "en": "receipt", "pronunciation": "KA-sov bon", "example": "Пазя касовия бон за рекламация.", "type": "noun" },
+    { "bg": "връщам", "en": "to return (item)", "pronunciation": "VRUSH-tam", "example": "Искам да върна тези обувки.", "type": "verb" },
+    { "bg": "замяна", "en": "exchange/replacement", "pronunciation": "za-MYA-na", "example": "Искам замяна с друг размер.", "type": "noun" },
+    { "bg": "възстановяване на пари", "en": "refund", "pronunciation": "vuz-sta-no-VYA-va-ne na pa-RI", "example": "Поискай възстановяване на парите.", "type": "noun" },
+    { "bg": "дефект", "en": "defect/flaw", "pronunciation": "de-FEKT", "example": "Продуктът има фабричен дефект.", "type": "noun" },
+    { "bg": "повреда", "en": "damage/malfunction", "pronunciation": "pov-RE-da", "example": "Повредата е възникнала при транспорта.", "type": "noun" },
+    { "bg": "обслужване", "en": "service/customer service", "pronunciation": "ob-SLUZH-va-ne", "example": "Обслужването в този магазин е ужасно.", "type": "noun" },
+    { "bg": "управител", "en": "manager", "pronunciation": "up-ra-VI-tel", "example": "Извикайте управителя, моля.", "type": "noun" },
+    { "bg": "книга за оплаквания", "en": "complaints book", "pronunciation": "KNI-ga za op-lak-VA-ni-ya", "example": "Искам да пиша в книгата за оплаквания.", "type": "noun" },
+    { "bg": "КЗП", "en": "Consumer Protection Commission", "pronunciation": "ka-ze-PE", "example": "Ще подам сигнал до КЗП.", "type": "noun" },
+    { "bg": "права на потребителя", "en": "consumer rights", "pronunciation": "pra-VA na pot-re-BI-te-lya", "example": "Знаеш ли правата си като потребител?", "type": "noun" },
+    { "bg": "недоволен съм", "en": "I am dissatisfied", "pronunciation": "ne-do-VO-len sum", "example": "Недоволен съм от качеството на продукта.", "type": "phrase" },
+    { "bg": "неприемливо", "en": "unacceptable", "pronunciation": "ne-pri-em-LI-vo", "example": "Това закъснение е неприемливо.", "type": "adjective" },
+    { "bg": "извинение", "en": "apology", "pronunciation": "iz-vi-NE-ni-e", "example": "Очаквам извинение за грешката.", "type": "noun" },
+    { "bg": "обезщетение", "en": "compensation", "pronunciation": "o-bez-shte-TE-ni-e", "example": "Поискахме обезщетение за причиненото неудобство.", "type": "noun" },
+    { "bg": "закъснение", "en": "delay", "pronunciation": "za-kus-NE-ni-e", "example": "Закъснението на доставката е една седмица.", "type": "noun" },
+    { "bg": "грешна поръчка", "en": "wrong order", "pronunciation": "GRESH-na po-RUCH-ka", "example": "Донесохте ми грешна поръчка.", "type": "noun" },
+    { "bg": "решавам проблем", "en": "to resolve a problem", "pronunciation": "re-SHA-vam prob-LEM", "example": "Моля, решете проблема ми.", "type": "verb" },
+    { "bg": "горещ телефон", "en": "hotline", "pronunciation": "go-RESHT te-le-FON", "example": "Обадих се на горещия телефон за жалби.", "type": "noun" }
+  ]
+}
