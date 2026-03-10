@@ -1,0 +1,28 @@
+{
+  "category": "Spa",
+  "cards": [
+    { "bg": "спа", "en": "spa", "pronunciation": "spa", "example": "Отидохме на спа за уикенда.", "type": "noun" },
+    { "bg": "минерална вода", "en": "mineral water", "pronunciation": "mi-ne-RAL-na vo-DA", "example": "Велинград е известен с минералната си вода.", "type": "noun" },
+    { "bg": "минерален извор", "en": "mineral spring", "pronunciation": "mi-ne-RA-len iz-VOR", "example": "България има над шестстотин минерални извора.", "type": "noun" },
+    { "bg": "басейн", "en": "pool", "pronunciation": "ba-SEYN", "example": "Басейнът с топла минерална вода е прекрасен.", "type": "noun" },
+    { "bg": "джакузи", "en": "jacuzzi/hot tub", "pronunciation": "dzha-KU-zi", "example": "Релаксирахме в джакузито след разходката.", "type": "noun" },
+    { "bg": "сауна", "en": "sauna", "pronunciation": "SA-u-na", "example": "Сауната е на деветдесет градуса.", "type": "noun" },
+    { "bg": "парна баня", "en": "steam room", "pronunciation": "PAR-na BA-nya", "example": "Парната баня е добра за дихателната система.", "type": "noun" },
+    { "bg": "масаж", "en": "massage", "pronunciation": "ma-SAZH", "example": "Записах се за масаж на гърба.", "type": "noun" },
+    { "bg": "масажист", "en": "masseur/masseuse", "pronunciation": "ma-sa-ZHIST", "example": "Масажистът е много опитен.", "type": "noun" },
+    { "bg": "процедура", "en": "treatment/procedure", "pronunciation": "pro-tse-DU-ra", "example": "Водните процедури са включени в пакета.", "type": "noun" },
+    { "bg": "халат", "en": "robe/bathrobe", "pronunciation": "ha-LAT", "example": "На рецепцията ни дадоха халати и чехли.", "type": "noun" },
+    { "bg": "чехли", "en": "slippers", "pronunciation": "CHEH-li", "example": "Слож чехлите преди да влезеш в спа зоната.", "type": "noun" },
+    { "bg": "кърпа", "en": "towel", "pronunciation": "KUR-pa", "example": "Вземи си кърпа за басейна.", "type": "noun" },
+    { "bg": "релаксирам", "en": "to relax", "pronunciation": "re-lak-SI-ram", "example": "Дойдохме тук да релаксираме.", "type": "verb" },
+    { "bg": "балнеолечение", "en": "balneotherapy (mineral water therapy)", "pronunciation": "bal-ne-o-le-CHE-ni-e", "example": "Хисаря е известна с балнеолечението.", "type": "noun" },
+    { "bg": "кална баня", "en": "mud bath", "pronunciation": "KAL-na BA-nya", "example": "Калните бани в Поморие лекуват ставите.", "type": "noun" },
+    { "bg": "термален", "en": "thermal", "pronunciation": "ter-MA-len", "example": "Термалните води достигат четиридесет градуса.", "type": "adjective" },
+    { "bg": "лечебен", "en": "healing/therapeutic", "pronunciation": "le-CHE-ben", "example": "Минералната вода има лечебни свойства.", "type": "adjective" },
+    { "bg": "ароматерапия", "en": "aromatherapy", "pronunciation": "a-ro-ma-te-ra-PI-ya", "example": "Ароматерапията с лавандула е много приятна.", "type": "noun" },
+    { "bg": "пилинг", "en": "peeling/exfoliation", "pronunciation": "PI-ling", "example": "Направиха ми пилинг с морска сол.", "type": "noun" },
+    { "bg": "зона за отдих", "en": "relaxation area", "pronunciation": "ZO-na za OT-dih", "example": "В зоната за отдих има шезлонги и чай.", "type": "noun" },
+    { "bg": "хидромасаж", "en": "hydromassage", "pronunciation": "hid-ro-ma-SAZH", "example": "Хидромасажната вана е включена в пакета.", "type": "noun" },
+    { "bg": "курорт", "en": "resort/spa town", "pronunciation": "ku-RORT", "example": "Сандански е популярен балнеоложки курорт.", "type": "noun" }
+  ]
+}
