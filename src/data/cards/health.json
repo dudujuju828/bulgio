@@ -1,0 +1,26 @@
+{
+  "category": "Health",
+  "cards": [
+    { "bg": "здраве", "en": "health", "pronunciation": "ZDRA-ve", "example": "Здравето е най-важното нещо.", "type": "noun" },
+    { "bg": "болен", "en": "sick/ill", "pronunciation": "BO-len", "example": "Болен съм от два дни.", "type": "adjective" },
+    { "bg": "здрав", "en": "healthy", "pronunciation": "zdrav", "example": "Чувствам се здрав и силен.", "type": "adjective" },
+    { "bg": "болница", "en": "hospital", "pronunciation": "bol-NI-tsa", "example": "Заведоха го в болницата.", "type": "noun" },
+    { "bg": "аптека", "en": "pharmacy", "pronunciation": "ap-TE-ka", "example": "Купих лекарство от аптеката.", "type": "noun" },
+    { "bg": "лекарство", "en": "medicine", "pronunciation": "le-KAR-stvo", "example": "Вземай лекарството три пъти на ден.", "type": "noun" },
+    { "bg": "болка", "en": "pain", "pronunciation": "BOL-ka", "example": "Имам силна болка в гърба.", "type": "noun" },
+    { "bg": "температура", "en": "fever/temperature", "pronunciation": "tem-pe-ra-TU-ra", "example": "Детето има висока температура.", "type": "noun" },
+    { "bg": "настинка", "en": "cold (illness)", "pronunciation": "na-STIN-ka", "example": "Хванах настинка от вятъра.", "type": "noun" },
+    { "bg": "кашлица", "en": "cough", "pronunciation": "KASH-li-tsa", "example": "Имам силна кашлица.", "type": "noun" },
+    { "bg": "главоболие", "en": "headache", "pronunciation": "gla-vo-BO-li-e", "example": "Имам ужасно главоболие.", "type": "noun" },
+    { "bg": "рецепта", "en": "prescription", "pronunciation": "re-TSEP-ta", "example": "Лекарят ми написа рецепта.", "type": "noun" },
+    { "bg": "преглед", "en": "checkup/examination", "pronunciation": "PREG-led", "example": "Трябва да отида на преглед.", "type": "noun" },
+    { "bg": "алергия", "en": "allergy", "pronunciation": "a-ler-GI-ya", "example": "Имам алергия към прах.", "type": "noun" },
+    { "bg": "рана", "en": "wound/injury", "pronunciation": "RA-na", "example": "Раната трябва да се почисти.", "type": "noun" },
+    { "bg": "боли ме", "en": "it hurts", "pronunciation": "bo-LI me", "example": "Боли ме коремът.", "type": "phrase" },
+    { "bg": "зъболекар", "en": "dentist", "pronunciation": "zu-bo-LE-kar", "example": "Страхувам се от зъболекаря.", "type": "noun" },
+    { "bg": "линейка", "en": "ambulance", "pronunciation": "li-NEY-ka", "example": "Обадете се на линейка!", "type": "noun" },
+    { "bg": "операция", "en": "surgery/operation", "pronunciation": "o-pe-RA-tsi-ya", "example": "Операцията мина успешно.", "type": "noun" },
+    { "bg": "превръзка", "en": "bandage", "pronunciation": "pre-VRUZ-ka", "example": "Сложи превръзка на раната.", "type": "noun" },
+    { "bg": "хапче", "en": "pill/tablet", "pronunciation": "HAP-che", "example": "Вземи едно хапче след ядене.", "type": "noun" }
+  ]
+}
