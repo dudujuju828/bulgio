@@ -1,0 +1,28 @@
+{
+  "category": "Picnics & Outdoor Dining",
+  "cards": [
+    { "bg": "пикник", "en": "picnic", "pronunciation": "PIK-nik", "example": "Организираме пикник в Южния парк.", "type": "noun" },
+    { "bg": "одеяло", "en": "blanket (picnic)", "pronunciation": "o-de-YA-lo", "example": "Разстлахме одеялото на тревата.", "type": "noun" },
+    { "bg": "кошница", "en": "basket (picnic)", "pronunciation": "KOSH-ni-tsa", "example": "Кошницата е пълна с храна и напитки.", "type": "noun" },
+    { "bg": "сандвич", "en": "sandwich", "pronunciation": "SAND-vich", "example": "Направих сандвичи с кашкавал и домати.", "type": "noun" },
+    { "bg": "термос", "en": "thermos", "pronunciation": "TER-mos", "example": "Термосът е с горещо кафе.", "type": "noun" },
+    { "bg": "хладилна чанта", "en": "cooler bag", "pronunciation": "hla-DIL-na CHAN-ta", "example": "Сложи напитките в хладилната чанта.", "type": "noun" },
+    { "bg": "еднократни чинии", "en": "disposable plates", "pronunciation": "ed-no-KRAT-ni CHI-ni-i", "example": "Купих еднократни чинии и чаши.", "type": "noun" },
+    { "bg": "сенник", "en": "parasol/sun shade", "pronunciation": "SEN-nik", "example": "Отвори сенника, слънцето е силно.", "type": "noun" },
+    { "bg": "скара", "en": "grill/barbecue", "pronunciation": "ska-RA", "example": "Запалихме скарата край реката.", "type": "noun" },
+    { "bg": "въглища", "en": "charcoal", "pronunciation": "VUG-li-shta", "example": "Купи чувал въглища за скарата.", "type": "noun" },
+    { "bg": "шишче", "en": "skewer/kebab", "pronunciation": "SHISH-che", "example": "Нанизваме месото на шишчета.", "type": "noun" },
+    { "bg": "кебапче", "en": "kebapche (Bulgarian grilled meat)", "pronunciation": "ke-BAP-che", "example": "Кебапчетата на скарата са най-вкусни.", "type": "noun" },
+    { "bg": "кюфте", "en": "kyufte (Bulgarian meatball)", "pronunciation": "KYUF-te", "example": "Кюфтетата са с лук и чубрица.", "type": "noun" },
+    { "bg": "шопска салата", "en": "Shopska salad", "pronunciation": "SHOP-ska sa-LA-ta", "example": "Шопската салата е с домати, краставици и сирене.", "type": "noun" },
+    { "bg": "лютеница", "en": "lyutenitsa (pepper spread)", "pronunciation": "lyu-te-NI-tsa", "example": "Лютеницата е задължителна на скарата.", "type": "noun" },
+    { "bg": "на открито", "en": "outdoors/al fresco", "pronunciation": "na ot-KRI-to", "example": "Обичам да ям на открито.", "type": "phrase" },
+    { "bg": "поляна", "en": "meadow/clearing", "pronunciation": "po-LYA-na", "example": "Намерихме хубава поляна за пикника.", "type": "noun" },
+    { "bg": "сянка", "en": "shade", "pronunciation": "SYAN-ka", "example": "Седнахме на сянка под дървото.", "type": "noun" },
+    { "bg": "насекомо", "en": "insect", "pronunciation": "na-se-KO-mo", "example": "Насекомите са досадни на пикника.", "type": "noun" },
+    { "bg": "репелент", "en": "insect repellent", "pronunciation": "re-pe-LENT", "example": "Пръсни репелент срещу комарите.", "type": "noun" },
+    { "bg": "хамак", "en": "hammock", "pronunciation": "ha-MAK", "example": "Окачих хамака между двете дървета.", "type": "noun" },
+    { "bg": "градинска маса", "en": "garden/picnic table", "pronunciation": "gra-DIN-ska MA-sa", "example": "Градинските маси в парка са свободни.", "type": "noun" },
+    { "bg": "събиране", "en": "gathering/get-together", "pronunciation": "su-BI-ra-ne", "example": "Събирането с приятели е в парка.", "type": "noun" }
+  ]
+}
