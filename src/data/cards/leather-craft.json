@@ -1,0 +1,28 @@
+{
+  "category": "Leatherworking & Leather Craft",
+  "cards": [
+    { "bg": "кожа", "en": "leather", "pronunciation": "KO-zha", "example": "Кожата е естествен и издръжлив материал.", "type": "noun" },
+    { "bg": "кожар", "en": "leatherworker/tanner", "pronunciation": "ko-ZHAR", "example": "Кожарят работи в ателието си от двадесет години.", "type": "noun" },
+    { "bg": "дъбене", "en": "tanning", "pronunciation": "DU-be-ne", "example": "Дъбенето превръща суровата кожа в издръжлив материал.", "type": "noun" },
+    { "bg": "телешка кожа", "en": "cowhide/calfskin", "pronunciation": "te-LESH-ka KO-zha", "example": "Телешката кожа е най-използваната за чанти.", "type": "noun" },
+    { "bg": "агнешка кожа", "en": "lambskin", "pronunciation": "ag-NESH-ka KO-zha", "example": "Агнешката кожа е мека и тънка.", "type": "noun" },
+    { "bg": "колан", "en": "belt", "pronunciation": "ko-LAN", "example": "Коланът е ръчно изработен от натурална кожа.", "type": "noun" },
+    { "bg": "портфейл", "en": "wallet", "pronunciation": "port-FEYL", "example": "Портфейлът е от тъмнокафява кожа.", "type": "noun" },
+    { "bg": "чанта", "en": "bag/handbag", "pronunciation": "CHAN-ta", "example": "Кожената чанта е направена по поръчка.", "type": "noun" },
+    { "bg": "шия", "en": "to sew/stitch", "pronunciation": "shi-YA", "example": "Шия кожата с восъчен конец.", "type": "verb" },
+    { "bg": "щампирам", "en": "to stamp/emboss", "pronunciation": "shtam-PI-ram", "example": "Щампирам орнамент върху кожата.", "type": "verb" },
+    { "bg": "щампа", "en": "stamp/embossing tool", "pronunciation": "SHTAM-pa", "example": "Щампите създават красиви шарки.", "type": "noun" },
+    { "bg": "нож за кожа", "en": "leather knife", "pronunciation": "nozh za KO-zha", "example": "Ножът за кожа е остър като бръснач.", "type": "noun" },
+    { "bg": "шило", "en": "awl", "pronunciation": "shi-LO", "example": "Шилото пробива дупки за шиене.", "type": "noun" },
+    { "bg": "игла", "en": "needle", "pronunciation": "ig-LA", "example": "Използвам извита игла за ръчно шиене.", "type": "noun" },
+    { "bg": "конец", "en": "thread", "pronunciation": "ko-NETS", "example": "Восъчният конец е здрав и издръжлив.", "type": "noun" },
+    { "bg": "тока", "en": "buckle", "pronunciation": "TO-ka", "example": "Токата на колана е от месинг.", "type": "noun" },
+    { "bg": "нит", "en": "rivet", "pronunciation": "nit", "example": "Нитовете укрепват ъглите на чантата.", "type": "noun" },
+    { "bg": "боя за кожа", "en": "leather dye", "pronunciation": "bo-YA za KO-zha", "example": "Боята за кожа променя цвета трайно.", "type": "noun" },
+    { "bg": "полиране", "en": "polishing/burnishing", "pronunciation": "po-li-RA-ne", "example": "Полирането придава блясък на ръбовете.", "type": "noun" },
+    { "bg": "калъф", "en": "case/cover", "pronunciation": "ka-LUF", "example": "Калъфът за телефон е от ръчно обработена кожа.", "type": "noun" },
+    { "bg": "ателие", "en": "workshop/atelier", "pronunciation": "a-te-li-E", "example": "Ателието е пълно с инструменти и кожи.", "type": "noun" },
+    { "bg": "изкуствена кожа", "en": "faux leather/synthetic leather", "pronunciation": "iz-KUS-tve-na KO-zha", "example": "Изкуствената кожа е по-евтина алтернатива.", "type": "noun" },
+    { "bg": "патина", "en": "patina", "pronunciation": "PA-ti-na", "example": "Патината придава характер на кожата с времето.", "type": "noun" }
+  ]
+}
