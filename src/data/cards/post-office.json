@@ -1,0 +1,25 @@
+{
+  "category": "Post Office",
+  "cards": [
+    { "bg": "поща", "en": "post office/mail", "pronunciation": "POSH-ta", "example": "Отивам на пощата да изпратя писмо.", "type": "noun" },
+    { "bg": "писмо", "en": "letter", "pronunciation": "pis-MO", "example": "Получих писмо от приятел.", "type": "noun" },
+    { "bg": "пощенска картичка", "en": "postcard", "pronunciation": "POSH-ten-ska KAR-tich-ka", "example": "Изпратих пощенска картичка от морето.", "type": "noun" },
+    { "bg": "колет", "en": "parcel/package", "pronunciation": "ko-LET", "example": "Колетът пристигна днес.", "type": "noun" },
+    { "bg": "плик", "en": "envelope", "pronunciation": "plik", "example": "Сложи писмото в плика.", "type": "noun" },
+    { "bg": "марка", "en": "stamp", "pronunciation": "MAR-ka", "example": "Купи марка за писмото.", "type": "noun" },
+    { "bg": "адрес", "en": "address", "pronunciation": "ad-RES", "example": "Напиши адреса на плика.", "type": "noun" },
+    { "bg": "пощенски код", "en": "postal code", "pronunciation": "POSH-ten-ski kod", "example": "Какъв е пощенският код на София?", "type": "noun" },
+    { "bg": "пощенска кутия", "en": "mailbox", "pronunciation": "POSH-ten-ska KU-ti-ya", "example": "Пусни писмото в пощенската кутия.", "type": "noun" },
+    { "bg": "пощальон", "en": "mailman/postman", "pronunciation": "posh-tal-YON", "example": "Пощальонът идва всяка сутрин.", "type": "noun" },
+    { "bg": "изпращам", "en": "to send", "pronunciation": "iz-PRA-shtam", "example": "Изпращам колет на сестра ми.", "type": "verb" },
+    { "bg": "получавам", "en": "to receive", "pronunciation": "po-lu-CHA-vam", "example": "Получих пратка от чужбина.", "type": "verb" },
+    { "bg": "доставка", "en": "delivery", "pronunciation": "do-STAV-ka", "example": "Доставката е за два дни.", "type": "noun" },
+    { "bg": "куриер", "en": "courier", "pronunciation": "ku-ri-ER", "example": "Куриерът ще донесе пакета утре.", "type": "noun" },
+    { "bg": "подател", "en": "sender", "pronunciation": "po-DA-tel", "example": "Кой е подателят на писмото?", "type": "noun" },
+    { "bg": "получател", "en": "recipient", "pronunciation": "po-lu-CHA-tel", "example": "Получателят не е на този адрес.", "type": "noun" },
+    { "bg": "препоръчано", "en": "registered (mail)", "pronunciation": "pre-po-RU-cha-no", "example": "Изпратих писмото препоръчано.", "type": "adjective" },
+    { "bg": "бързо писмо", "en": "express mail", "pronunciation": "BUR-zo pis-MO", "example": "С бързо писмо пристига за един ден.", "type": "noun" },
+    { "bg": "пратка", "en": "shipment/package", "pronunciation": "PRAT-ka", "example": "Пратката е на път.", "type": "noun" },
+    { "bg": "тегло", "en": "weight", "pronunciation": "teg-LO", "example": "Какво е теглото на колета?", "type": "noun" }
+  ]
+}
