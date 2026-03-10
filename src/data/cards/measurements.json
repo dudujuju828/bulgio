@@ -1,0 +1,27 @@
+{
+  "category": "Measurements",
+  "cards": [
+    { "bg": "метър", "en": "meter", "pronunciation": "ME-tur", "example": "Стаята е четири метра на пет.", "type": "noun" },
+    { "bg": "сантиметър", "en": "centimeter", "pronunciation": "san-ti-ME-tur", "example": "Масата е осемдесет сантиметра висока.", "type": "noun" },
+    { "bg": "километър", "en": "kilometer", "pronunciation": "ki-lo-ME-tur", "example": "Градът е на двадесет километра оттук.", "type": "noun" },
+    { "bg": "килограм", "en": "kilogram", "pronunciation": "ki-lo-GRAM", "example": "Купих два килограма ябълки.", "type": "noun" },
+    { "bg": "грам", "en": "gram", "pronunciation": "gram", "example": "Рецептата изисква двеста грама масло.", "type": "noun" },
+    { "bg": "литър", "en": "liter", "pronunciation": "LI-tur", "example": "Изпивам два литра вода на ден.", "type": "noun" },
+    { "bg": "тон", "en": "ton", "pronunciation": "ton", "example": "Камионът носи пет тона товар.", "type": "noun" },
+    { "bg": "дължина", "en": "length", "pronunciation": "dul-zhi-NA", "example": "Дължината на моста е сто метра.", "type": "noun" },
+    { "bg": "ширина", "en": "width", "pronunciation": "shi-ri-NA", "example": "Ширината на реката е двадесет метра.", "type": "noun" },
+    { "bg": "височина", "en": "height", "pronunciation": "vi-so-chi-NA", "example": "Височината на Мусала е 2925 метра.", "type": "noun" },
+    { "bg": "дълбочина", "en": "depth", "pronunciation": "dul-bo-chi-NA", "example": "Дълбочината на басейна е два метра.", "type": "noun" },
+    { "bg": "площ", "en": "area/surface", "pronunciation": "plosht", "example": "Площта на апартамента е осемдесет квадратни метра.", "type": "noun" },
+    { "bg": "обем", "en": "volume", "pronunciation": "o-BEM", "example": "Обемът на бутилката е един литър.", "type": "noun" },
+    { "bg": "тегло", "en": "weight", "pronunciation": "teg-LO", "example": "Какво е теглото на този пакет?", "type": "noun" },
+    { "bg": "градус", "en": "degree", "pronunciation": "GRA-dus", "example": "Температурата е тридесет градуса.", "type": "noun" },
+    { "bg": "меря", "en": "to measure", "pronunciation": "ME-rya", "example": "Меря дължината на стената.", "type": "verb" },
+    { "bg": "тежа", "en": "to weigh", "pronunciation": "te-ZHA", "example": "Колко тежиш? — Седемдесет килограма.", "type": "verb" },
+    { "bg": "разстояние", "en": "distance", "pronunciation": "raz-sto-YA-ni-e", "example": "Разстоянието между София и Пловдив е 150 км.", "type": "noun" },
+    { "bg": "квадратен метър", "en": "square meter", "pronunciation": "kvad-RA-ten ME-tur", "example": "Жилището е сто квадратни метра.", "type": "noun" },
+    { "bg": "милиметър", "en": "millimeter", "pronunciation": "mi-li-ME-tur", "example": "Дъждът беше десет милиметра.", "type": "noun" },
+    { "bg": "мерна единица", "en": "unit of measurement", "pronunciation": "MER-na e-di-NI-tsa", "example": "Метърът е основна мерна единица.", "type": "noun" },
+    { "bg": "приблизително", "en": "approximately", "pronunciation": "pri-bli-ZI-tel-no", "example": "Приблизително два часа с кола.", "type": "adverb" }
+  ]
+}
