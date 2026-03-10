@@ -1,0 +1,27 @@
+{
+  "category": "Glassblowing & Glass Art",
+  "cards": [
+    { "bg": "стъкло", "en": "glass", "pronunciation": "STUK-lo", "example": "Стъклото се оформя при много висока температура.", "type": "noun" },
+    { "bg": "стъклар", "en": "glassblower/glassmaker", "pronunciation": "stuk-LAR", "example": "Стъкларят издухва ваза пред очите ни.", "type": "noun" },
+    { "bg": "духане на стъкло", "en": "glassblowing", "pronunciation": "DU-ha-ne na STUK-lo", "example": "Духането на стъкло е древно изкуство.", "type": "noun" },
+    { "bg": "пещ", "en": "furnace/kiln", "pronunciation": "pesht", "example": "Пещта нагрява стъклото до хиляда градуса.", "type": "noun" },
+    { "bg": "тръба", "en": "blowpipe", "pronunciation": "tru-BA", "example": "Стъкларят духа през тръбата, за да оформи балон.", "type": "noun" },
+    { "bg": "разтопено стъкло", "en": "molten glass", "pronunciation": "raz-TO-pe-no STUK-lo", "example": "Разтопеното стъкло свети в оранжево.", "type": "noun" },
+    { "bg": "балон", "en": "bubble/blown form", "pronunciation": "ba-LON", "example": "Балонът от стъкло се разширява при духане.", "type": "noun" },
+    { "bg": "оформям", "en": "to shape/form", "pronunciation": "o-FOR-myam", "example": "Оформям вазата с метални инструменти.", "type": "verb" },
+    { "bg": "охлаждане", "en": "annealing/cooling", "pronunciation": "oh-lazh-DA-ne", "example": "Охлаждането трябва да е бавно, за да не се пукне.", "type": "noun" },
+    { "bg": "ваза", "en": "vase", "pronunciation": "VA-za", "example": "Вазата е ръчно духана от цветно стъкло.", "type": "noun" },
+    { "bg": "чаша", "en": "glass/cup", "pronunciation": "CHA-sha", "example": "Чашите са от ръчно изработено стъкло.", "type": "noun" },
+    { "bg": "витраж", "en": "stained glass", "pronunciation": "vit-RAZH", "example": "Витражът в църквата изобразява светци.", "type": "noun" },
+    { "bg": "мозайка", "en": "mosaic", "pronunciation": "mo-ZAY-ka", "example": "Мозайката от стъкло украсява стената.", "type": "noun" },
+    { "bg": "цветно стъкло", "en": "colored glass", "pronunciation": "TSVET-no STUK-lo", "example": "Цветното стъкло се получава чрез добавяне на оксиди.", "type": "noun" },
+    { "bg": "кристал", "en": "crystal", "pronunciation": "kris-TAL", "example": "Кристалните чаши блестят на светлината.", "type": "noun" },
+    { "bg": "гравиране", "en": "engraving", "pronunciation": "gra-vi-RA-ne", "example": "Гравирането върху стъклото добавя красив детайл.", "type": "noun" },
+    { "bg": "прозрачен", "en": "transparent", "pronunciation": "pro-ZRA-chen", "example": "Прозрачното стъкло пропуска светлината.", "type": "adjective" },
+    { "bg": "матиран", "en": "frosted/matte", "pronunciation": "ma-TI-ran", "example": "Матираното стъкло е полупрозрачно.", "type": "adjective" },
+    { "bg": "крехък", "en": "fragile/delicate", "pronunciation": "KRE-huk", "example": "Стъклените фигурки са много крехки.", "type": "adjective" },
+    { "bg": "бижу от стъкло", "en": "glass jewelry", "pronunciation": "bi-ZHU ot STUK-lo", "example": "Бижутата от муранско стъкло са цветни.", "type": "noun" },
+    { "bg": "фигурка", "en": "figurine", "pronunciation": "fi-GUR-ka", "example": "Фигурката от стъкло е миниатюрен кон.", "type": "noun" },
+    { "bg": "пукнатина", "en": "crack", "pronunciation": "puk-NA-ti-na", "example": "Пукнатината е от рязката промяна на температурата.", "type": "noun" }
+  ]
+}
