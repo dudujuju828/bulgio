@@ -1,0 +1,25 @@
+{
+  "category": "Garden",
+  "cards": [
+    { "bg": "градина", "en": "garden", "pronunciation": "gra-DI-na", "example": "Градината ни е пълна с цветя.", "type": "noun" },
+    { "bg": "двор", "en": "yard", "pronunciation": "dvor", "example": "Децата играят в двора.", "type": "noun" },
+    { "bg": "роза", "en": "rose", "pronunciation": "RO-za", "example": "Розите цъфтят през лятото.", "type": "noun" },
+    { "bg": "лале", "en": "tulip", "pronunciation": "la-LE", "example": "Лалетата цъфтят напролет.", "type": "noun" },
+    { "bg": "слънчоглед", "en": "sunflower", "pronunciation": "slun-cho-GLED", "example": "Слънчогледите са много високи.", "type": "noun" },
+    { "bg": "семе", "en": "seed", "pronunciation": "se-ME", "example": "Посях семена в градината.", "type": "noun" },
+    { "bg": "почва", "en": "soil", "pronunciation": "POCH-va", "example": "Почвата е влажна след дъжда.", "type": "noun" },
+    { "bg": "лозе", "en": "vine/vineyard", "pronunciation": "lo-ZE", "example": "Дядо има лозе зад къщата.", "type": "noun" },
+    { "bg": "зеленчук", "en": "vegetable", "pronunciation": "ze-len-CHUK", "example": "Отглеждаме зеленчуци в градината.", "type": "noun" },
+    { "bg": "плод", "en": "fruit", "pronunciation": "plod", "example": "Ябълковото дърво дава сладки плодове.", "type": "noun" },
+    { "bg": "храст", "en": "bush/shrub", "pronunciation": "hrast", "example": "Храстът до оградата е много зелен.", "type": "noun" },
+    { "bg": "ограда", "en": "fence", "pronunciation": "og-RA-da", "example": "Оградата е от дърво.", "type": "noun" },
+    { "bg": "маркуч", "en": "garden hose", "pronunciation": "mar-KUCH", "example": "Поливам градината с маркуч.", "type": "noun" },
+    { "bg": "лопата", "en": "shovel", "pronunciation": "lo-PA-ta", "example": "Копая с лопатата.", "type": "noun" },
+    { "bg": "поливам", "en": "to water (plants)", "pronunciation": "po-LI-vam", "example": "Поливам цветята всяка вечер.", "type": "verb" },
+    { "bg": "садя", "en": "to plant", "pronunciation": "sa-DYA", "example": "Садим домати напролет.", "type": "verb" },
+    { "bg": "бера", "en": "to pick/harvest", "pronunciation": "be-RA", "example": "Берем ябълки от дървото.", "type": "verb" },
+    { "bg": "режа", "en": "to prune/cut", "pronunciation": "RE-zha", "example": "Режа розите есента.", "type": "verb" },
+    { "bg": "копая", "en": "to dig", "pronunciation": "ko-PA-ya", "example": "Копая дупка за новото дърво.", "type": "verb" },
+    { "bg": "цъфтя", "en": "to bloom", "pronunciation": "tsuf-TYA", "example": "Цветята цъфтят през пролетта.", "type": "verb" }
+  ]
+}
