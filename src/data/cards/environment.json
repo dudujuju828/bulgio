@@ -1,0 +1,27 @@
+{
+  "category": "Environment",
+  "cards": [
+    { "bg": "околна среда", "en": "environment", "pronunciation": "o-KOL-na sre-DA", "example": "Трябва да пазим околната среда.", "type": "noun" },
+    { "bg": "екология", "en": "ecology", "pronunciation": "e-ko-LO-gi-ya", "example": "Екологията изучава връзките в природата.", "type": "noun" },
+    { "bg": "замърсяване", "en": "pollution", "pronunciation": "za-mur-SYA-va-ne", "example": "Замърсяването на въздуха е проблем в София.", "type": "noun" },
+    { "bg": "рециклирам", "en": "to recycle", "pronunciation": "re-tsik-LI-ram", "example": "Рециклирам хартия, стъкло и пластмаса.", "type": "verb" },
+    { "bg": "отпадък", "en": "waste/rubbish", "pronunciation": "ot-PA-duk", "example": "Намаляването на отпадъците е важно.", "type": "noun" },
+    { "bg": "климат", "en": "climate", "pronunciation": "KLI-mat", "example": "Климатът се променя бързо.", "type": "noun" },
+    { "bg": "глобално затопляне", "en": "global warming", "pronunciation": "glo-BAL-no za-TOP-lya-ne", "example": "Глобалното затопляне засяга целия свят.", "type": "noun" },
+    { "bg": "възобновяема енергия", "en": "renewable energy", "pronunciation": "vuz-ob-no-VYA-e-ma e-NER-gi-ya", "example": "Възобновяемата енергия идва от слънце и вятър.", "type": "noun" },
+    { "bg": "слънчева енергия", "en": "solar energy", "pronunciation": "SLUN-che-va e-NER-gi-ya", "example": "България има потенциал за слънчева енергия.", "type": "noun" },
+    { "bg": "вятърна енергия", "en": "wind energy", "pronunciation": "VYA-tur-na e-NER-gi-ya", "example": "Вятърните турбини произвеждат електричество.", "type": "noun" },
+    { "bg": "застрашен вид", "en": "endangered species", "pronunciation": "zas-TRA-shen vid", "example": "Тюленът монах е застрашен вид.", "type": "noun" },
+    { "bg": "национален парк", "en": "national park", "pronunciation": "na-tsi-o-NA-len park", "example": "Национален парк Пирин е под защитата на ЮНЕСКО.", "type": "noun" },
+    { "bg": "резерват", "en": "nature reserve", "pronunciation": "re-zer-VAT", "example": "Резерватът Сребърна пази редки птици.", "type": "noun" },
+    { "bg": "засаждам", "en": "to plant", "pronunciation": "za-SAZH-dam", "example": "Засаждаме дървета всяка пролет.", "type": "verb" },
+    { "bg": "пестя", "en": "to save/conserve", "pronunciation": "PES-tya", "example": "Пестя вода и електричество.", "type": "verb" },
+    { "bg": "замърсявам", "en": "to pollute", "pronunciation": "za-mur-SYA-vam", "example": "Фабриките замърсяват реката.", "type": "verb" },
+    { "bg": "почиствам", "en": "to clean up", "pronunciation": "po-CHIST-vam", "example": "Доброволците почистиха плажа.", "type": "verb" },
+    { "bg": "въглероден диоксид", "en": "carbon dioxide", "pronunciation": "vug-le-RO-den di-ok-SID", "example": "Колите отделят въглероден диоксид.", "type": "noun" },
+    { "bg": "озонов слой", "en": "ozone layer", "pronunciation": "o-ZO-nov sloy", "example": "Озоновият слой предпазва от ултравиолетови лъчи.", "type": "noun" },
+    { "bg": "суша", "en": "drought", "pronunciation": "SU-sha", "example": "Сушата унищожи реколтата.", "type": "noun" },
+    { "bg": "наводнение", "en": "flood", "pronunciation": "na-vod-NE-ni-e", "example": "След силния дъжд имаше наводнение.", "type": "noun" },
+    { "bg": "биоразнообразие", "en": "biodiversity", "pronunciation": "bi-o-raz-no-ob-RA-zi-e", "example": "България има богато биоразнообразие.", "type": "noun" }
+  ]
+}
