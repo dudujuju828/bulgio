@@ -1,0 +1,29 @@
+{
+  "category": "Hunting",
+  "cards": [
+    { "bg": "лов", "en": "hunting", "pronunciation": "lov", "example": "Ловът е традиция в българските планини.", "type": "noun" },
+    { "bg": "ловец", "en": "hunter", "pronunciation": "lo-VETS", "example": "Ловецът тръгна рано сутринта.", "type": "noun" },
+    { "bg": "ловна пушка", "en": "hunting rifle/shotgun", "pronunciation": "LOV-na PUSH-ka", "example": "Ловната пушка трябва да е регистрирана.", "type": "noun" },
+    { "bg": "ловен билет", "en": "hunting license", "pronunciation": "LO-ven bi-LET", "example": "Без ловен билет не можеш да ловуваш.", "type": "noun" },
+    { "bg": "ловен сезон", "en": "hunting season", "pronunciation": "LO-ven se-ZON", "example": "Ловният сезон за диви свине започва през октомври.", "type": "noun" },
+    { "bg": "ловно куче", "en": "hunting dog", "pronunciation": "LOV-no KU-che", "example": "Ловното куче надуши следата на заека.", "type": "noun" },
+    { "bg": "дивеч", "en": "game (wild animals)", "pronunciation": "di-VECH", "example": "В тази гора има много дивеч.", "type": "noun" },
+    { "bg": "елен", "en": "deer/stag", "pronunciation": "e-LEN", "example": "Еленът избяга в гъсталака.", "type": "noun" },
+    { "bg": "сърна", "en": "roe deer", "pronunciation": "SUR-na", "example": "Видяхме сърна на поляната.", "type": "noun" },
+    { "bg": "глиган", "en": "wild boar", "pronunciation": "gli-GAN", "example": "Глиганът е опасен, когато е ранен.", "type": "noun" },
+    { "bg": "заек", "en": "hare/rabbit", "pronunciation": "ZA-ek", "example": "Заекът изскочи от храста.", "type": "noun" },
+    { "bg": "фазан", "en": "pheasant", "pronunciation": "fa-ZAN", "example": "Фазаните обитават полетата.", "type": "noun" },
+    { "bg": "патица", "en": "duck (wild)", "pronunciation": "PA-ti-tsa", "example": "Дивите патици летят на юг наесен.", "type": "noun" },
+    { "bg": "засада", "en": "ambush/hide", "pronunciation": "za-SA-da", "example": "Ловецът чакаше в засада до езерото.", "type": "noun" },
+    { "bg": "следа", "en": "track/trail", "pronunciation": "sle-DA", "example": "Намерихме следи от мечка в калта.", "type": "noun" },
+    { "bg": "капан", "en": "trap", "pronunciation": "ka-PAN", "example": "Капаните са забранени от закона.", "type": "noun" },
+    { "bg": "стрелям", "en": "to shoot", "pronunciation": "stre-LYAM", "example": "Стреляй само когато си сигурен в целта.", "type": "verb" },
+    { "bg": "патрон", "en": "cartridge/shell", "pronunciation": "pat-RON", "example": "Взех кутия патрони за пушката.", "type": "noun" },
+    { "bg": "бинокъл", "en": "binoculars", "pronunciation": "bi-NO-kul", "example": "С бинокъла видях стадо елени.", "type": "noun" },
+    { "bg": "камуфлаж", "en": "camouflage", "pronunciation": "ka-muf-LAZH", "example": "Ловците носят камуфлажни дрехи.", "type": "noun" },
+    { "bg": "ловна хижа", "en": "hunting lodge", "pronunciation": "LOV-na HI-zha", "example": "Пренощувахме в ловната хижа.", "type": "noun" },
+    { "bg": "трофей", "en": "trophy (antlers)", "pronunciation": "tro-FEY", "example": "На стената висеше трофей от елен.", "type": "noun" },
+    { "bg": "дружинка", "en": "hunting party/group", "pronunciation": "dru-ZHIN-ka", "example": "Дружинката тръгна в пет сутринта.", "type": "noun" },
+    { "bg": "ловно стопанство", "en": "game reserve", "pronunciation": "LOV-no sto-PAN-stvo", "example": "Ловното стопанство поддържа популацията на дивеча.", "type": "noun" }
+  ]
+}
