@@ -1,0 +1,27 @@
+{
+  "category": "Gratitude",
+  "cards": [
+    { "bg": "благодаря", "en": "thank you", "pronunciation": "bla-go-da-RYA", "example": "Благодаря за помощта!", "type": "phrase" },
+    { "bg": "благодаря ти", "en": "thank you (informal)", "pronunciation": "bla-go-da-RYA ti", "example": "Благодаря ти за подаръка.", "type": "phrase" },
+    { "bg": "благодаря ви", "en": "thank you (formal/plural)", "pronunciation": "bla-go-da-RYA vi", "example": "Благодаря ви за вниманието.", "type": "phrase" },
+    { "bg": "мерси", "en": "thanks (casual)", "pronunciation": "mer-SI", "example": "Мерси, много мило от твоя страна.", "type": "phrase" },
+    { "bg": "много ти благодаря", "en": "thank you very much", "pronunciation": "MNO-go ti bla-go-da-RYA", "example": "Много ти благодаря за всичко.", "type": "phrase" },
+    { "bg": "благодарен съм", "en": "I'm grateful", "pronunciation": "bla-go-DA-ren sum", "example": "Благодарен съм за подкрепата ви.", "type": "phrase" },
+    { "bg": "благодарност", "en": "gratitude", "pronunciation": "bla-go-DAR-nost", "example": "Изпитвам голяма благодарност към теб.", "type": "noun" },
+    { "bg": "признателен съм", "en": "I appreciate / I'm thankful", "pronunciation": "priz-NA-te-len sum", "example": "Признателен съм за търпението ви.", "type": "phrase" },
+    { "bg": "оценявам", "en": "to appreciate", "pronunciation": "o-tse-NYA-vam", "example": "Оценявам помощта ти.", "type": "verb" },
+    { "bg": "няма за какво", "en": "you're welcome / don't mention it", "pronunciation": "NYA-ma za KAK-vo", "example": "Няма за какво, с удоволствие.", "type": "phrase" },
+    { "bg": "моля", "en": "you're welcome / please", "pronunciation": "MO-lya", "example": "— Благодаря! — Моля!", "type": "phrase" },
+    { "bg": "няма нищо", "en": "it's nothing / no worries", "pronunciation": "NYA-ma NISH-to", "example": "Няма нищо, рад съм да помогна.", "type": "phrase" },
+    { "bg": "с удоволствие", "en": "with pleasure / my pleasure", "pronunciation": "s u-do-VOL-stvi-e", "example": "С удоволствие ще ти помогна отново.", "type": "phrase" },
+    { "bg": "много мило", "en": "that's very kind", "pronunciation": "MNO-go MI-lo", "example": "Много мило от твоя страна!", "type": "phrase" },
+    { "bg": "не знам как да ти благодаря", "en": "I don't know how to thank you", "pronunciation": "ne ZNAM kak da ti bla-go-da-RYA", "example": "Не знам как да ти благодаря за всичко.", "type": "phrase" },
+    { "bg": "дължа ти", "en": "I owe you", "pronunciation": "DUL-zha ti", "example": "Дължа ти за помощта.", "type": "phrase" },
+    { "bg": "помощ", "en": "help", "pronunciation": "PO-mosht", "example": "Благодаря за помощта.", "type": "noun" },
+    { "bg": "подкрепа", "en": "support", "pronunciation": "pod-KRE-pa", "example": "Подкрепата ти означава много за мен.", "type": "noun" },
+    { "bg": "подарък", "en": "gift/present", "pronunciation": "po-DA-ruk", "example": "Какъв чудесен подарък, благодаря!", "type": "noun" },
+    { "bg": "жест", "en": "gesture", "pronunciation": "zhest", "example": "Това е много мил жест.", "type": "noun" },
+    { "bg": "ценя", "en": "to value/cherish", "pronunciation": "tse-NYA", "example": "Ценя приятелството ни.", "type": "verb" },
+    { "bg": "заслужаваш", "en": "you deserve", "pronunciation": "zas-lu-ZHA-vash", "example": "Заслужаваш да ти благодарят.", "type": "verb" }
+  ]
+}
