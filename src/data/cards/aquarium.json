@@ -1,0 +1,27 @@
+{
+  "category": "Aquarium & Fish Keeping",
+  "cards": [
+    { "bg": "аквариум", "en": "aquarium", "pronunciation": "ak-VA-ri-um", "example": "Аквариумът е с обем сто литра.", "type": "noun" },
+    { "bg": "риба", "en": "fish", "pronunciation": "RI-ba", "example": "Рибите плуват спокойно в аквариума.", "type": "noun" },
+    { "bg": "златна рибка", "en": "goldfish", "pronunciation": "ZLAT-na RIB-ka", "example": "Златната рибка е най-популярната аквариумна риба.", "type": "noun" },
+    { "bg": "гупи", "en": "guppy", "pronunciation": "GU-pi", "example": "Гупитата са лесни за отглеждане.", "type": "noun" },
+    { "bg": "скаларка", "en": "angelfish", "pronunciation": "ska-LAR-ka", "example": "Скаларките са красиви, но териториални.", "type": "noun" },
+    { "bg": "аквариумна помпа", "en": "aquarium pump", "pronunciation": "ak-VA-ri-um-na POM-pa", "example": "Помпата осигурява кислород във водата.", "type": "noun" },
+    { "bg": "филтър", "en": "filter", "pronunciation": "FIL-tur", "example": "Филтърът пречиства водата в аквариума.", "type": "noun" },
+    { "bg": "нагревател", "en": "heater", "pronunciation": "na-gre-VA-tel", "example": "Нагревателят поддържа температурата на двадесет и шест градуса.", "type": "noun" },
+    { "bg": "осветление", "en": "lighting", "pronunciation": "os-vet-LE-ni-e", "example": "Осветлението е важно за растенията в аквариума.", "type": "noun" },
+    { "bg": "водорасли", "en": "algae", "pronunciation": "vo-do-RAS-li", "example": "Водораслите покриха стъклото на аквариума.", "type": "noun" },
+    { "bg": "водно растение", "en": "aquatic plant", "pronunciation": "VOD-no ras-TE-ni-e", "example": "Водните растения осигуряват кислород и укритие.", "type": "noun" },
+    { "bg": "пясък", "en": "sand (substrate)", "pronunciation": "pya-SUK", "example": "На дъното има фин пясък и камъчета.", "type": "noun" },
+    { "bg": "декорация", "en": "decoration", "pronunciation": "de-ko-RA-tsi-ya", "example": "Декорацията включва камъни и корен от дърво.", "type": "noun" },
+    { "bg": "храна за риби", "en": "fish food", "pronunciation": "hra-NA za RI-bi", "example": "Храня рибите два пъти на ден.", "type": "noun" },
+    { "bg": "храня", "en": "to feed", "pronunciation": "hra-NYA", "example": "Не храни рибите прекалено много.", "type": "verb" },
+    { "bg": "подмяна на водата", "en": "water change", "pronunciation": "pod-MYA-na na vo-DA-ta", "example": "Правя подмяна на водата всяка седмица.", "type": "noun" },
+    { "bg": "хлорирана вода", "en": "chlorinated water", "pronunciation": "hlo-RI-ra-na vo-DA", "example": "Хлорираната вода от чешмата е вредна за рибите.", "type": "noun" },
+    { "bg": "хайвер", "en": "fish eggs/roe", "pronunciation": "hay-VER", "example": "Рибата снесе хайвер на листата на растението.", "type": "noun" },
+    { "bg": "охлюв", "en": "snail", "pronunciation": "oh-LYUV", "example": "Охлювите помагат за чистотата на аквариума.", "type": "noun" },
+    { "bg": "скарида", "en": "shrimp (freshwater)", "pronunciation": "ska-RI-da", "example": "Скаридите ядат водорасли от стъклото.", "type": "noun" },
+    { "bg": "сом", "en": "catfish", "pronunciation": "som", "example": "Сомчето почиства дъното от остатъци.", "type": "noun" },
+    { "bg": "зоомагазин", "en": "pet store", "pronunciation": "zo-o-ma-ga-ZIN", "example": "Купих нова риба от зоомагазина.", "type": "noun" }
+  ]
+}
