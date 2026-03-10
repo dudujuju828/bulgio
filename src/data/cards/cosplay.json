@@ -1,0 +1,27 @@
+{
+  "category": "Cosplay & Fan Conventions",
+  "cards": [
+    { "bg": "косплей", "en": "cosplay", "pronunciation": "kos-PLEY", "example": "Косплеят е популярен сред младите в София.", "type": "noun" },
+    { "bg": "костюм", "en": "costume", "pronunciation": "kos-TYUM", "example": "Костюмът отне три месеца за изработка.", "type": "noun" },
+    { "bg": "конвент", "en": "convention/con", "pronunciation": "kon-VENT", "example": "Конвентът събира фенове от цяла България.", "type": "noun" },
+    { "bg": "фен", "en": "fan", "pronunciation": "fen", "example": "Феновете на аниме идват облечени като героите.", "type": "noun" },
+    { "bg": "перука", "en": "wig", "pronunciation": "pe-RU-ka", "example": "Перуката е синя и дълга до кръста.", "type": "noun" },
+    { "bg": "грим", "en": "makeup (costume)", "pronunciation": "grim", "example": "Гримът отне два часа за нанасяне.", "type": "noun" },
+    { "bg": "броня", "en": "armor", "pronunciation": "BRON-ya", "example": "Бронята е направена от пеноматериал.", "type": "noun" },
+    { "bg": "пеноматериал", "en": "EVA foam", "pronunciation": "pe-no-ma-te-ri-AL", "example": "Пеноматериалът се оформя с термопистолет.", "type": "noun" },
+    { "bg": "шият", "en": "to sew", "pronunciation": "shi-YAT", "example": "Шия костюма на ръка и на машина.", "type": "verb" },
+    { "bg": "лепя", "en": "to glue", "pronunciation": "le-PYA", "example": "Лепя детайлите с горещо лепило.", "type": "verb" },
+    { "bg": "боядисвам", "en": "to paint/dye", "pronunciation": "bo-ya-DIS-vam", "example": "Боядисвам бронята с акрилни бои.", "type": "verb" },
+    { "bg": "аксесоар", "en": "accessory/prop", "pronunciation": "ak-se-so-AR", "example": "Аксесоарите включват меч и щит.", "type": "noun" },
+    { "bg": "фотосесия", "en": "photoshoot", "pronunciation": "fo-to-SE-si-ya", "example": "Фотосесията с косплеърите беше в парка.", "type": "noun" },
+    { "bg": "конкурс", "en": "contest/competition", "pronunciation": "kon-KURS", "example": "Конкурсът за най-добър костюм е вечерта.", "type": "noun" },
+    { "bg": "сцена", "en": "stage", "pronunciation": "STSE-na", "example": "Косплеърите се представят на сцената.", "type": "noun" },
+    { "bg": "образ", "en": "character look/image", "pronunciation": "OB-raz", "example": "Образът е от популярна видеоигра.", "type": "noun" },
+    { "bg": "детайл", "en": "detail", "pronunciation": "de-TAYL", "example": "Детайлите на костюма са невероятно точни.", "type": "noun" },
+    { "bg": "изработка", "en": "craftsmanship/making", "pronunciation": "iz-ra-BOT-ka", "example": "Изработката на крилата беше най-трудната част.", "type": "noun" },
+    { "bg": "термопистолет", "en": "heat gun", "pronunciation": "ter-mo-pis-to-LET", "example": "Термопистолетът оформя пеноматериала.", "type": "noun" },
+    { "bg": "кръгла маса", "en": "panel/discussion", "pronunciation": "KRUG-la MA-sa", "example": "Кръглата маса е за начинаещи косплеъри.", "type": "noun" },
+    { "bg": "фандъм", "en": "fandom", "pronunciation": "FAN-dum", "example": "Фандъмът на Междузвездни войни е огромен.", "type": "noun" },
+    { "bg": "автограф", "en": "autograph", "pronunciation": "av-to-GRAF", "example": "Взех автограф от любимия си актьор.", "type": "noun" }
+  ]
+}
