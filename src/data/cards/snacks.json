@@ -1,0 +1,28 @@
+{
+  "category": "Snacks & Appetizers",
+  "cards": [
+    { "bg": "закуска", "en": "snack/appetizer", "pronunciation": "za-KUS-ka", "example": "Взех закуска от пекарната до офиса.", "type": "noun" },
+    { "bg": "хапвам", "en": "to snack/munch", "pronunciation": "HAP-vam", "example": "Хапвам нещо леко между обяд и вечеря.", "type": "verb" },
+    { "bg": "чипс", "en": "chips/crisps", "pronunciation": "chips", "example": "Чипсът е с вкус на сол и оцет.", "type": "noun" },
+    { "bg": "пуканки", "en": "popcorn", "pronunciation": "pu-KAN-ki", "example": "Пуканките са задължителни на кино.", "type": "noun" },
+    { "bg": "ядки", "en": "nuts", "pronunciation": "YAD-ki", "example": "Ядките са здравословна закуска.", "type": "noun" },
+    { "bg": "фъстъци", "en": "peanuts", "pronunciation": "fus-TU-tsi", "example": "Солените фъстъци са към бирата.", "type": "noun" },
+    { "bg": "бадеми", "en": "almonds", "pronunciation": "ba-DE-mi", "example": "Бадемите са богати на витамин Е.", "type": "noun" },
+    { "bg": "семки", "en": "sunflower seeds", "pronunciation": "SEM-ki", "example": "Семките са любима закуска в България.", "type": "noun" },
+    { "bg": "сушени плодове", "en": "dried fruit", "pronunciation": "su-SHE-ni plo-DO-ve", "example": "Сушените плодове са сладки и хранителни.", "type": "noun" },
+    { "bg": "крекер", "en": "cracker", "pronunciation": "KRE-ker", "example": "Крекерите са вкусни с мус от авокадо.", "type": "noun" },
+    { "bg": "гевречка", "en": "pretzel/gevrek", "pronunciation": "gev-RECH-ka", "example": "Гевречката е хрупкава и посипана със сусам.", "type": "noun" },
+    { "bg": "кифличка", "en": "small roll/croissant", "pronunciation": "kif-LICH-ka", "example": "Кифличката е със сирене и шунка.", "type": "noun" },
+    { "bg": "баничка", "en": "small banitsa pastry", "pronunciation": "BA-nich-ka", "example": "Баничката от пекарната е топла и хрупкава.", "type": "noun" },
+    { "bg": "тостче", "en": "small toast/toasted sandwich", "pronunciation": "TOST-che", "example": "Тостчето е с кашкавал и домат.", "type": "noun" },
+    { "bg": "мезе", "en": "appetizer/meze", "pronunciation": "me-ZE", "example": "Мезето включва сирене, маслини и чушки.", "type": "noun" },
+    { "bg": "маслини", "en": "olives", "pronunciation": "mas-LI-ni", "example": "Маслините са от Гърция, но обичани в България.", "type": "noun" },
+    { "bg": "пържени картофки", "en": "french fries", "pronunciation": "pur-ZHE-ni kar-TOF-ki", "example": "Пържените картофки са с кетчуп.", "type": "noun" },
+    { "bg": "начос", "en": "nachos", "pronunciation": "NA-chos", "example": "Начосът е с гуакамоле и сирене.", "type": "noun" },
+    { "bg": "сладолед", "en": "ice cream", "pronunciation": "sla-do-LED", "example": "Сладоледът е от истинска ванилия.", "type": "noun" },
+    { "bg": "вафла", "en": "waffle", "pronunciation": "VAF-la", "example": "Вафлата е с шоколад и сметана.", "type": "noun" },
+    { "bg": "дъвка", "en": "chewing gum", "pronunciation": "DUV-ka", "example": "Дъвката е с вкус на мента.", "type": "noun" },
+    { "bg": "пръчици", "en": "sticks/breadsticks", "pronunciation": "pru-CHI-tsi", "example": "Пръчиците са със сол и подходящи за бира.", "type": "noun" },
+    { "bg": "хрупкав", "en": "crunchy/crispy", "pronunciation": "HRUP-kav", "example": "Хрупкавата закуска е любимата ми.", "type": "adjective" }
+  ]
+}
