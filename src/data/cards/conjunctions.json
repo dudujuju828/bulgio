@@ -1,0 +1,25 @@
+{
+  "category": "Conjunctions",
+  "cards": [
+    { "bg": "и", "en": "and", "pronunciation": "i", "example": "Аз и ти сме приятели.", "type": "phrase" },
+    { "bg": "но", "en": "but", "pronunciation": "no", "example": "Искам да дойда, но нямам време.", "type": "phrase" },
+    { "bg": "или", "en": "or", "pronunciation": "I-li", "example": "Искаш кафе или чай?", "type": "phrase" },
+    { "bg": "защото", "en": "because", "pronunciation": "zasht-O-to", "example": "Не дойдох, защото бях болен.", "type": "phrase" },
+    { "bg": "ако", "en": "if", "pronunciation": "a-KO", "example": "Ако вали, ще остана вкъщи.", "type": "phrase" },
+    { "bg": "когато", "en": "when", "pronunciation": "ko-GA-to", "example": "Когато бях малък, живеех в село.", "type": "phrase" },
+    { "bg": "докато", "en": "while/until", "pronunciation": "do-KA-to", "example": "Чакай, докато се върна.", "type": "phrase" },
+    { "bg": "въпреки че", "en": "although/even though", "pronunciation": "vup-re-KI che", "example": "Въпреки че е студено, ще отидем.", "type": "phrase" },
+    { "bg": "затова", "en": "therefore/so", "pronunciation": "za-to-VA", "example": "Уморен съм, затова ще спя рано.", "type": "phrase" },
+    { "bg": "обаче", "en": "however", "pronunciation": "o-BA-che", "example": "Искам да отида, обаче нямам пари.", "type": "phrase" },
+    { "bg": "нито...нито", "en": "neither...nor", "pronunciation": "NI-to...NI-to", "example": "Нито той, нито тя дойдоха.", "type": "phrase" },
+    { "bg": "и...и", "en": "both...and", "pronunciation": "i...i", "example": "И аз, и ти ще отидем.", "type": "phrase" },
+    { "bg": "щом", "en": "as soon as/since", "pronunciation": "shtom", "example": "Щом пристигнеш, обади се.", "type": "phrase" },
+    { "bg": "преди да", "en": "before (doing)", "pronunciation": "pre-DI da", "example": "Преди да тръгнеш, вземи чадър.", "type": "phrase" },
+    { "bg": "след като", "en": "after (doing)", "pronunciation": "sled KA-to", "example": "След като ядем, ще излезем.", "type": "phrase" },
+    { "bg": "за да", "en": "in order to", "pronunciation": "za da", "example": "Уча много, за да взема изпита.", "type": "phrase" },
+    { "bg": "освен ако", "en": "unless", "pronunciation": "os-VEN a-KO", "example": "Ще дойда, освен ако не вали.", "type": "phrase" },
+    { "bg": "все пак", "en": "still/nevertheless", "pronunciation": "vse pak", "example": "Трудно е, но все пак опитай.", "type": "phrase" },
+    { "bg": "тоест", "en": "that is/meaning", "pronunciation": "to-EST", "example": "Идвам утре, тоест в сряда.", "type": "phrase" },
+    { "bg": "следователно", "en": "consequently", "pronunciation": "sle-do-VA-tel-no", "example": "Не учи, следователно не взе изпита.", "type": "phrase" }
+  ]
+}
