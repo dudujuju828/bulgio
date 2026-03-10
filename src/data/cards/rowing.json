@@ -1,0 +1,27 @@
+{
+  "category": "Rowing & Canoeing",
+  "cards": [
+    { "bg": "гребане", "en": "rowing", "pronunciation": "gre-BA-ne", "example": "Гребането е олимпийски спорт с дълга традиция.", "type": "noun" },
+    { "bg": "греба", "en": "to row", "pronunciation": "gre-BA", "example": "Гребем по река Марица всяка сутрин.", "type": "verb" },
+    { "bg": "гребец", "en": "rower/oarsman", "pronunciation": "gre-BETS", "example": "Гребецът тренира по два пъти на ден.", "type": "noun" },
+    { "bg": "лодка", "en": "boat/rowing shell", "pronunciation": "LOD-ka", "example": "Лодката за двойки е дълга и тясна.", "type": "noun" },
+    { "bg": "каяк", "en": "kayak", "pronunciation": "ka-YAK", "example": "Каякът е за един или двама гребци.", "type": "noun" },
+    { "bg": "кану", "en": "canoe", "pronunciation": "ka-NU", "example": "Каното е по-широко и стабилно от каяка.", "type": "noun" },
+    { "bg": "весло", "en": "oar", "pronunciation": "ves-LO", "example": "Веслото е дълго два и половина метра.", "type": "noun" },
+    { "bg": "гребло", "en": "paddle", "pronunciation": "greb-LO", "example": "Греблото за каяк е двустранно.", "type": "noun" },
+    { "bg": "замах", "en": "stroke", "pronunciation": "za-MAH", "example": "Ритъмът на замаха е тридесет и два в минута.", "type": "noun" },
+    { "bg": "регата", "en": "regatta", "pronunciation": "re-GA-ta", "example": "Регатата по Дунав събира отбори от цяла Европа.", "type": "noun" },
+    { "bg": "старт", "en": "start", "pronunciation": "start", "example": "Стартът е от плаващ понтон.", "type": "noun" },
+    { "bg": "финал", "en": "finish/final", "pronunciation": "fi-NAL", "example": "Финалът беше с разлика от секунда.", "type": "noun" },
+    { "bg": "писта", "en": "course/lane", "pronunciation": "PIS-ta", "example": "Пистата е дълга две хиляди метра.", "type": "noun" },
+    { "bg": "кормчия", "en": "coxswain/cox", "pronunciation": "kor-mi-YA", "example": "Кормчията координира ритъма на гребците.", "type": "noun" },
+    { "bg": "единично", "en": "single scull", "pronunciation": "e-di-NICH-no", "example": "Единичното е за един гребец с две весла.", "type": "noun" },
+    { "bg": "двойка", "en": "double/pair", "pronunciation": "DVOY-ka", "example": "Двойката спечели златен медал.", "type": "noun" },
+    { "bg": "четворка", "en": "four (boat)", "pronunciation": "chet-VOR-ka", "example": "Четворката се нуждае от перфектна синхронизация.", "type": "noun" },
+    { "bg": "осморка", "en": "eight (boat)", "pronunciation": "os-MOR-ka", "example": "Осморката е най-бързият тип лодка.", "type": "noun" },
+    { "bg": "синхрон", "en": "synchronization", "pronunciation": "sin-HRON", "example": "Синхронът между гребците е ключов.", "type": "noun" },
+    { "bg": "издръжливост", "en": "endurance", "pronunciation": "iz-druzh-LI-vost", "example": "Издръжливостта е основно качество на гребеца.", "type": "noun" },
+    { "bg": "гребна база", "en": "rowing club/boathouse", "pronunciation": "GREB-na BA-za", "example": "Гребната база е на брега на езерото.", "type": "noun" },
+    { "bg": "ергометър", "en": "ergometer/rowing machine", "pronunciation": "er-go-ME-tur", "example": "Ергометърът се използва за тренировки на сухо.", "type": "noun" }
+  ]
+}
