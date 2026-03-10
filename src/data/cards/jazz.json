@@ -1,0 +1,28 @@
+{
+  "category": "Jazz Music",
+  "cards": [
+    { "bg": "джаз", "en": "jazz", "pronunciation": "djaz", "example": "Джазът е роден в Ню Орлиънс.", "type": "noun" },
+    { "bg": "джаз музикант", "en": "jazz musician", "pronunciation": "djaz mu-zi-KANT", "example": "Джаз музикантите импровизират на сцената.", "type": "noun" },
+    { "bg": "импровизация", "en": "improvisation", "pronunciation": "im-pro-vi-ZA-tsi-ya", "example": "Импровизацията е сърцето на джаза.", "type": "noun" },
+    { "bg": "импровизирам", "en": "to improvise", "pronunciation": "im-pro-vi-ZI-ram", "example": "Импровизирам соло над акордовата прогресия.", "type": "verb" },
+    { "bg": "суинг", "en": "swing", "pronunciation": "suing", "example": "Суингът е стил с пружиниращ ритъм.", "type": "noun" },
+    { "bg": "бибоп", "en": "bebop", "pronunciation": "BI-bop", "example": "Бибопът е бърз и сложен стил джаз.", "type": "noun" },
+    { "bg": "блус", "en": "blues", "pronunciation": "blus", "example": "Блусът е основа на джаза и рока.", "type": "noun" },
+    { "bg": "саксофон", "en": "saxophone", "pronunciation": "sak-so-FON", "example": "Саксофонът е емблемата на джаза.", "type": "noun" },
+    { "bg": "тромпет", "en": "trumpet", "pronunciation": "trom-PET", "example": "Тромпетът води мелодията в биг бенда.", "type": "noun" },
+    { "bg": "контрабас", "en": "double bass/upright bass", "pronunciation": "kon-tra-BAS", "example": "Контрабасът задава ритъма и хармонията.", "type": "noun" },
+    { "bg": "пиано", "en": "piano", "pronunciation": "pi-a-NO", "example": "Пианото свири акордите зад солиста.", "type": "noun" },
+    { "bg": "барабани", "en": "drums", "pronunciation": "ba-ra-BA-ni", "example": "Барабаните поддържат суинг ритъма.", "type": "noun" },
+    { "bg": "биг бенд", "en": "big band", "pronunciation": "big bend", "example": "Биг бендът има петнадесет до двадесет музиканти.", "type": "noun" },
+    { "bg": "трио", "en": "trio", "pronunciation": "TRI-o", "example": "Триото е от пиано, контрабас и барабани.", "type": "noun" },
+    { "bg": "квартет", "en": "quartet", "pronunciation": "kvar-TET", "example": "Квартетът свири всяка петък в джаз клуба.", "type": "noun" },
+    { "bg": "соло", "en": "solo", "pronunciation": "SO-lo", "example": "Солото на саксофона продължи три минути.", "type": "noun" },
+    { "bg": "акорд", "en": "chord", "pronunciation": "a-KORD", "example": "Акордите в джаза са сложни и цветни.", "type": "noun" },
+    { "bg": "ритъм", "en": "rhythm", "pronunciation": "RI-tum", "example": "Ритъмът в джаза е свободен и гъвкав.", "type": "noun" },
+    { "bg": "джем сешън", "en": "jam session", "pronunciation": "djem SE-shun", "example": "Джем сешънът започва след полунощ.", "type": "noun" },
+    { "bg": "джаз клуб", "en": "jazz club", "pronunciation": "djaz klub", "example": "Джаз клубът в София има програма всяка вечер.", "type": "noun" },
+    { "bg": "джаз фестивал", "en": "jazz festival", "pronunciation": "djaz fes-ti-VAL", "example": "Банско джаз фестивалът е всяко лято.", "type": "noun" },
+    { "bg": "стандарт", "en": "standard (jazz)", "pronunciation": "stan-DART", "example": "Стандартите са класически джаз песни.", "type": "noun" },
+    { "bg": "скат", "en": "scat (singing)", "pronunciation": "skat", "example": "Скатът е вокална импровизация без думи.", "type": "noun" }
+  ]
+}
