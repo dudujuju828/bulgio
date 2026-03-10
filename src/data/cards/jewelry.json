@@ -1,0 +1,27 @@
+{
+  "category": "Jewelry",
+  "cards": [
+    { "bg": "бижу", "en": "jewel/piece of jewelry", "pronunciation": "bi-ZHU", "example": "Тя носи красиво бижу на врата си.", "type": "noun" },
+    { "bg": "пръстен", "en": "ring", "pronunciation": "PRUS-ten", "example": "Той ѝ подари годежен пръстен.", "type": "noun" },
+    { "bg": "обеци", "en": "earrings", "pronunciation": "o-BE-tsi", "example": "Обеците са от сребро.", "type": "noun" },
+    { "bg": "огърлица", "en": "necklace", "pronunciation": "o-GUR-li-tsa", "example": "Огърлицата е с малък медальон.", "type": "noun" },
+    { "bg": "гривна", "en": "bracelet", "pronunciation": "GRIV-na", "example": "Гривната е подарък от приятелката ми.", "type": "noun" },
+    { "bg": "часовник", "en": "watch", "pronunciation": "cha-sov-NIK", "example": "Часовникът е швейцарски.", "type": "noun" },
+    { "bg": "колие", "en": "necklace (formal)", "pronunciation": "ko-li-E", "example": "Колието с перли е за специални поводи.", "type": "noun" },
+    { "bg": "брошка", "en": "brooch", "pronunciation": "BROSH-ka", "example": "Баба ми има стара златна брошка.", "type": "noun" },
+    { "bg": "злато", "en": "gold", "pronunciation": "ZLA-to", "example": "Пръстенът е от чисто злато.", "type": "noun" },
+    { "bg": "сребро", "en": "silver", "pronunciation": "SREB-ro", "example": "Сребърните бижута са по-евтини.", "type": "noun" },
+    { "bg": "диамант", "en": "diamond", "pronunciation": "di-a-MANT", "example": "Диамантът блести на светлината.", "type": "noun" },
+    { "bg": "перла", "en": "pearl", "pronunciation": "PER-la", "example": "Перлите са елегантни и класически.", "type": "noun" },
+    { "bg": "рубин", "en": "ruby", "pronunciation": "ru-BIN", "example": "Рубинът е червен скъпоценен камък.", "type": "noun" },
+    { "bg": "смарагд", "en": "emerald", "pronunciation": "sma-RAGD", "example": "Смарагдът е зелен и много красив.", "type": "noun" },
+    { "bg": "скъпоценен камък", "en": "gemstone/precious stone", "pronunciation": "sku-po-TSE-nen KA-muk", "example": "Скъпоценните камъни се обработват внимателно.", "type": "noun" },
+    { "bg": "верижка", "en": "chain", "pronunciation": "ve-RIZH-ka", "example": "Верижката е тънка и деликатна.", "type": "noun" },
+    { "bg": "медальон", "en": "locket/medallion", "pronunciation": "me-dal-YON", "example": "В медальона има снимка на семейството.", "type": "noun" },
+    { "bg": "бижутериен магазин", "en": "jewelry store", "pronunciation": "bi-zhu-te-ri-EN ma-ga-ZIN", "example": "Бижутерийният магазин е на главната улица.", "type": "noun" },
+    { "bg": "златар", "en": "jeweler/goldsmith", "pronunciation": "zla-TAR", "example": "Златарят поправи счупената верижка.", "type": "noun" },
+    { "bg": "годежен", "en": "engagement (adj)", "pronunciation": "go-DE-zhen", "example": "Годежният пръстен е с диамант.", "type": "adjective" },
+    { "bg": "сватбена халка", "en": "wedding ring/band", "pronunciation": "SVAT-be-na HAL-ka", "example": "Сватбените халки са от бяло злато.", "type": "noun" },
+    { "bg": "блестя", "en": "to shine/sparkle", "pronunciation": "bles-TYA", "example": "Диамантите блестят на слънцето.", "type": "verb" }
+  ]
+}
