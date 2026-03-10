@@ -1,0 +1,28 @@
+{
+  "category": "Ceramics & Pottery",
+  "cards": [
+    { "bg": "керамика", "en": "ceramics/pottery", "pronunciation": "ke-RA-mi-ka", "example": "Троянската керамика е известна в цяла България.", "type": "noun" },
+    { "bg": "грънчар", "en": "potter", "pronunciation": "grun-CHAR", "example": "Грънчарят работи на колелото всеки ден.", "type": "noun" },
+    { "bg": "грънчарско колело", "en": "potter's wheel", "pronunciation": "grun-CHAR-sko ko-le-LO", "example": "Оформям ваза на грънчарското колело.", "type": "noun" },
+    { "bg": "глина", "en": "clay", "pronunciation": "gli-NA", "example": "Глината трябва да се омеси добре преди работа.", "type": "noun" },
+    { "bg": "пещ", "en": "kiln", "pronunciation": "pesht", "example": "Изпичаме керамиката в пещта на висока температура.", "type": "noun" },
+    { "bg": "глазура", "en": "glaze", "pronunciation": "gla-ZU-ra", "example": "Глазурата придава блясък и цвят на съда.", "type": "noun" },
+    { "bg": "глазирам", "en": "to glaze", "pronunciation": "gla-ZI-ram", "example": "Глазирай каната преди второто изпичане.", "type": "verb" },
+    { "bg": "грънци", "en": "earthenware/pots", "pronunciation": "GRUN-tsi", "example": "Бабината гювеч е в глинен грънец.", "type": "noun" },
+    { "bg": "ваза", "en": "vase", "pronunciation": "VA-za", "example": "Купих ръчно изработена ваза от Троян.", "type": "noun" },
+    { "bg": "чиния", "en": "plate/dish", "pronunciation": "CHI-ni-ya", "example": "Чиниите са украсени с традиционни мотиви.", "type": "noun" },
+    { "bg": "кана", "en": "jug/pitcher", "pronunciation": "KA-na", "example": "Каната за вино е от троянска керамика.", "type": "noun" },
+    { "bg": "купа", "en": "bowl", "pronunciation": "KU-pa", "example": "Сервирай салатата в глинената купа.", "type": "noun" },
+    { "bg": "гювеч", "en": "clay pot (for cooking)", "pronunciation": "gyu-VECH", "example": "Гювечът се слага в студена фурна.", "type": "noun" },
+    { "bg": "форма", "en": "shape/form", "pronunciation": "FOR-ma", "example": "Формата на вазата е елегантна.", "type": "noun" },
+    { "bg": "изпичам", "en": "to fire/bake (ceramics)", "pronunciation": "iz-PI-cham", "example": "Изпичам керамиката при хиляда градуса.", "type": "verb" },
+    { "bg": "украса", "en": "decoration/ornament", "pronunciation": "uk-RA-sa", "example": "Украсата е с типичните троянски шарки.", "type": "noun" },
+    { "bg": "шарка", "en": "pattern/motif", "pronunciation": "SHAR-ka", "example": "Капковидната шарка е символ на Троян.", "type": "noun" },
+    { "bg": "ръчна изработка", "en": "handmade/handcrafted", "pronunciation": "RUCH-na iz-ra-BOT-ka", "example": "Всяко парче е ръчна изработка.", "type": "noun" },
+    { "bg": "занаят", "en": "craft/trade", "pronunciation": "za-na-YAT", "example": "Грънчарството е стар български занаят.", "type": "noun" },
+    { "bg": "занаятчия", "en": "craftsman/artisan", "pronunciation": "za-na-yat-CHI-ya", "example": "Занаятчията продава изделията си на панаира.", "type": "noun" },
+    { "bg": "порцелан", "en": "porcelain", "pronunciation": "por-tse-LAN", "example": "Порцелановият сервиз е за гости.", "type": "noun" },
+    { "bg": "чаша", "en": "cup/mug", "pronunciation": "CHA-sha", "example": "Пия кафе от керамична чаша.", "type": "noun" },
+    { "bg": "съд", "en": "vessel/container", "pronunciation": "sud", "example": "Глиненият съд запазва водата хладка.", "type": "noun" }
+  ]
+}
