@@ -23,7 +23,7 @@
     { "bg": "годеница", "en": "fiancée", "pronunciation": "go-de-NI-tsa", "example": "Годеницата му е учителка.", "type": "noun" },
     { "bg": "черпня", "en": "wedding reception feast", "pronunciation": "CHERP-nya", "example": "Черпнята продължи до сутринта.", "type": "noun" },
     { "bg": "сватбар", "en": "wedding guest/reveler", "pronunciation": "svat-BAR", "example": "Сватбарите играха хоро до зори.", "type": "noun" },
-    { "bg": "горчиво!", "en": "bitter! (guests shout for couple to kiss)", "pronunciation": "gor-CHI-vo", "example": "Гостите викаха „Горчиво!" и двамата се целунаха.", "type": "phrase" },
+    { "bg": "горчиво!", "en": "bitter! (guests shout for couple to kiss)", "pronunciation": "gor-CHI-vo", "example": "Гостите викаха „Горчиво!“ и двамата се целунаха.", "type": "phrase" },
     { "bg": "ергенско парти", "en": "bachelor party", "pronunciation": "er-GEN-sko PAR-ti", "example": "Ергенското парти беше в събота.", "type": "noun" },
     { "bg": "моминско парти", "en": "bachelorette party", "pronunciation": "mo-MIN-sko PAR-ti", "example": "Моминското парти беше на море.", "type": "noun" }
   ]

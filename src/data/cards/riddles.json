@@ -12,7 +12,7 @@
     { "bg": "Отговор", "en": "answer", "pronunciation": "ot-GO-vor", "example": "Знаеш ли отговора на тази гатанка?", "type": "noun" },
     { "bg": "Червено отвън, бяло отвътре, а по средата камъче.", "en": "Red outside, white inside, with a stone in the middle. (Answer: a cherry)", "pronunciation": "cher-VE-no ot-VUN, BYA-lo ot-VUT-re", "example": "Черешата е червена отвън с камъче!", "type": "phrase" },
     { "bg": "Какво има навсякъде?", "en": "What is everywhere? (Answer: air)", "pronunciation": "kak-VO I-ma nav-SYAK-u-de", "example": "Въздухът е навсякъде около нас.", "type": "phrase" },
-    { "bg": "Ходи без крака, плаче без очи.", "en": "It walks without legs, cries without eyes. (Answer: a cloud)", "pronunciation": "HO-di bez kra-KA, PLA-che bez o-CHI", "example": "Облакът „ходи" по небето и „плаче" дъжд.", "type": "phrase" },
+    { "bg": "Ходи без крака, плаче без очи.", "en": "It walks without legs, cries without eyes. (Answer: a cloud)", "pronunciation": "HO-di bez kra-KA, PLA-che bez o-CHI", "example": "Облакът „ходи“ по небето и „плаче“ дъжд.", "type": "phrase" },
     { "bg": "замислям се", "en": "to think/ponder", "pronunciation": "za-MIS-lyam se", "example": "Замислих се дълго над гатанката.", "type": "verb" },
     { "bg": "Сто ризки има, но нито един копче.", "en": "It has a hundred shirts but not a single button. (Answer: a cabbage)", "pronunciation": "sto RIZH-ki I-ma, no ni-TO e-DIN KOP-che", "example": "Зелето има сто листа като ризки!", "type": "phrase" },
     { "bg": "Какво е по-бързо от всичко?", "en": "What is faster than everything? (Answer: thought)", "pronunciation": "kak-VO e po-BUR-zo ot VSICH-ko", "example": "Мисълта е по-бърза от всичко!", "type": "phrase" },

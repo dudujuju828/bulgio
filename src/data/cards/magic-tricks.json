@@ -23,6 +23,6 @@
     { "bg": "доброволец", "en": "volunteer (from audience)", "pronunciation": "dob-ro-VO-lets", "example": "Имам нужда от доброволец от публиката.", "type": "noun" },
     { "bg": "ловкост на ръцете", "en": "sleight of hand", "pronunciation": "LOV-kost na ru-TSE-te", "example": "Ловкостта на ръцете е основно умение на магьосника.", "type": "noun" },
     { "bg": "отгатвам", "en": "to guess/reveal", "pronunciation": "ot-GAT-vam", "example": "Отгатна картата, която избрах.", "type": "verb" },
-    { "bg": "абракадабра", "en": "abracadabra", "pronunciation": "ab-ra-ka-DAB-ra", "example": "Каза „абракадабра" и заекът се появи.", "type": "interjection" }
+    { "bg": "абракадабра", "en": "abracadabra", "pronunciation": "ab-ra-ka-DAB-ra", "example": "Каза „абракадабра“ и заекът се появи.", "type": "interjection" }
   ]
 }
