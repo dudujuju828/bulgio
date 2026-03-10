@@ -1,0 +1,28 @@
+{
+  "category": "Electricity",
+  "cards": [
+    { "bg": "ток", "en": "electricity/power", "pronunciation": "tok", "example": "Токът спря заради бурята.", "type": "noun" },
+    { "bg": "електричество", "en": "electricity", "pronunciation": "e-lek-tri-CHES-tvo", "example": "Сметката за електричество дойде.", "type": "noun" },
+    { "bg": "контакт", "en": "power outlet/socket", "pronunciation": "kon-TAKT", "example": "Включи зарядното в контакта.", "type": "noun" },
+    { "bg": "щепсел", "en": "plug", "pronunciation": "SHTEP-sel", "example": "Щепселът не влиза в този контакт.", "type": "noun" },
+    { "bg": "крушка", "en": "light bulb", "pronunciation": "KRUSH-ka", "example": "Крушката в коридора изгоря.", "type": "noun" },
+    { "bg": "лампа", "en": "lamp/light", "pronunciation": "LAM-pa", "example": "Запали лампата, тъмно е.", "type": "noun" },
+    { "bg": "ключ", "en": "switch", "pronunciation": "klyuch", "example": "Ключът за светлината е до вратата.", "type": "noun" },
+    { "bg": "запалвам", "en": "to turn on (light)", "pronunciation": "za-PAL-vam", "example": "Запали светлината в кухнята.", "type": "verb" },
+    { "bg": "гася", "en": "to turn off (light)", "pronunciation": "ga-SYA", "example": "Загаси светлината, когато излизаш.", "type": "verb" },
+    { "bg": "включвам", "en": "to plug in/turn on", "pronunciation": "VKLYUCH-vam", "example": "Включи телевизора от бутона.", "type": "verb" },
+    { "bg": "изключвам", "en": "to unplug/turn off", "pronunciation": "iz-KLYUCH-vam", "example": "Изключи ютията преди да излезеш.", "type": "verb" },
+    { "bg": "удължител", "en": "extension cord", "pronunciation": "u-dul-ZHI-tel", "example": "Кабелът не стига, дай удължител.", "type": "noun" },
+    { "bg": "бушон", "en": "fuse/circuit breaker", "pronunciation": "bu-SHON", "example": "Бушонът изби, провери таблото.", "type": "noun" },
+    { "bg": "табло", "en": "electrical panel/fuse box", "pronunciation": "tab-LO", "example": "Таблото за тока е в антрето.", "type": "noun" },
+    { "bg": "електромер", "en": "electricity meter", "pronunciation": "e-lek-tro-MER", "example": "Човек от ЧЕЗ дойде да отчете електромера.", "type": "noun" },
+    { "bg": "токов удар", "en": "electric shock", "pronunciation": "TO-kov u-DAR", "example": "Внимавай с оголени кабели, може да те удари ток.", "type": "noun" },
+    { "bg": "късо съединение", "en": "short circuit", "pronunciation": "KU-so su-e-di-NE-ni-e", "example": "Късото съединение предизвика пожар.", "type": "noun" },
+    { "bg": "генератор", "en": "generator", "pronunciation": "ge-ne-RA-tor", "example": "При спиране на тока включваме генератора.", "type": "noun" },
+    { "bg": "слънчеви панели", "en": "solar panels", "pronunciation": "SLUN-che-vi pa-NE-li", "example": "Слагаме слънчеви панели на покрива.", "type": "noun" },
+    { "bg": "сметка за ток", "en": "electricity bill", "pronunciation": "SMET-ka za tok", "example": "Сметката за ток през зимата е по-висока.", "type": "noun" },
+    { "bg": "електротехник", "en": "electrician", "pronunciation": "e-lek-tro-TEH-nik", "example": "Извикай електротехник да провери инсталацията.", "type": "noun" },
+    { "bg": "кабел", "en": "cable/wire", "pronunciation": "KA-bel", "example": "Не пипай оголен кабел!", "type": "noun" },
+    { "bg": "спиране на тока", "en": "power outage", "pronunciation": "spi-RA-ne na TO-ka", "example": "Имаше планирано спиране на тока за три часа.", "type": "noun" }
+  ]
+}
