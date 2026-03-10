@@ -1,0 +1,28 @@
+{
+  "category": "Medicine",
+  "cards": [
+    { "bg": "лекар", "en": "doctor", "pronunciation": "LE-kar", "example": "Отивам на лекар за преглед.", "type": "noun" },
+    { "bg": "пациент", "en": "patient", "pronunciation": "pa-tsi-ENT", "example": "Лекарят прегледа пациента.", "type": "noun" },
+    { "bg": "болница", "en": "hospital", "pronunciation": "bol-NI-tsa", "example": "Болницата е на пет минути оттук.", "type": "noun" },
+    { "bg": "аптека", "en": "pharmacy", "pronunciation": "ap-TE-ka", "example": "Купих лекарства от аптеката.", "type": "noun" },
+    { "bg": "лекарство", "en": "medicine/drug", "pronunciation": "le-KAR-stvo", "example": "Взимай лекарството три пъти на ден.", "type": "noun" },
+    { "bg": "рецепта", "en": "prescription", "pronunciation": "re-TSEP-ta", "example": "Лекарят ми написа рецепта за антибиотик.", "type": "noun" },
+    { "bg": "преглед", "en": "examination/checkup", "pronunciation": "PREG-led", "example": "Ходя на преглед веднъж годишно.", "type": "noun" },
+    { "bg": "симптом", "en": "symptom", "pronunciation": "simp-TOM", "example": "Какви симптоми имате?", "type": "noun" },
+    { "bg": "диагноза", "en": "diagnosis", "pronunciation": "di-ag-NO-za", "example": "Лекарят постави точна диагноза.", "type": "noun" },
+    { "bg": "инжекция", "en": "injection/shot", "pronunciation": "in-ZHEK-tsi-ya", "example": "Медицинската сестра ми постави инжекция.", "type": "noun" },
+    { "bg": "ваксина", "en": "vaccine", "pronunciation": "vak-SI-na", "example": "Децата получават ваксини в училище.", "type": "noun" },
+    { "bg": "операция", "en": "surgery/operation", "pronunciation": "o-pe-RA-tsi-ya", "example": "Операцията мина успешно.", "type": "noun" },
+    { "bg": "хирург", "en": "surgeon", "pronunciation": "hi-RURG", "example": "Хирургът е много опитен.", "type": "noun" },
+    { "bg": "зъболекар", "en": "dentist", "pronunciation": "zu-bo-LE-kar", "example": "Ходя на зъболекар два пъти годишно.", "type": "noun" },
+    { "bg": "медицинска сестра", "en": "nurse", "pronunciation": "me-di-TSIN-ska ses-TRA", "example": "Медицинската сестра измери кръвното ми.", "type": "noun" },
+    { "bg": "кръвно налягане", "en": "blood pressure", "pronunciation": "KRUV-no na-LYA-ga-ne", "example": "Кръвното ми налягане е нормално.", "type": "noun" },
+    { "bg": "температура", "en": "temperature/fever", "pronunciation": "tem-pe-ra-TU-ra", "example": "Имам висока температура от вчера.", "type": "noun" },
+    { "bg": "превръзка", "en": "bandage", "pronunciation": "pre-VRUZ-ka", "example": "Сложих превръзка на раната.", "type": "noun" },
+    { "bg": "рана", "en": "wound", "pronunciation": "RA-na", "example": "Раната трябва да се дезинфекцира.", "type": "noun" },
+    { "bg": "алергия", "en": "allergy", "pronunciation": "a-ler-GI-ya", "example": "Имам алергия към прашец.", "type": "noun" },
+    { "bg": "лекувам", "en": "to treat/cure", "pronunciation": "le-KU-vam", "example": "Лекарят ме лекува от грип.", "type": "verb" },
+    { "bg": "оздравявам", "en": "to recover/heal", "pronunciation": "oz-dra-VYA-vam", "example": "Оздравявам бавно след болестта.", "type": "verb" },
+    { "bg": "линейка", "en": "ambulance", "pronunciation": "li-NEY-ka", "example": "Извикахме линейка за спешния случай.", "type": "noun" }
+  ]
+}
