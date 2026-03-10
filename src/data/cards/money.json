@@ -1,0 +1,27 @@
+{
+  "category": "Money",
+  "cards": [
+    { "bg": "пари", "en": "money", "pronunciation": "pa-RI", "example": "Нямам достатъчно пари в портфейла.", "type": "noun" },
+    { "bg": "лев", "en": "lev (Bulgarian currency)", "pronunciation": "lev", "example": "Левът е официалната валута на България.", "type": "noun" },
+    { "bg": "стотинка", "en": "stotinka (cent)", "pronunciation": "sto-TIN-ka", "example": "Един лев е равен на сто стотинки.", "type": "noun" },
+    { "bg": "евро", "en": "euro", "pronunciation": "EV-ro", "example": "България планира да приеме еврото.", "type": "noun" },
+    { "bg": "долар", "en": "dollar", "pronunciation": "DO-lar", "example": "Доларът е силна валута.", "type": "noun" },
+    { "bg": "валута", "en": "currency", "pronunciation": "va-LU-ta", "example": "Каква валута приемате?", "type": "noun" },
+    { "bg": "обменно бюро", "en": "currency exchange office", "pronunciation": "ob-MEN-no byu-RO", "example": "Обменях евро в обменното бюро.", "type": "noun" },
+    { "bg": "курс", "en": "exchange rate", "pronunciation": "kurs", "example": "Какъв е курсът на еврото днес?", "type": "noun" },
+    { "bg": "банкнота", "en": "banknote/bill", "pronunciation": "bank-NO-ta", "example": "Имам банкнота от петдесет лева.", "type": "noun" },
+    { "bg": "монета", "en": "coin", "pronunciation": "mo-NE-ta", "example": "Монетата от два лева е сребриста.", "type": "noun" },
+    { "bg": "портфейл", "en": "wallet", "pronunciation": "port-FEYL", "example": "Портфейлът ми е в джоба.", "type": "noun" },
+    { "bg": "плащам", "en": "to pay", "pronunciation": "PLA-shtam", "example": "Плащам с карта или в брой?", "type": "verb" },
+    { "bg": "в брой", "en": "in cash", "pronunciation": "v broy", "example": "Ще платя в брой.", "type": "phrase" },
+    { "bg": "с карта", "en": "by card", "pronunciation": "s KAR-ta", "example": "Мога ли да платя с карта?", "type": "phrase" },
+    { "bg": "сметка", "en": "bill/check", "pronunciation": "SMET-ka", "example": "Сметката, моля!", "type": "noun" },
+    { "bg": "бакшиш", "en": "tip", "pronunciation": "bak-SHISH", "example": "Оставих бакшиш на сервитьора.", "type": "noun" },
+    { "bg": "спестявам", "en": "to save (money)", "pronunciation": "spes-TYA-vam", "example": "Спестявам пари за ваканция.", "type": "verb" },
+    { "bg": "харча", "en": "to spend", "pronunciation": "HAR-cha", "example": "Харча твърде много за храна.", "type": "verb" },
+    { "bg": "дължа", "en": "to owe", "pronunciation": "dul-ZHA", "example": "Колко ти дължа за вечерята?", "type": "verb" },
+    { "bg": "заплата", "en": "salary", "pronunciation": "za-PLA-ta", "example": "Заплатата идва на петнадесети.", "type": "noun" },
+    { "bg": "скъпо", "en": "expensive", "pronunciation": "SKU-po", "example": "Ресторантът е много скъп.", "type": "adjective" },
+    { "bg": "евтино", "en": "cheap", "pronunciation": "ev-TI-no", "example": "На пазара е по-евтино.", "type": "adjective" }
+  ]
+}
