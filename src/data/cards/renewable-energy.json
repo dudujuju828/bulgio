@@ -1,0 +1,27 @@
+{
+  "category": "Renewable Energy",
+  "cards": [
+    { "bg": "възобновяема енергия", "en": "renewable energy", "pronunciation": "vuz-ob-no-VYA-e-ma e-NER-gi-ya", "example": "Възобновяемата енергия е бъдещето.", "type": "noun" },
+    { "bg": "слънчева енергия", "en": "solar energy", "pronunciation": "SLUN-che-va e-NER-gi-ya", "example": "Слънчевата енергия е евтина и чиста.", "type": "noun" },
+    { "bg": "соларен панел", "en": "solar panel", "pronunciation": "so-LA-ren pa-NEL", "example": "Монтирахме соларни панели на покрива.", "type": "noun" },
+    { "bg": "вятърна енергия", "en": "wind energy", "pronunciation": "VYAT-ur-na e-NER-gi-ya", "example": "Вятърната енергия е популярна край морето.", "type": "noun" },
+    { "bg": "вятърна турбина", "en": "wind turbine", "pronunciation": "VYAT-ur-na tur-BI-na", "example": "Вятърните турбини край Каварна произвеждат ток.", "type": "noun" },
+    { "bg": "водноелектрическа централа", "en": "hydroelectric power plant", "pronunciation": "VOD-no-e-lek-tri-CHES-ka tsen-TRA-la", "example": "ВЕЦ Въча е една от най-големите в България.", "type": "noun" },
+    { "bg": "биомаса", "en": "biomass", "pronunciation": "bi-o-MA-sa", "example": "Биомасата от дървесни отпадъци се използва за отопление.", "type": "noun" },
+    { "bg": "геотермална енергия", "en": "geothermal energy", "pronunciation": "ge-o-ter-MAL-na e-NER-gi-ya", "example": "Геотермалната енергия използва топлината от земята.", "type": "noun" },
+    { "bg": "електроцентрала", "en": "power plant", "pronunciation": "e-lek-tro-tsen-TRA-la", "example": "Старата електроцентрала затвори миналата година.", "type": "noun" },
+    { "bg": "въглероден отпечатък", "en": "carbon footprint", "pronunciation": "vug-le-RO-den ot-pe-CHA-tuk", "example": "Искам да намаля въглеродния си отпечатък.", "type": "noun" },
+    { "bg": "емисии", "en": "emissions", "pronunciation": "e-MI-si-i", "example": "Емисиите на въглероден диоксид трябва да намалеят.", "type": "noun" },
+    { "bg": "електромобил", "en": "electric car", "pronunciation": "e-lek-tro-mo-BIL", "example": "Електромобилите стават все по-достъпни.", "type": "noun" },
+    { "bg": "зарядна станция", "en": "charging station", "pronunciation": "za-RYAD-na STAN-tsi-ya", "example": "Зарядната станция е на паркинга на мола.", "type": "noun" },
+    { "bg": "енергийна ефективност", "en": "energy efficiency", "pronunciation": "e-ner-GIY-na e-fek-TIV-nost", "example": "Енергийната ефективност намалява сметките.", "type": "noun" },
+    { "bg": "изолация", "en": "insulation", "pronunciation": "i-zo-LA-tsi-ya", "example": "Добрата изолация пести топлина.", "type": "noun" },
+    { "bg": "топлинна помпа", "en": "heat pump", "pronunciation": "top-LIN-na POM-pa", "example": "Топлинната помпа отоплява и охлажда.", "type": "noun" },
+    { "bg": "устойчивост", "en": "sustainability", "pronunciation": "us-TOY-chi-vost", "example": "Устойчивостта е важна за бъдещите поколения.", "type": "noun" },
+    { "bg": "зелена енергия", "en": "green energy", "pronunciation": "ze-LE-na e-NER-gi-ya", "example": "Преминаваме към зелена енергия.", "type": "noun" },
+    { "bg": "акумулатор", "en": "battery (storage)", "pronunciation": "a-ku-mu-LA-tor", "example": "Акумулаторът съхранява енергията от панелите.", "type": "noun" },
+    { "bg": "мрежа", "en": "grid (electrical)", "pronunciation": "mre-ZHA", "example": "Излишната енергия се връща в мрежата.", "type": "noun" },
+    { "bg": "нулеви емисии", "en": "zero emissions", "pronunciation": "NU-le-vi e-MI-si-i", "example": "Целта е нулеви емисии до две хиляди и петдесета.", "type": "noun" },
+    { "bg": "климатични промени", "en": "climate change", "pronunciation": "kli-ma-TICH-ni pro-ME-ni", "example": "Климатичните промени засягат цялата планета.", "type": "noun" }
+  ]
+}
