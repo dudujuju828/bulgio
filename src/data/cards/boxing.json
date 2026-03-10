@@ -1,0 +1,28 @@
+{
+  "category": "Boxing & Combat Sports",
+  "cards": [
+    { "bg": "бокс", "en": "boxing", "pronunciation": "boks", "example": "Боксът е популярен спорт в България.", "type": "noun" },
+    { "bg": "боксьор", "en": "boxer", "pronunciation": "bok-SYOR", "example": "Боксьорът тренира всеки ден по три часа.", "type": "noun" },
+    { "bg": "ринг", "en": "ring", "pronunciation": "ring", "example": "Двамата се качиха на ринга.", "type": "noun" },
+    { "bg": "удар", "en": "punch/hit", "pronunciation": "u-DAR", "example": "Ударът с дясната ръка беше точен.", "type": "noun" },
+    { "bg": "кроше", "en": "hook (punch)", "pronunciation": "kro-SHE", "example": "Крошето улучи противника по челюстта.", "type": "noun" },
+    { "bg": "ъперкът", "en": "uppercut", "pronunciation": "u-per-KUT", "example": "Ъперкътът го свали на земята.", "type": "noun" },
+    { "bg": "джаб", "en": "jab", "pronunciation": "djab", "example": "Бързият джаб държи противника на дистанция.", "type": "noun" },
+    { "bg": "блокирам", "en": "to block/parry", "pronunciation": "blo-KI-ram", "example": "Блокирах удара с лявата ръка.", "type": "verb" },
+    { "bg": "ръкавици", "en": "gloves (boxing)", "pronunciation": "ru-ka-VI-tsi", "example": "Ръкавиците са десет унции.", "type": "noun" },
+    { "bg": "бинт", "en": "hand wrap/bandage", "pronunciation": "bint", "example": "Бинтовете предпазват китките от контузии.", "type": "noun" },
+    { "bg": "круш", "en": "punching bag", "pronunciation": "krush", "example": "Тренирам удари на круша всеки ден.", "type": "noun" },
+    { "bg": "рунд", "en": "round", "pronunciation": "rund", "example": "Мачът е от дванадесет рунда.", "type": "noun" },
+    { "bg": "нокаут", "en": "knockout (KO)", "pronunciation": "no-ka-UT", "example": "Победата с нокаут дойде в третия рунд.", "type": "noun" },
+    { "bg": "нокдаун", "en": "knockdown", "pronunciation": "nok-DAUN", "example": "Съдията започна да брои след нокдауна.", "type": "noun" },
+    { "bg": "съдия", "en": "referee", "pronunciation": "su-di-YA", "example": "Съдията спря мача заради порязване.", "type": "noun" },
+    { "bg": "категория", "en": "weight class", "pronunciation": "ka-te-GO-ri-ya", "example": "Той се състезава в средна категория.", "type": "noun" },
+    { "bg": "претеглям се", "en": "to weigh in", "pronunciation": "pre-TEG-lyam se", "example": "Боксьорите се претеглят ден преди мача.", "type": "verb" },
+    { "bg": "треньор", "en": "coach/trainer", "pronunciation": "tre-NYOR", "example": "Треньорът дава съвети между рундовете.", "type": "noun" },
+    { "bg": "спаринг", "en": "sparring", "pronunciation": "SPA-ring", "example": "Спарингът с партньор подобрява рефлексите.", "type": "noun" },
+    { "bg": "кикбокс", "en": "kickboxing", "pronunciation": "KIK-boks", "example": "Кикбоксът съчетава удари с ръце и крака.", "type": "noun" },
+    { "bg": "борба", "en": "wrestling", "pronunciation": "bor-BA", "example": "Борбата е олимпийски спорт с дълга история.", "type": "noun" },
+    { "bg": "титла", "en": "title/championship belt", "pronunciation": "TIT-la", "example": "Спечели световната титла в тежка категория.", "type": "noun" },
+    { "bg": "контузия", "en": "injury/bruise", "pronunciation": "kon-TU-zi-ya", "example": "Контузията над окото му попречи да продължи.", "type": "noun" }
+  ]
+}
