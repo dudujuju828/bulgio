@@ -1,0 +1,27 @@
+{
+  "category": "Opinions",
+  "cards": [
+    { "bg": "мисля, че", "en": "I think that", "pronunciation": "MIS-lya che", "example": "Мисля, че това е добра идея.", "type": "phrase" },
+    { "bg": "смятам, че", "en": "I consider/believe that", "pronunciation": "SMYA-tam che", "example": "Смятам, че имаш право.", "type": "phrase" },
+    { "bg": "според мен", "en": "in my opinion", "pronunciation": "spo-RED men", "example": "Според мен филмът е скучен.", "type": "phrase" },
+    { "bg": "съгласен съм", "en": "I agree", "pronunciation": "su-GLA-sen sum", "example": "Напълно съм съгласен с теб.", "type": "phrase" },
+    { "bg": "не съм съгласен", "en": "I disagree", "pronunciation": "ne sum su-GLA-sen", "example": "Не съм съгласен с това решение.", "type": "phrase" },
+    { "bg": "зависи", "en": "it depends", "pronunciation": "za-VI-si", "example": "Зависи от ситуацията.", "type": "phrase" },
+    { "bg": "има смисъл", "en": "it makes sense", "pronunciation": "I-ma SMI-sul", "example": "Това, което казваш, има смисъл.", "type": "phrase" },
+    { "bg": "няма смисъл", "en": "it makes no sense", "pronunciation": "NYA-ma SMI-sul", "example": "Няма смисъл да спорим за това.", "type": "phrase" },
+    { "bg": "предпочитам", "en": "I prefer", "pronunciation": "pred-po-CHI-tam", "example": "Предпочитам да ходя пеша.", "type": "verb" },
+    { "bg": "сигурен съм", "en": "I'm sure/certain", "pronunciation": "SI-gu-ren sum", "example": "Сигурен съм, че това е правилно.", "type": "phrase" },
+    { "bg": "не съм сигурен", "en": "I'm not sure", "pronunciation": "ne sum SI-gu-ren", "example": "Не съм сигурен дали е вярно.", "type": "phrase" },
+    { "bg": "от една страна", "en": "on one hand", "pronunciation": "ot ED-na stra-NA", "example": "От една страна разбирам позицията ти.", "type": "phrase" },
+    { "bg": "от друга страна", "en": "on the other hand", "pronunciation": "ot DRU-ga stra-NA", "example": "От друга страна, има и рискове.", "type": "phrase" },
+    { "bg": "освен това", "en": "besides/moreover", "pronunciation": "os-VEN to-VA", "example": "Освен това, цената е много висока.", "type": "phrase" },
+    { "bg": "всъщност", "en": "actually/in fact", "pronunciation": "vsu-SHNOST", "example": "Всъщност той е прав.", "type": "adverb" },
+    { "bg": "разбира се", "en": "of course", "pronunciation": "raz-BI-ra se", "example": "Разбира се, че ще ти помогна.", "type": "phrase" },
+    { "bg": "може би", "en": "maybe/perhaps", "pronunciation": "MO-zhe bi", "example": "Може би утре ще бъде по-добре.", "type": "phrase" },
+    { "bg": "спор", "en": "argument/debate", "pronunciation": "spor", "example": "Спорът продължи дълго.", "type": "noun" },
+    { "bg": "убеждавам", "en": "to convince/persuade", "pronunciation": "u-bezh-DA-vam", "example": "Убедих го да дойде с нас.", "type": "verb" },
+    { "bg": "обаче", "en": "however/but", "pronunciation": "o-BA-che", "example": "Обаче има едно условие.", "type": "adverb" },
+    { "bg": "затова", "en": "therefore/that's why", "pronunciation": "za-to-VA", "example": "Затова мисля, че трябва да опитаме.", "type": "adverb" },
+    { "bg": "напротив", "en": "on the contrary", "pronunciation": "na-pro-TIV", "example": "Напротив, аз мисля точно обратното.", "type": "adverb" }
+  ]
+}
