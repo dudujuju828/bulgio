@@ -1,0 +1,28 @@
+{
+  "category": "Pirates & Seafaring History",
+  "cards": [
+    { "bg": "пират", "en": "pirate", "pronunciation": "pi-RAT", "example": "Пиратите плавали по Средиземно и Черно море.", "type": "noun" },
+    { "bg": "пиратски кораб", "en": "pirate ship", "pronunciation": "pi-RAT-ski ko-RAB", "example": "Пиратският кораб плавал под черен флаг.", "type": "noun" },
+    { "bg": "съкровище", "en": "treasure", "pronunciation": "suk-RO-vish-te", "example": "Съкровището било заровено на остров.", "type": "noun" },
+    { "bg": "карта на съкровище", "en": "treasure map", "pronunciation": "KAR-ta na suk-RO-vish-te", "example": "Картата на съкровището водела до таен бряг.", "type": "noun" },
+    { "bg": "флаг", "en": "flag", "pronunciation": "flag", "example": "Черният флаг с череп плашел корабите.", "type": "noun" },
+    { "bg": "череп и кости", "en": "skull and crossbones", "pronunciation": "CHE-rep i KOS-ti", "example": "Черепът и костите са символ на пиратите.", "type": "noun" },
+    { "bg": "капитан", "en": "captain", "pronunciation": "ka-pi-TAN", "example": "Капитанът командвал екипажа на кораба.", "type": "noun" },
+    { "bg": "екипаж", "en": "crew", "pronunciation": "e-ki-PAZH", "example": "Екипажът се състоял от петдесет моряци.", "type": "noun" },
+    { "bg": "палуба", "en": "deck", "pronunciation": "pa-LU-ba", "example": "Моряците работели на палубата от зори до мрак.", "type": "noun" },
+    { "bg": "мачта", "en": "mast", "pronunciation": "MACH-ta", "example": "Мачтата се счупила по време на буря.", "type": "noun" },
+    { "bg": "платно", "en": "sail", "pronunciation": "plat-NO", "example": "Платната се развявали на вятъра.", "type": "noun" },
+    { "bg": "котва", "en": "anchor", "pronunciation": "KOT-va", "example": "Спуснаха котвата в тихия залив.", "type": "noun" },
+    { "bg": "абордаж", "en": "boarding (attack)", "pronunciation": "a-bor-DAZH", "example": "Абордажът бил най-опасната част от нападението.", "type": "noun" },
+    { "bg": "сабя", "en": "cutlass/sword", "pronunciation": "SA-bya", "example": "Пиратът размахвал сабята си на палубата.", "type": "noun" },
+    { "bg": "оръдие", "en": "cannon", "pronunciation": "o-RU-di-e", "example": "Оръдията стреляли от двете страни на кораба.", "type": "noun" },
+    { "bg": "плячка", "en": "loot/plunder", "pronunciation": "PLYACH-ka", "example": "Плячката се делела между целия екипаж.", "type": "noun" },
+    { "bg": "бунт", "en": "mutiny", "pronunciation": "bunt", "example": "Бунтът срещу капитана завършил с неговото сваляне.", "type": "noun" },
+    { "bg": "остров", "en": "island", "pronunciation": "OS-trov", "example": "Островът бил скривалище за пиратите.", "type": "noun" },
+    { "bg": "компас", "en": "compass", "pronunciation": "KOM-pas", "example": "Компасът показвал посоката на север.", "type": "noun" },
+    { "bg": "далекоглед", "en": "spyglass/telescope", "pronunciation": "da-le-ko-GLED", "example": "Капитанът гледал хоризонта с далекоглед.", "type": "noun" },
+    { "bg": "пленник", "en": "prisoner/captive", "pronunciation": "PLEN-nik", "example": "Пленниците били държани под палубата.", "type": "noun" },
+    { "bg": "откуп", "en": "ransom", "pronunciation": "OT-kup", "example": "Пиратите поискали откуп за пленниците.", "type": "noun" },
+    { "bg": "корсар", "en": "corsair/privateer", "pronunciation": "kor-SAR", "example": "Корсарите имали разрешение от краля да нападат.", "type": "noun" }
+  ]
+}
