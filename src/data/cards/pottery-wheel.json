@@ -1,0 +1,27 @@
+{
+  "category": "Pottery & Wheel Throwing",
+  "cards": [
+    { "bg": "грънчарство", "en": "pottery", "pronunciation": "grun-CHAR-stvo", "example": "Грънчарството е древен занаят в България.", "type": "noun" },
+    { "bg": "грънчар", "en": "potter", "pronunciation": "grun-CHAR", "example": "Грънчарят работи на колелото всеки ден.", "type": "noun" },
+    { "bg": "грънчарско колело", "en": "potter's wheel", "pronunciation": "grun-CHAR-sko ko-le-LO", "example": "Грънчарското колело се върти с крак или мотор.", "type": "noun" },
+    { "bg": "глина", "en": "clay", "pronunciation": "GLI-na", "example": "Глината е мека и лесна за моделиране.", "type": "noun" },
+    { "bg": "месене", "en": "wedging/kneading", "pronunciation": "ME-se-ne", "example": "Месенето премахва въздушните мехурчета от глината.", "type": "noun" },
+    { "bg": "центриране", "en": "centering", "pronunciation": "tsen-tri-RA-ne", "example": "Центрирането на глината е първата стъпка.", "type": "noun" },
+    { "bg": "формоване", "en": "shaping/throwing", "pronunciation": "for-MO-va-ne", "example": "Формоването на ваза изисква нежни ръце.", "type": "noun" },
+    { "bg": "гърне", "en": "pot", "pronunciation": "GUR-ne", "example": "Гърнето е идеално за гювеч.", "type": "noun" },
+    { "bg": "купа", "en": "bowl", "pronunciation": "KU-pa", "example": "Купата е за супа или салата.", "type": "noun" },
+    { "bg": "чиния", "en": "plate", "pronunciation": "CHI-ni-ya", "example": "Чинията е ръчно декорирана.", "type": "noun" },
+    { "bg": "кана", "en": "jug/pitcher", "pronunciation": "KA-na", "example": "Каната е за вода или вино.", "type": "noun" },
+    { "bg": "чаша", "en": "cup/mug", "pronunciation": "CHA-sha", "example": "Чашата е с уникален ръчен дизайн.", "type": "noun" },
+    { "bg": "глазура", "en": "glaze", "pronunciation": "gla-ZU-ra", "example": "Глазурата придава цвят и блясък на керамиката.", "type": "noun" },
+    { "bg": "глазирам", "en": "to glaze", "pronunciation": "gla-ZI-ram", "example": "Глазирам гърнето с кафява глазура.", "type": "verb" },
+    { "bg": "изпичане", "en": "firing/kiln firing", "pronunciation": "iz-PI-cha-ne", "example": "Изпичането отнема дванадесет часа.", "type": "noun" },
+    { "bg": "пещ", "en": "kiln", "pronunciation": "pesht", "example": "Пещта достига хиляда и двеста градуса.", "type": "noun" },
+    { "bg": "бисквит", "en": "bisque (first firing)", "pronunciation": "bis-KVIT", "example": "Бисквитът е след първото изпичане без глазура.", "type": "noun" },
+    { "bg": "декорирам", "en": "to decorate", "pronunciation": "de-ko-RI-ram", "example": "Декорирам чинията с традиционни мотиви.", "type": "verb" },
+    { "bg": "шарка", "en": "pattern/design", "pronunciation": "SHAR-ka", "example": "Шарката е типична за Троянската керамика.", "type": "noun" },
+    { "bg": "Троянска керамика", "en": "Troyan ceramics", "pronunciation": "tro-YAN-ska ke-RA-mi-ka", "example": "Троянската керамика е с характерни капки.", "type": "noun" },
+    { "bg": "сушене", "en": "drying", "pronunciation": "su-SHE-ne", "example": "Сушенето трябва да е бавно и равномерно.", "type": "noun" },
+    { "bg": "ръчна изработка", "en": "handmade/handcrafted", "pronunciation": "RUCH-na iz-ra-BOT-ka", "example": "Ръчната изработка прави всяко парче уникално.", "type": "noun" }
+  ]
+}
