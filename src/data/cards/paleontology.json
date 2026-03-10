@@ -1,0 +1,27 @@
+{
+  "category": "Paleontology & Dinosaurs",
+  "cards": [
+    { "bg": "палеонтология", "en": "paleontology", "pronunciation": "pa-le-on-to-LO-gi-ya", "example": "Палеонтологията изучава древния живот на Земята.", "type": "noun" },
+    { "bg": "динозавър", "en": "dinosaur", "pronunciation": "di-no-ZA-vur", "example": "Динозаврите изчезнали преди шейсет и пет милиона години.", "type": "noun" },
+    { "bg": "вкаменелост", "en": "fossil", "pronunciation": "vka-me-NE-lost", "example": "Вкаменелостта е от морска мида на милиони години.", "type": "noun" },
+    { "bg": "скелет", "en": "skeleton", "pronunciation": "ske-LET", "example": "Скелетът на динозавъра е изложен в музея.", "type": "noun" },
+    { "bg": "кост", "en": "bone", "pronunciation": "kost", "example": "Костта е запазена изключително добре.", "type": "noun" },
+    { "bg": "череп", "en": "skull", "pronunciation": "CHE-rep", "example": "Черепът показва, че животното е било хищник.", "type": "noun" },
+    { "bg": "разкопка", "en": "excavation/dig", "pronunciation": "raz-KOP-ka", "example": "Разкопките край Асеновград разкриха нови находки.", "type": "noun" },
+    { "bg": "палеонтолог", "en": "paleontologist", "pronunciation": "pa-le-on-to-LOG", "example": "Палеонтологът почиства вкаменелостта внимателно.", "type": "noun" },
+    { "bg": "хищник", "en": "predator", "pronunciation": "HISH-nik", "example": "Тиранозавърът бил един от най-големите хищници.", "type": "noun" },
+    { "bg": "тревопасно", "en": "herbivore", "pronunciation": "tre-vo-PAS-no", "example": "Тревопасните динозаври се хранели с растения.", "type": "noun" },
+    { "bg": "изчезване", "en": "extinction", "pronunciation": "iz-chez-VA-ne", "example": "Масовото изчезване унищожило повечето видове.", "type": "noun" },
+    { "bg": "ера", "en": "era/age", "pronunciation": "E-ra", "example": "Мезозойската ера е времето на динозаврите.", "type": "noun" },
+    { "bg": "период", "en": "period", "pronunciation": "pe-ri-OD", "example": "Юрският период е известен с гигантски влечуги.", "type": "noun" },
+    { "bg": "еволюция", "en": "evolution", "pronunciation": "e-vo-LYU-tsi-ya", "example": "Еволюцията обяснява развитието на живота.", "type": "noun" },
+    { "bg": "метеорит", "en": "meteorite", "pronunciation": "me-te-o-RIT", "example": "Метеоритът причинил изчезването на динозаврите.", "type": "noun" },
+    { "bg": "мамут", "en": "mammoth", "pronunciation": "ma-MUT", "example": "Мамутите живели в ледниковата епоха.", "type": "noun" },
+    { "bg": "ледникова епоха", "en": "ice age", "pronunciation": "led-ni-KO-va e-PO-ha", "example": "Ледниковата епоха покрила Европа с лед.", "type": "noun" },
+    { "bg": "отпечатък", "en": "imprint/trace fossil", "pronunciation": "ot-pe-CHA-tuk", "example": "Отпечатъкът от стъпало е в скалата.", "type": "noun" },
+    { "bg": "кехлибар", "en": "amber", "pronunciation": "keh-li-BAR", "example": "Кехлибарът запазва насекоми от милиони години.", "type": "noun" },
+    { "bg": "музей по природознание", "en": "natural history museum", "pronunciation": "mu-ZEY po pri-ro-doz-NA-ni-e", "example": "Музеят по природознание в София има богата колекция.", "type": "noun" },
+    { "bg": "възстановка", "en": "reconstruction", "pronunciation": "vuz-sta-NOV-ka", "example": "Възстановката показва как е изглеждал динозавърът.", "type": "noun" },
+    { "bg": "праисторически", "en": "prehistoric", "pronunciation": "pra-is-to-RI-ches-ki", "example": "Праисторическите животни са предмет на изследване.", "type": "adjective" }
+  ]
+}
