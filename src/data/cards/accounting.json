@@ -1,0 +1,28 @@
+{
+  "category": "Accounting",
+  "cards": [
+    { "bg": "счетоводство", "en": "accounting", "pronunciation": "scheto-VOD-stvo", "example": "Счетоводството е задължително за всяка фирма.", "type": "noun" },
+    { "bg": "счетоводител", "en": "accountant", "pronunciation": "scheto-VO-di-tel", "example": "Счетоводителят подготвя годишния отчет.", "type": "noun" },
+    { "bg": "фактура", "en": "invoice", "pronunciation": "fak-TU-ra", "example": "Издай фактура за доставката.", "type": "noun" },
+    { "bg": "разписка", "en": "receipt", "pronunciation": "raz-PIS-ka", "example": "Пазя разписките за данъчни цели.", "type": "noun" },
+    { "bg": "баланс", "en": "balance", "pronunciation": "ba-LANS", "example": "Балансът на сметката е положителен.", "type": "noun" },
+    { "bg": "приход", "en": "revenue/income", "pronunciation": "PRI-hod", "example": "Приходите на фирмата растат всеки месец.", "type": "noun" },
+    { "bg": "разход", "en": "expense/expenditure", "pronunciation": "RAZ-hod", "example": "Разходите за наем са твърде високи.", "type": "noun" },
+    { "bg": "ДДС", "en": "VAT (value added tax)", "pronunciation": "de-de-ES", "example": "Цената е с включен ДДС.", "type": "noun" },
+    { "bg": "данъчна декларация", "en": "tax return", "pronunciation": "da-NUCH-na dek-la-RA-tsi-ya", "example": "Крайният срок за данъчната декларация е тридесети април.", "type": "noun" },
+    { "bg": "отчет", "en": "report/statement", "pronunciation": "OT-chet", "example": "Годишният финансов отчет е готов.", "type": "noun" },
+    { "bg": "одит", "en": "audit", "pronunciation": "o-DIT", "example": "НАП извършва одит на фирмата.", "type": "noun" },
+    { "bg": "каса", "en": "cash register/cash", "pronunciation": "KA-sa", "example": "В касата има достатъчно пари.", "type": "noun" },
+    { "bg": "касов бон", "en": "cash receipt/fiscal receipt", "pronunciation": "KA-sov bon", "example": "Вземи касовия бон от магазина.", "type": "noun" },
+    { "bg": "задължение", "en": "liability/obligation", "pronunciation": "za-dul-ZHE-ni-e", "example": "Фирмата няма просрочени задължения.", "type": "noun" },
+    { "bg": "вземане", "en": "receivable", "pronunciation": "VZE-ma-ne", "example": "Имаме вземания от трима клиенти.", "type": "noun" },
+    { "bg": "амортизация", "en": "depreciation", "pronunciation": "a-mor-ti-ZA-tsi-ya", "example": "Амортизацията на колата е за пет години.", "type": "noun" },
+    { "bg": "заплата", "en": "salary/wage", "pronunciation": "za-PLA-ta", "example": "Заплатите се изплащат на десето число.", "type": "noun" },
+    { "bg": "осигуровки", "en": "social security contributions", "pronunciation": "o-si-gu-ROV-ki", "example": "Осигуровките са за сметка на работодателя и работника.", "type": "noun" },
+    { "bg": "печалба", "en": "profit", "pronunciation": "pe-CHAL-ba", "example": "Нетната печалба за годината е добра.", "type": "noun" },
+    { "bg": "загуба", "en": "loss", "pronunciation": "za-GU-ba", "example": "Фирмата приключи годината на загуба.", "type": "noun" },
+    { "bg": "главница", "en": "principal (loan amount)", "pronunciation": "glav-NI-tsa", "example": "Плащаме главница и лихва всеки месец.", "type": "noun" },
+    { "bg": "лихва", "en": "interest", "pronunciation": "LIH-va", "example": "Лихвата по кредита е пет процента.", "type": "noun" },
+    { "bg": "платежно нареждане", "en": "payment order", "pronunciation": "pla-TEZH-no na-REZH-da-ne", "example": "Направи платежно нареждане към доставчика.", "type": "noun" }
+  ]
+}
