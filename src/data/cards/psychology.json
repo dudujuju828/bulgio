@@ -1,0 +1,28 @@
+{
+  "category": "Psychology",
+  "cards": [
+    { "bg": "психология", "en": "psychology", "pronunciation": "psi-ho-LO-gi-ya", "example": "Тя учи психология в Софийския университет.", "type": "noun" },
+    { "bg": "психолог", "en": "psychologist", "pronunciation": "psi-ho-LOG", "example": "Ходя при психолог веднъж седмично.", "type": "noun" },
+    { "bg": "психотерапия", "en": "psychotherapy", "pronunciation": "psi-ho-te-ra-PI-ya", "example": "Психотерапията ми помогна много.", "type": "noun" },
+    { "bg": "тревожност", "en": "anxiety", "pronunciation": "tre-VOZH-nost", "example": "Тревожността е все по-често срещана.", "type": "noun" },
+    { "bg": "депресия", "en": "depression", "pronunciation": "dep-RE-si-ya", "example": "Депресията е сериозно заболяване.", "type": "noun" },
+    { "bg": "стрес", "en": "stress", "pronunciation": "stres", "example": "Стресът от работата ме изтощава.", "type": "noun" },
+    { "bg": "бърнаут", "en": "burnout", "pronunciation": "bur-NA-ut", "example": "Бърнаутът е резултат от хроничен стрес.", "type": "noun" },
+    { "bg": "самочувствие", "en": "self-esteem", "pronunciation": "sa-mo-CHUV-stvi-e", "example": "Самочувствието й се подобри след терапията.", "type": "noun" },
+    { "bg": "самоувереност", "en": "self-confidence", "pronunciation": "sa-mo-u-VE-re-nost", "example": "Липсва ми самоувереност на работа.", "type": "noun" },
+    { "bg": "емоция", "en": "emotion", "pronunciation": "e-MO-tsi-ya", "example": "Важно е да разпознаваш емоциите си.", "type": "noun" },
+    { "bg": "чувство", "en": "feeling", "pronunciation": "CHUV-stvo", "example": "Не потискай чувствата си.", "type": "noun" },
+    { "bg": "поведение", "en": "behavior", "pronunciation": "po-ve-DE-ni-e", "example": "Поведението му се промени напоследък.", "type": "noun" },
+    { "bg": "навик", "en": "habit", "pronunciation": "na-VIK", "example": "Лошите навици са трудни за промяна.", "type": "noun" },
+    { "bg": "фобия", "en": "phobia", "pronunciation": "FO-bi-ya", "example": "Има фобия от затворени пространства.", "type": "noun" },
+    { "bg": "паническа атака", "en": "panic attack", "pronunciation": "pa-NI-ches-ka a-TA-ka", "example": "Получих паническа атака в метрото.", "type": "noun" },
+    { "bg": "справям се", "en": "to cope/manage", "pronunciation": "SPRA-vyam se", "example": "Как се справяш с натоварването?", "type": "verb" },
+    { "bg": "подсъзнание", "en": "subconscious", "pronunciation": "pod-suz-NA-ni-e", "example": "Подсъзнанието влияе на решенията ни.", "type": "noun" },
+    { "bg": "съзнание", "en": "consciousness/awareness", "pronunciation": "suz-NA-ni-e", "example": "Медитацията развива съзнанието.", "type": "noun" },
+    { "bg": "травма", "en": "trauma", "pronunciation": "TRAV-ma", "example": "Травмата от детството все още го засяга.", "type": "noun" },
+    { "bg": "изслушвам", "en": "to listen/hear out", "pronunciation": "iz-SLUSH-vam", "example": "Понякога просто имаш нужда някой да те изслуша.", "type": "verb" },
+    { "bg": "приемам се", "en": "to accept oneself", "pronunciation": "pri-E-mam se", "example": "Научих се да се приемам такъв, какъвто съм.", "type": "verb" },
+    { "bg": "граници", "en": "boundaries", "pronunciation": "gra-NI-tsi", "example": "Важно е да поставяш лични граници.", "type": "noun" },
+    { "bg": "подкрепа", "en": "support", "pronunciation": "pod-KRE-pa", "example": "Подкрепата от близките е безценна.", "type": "noun" }
+  ]
+}
