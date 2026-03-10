@@ -6,98 +6,112 @@
       "en": "red",
       "pronunciation": "cher-VEN",
       "example": "Тя носи червена рокля.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/red.png"
     },
     {
       "bg": "син",
       "en": "blue",
       "pronunciation": "sin",
       "example": "Небето е синьо днес.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/blue.png"
     },
     {
       "bg": "зелен",
       "en": "green",
       "pronunciation": "ze-LEN",
       "example": "Тревата е зелена напролет.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/green.png"
     },
     {
       "bg": "жълт",
       "en": "yellow",
       "pronunciation": "zhult",
       "example": "Слънцето е жълто и ярко.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/yellow.png"
     },
     {
       "bg": "бял",
       "en": "white",
       "pronunciation": "byal",
       "example": "Снегът е бял и чист.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/white.png"
     },
     {
       "bg": "черен",
       "en": "black",
       "pronunciation": "CHE-ren",
       "example": "Той има черна котка.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/black.png"
     },
     {
       "bg": "оранжев",
       "en": "orange",
       "pronunciation": "o-RAN-zhev",
       "example": "Портокалът е оранжев.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/orange.png"
     },
     {
       "bg": "виолетов",
       "en": "purple",
       "pronunciation": "vi-o-LE-tov",
       "example": "Тя обича виолетови цветя.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/purple.png"
     },
     {
       "bg": "розов",
       "en": "pink",
       "pronunciation": "RO-zov",
       "example": "Розовата роза е много красива.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/pink.png"
     },
     {
       "bg": "кафяв",
       "en": "brown",
       "pronunciation": "ka-FYAV",
       "example": "Кучето е кафяво и голямо.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/brown.png"
     },
     {
       "bg": "сив",
       "en": "gray",
       "pronunciation": "siv",
       "example": "Облаците са сиви преди дъжд.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/gray.png"
     },
     {
       "bg": "златен",
       "en": "golden",
       "pronunciation": "zla-TEN",
       "example": "Тя носи златен пръстен.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/golden.png"
     },
     {
       "bg": "сребърен",
       "en": "silver",
       "pronunciation": "sre-BU-ren",
       "example": "Колата е сребърна.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/silver.png"
     },
     {
       "bg": "тъмен",
       "en": "dark",
       "pronunciation": "TU-men",
       "example": "Стаята е тъмна без лампа.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/dark.png"
     },
     {
       "bg": "светъл",
@@ -128,21 +142,24 @@
       "en": "color",
       "pronunciation": "tsvyat",
       "example": "Какъв цвят харесваш?",
-      "type": "noun"
+      "type": "noun",
+      "image": "colors/color.png"
     },
     {
       "bg": "дъга",
       "en": "rainbow",
       "pronunciation": "DU-ga",
       "example": "След дъжда излезе дъга.",
-      "type": "noun"
+      "type": "noun",
+      "image": "colors/rainbow.png"
     },
     {
       "bg": "шарен",
       "en": "colorful",
       "pronunciation": "SHA-ren",
       "example": "Пеперудата е шарена.",
-      "type": "adjective"
+      "type": "adjective",
+      "image": "colors/colorful.png"
     }
   ]
 }

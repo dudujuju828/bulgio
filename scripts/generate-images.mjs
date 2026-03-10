@@ -24,8 +24,8 @@ if (!category) {
   process.exit(1);
 }
 
-const MODEL = 'gemini-2.5-flash-image';
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`;
+const MODEL = 'gemini-3.1-flash-image-preview';
+const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
 
 const jsonFile = path.join(process.cwd(), 'src', 'data', 'cards', `${category}.json`);
 if (!fs.existsSync(jsonFile)) {
@@ -66,42 +66,58 @@ for (const card of data.cards) {
 
   const prompt = `Create a simple, clean flat illustration of "${card.en}" on a solid dark background (color #1a1a2e). Minimalist iconic style, suitable as a small vocabulary flashcard icon. No text, no letters, no words in the image. Centered subject, square format.`;
 
-  try {
-    const res = await fetch(API_URL, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { responseModalities: ['TEXT', 'IMAGE'] }
-      })
-    });
+  let success = false;
+  for (let attempt = 0; attempt < 5; attempt++) {
+    try {
+      const res = await fetch(API_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'x-goog-api-key': API_KEY },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: { responseModalities: ['TEXT', 'IMAGE'] }
+        })
+      });
 
-    const result = await res.json();
+      const result = await res.json();
 
-    if (!res.ok) {
-      console.error(`  API error: ${result.error?.message || res.status}`);
-      continue;
+      if (!res.ok) {
+        if (res.status === 429 || result.error?.message?.includes('exhausted')) {
+          const wait = 30 * (attempt + 1);
+          console.log(`  Rate limited, waiting ${wait}s...`);
+          await new Promise(r => setTimeout(r, wait * 1000));
+          continue;
+        }
+        console.error(`  API error: ${result.error?.message || res.status}`);
+        break;
+      }
+
+      const parts = result.candidates?.[0]?.content?.parts || [];
+      const imagePart = parts.find(p => p.inlineData);
+
+      if (!imagePart) {
+        console.error(`  No image returned for ${card.en}`);
+        break;
+      }
+
+      const buffer = Buffer.from(imagePart.inlineData.data, 'base64');
+      fs.writeFileSync(imagePath, buffer);
+      card.image = `${category}/${filename}`;
+      updated++;
+      console.log(`  saved: ${filename}`);
+      success = true;
+      break;
+    } catch (err) {
+      console.error(`  Failed for ${card.en}: ${err.message}`);
+      break;
     }
-
-    const parts = result.candidates?.[0]?.content?.parts || [];
-    const imagePart = parts.find(p => p.inlineData);
-
-    if (!imagePart) {
-      console.error(`  No image returned for ${card.en}`);
-      continue;
-    }
-
-    const buffer = Buffer.from(imagePart.inlineData.data, 'base64');
-    fs.writeFileSync(imagePath, buffer);
-    card.image = `${category}/${filename}`;
-    updated++;
-    console.log(`  saved: ${filename}`);
-
-    // Rate limit delay
-    await new Promise(r => setTimeout(r, 1500));
-  } catch (err) {
-    console.error(`  Failed for ${card.en}: ${err.message}`);
   }
+
+  if (!success && !card.image) {
+    console.error(`  Giving up on ${card.en} after retries`);
+  }
+
+  // Rate limit delay between requests
+  await new Promise(r => setTimeout(r, 10000));
 }
 
 fs.writeFileSync(jsonFile, JSON.stringify(data, null, 2) + '\n');
