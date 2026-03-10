@@ -1,0 +1,28 @@
+{
+  "category": "Video Games & Gaming",
+  "cards": [
+    { "bg": "видеоигра", "en": "video game", "pronunciation": "VI-de-o-ig-RA", "example": "Играя видеоигри след работа.", "type": "noun" },
+    { "bg": "конзола", "en": "console", "pronunciation": "kon-ZO-la", "example": "Купих нова конзола за Коледа.", "type": "noun" },
+    { "bg": "контролер", "en": "controller/gamepad", "pronunciation": "kon-tro-LER", "example": "Контролерът се свързва безжично.", "type": "noun" },
+    { "bg": "компютърна игра", "en": "PC game", "pronunciation": "kom-PYU-tur-na ig-RA", "example": "Компютърните игри изискват добра видеокарта.", "type": "noun" },
+    { "bg": "мобилна игра", "en": "mobile game", "pronunciation": "mo-BIL-na ig-RA", "example": "Мобилните игри са безплатни, но с реклами.", "type": "noun" },
+    { "bg": "ниво", "en": "level", "pronunciation": "ni-VO", "example": "Стигнах до десето ниво.", "type": "noun" },
+    { "bg": "мисия", "en": "mission/quest", "pronunciation": "MI-si-ya", "example": "Мисията е да намериш съкровището.", "type": "noun" },
+    { "bg": "герой", "en": "character/hero", "pronunciation": "ge-ROY", "example": "Избрах маг за мой герой.", "type": "noun" },
+    { "bg": "живот", "en": "life (in-game)", "pronunciation": "zhi-VOT", "example": "Остана ми последен живот.", "type": "noun" },
+    { "bg": "точки", "en": "points/score", "pronunciation": "TOCH-ki", "example": "Събрах хиляда точки на нивото.", "type": "noun" },
+    { "bg": "запазвам", "en": "to save (game)", "pronunciation": "za-PA-zvam", "example": "Запази играта преди да излезеш.", "type": "verb" },
+    { "bg": "мултиплейър", "en": "multiplayer", "pronunciation": "mul-ti-PLEY-ur", "example": "Играта е мултиплейър за до четирима.", "type": "noun" },
+    { "bg": "онлайн", "en": "online", "pronunciation": "on-LAYN", "example": "Играем онлайн с приятели от цял свят.", "type": "adjective" },
+    { "bg": "стратегия", "en": "strategy (game genre)", "pronunciation": "stra-TE-gi-ya", "example": "Обичам стратегиите в реално време.", "type": "noun" },
+    { "bg": "шутър", "en": "shooter (game genre)", "pronunciation": "SHU-tur", "example": "Шутърите от първо лице са популярни.", "type": "noun" },
+    { "bg": "ролева игра", "en": "RPG/role-playing game", "pronunciation": "RO-le-va ig-RA", "example": "Ролевите игри имат дълга история.", "type": "noun" },
+    { "bg": "видеокарта", "en": "graphics card", "pronunciation": "VI-de-o-KAR-ta", "example": "Видеокартата определя качеството на графиката.", "type": "noun" },
+    { "bg": "графика", "en": "graphics", "pronunciation": "GRA-fi-ka", "example": "Графиката е невероятно реалистична.", "type": "noun" },
+    { "bg": "стрийминг на игри", "en": "game streaming", "pronunciation": "STRIY-ming na ig-RI", "example": "Стриймингът на игри е популярен в Twitch.", "type": "noun" },
+    { "bg": "турнир", "en": "tournament", "pronunciation": "tur-NIR", "example": "Турнирът по Counter-Strike е тази седмица.", "type": "noun" },
+    { "bg": "е-спорт", "en": "esports", "pronunciation": "e-SPORT", "example": "Е-спортът расте бързо в България.", "type": "noun" },
+    { "bg": "актуализация", "en": "update/patch", "pronunciation": "ak-tu-a-li-ZA-tsi-ya", "example": "Актуализацията поправя грешки в играта.", "type": "noun" },
+    { "bg": "бъг", "en": "bug/glitch", "pronunciation": "bug", "example": "Бъгът не ми позволява да мина нивото.", "type": "noun" }
+  ]
+}
