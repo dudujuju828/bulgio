@@ -1,0 +1,27 @@
+{
+  "category": "Parenting",
+  "cards": [
+    { "bg": "родител", "en": "parent", "pronunciation": "ro-DI-tel", "example": "Родителите се грижат за децата си.", "type": "noun" },
+    { "bg": "бременна", "en": "pregnant", "pronunciation": "BRE-men-na", "example": "Тя е бременна в шестия месец.", "type": "adjective" },
+    { "bg": "раждам", "en": "to give birth", "pronunciation": "RAZH-dam", "example": "Тя роди здраво момченце.", "type": "verb" },
+    { "bg": "бебе", "en": "baby", "pronunciation": "be-BE", "example": "Бебето спи по цял ден.", "type": "noun" },
+    { "bg": "пелена", "en": "diaper", "pronunciation": "pe-le-NA", "example": "Трябва да сменим пелената на бебето.", "type": "noun" },
+    { "bg": "биберон", "en": "baby bottle", "pronunciation": "bi-be-RON", "example": "Бебето пие мляко от биберона.", "type": "noun" },
+    { "bg": "кърмя", "en": "to breastfeed", "pronunciation": "kur-MYA", "example": "Тя кърми бебето на всеки три часа.", "type": "verb" },
+    { "bg": "залъгалка", "en": "pacifier", "pronunciation": "za-lu-GAL-ka", "example": "Бебето се успокои със залъгалката.", "type": "noun" },
+    { "bg": "количка", "en": "stroller", "pronunciation": "ko-LICH-ka", "example": "Разхождам бебето с количката.", "type": "noun" },
+    { "bg": "люлка", "en": "cradle/swing", "pronunciation": "LYUL-ka", "example": "Бебето заспива в люлката.", "type": "noun" },
+    { "bg": "детска градина", "en": "kindergarten", "pronunciation": "DET-ska gra-DI-na", "example": "Детето ходи на детска градина от три години.", "type": "noun" },
+    { "bg": "играчка", "en": "toy", "pronunciation": "ig-RACH-ka", "example": "Детето обича играчките си.", "type": "noun" },
+    { "bg": "плача", "en": "to cry", "pronunciation": "PLA-cha", "example": "Бебето плаче, когато е гладно.", "type": "verb" },
+    { "bg": "приспивам", "en": "to put to sleep", "pronunciation": "pris-PI-vam", "example": "Приспивам детето с приказка.", "type": "verb" },
+    { "bg": "храня", "en": "to feed", "pronunciation": "HRA-nya", "example": "Храня бебето с каша.", "type": "verb" },
+    { "bg": "възпитавам", "en": "to raise/educate", "pronunciation": "vuz-pi-TA-vam", "example": "Възпитаваме децата с любов и търпение.", "type": "verb" },
+    { "bg": "наказвам", "en": "to punish", "pronunciation": "na-KAZ-vam", "example": "Не наказвай детето без причина.", "type": "verb" },
+    { "bg": "хвалвам", "en": "to praise", "pronunciation": "HVAL-vam", "example": "Хвали детето, когато се справя добре.", "type": "verb" },
+    { "bg": "прохождам", "en": "to take first steps", "pronunciation": "pro-HOZH-dam", "example": "Бебето проходи на единадесет месеца.", "type": "verb" },
+    { "bg": "проговарям", "en": "to say first words", "pronunciation": "pro-go-VA-ryam", "example": "Детето проговори на една година.", "type": "verb" },
+    { "bg": "детско столче", "en": "high chair/car seat", "pronunciation": "DET-sko STOL-che", "example": "Сложи бебето в детското столче.", "type": "noun" },
+    { "bg": "приказка за лека нощ", "en": "bedtime story", "pronunciation": "pri-KAZ-ka za LE-ka nosht", "example": "Всяка вечер четем приказка за лека нощ.", "type": "noun" }
+  ]
+}
