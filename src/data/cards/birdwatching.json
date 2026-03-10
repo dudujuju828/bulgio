@@ -1,0 +1,28 @@
+{
+  "category": "Birdwatching & Ornithology",
+  "cards": [
+    { "bg": "наблюдение на птици", "en": "birdwatching", "pronunciation": "nab-lyu-DE-ni-e na PTI-tsi", "example": "Наблюдението на птици е популярно в Странджа.", "type": "noun" },
+    { "bg": "орнитология", "en": "ornithology", "pronunciation": "or-ni-to-LO-gi-ya", "example": "Орнитологията изучава птиците и тяхното поведение.", "type": "noun" },
+    { "bg": "орнитолог", "en": "ornithologist", "pronunciation": "or-ni-to-LOG", "example": "Орнитологът преброи гнездящите двойки.", "type": "noun" },
+    { "bg": "бинокъл", "en": "binoculars", "pronunciation": "bi-NO-kul", "example": "Бинокълът приближава птиците десет пъти.", "type": "noun" },
+    { "bg": "определител", "en": "field guide", "pronunciation": "op-re-de-LI-tel", "example": "Определителят помага да разпознаеш видовете.", "type": "noun" },
+    { "bg": "гнездо", "en": "nest", "pronunciation": "gnez-DO", "example": "Гнездото е високо в короната на дървото.", "type": "noun" },
+    { "bg": "гнездене", "en": "nesting", "pronunciation": "gnez-DE-ne", "example": "Гнезденето започва рано напролет.", "type": "noun" },
+    { "bg": "миграция", "en": "migration", "pronunciation": "mig-RA-tsi-ya", "example": "Миграцията на щъркелите минава през България.", "type": "noun" },
+    { "bg": "щъркел", "en": "stork", "pronunciation": "SHTUR-kel", "example": "Щъркелите гнездят по покривите на селските къщи.", "type": "noun" },
+    { "bg": "орел", "en": "eagle", "pronunciation": "o-REL", "example": "Скалният орел е застрашен вид в България.", "type": "noun" },
+    { "bg": "сокол", "en": "falcon", "pronunciation": "so-KOL", "example": "Соколът лети с невероятна скорост.", "type": "noun" },
+    { "bg": "кълвач", "en": "woodpecker", "pronunciation": "kul-VACH", "example": "Кълвачът чука по дървото за храна.", "type": "noun" },
+    { "bg": "славей", "en": "nightingale", "pronunciation": "sla-VEY", "example": "Славеят пее красиво през нощта.", "type": "noun" },
+    { "bg": "лястовица", "en": "swallow", "pronunciation": "LYAS-to-vi-tsa", "example": "Лястовиците се връщат през април.", "type": "noun" },
+    { "bg": "пеликан", "en": "pelican", "pronunciation": "pe-li-KAN", "example": "Пеликаните обитават езерото Сребърна.", "type": "noun" },
+    { "bg": "чапла", "en": "heron", "pronunciation": "CHAP-la", "example": "Чаплата стои неподвижно край водата.", "type": "noun" },
+    { "bg": "песен", "en": "song (birdsong)", "pronunciation": "PE-sen", "example": "Песента на косовете е най-красива сутрин.", "type": "noun" },
+    { "bg": "пеене", "en": "singing (of birds)", "pronunciation": "pe-E-ne", "example": "Пеенето на птиците е най-силно на разсъмване.", "type": "noun" },
+    { "bg": "перо", "en": "feather", "pronunciation": "pe-RO", "example": "Перото е с ярки сини и зелени цветове.", "type": "noun" },
+    { "bg": "крила", "en": "wings", "pronunciation": "kri-LA", "example": "Крилата на орела достигат два метра.", "type": "noun" },
+    { "bg": "клюн", "en": "beak/bill", "pronunciation": "klyun", "example": "Клюнът на пеликана побира голяма риба.", "type": "noun" },
+    { "bg": "заснемам", "en": "to photograph/capture", "pronunciation": "za-SNE-mam", "example": "Заснех рядък вид с телеобектива.", "type": "verb" },
+    { "bg": "резерват", "en": "nature reserve", "pronunciation": "re-zer-VAT", "example": "Резерватът Сребърна е обект на ЮНЕСКО.", "type": "noun" }
+  ]
+}
