@@ -1,0 +1,28 @@
+{
+  "category": "Origami & Paper Crafts",
+  "cards": [
+    { "bg": "оригами", "en": "origami", "pronunciation": "o-ri-GA-mi", "example": "Оригамито е японско изкуство на хартиени фигурки.", "type": "noun" },
+    { "bg": "хартия", "en": "paper", "pronunciation": "har-TI-ya", "example": "Хартията за оригами е тънка и цветна.", "type": "noun" },
+    { "bg": "сгъвам", "en": "to fold", "pronunciation": "sgU-vam", "example": "Сгъвам хартията точно по диагонала.", "type": "verb" },
+    { "bg": "сгъвка", "en": "fold/crease", "pronunciation": "SGUV-ka", "example": "Сгъвката трябва да е прецизна.", "type": "noun" },
+    { "bg": "фигурка", "en": "figurine/figure", "pronunciation": "fi-GUR-ka", "example": "Фигурката на жерав е класическо оригами.", "type": "noun" },
+    { "bg": "жерав", "en": "crane (origami)", "pronunciation": "zhe-RAV", "example": "Хиляда хартиени жерава носят късмет.", "type": "noun" },
+    { "bg": "лале", "en": "tulip", "pronunciation": "la-LE", "example": "Хартиеното лале е красива декорация.", "type": "noun" },
+    { "bg": "самолетче", "en": "paper airplane", "pronunciation": "sa-mo-LET-che", "example": "Самолетчето от хартия лети надалеч.", "type": "noun" },
+    { "bg": "лодка", "en": "boat (paper)", "pronunciation": "LOD-ka", "example": "Хартиената лодка плава по локвата.", "type": "noun" },
+    { "bg": "кутия", "en": "box", "pronunciation": "KU-ti-ya", "example": "Кутията от оригами е за дребни предмети.", "type": "noun" },
+    { "bg": "звезда", "en": "star", "pronunciation": "zvez-DA", "example": "Звездите от хартия украсяват прозореца.", "type": "noun" },
+    { "bg": "квадрат", "en": "square", "pronunciation": "kvad-RAT", "example": "Започни с квадратно парче хартия.", "type": "noun" },
+    { "bg": "диагонал", "en": "diagonal", "pronunciation": "di-a-go-NAL", "example": "Сгъни по диагонала, за да получиш триъгълник.", "type": "noun" },
+    { "bg": "ръб", "en": "edge", "pronunciation": "rub", "example": "Подравни ръбовете на хартията.", "type": "noun" },
+    { "bg": "ъгъл", "en": "corner/angle", "pronunciation": "U-gul", "example": "Сгъни ъгъла към центъра.", "type": "noun" },
+    { "bg": "обръщам", "en": "to flip/turn over", "pronunciation": "ob-RUSH-tam", "example": "Обърни хартията на другата страна.", "type": "verb" },
+    { "bg": "разгъвам", "en": "to unfold", "pronunciation": "raz-GU-vam", "example": "Разгъни и сгъни отново по маркираната линия.", "type": "verb" },
+    { "bg": "декорация", "en": "decoration", "pronunciation": "de-ko-RA-tsi-ya", "example": "Декорациите от хартия са за рождения ден.", "type": "noun" },
+    { "bg": "гирлянд", "en": "garland", "pronunciation": "gir-LYAND", "example": "Гирляндата от хартиени цветя е цветна.", "type": "noun" },
+    { "bg": "изрязвам", "en": "to cut out", "pronunciation": "iz-RYAZ-vam", "example": "Изрязвам снежинки от бяла хартия.", "type": "verb" },
+    { "bg": "лепя", "en": "to glue/paste", "pronunciation": "le-PYA", "example": "Лепя хартиените елементи с лепило.", "type": "verb" },
+    { "bg": "шаблон", "en": "template/pattern", "pronunciation": "sha-BLON", "example": "Шаблонът помага да изрежеш точната форма.", "type": "noun" },
+    { "bg": "ножица", "en": "scissors", "pronunciation": "no-ZHI-tsa", "example": "Ножицата трябва да е остра за прецизно рязане.", "type": "noun" }
+  ]
+}
