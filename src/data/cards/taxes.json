@@ -1,0 +1,27 @@
+{
+  "category": "Taxes",
+  "cards": [
+    { "bg": "данък", "en": "tax", "pronunciation": "da-NUK", "example": "В България данък общ доход е десет процента.", "type": "noun" },
+    { "bg": "данъци", "en": "taxes", "pronunciation": "da-NU-tsi", "example": "Плащам данъците си навреме всяка година.", "type": "noun" },
+    { "bg": "данъчна декларация", "en": "tax return/declaration", "pronunciation": "da-NUCH-na dek-la-RA-tsi-ya", "example": "Подавам данъчна декларация до тридесети април.", "type": "noun" },
+    { "bg": "ДДС", "en": "VAT (value-added tax)", "pronunciation": "de-de-ES", "example": "ДДС в България е двадесет процента.", "type": "noun" },
+    { "bg": "данък общ доход", "en": "income tax", "pronunciation": "da-NUK obsht do-HOD", "example": "Данъкът върху общия доход е плосък.", "type": "noun" },
+    { "bg": "доход", "en": "income", "pronunciation": "do-HOD", "example": "Декларирай всичките си доходи.", "type": "noun" },
+    { "bg": "осигуровки", "en": "social security contributions", "pronunciation": "o-si-gu-ROV-ki", "example": "Осигуровките се удържат от заплатата.", "type": "noun" },
+    { "bg": "НАП", "en": "National Revenue Agency", "pronunciation": "nap", "example": "Отидох в офиса на НАП за справка.", "type": "noun" },
+    { "bg": "БУЛСТАТ", "en": "business registration number", "pronunciation": "BUL-stat", "example": "Фирмата е регистрирана с номер по БУЛСТАТ.", "type": "noun" },
+    { "bg": "данъкоплатец", "en": "taxpayer", "pronunciation": "da-nu-ko-pla-TETS", "example": "Всеки данъкоплатец има права и задължения.", "type": "noun" },
+    { "bg": "облагам", "en": "to tax/levy", "pronunciation": "ob-la-GAM", "example": "Доходите от наем също се облагат.", "type": "verb" },
+    { "bg": "данъчна ставка", "en": "tax rate", "pronunciation": "da-NUCH-na STAV-ka", "example": "Данъчната ставка за фирми е десет процента.", "type": "noun" },
+    { "bg": "данъчно облекчение", "en": "tax relief/deduction", "pronunciation": "da-NUCH-no ob-lek-CHE-ni-e", "example": "Имаш право на данъчно облекчение за деца.", "type": "noun" },
+    { "bg": "счетоводител", "en": "accountant", "pronunciation": "sche-to-vo-DI-tel", "example": "Счетоводителят ми подготвя декларацията.", "type": "noun" },
+    { "bg": "разписка", "en": "receipt", "pronunciation": "raz-PIS-ka", "example": "Пазя всички разписки за данъчни цели.", "type": "noun" },
+    { "bg": "касов бон", "en": "cash register receipt", "pronunciation": "KA-sov bon", "example": "Магазинът е длъжен да издава касов бон.", "type": "noun" },
+    { "bg": "глоба", "en": "fine/penalty", "pronunciation": "GLO-ba", "example": "Ако не подадеш декларация навреме, ще платиш глоба.", "type": "noun" },
+    { "bg": "възстановявам", "en": "to refund/reimburse", "pronunciation": "vuz-sta-no-VYA-vam", "example": "НАП ще ти възстанови надвнесения данък.", "type": "verb" },
+    { "bg": "надвнесен данък", "en": "overpaid tax", "pronunciation": "nad-VNE-sen da-NUK", "example": "Имам надвнесен данък от миналата година.", "type": "noun" },
+    { "bg": "патентен данък", "en": "patent tax (flat trade tax)", "pronunciation": "pa-TEN-ten da-NUK", "example": "Малките занаятчии плащат патентен данък.", "type": "noun" },
+    { "bg": "имуществен данък", "en": "property tax", "pronunciation": "i-mu-SHTES-tven da-NUK", "example": "Имущественият данък се плаща в общината.", "type": "noun" },
+    { "bg": "срок за подаване", "en": "filing deadline", "pronunciation": "srok za po-DA-va-ne", "example": "Срокът за подаване на декларацията е до края на април.", "type": "noun" }
+  ]
+}
