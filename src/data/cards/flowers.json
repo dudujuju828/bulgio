@@ -1,0 +1,28 @@
+{
+  "category": "Flowers",
+  "cards": [
+    { "bg": "цвете", "en": "flower", "pronunciation": "tsve-TE", "example": "Купих букет цветя за рождения ден.", "type": "noun" },
+    { "bg": "роза", "en": "rose", "pronunciation": "RO-za", "example": "Червените рози са символ на любов.", "type": "noun" },
+    { "bg": "лале", "en": "tulip", "pronunciation": "la-LE", "example": "Лалетата цъфтят напролет.", "type": "noun" },
+    { "bg": "слънчоглед", "en": "sunflower", "pronunciation": "slun-cho-GLED", "example": "Полетата със слънчогледи са красиви.", "type": "noun" },
+    { "bg": "маргаритка", "en": "daisy", "pronunciation": "mar-ga-RIT-ka", "example": "Децата берат маргаритки от поляната.", "type": "noun" },
+    { "bg": "лавандула", "en": "lavender", "pronunciation": "la-VAN-du-la", "example": "Лавандулата мирише прекрасно.", "type": "noun" },
+    { "bg": "карамфил", "en": "carnation", "pronunciation": "ka-ram-FIL", "example": "Карамфилите са популярни за Първи март.", "type": "noun" },
+    { "bg": "кокиче", "en": "snowdrop", "pronunciation": "ko-KI-che", "example": "Кокичетата са първите пролетни цветя.", "type": "noun" },
+    { "bg": "минзухар", "en": "crocus", "pronunciation": "min-zu-HAR", "example": "Минзухарите цъфтят в планината.", "type": "noun" },
+    { "bg": "люляк", "en": "lilac", "pronunciation": "LYUL-yak", "example": "Люлякът цъфти през май и мирише чудесно.", "type": "noun" },
+    { "bg": "иглика", "en": "primrose", "pronunciation": "ig-LI-ka", "example": "Игликите растат в горите напролет.", "type": "noun" },
+    { "bg": "букет", "en": "bouquet", "pronunciation": "bu-KET", "example": "Подари ѝ красив букет рози.", "type": "noun" },
+    { "bg": "цъфтя", "en": "to bloom/blossom", "pronunciation": "tsuf-TYA", "example": "Градината цъфти през пролетта.", "type": "verb" },
+    { "bg": "ухая", "en": "to smell nice/be fragrant", "pronunciation": "u-HA-ya", "example": "Розите ухаят в целия двор.", "type": "verb" },
+    { "bg": "бера", "en": "to pick/gather", "pronunciation": "be-RA", "example": "Берем цветя от градината.", "type": "verb" },
+    { "bg": "полявам", "en": "to water", "pronunciation": "po-LYA-vam", "example": "Полявам цветята всяка сутрин.", "type": "verb" },
+    { "bg": "стъбло", "en": "stem", "pronunciation": "stub-LO", "example": "Розата има дълго стъбло с тръни.", "type": "noun" },
+    { "bg": "листо", "en": "leaf/petal", "pronunciation": "lis-TO", "example": "Листата на цветето са яркозелени.", "type": "noun" },
+    { "bg": "венчелистче", "en": "petal", "pronunciation": "ven-che-LIST-che", "example": "Венчелистчетата паднаха на земята.", "type": "noun" },
+    { "bg": "трън", "en": "thorn", "pronunciation": "trun", "example": "Внимавай с тръните на розата.", "type": "noun" },
+    { "bg": "саксия", "en": "flower pot", "pronunciation": "SAK-si-ya", "example": "Засадих цвете в нова саксия.", "type": "noun" },
+    { "bg": "розово масло", "en": "rose oil", "pronunciation": "RO-zo-vo MAS-lo", "example": "Българското розово масло е известно по целия свят.", "type": "noun" },
+    { "bg": "Долината на розите", "en": "Rose Valley", "pronunciation": "do-LI-na-ta na RO-zi-te", "example": "Долината на розите е край Казанлък.", "type": "noun" }
+  ]
+}
