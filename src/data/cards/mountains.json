@@ -1,0 +1,27 @@
+{
+  "category": "Mountains",
+  "cards": [
+    { "bg": "планина", "en": "mountain", "pronunciation": "pla-ni-NA", "example": "Рила е най-високата планина в България.", "type": "noun" },
+    { "bg": "връх", "en": "peak/summit", "pronunciation": "vruh", "example": "Мусала е най-високият връх на Балканите.", "type": "noun" },
+    { "bg": "хижа", "en": "mountain hut/lodge", "pronunciation": "HI-zha", "example": "Отседнахме в хижата за една нощ.", "type": "noun" },
+    { "bg": "пътека", "en": "trail/path", "pronunciation": "pu-TE-ka", "example": "Пътеката до върха е маркирана в червено.", "type": "noun" },
+    { "bg": "маркировка", "en": "trail marker", "pronunciation": "mar-ki-ROV-ka", "example": "Следвай жълтата маркировка.", "type": "noun" },
+    { "bg": "долина", "en": "valley", "pronunciation": "do-LI-na", "example": "Долината е зелена и живописна.", "type": "noun" },
+    { "bg": "проход", "en": "mountain pass", "pronunciation": "pro-HOD", "example": "Шипченският проход е исторически важен.", "type": "noun" },
+    { "bg": "скала", "en": "rock/cliff", "pronunciation": "ska-LA", "example": "Скалите са стръмни и опасни.", "type": "noun" },
+    { "bg": "пещера", "en": "cave", "pronunciation": "pe-SHTE-ra", "example": "Пещерата Леденика е красива.", "type": "noun" },
+    { "bg": "водопад", "en": "waterfall", "pronunciation": "vo-do-PAD", "example": "Водопадът е висок тридесет метра.", "type": "noun" },
+    { "bg": "поляна", "en": "meadow/clearing", "pronunciation": "po-LYA-na", "example": "Спряхме да почиваме на поляната.", "type": "noun" },
+    { "bg": "седловина", "en": "saddle/col", "pronunciation": "sed-lo-VI-na", "example": "Седловината свързва двата върха.", "type": "noun" },
+    { "bg": "Рила", "en": "Rila (mountain)", "pronunciation": "RI-la", "example": "Рила е известна със Седемте рилски езера.", "type": "noun" },
+    { "bg": "Пирин", "en": "Pirin (mountain)", "pronunciation": "pi-RIN", "example": "Пирин е под защитата на ЮНЕСКО.", "type": "noun" },
+    { "bg": "Стара планина", "en": "Stara Planina (Balkan Mountains)", "pronunciation": "STA-ra pla-ni-NA", "example": "Стара планина минава през цяла България.", "type": "noun" },
+    { "bg": "Родопи", "en": "Rhodope Mountains", "pronunciation": "ro-DO-pi", "example": "Родопите са известни с красивата природа.", "type": "noun" },
+    { "bg": "Витоша", "en": "Vitosha (mountain)", "pronunciation": "vi-TO-sha", "example": "Витоша е планината над София.", "type": "noun" },
+    { "bg": "катеря се", "en": "to climb", "pronunciation": "KA-te-rya se", "example": "Катерихме се до върха за три часа.", "type": "verb" },
+    { "bg": "спускам се", "en": "to descend", "pronunciation": "SPUS-kam se", "example": "Спускането отне два часа.", "type": "verb" },
+    { "bg": "височина", "en": "altitude/elevation", "pronunciation": "vi-so-chi-NA", "example": "На височина над две хиляди метра е студено.", "type": "noun" },
+    { "bg": "ледник", "en": "glacier", "pronunciation": "LED-nik", "example": "Ледниковите езера в Рила са красиви.", "type": "noun" },
+    { "bg": "планинар", "en": "mountaineer/hiker", "pronunciation": "pla-ni-NAR", "example": "Планинарите тръгват рано сутрин.", "type": "noun" }
+  ]
+}
