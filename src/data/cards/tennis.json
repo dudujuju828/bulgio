@@ -1,0 +1,29 @@
+{
+  "category": "Tennis",
+  "cards": [
+    { "bg": "тенис", "en": "tennis", "pronunciation": "TE-nis", "example": "Тенисът е популярен спорт в България.", "type": "noun" },
+    { "bg": "тенис корт", "en": "tennis court", "pronunciation": "TE-nis kort", "example": "Резервирахме корт за един час.", "type": "noun" },
+    { "bg": "ракета", "en": "racket", "pronunciation": "ra-KE-ta", "example": "Купих нова ракета за тенис.", "type": "noun" },
+    { "bg": "топка", "en": "ball", "pronunciation": "TOP-ka", "example": "Топката удари мрежата.", "type": "noun" },
+    { "bg": "мрежа", "en": "net", "pronunciation": "mre-ZHA", "example": "Топката мина точно над мрежата.", "type": "noun" },
+    { "bg": "сервис", "en": "serve", "pronunciation": "SER-vis", "example": "Сервисът му е много силен.", "type": "noun" },
+    { "bg": "сервирам", "en": "to serve", "pronunciation": "ser-VI-ram", "example": "Ти сервираш първи.", "type": "verb" },
+    { "bg": "ас", "en": "ace", "pronunciation": "as", "example": "Вкара три аса в този гейм.", "type": "noun" },
+    { "bg": "гейм", "en": "game", "pronunciation": "geym", "example": "Спечели геймът на сервис.", "type": "noun" },
+    { "bg": "сет", "en": "set", "pronunciation": "set", "example": "Мачът е от три сета.", "type": "noun" },
+    { "bg": "точка", "en": "point", "pronunciation": "TOCH-ka", "example": "Мачбол — последна точка за победа!", "type": "noun" },
+    { "bg": "отигравам", "en": "to return/hit back", "pronunciation": "o-tig-RA-vam", "example": "Отигра топката с бекхенд.", "type": "verb" },
+    { "bg": "форхенд", "en": "forehand", "pronunciation": "for-HEND", "example": "Форхендът му е смъртоносен.", "type": "noun" },
+    { "bg": "бекхенд", "en": "backhand", "pronunciation": "bek-HEND", "example": "Направи красив бекхенд по линията.", "type": "noun" },
+    { "bg": "воле", "en": "volley", "pronunciation": "vo-LE", "example": "Излезе на мрежата и затвори точката с воле.", "type": "noun" },
+    { "bg": "аут", "en": "out", "pronunciation": "aut", "example": "Топката падна в аут.", "type": "noun" },
+    { "bg": "двойна грешка", "en": "double fault", "pronunciation": "DVOY-na GRESH-ka", "example": "Направи двойна грешка в решаващия момент.", "type": "noun" },
+    { "bg": "равен", "en": "deuce", "pronunciation": "RA-ven", "example": "Четиридесет — четиридесет, равен!", "type": "noun" },
+    { "bg": "предимство", "en": "advantage", "pronunciation": "pre-DIM-stvo", "example": "Предимство за подаващия.", "type": "noun" },
+    { "bg": "турнир", "en": "tournament", "pronunciation": "tur-NIR", "example": "Григор Димитров спечели турнира.", "type": "noun" },
+    { "bg": "глинен корт", "en": "clay court", "pronunciation": "GLI-nen kort", "example": "На глинен корт играта е по-бавна.", "type": "noun" },
+    { "bg": "класиране", "en": "ranking", "pronunciation": "kla-si-RA-ne", "example": "Той е в първата десетка в световното класиране.", "type": "noun" },
+    { "bg": "полуфинал", "en": "semifinal", "pronunciation": "po-lu-fi-NAL", "example": "Достигна полуфинал на Откритото първенство.", "type": "noun" },
+    { "bg": "трофей", "en": "trophy", "pronunciation": "tro-FEY", "example": "Вдигна трофея пред хилядите зрители.", "type": "noun" }
+  ]
+}
