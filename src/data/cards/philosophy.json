@@ -1,0 +1,28 @@
+{
+  "category": "Philosophy & Critical Thinking",
+  "cards": [
+    { "bg": "философия", "en": "philosophy", "pronunciation": "fi-lo-SO-fi-ya", "example": "Философията търси смисъла на живота.", "type": "noun" },
+    { "bg": "философ", "en": "philosopher", "pronunciation": "fi-LO-sof", "example": "Сократ е един от най-великите философи.", "type": "noun" },
+    { "bg": "мислене", "en": "thinking", "pronunciation": "MIS-le-ne", "example": "Критичното мислене е важно умение.", "type": "noun" },
+    { "bg": "логика", "en": "logic", "pronunciation": "LO-gi-ka", "example": "Логиката помага да разсъждаваме правилно.", "type": "noun" },
+    { "bg": "етика", "en": "ethics", "pronunciation": "E-ti-ka", "example": "Етиката изучава доброто и злото.", "type": "noun" },
+    { "bg": "морал", "en": "morality/morals", "pronunciation": "mo-RAL", "example": "Моралът на обществото се променя с времето.", "type": "noun" },
+    { "bg": "истина", "en": "truth", "pronunciation": "IS-ti-na", "example": "Търсенето на истината е цел на философията.", "type": "noun" },
+    { "bg": "справедливост", "en": "justice/fairness", "pronunciation": "spra-ved-LI-vost", "example": "Справедливостта е основа на доброто общество.", "type": "noun" },
+    { "bg": "свобода", "en": "freedom/liberty", "pronunciation": "svo-BO-da", "example": "Свободата е основно човешко право.", "type": "noun" },
+    { "bg": "съзнание", "en": "consciousness/awareness", "pronunciation": "suz-NA-ni-e", "example": "Съзнанието е голяма загадка за науката.", "type": "noun" },
+    { "bg": "смисъл", "en": "meaning/sense", "pronunciation": "SMI-sul", "example": "Какъв е смисълът на живота?", "type": "noun" },
+    { "bg": "добродетел", "en": "virtue", "pronunciation": "dob-ro-DE-tel", "example": "Храбростта е важна добродетел.", "type": "noun" },
+    { "bg": "мъдрост", "en": "wisdom", "pronunciation": "MUD-rost", "example": "Мъдростта идва с годините и опита.", "type": "noun" },
+    { "bg": "разум", "en": "reason/intellect", "pronunciation": "ra-ZUM", "example": "Разумът отличава човека от животните.", "type": "noun" },
+    { "bg": "съмнение", "en": "doubt", "pronunciation": "sum-NE-ni-e", "example": "Съмнението е началото на познанието.", "type": "noun" },
+    { "bg": "хипотеза", "en": "hypothesis", "pronunciation": "hi-PO-te-za", "example": "Хипотезата трябва да бъде проверена.", "type": "noun" },
+    { "bg": "аргумент", "en": "argument", "pronunciation": "ar-gu-MENT", "example": "Аргументът му беше убедителен.", "type": "noun" },
+    { "bg": "противоречие", "en": "contradiction", "pronunciation": "pro-ti-vo-RE-chi-e", "example": "В текста има логическо противоречие.", "type": "noun" },
+    { "bg": "идеал", "en": "ideal", "pronunciation": "i-de-AL", "example": "Идеалът за щастие е различен за всеки.", "type": "noun" },
+    { "bg": "същност", "en": "essence/nature", "pronunciation": "SUSHT-nost", "example": "Каква е същността на времето?", "type": "noun" },
+    { "bg": "възприятие", "en": "perception", "pronunciation": "vuz-pri-YA-ti-e", "example": "Възприятието ни за света е субективно.", "type": "noun" },
+    { "bg": "воля", "en": "will/willpower", "pronunciation": "VO-lya", "example": "Свободната воля е централен въпрос във философията.", "type": "noun" },
+    { "bg": "размишлявам", "en": "to reflect/contemplate", "pronunciation": "raz-mish-LYA-vam", "example": "Размишлявам върху смисъла на решението.", "type": "verb" }
+  ]
+}
