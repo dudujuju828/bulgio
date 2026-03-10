@@ -1,0 +1,27 @@
+{
+  "category": "Circus & Performance",
+  "cards": [
+    { "bg": "цирк", "en": "circus", "pronunciation": "tsirk", "example": "Децата обичат да ходят на цирк.", "type": "noun" },
+    { "bg": "клоун", "en": "clown", "pronunciation": "klo-UN", "example": "Клоунът разсмя цялата публика.", "type": "noun" },
+    { "bg": "акробат", "en": "acrobat", "pronunciation": "ak-ro-BAT", "example": "Акробатът направи тройно салто.", "type": "noun" },
+    { "bg": "жонглирам", "en": "to juggle", "pronunciation": "zhon-gli-RAM", "example": "Жонглира с пет топки едновременно.", "type": "verb" },
+    { "bg": "въже", "en": "rope/tightrope", "pronunciation": "vu-ZHE", "example": "Ходи по въжето на десет метра височина.", "type": "noun" },
+    { "bg": "трапец", "en": "trapeze", "pronunciation": "tra-PETS", "example": "Артистката лети от трапец на трапец.", "type": "noun" },
+    { "bg": "магьосник", "en": "magician", "pronunciation": "ma-GYOS-nik", "example": "Магьосникът извади заек от шапката.", "type": "noun" },
+    { "bg": "фокус", "en": "magic trick", "pronunciation": "FO-kus", "example": "Покажи ни още един фокус!", "type": "noun" },
+    { "bg": "шапито", "en": "big top/circus tent", "pronunciation": "sha-pi-TO", "example": "Шапитото побира хиляда зрители.", "type": "noun" },
+    { "bg": "арена", "en": "arena/ring", "pronunciation": "a-RE-na", "example": "На арената излязоха дресирани коне.", "type": "noun" },
+    { "bg": "представление", "en": "show/performance", "pronunciation": "pred-stav-LE-ni-e", "example": "Представлението започва в седем часа.", "type": "noun" },
+    { "bg": "дресьор", "en": "animal trainer", "pronunciation": "dre-SYOR", "example": "Дресьорът работи с лъвове от двадесет години.", "type": "noun" },
+    { "bg": "антракт", "en": "intermission", "pronunciation": "an-TRAKT", "example": "По време на антракта купихме пуканки.", "type": "noun" },
+    { "bg": "салто", "en": "somersault/flip", "pronunciation": "SAL-to", "example": "Акробатката направи салто във въздуха.", "type": "noun" },
+    { "bg": "кукла", "en": "puppet", "pronunciation": "KUK-la", "example": "Куклите в театъра са ръчно изработени.", "type": "noun" },
+    { "bg": "кукловод", "en": "puppeteer", "pronunciation": "kuk-lo-VOD", "example": "Кукловодът движи куклите с конци.", "type": "noun" },
+    { "bg": "ходулки", "en": "stilts", "pronunciation": "ho-DUL-ki", "example": "Артистът ходи на ходулки из площада.", "type": "noun" },
+    { "bg": "маска", "en": "mask", "pronunciation": "MAS-ka", "example": "Клоунът носи цветна маска.", "type": "noun" },
+    { "bg": "костюм", "en": "costume", "pronunciation": "kos-TYUM", "example": "Костюмите на артистите блестят.", "type": "noun" },
+    { "bg": "аплодирам", "en": "to applaud", "pronunciation": "ap-lo-DI-ram", "example": "Публиката аплодира на крака.", "type": "verb" },
+    { "bg": "зрител", "en": "spectator/viewer", "pronunciation": "ZRI-tel", "example": "Зрителите бяха възхитени от шоуто.", "type": "noun" },
+    { "bg": "огнегълтач", "en": "fire eater", "pronunciation": "og-ne-GUL-tach", "example": "Огнегълтачът е най-впечатляващият артист.", "type": "noun" }
+  ]
+}
