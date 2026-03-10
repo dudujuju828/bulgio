@@ -1,0 +1,26 @@
+{
+  "category": "Nature",
+  "cards": [
+    { "bg": "природа", "en": "nature", "pronunciation": "pri-RO-da", "example": "Обичам да съм сред природата.", "type": "noun" },
+    { "bg": "дърво", "en": "tree", "pronunciation": "dur-VO", "example": "Дървото в двора е много старо.", "type": "noun" },
+    { "bg": "цвете", "en": "flower", "pronunciation": "tsve-TE", "example": "Цветята в градината миришат прекрасно.", "type": "noun" },
+    { "bg": "трева", "en": "grass", "pronunciation": "tre-VA", "example": "Тревата е мокра от росата.", "type": "noun" },
+    { "bg": "река", "en": "river", "pronunciation": "re-KA", "example": "Реката тече през долината.", "type": "noun" },
+    { "bg": "море", "en": "sea", "pronunciation": "MO-re", "example": "През лятото ходим на море.", "type": "noun" },
+    { "bg": "езеро", "en": "lake", "pronunciation": "E-ze-ro", "example": "Езерото е спокойно и чисто.", "type": "noun" },
+    { "bg": "планина", "en": "mountain", "pronunciation": "pla-ni-NA", "example": "Планината е покрита със сняг.", "type": "noun" },
+    { "bg": "гора", "en": "forest", "pronunciation": "go-RA", "example": "В гората има много животни.", "type": "noun" },
+    { "bg": "небе", "en": "sky", "pronunciation": "ne-BE", "example": "Небето е ясно и синьо.", "type": "noun" },
+    { "bg": "звезда", "en": "star", "pronunciation": "zvez-DA", "example": "Звездите светят ярко нощем.", "type": "noun" },
+    { "bg": "луна", "en": "moon", "pronunciation": "lu-NA", "example": "Луната е пълна тази вечер.", "type": "noun" },
+    { "bg": "камък", "en": "stone/rock", "pronunciation": "KA-muk", "example": "Камъкът е гладък от водата.", "type": "noun" },
+    { "bg": "пясък", "en": "sand", "pronunciation": "PYA-suk", "example": "Пясъкът на плажа е фин и топъл.", "type": "noun" },
+    { "bg": "водопад", "en": "waterfall", "pronunciation": "vo-do-PAD", "example": "Водопадът е висок двадесет метра.", "type": "noun" },
+    { "bg": "поле", "en": "field", "pronunciation": "PO-le", "example": "Полето е засято с пшеница.", "type": "noun" },
+    { "bg": "хълм", "en": "hill", "pronunciation": "hulm", "example": "Къщата е на върха на хълма.", "type": "noun" },
+    { "bg": "остров", "en": "island", "pronunciation": "OS-trov", "example": "Островът е малък и красив.", "type": "noun" },
+    { "bg": "пещера", "en": "cave", "pronunciation": "pe-SHTE-ra", "example": "Пещерата е дълбока и тъмна.", "type": "noun" },
+    { "bg": "залез", "en": "sunset", "pronunciation": "za-LEZ", "example": "Залезът над морето е невероятен.", "type": "noun" },
+    { "bg": "изгрев", "en": "sunrise", "pronunciation": "IZ-grev", "example": "Изгревът в планината е красив.", "type": "noun" }
+  ]
+}
