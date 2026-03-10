@@ -1,0 +1,28 @@
+{
+  "category": "Baking & Pastry",
+  "cards": [
+    { "bg": "сладкарство", "en": "pastry making/baking", "pronunciation": "slad-KAR-stvo", "example": "Сладкарството изисква прецизност.", "type": "noun" },
+    { "bg": "сладкар", "en": "pastry chef/baker", "pronunciation": "slad-KAR", "example": "Сладкарят направи тортата по поръчка.", "type": "noun" },
+    { "bg": "сладкарница", "en": "pastry shop/patisserie", "pronunciation": "slad-KAR-ni-tsa", "example": "Сладкарницата на ъгъла има страхотни еклери.", "type": "noun" },
+    { "bg": "тесто", "en": "dough/batter", "pronunciation": "TES-to", "example": "Омесих тестото за баница.", "type": "noun" },
+    { "bg": "брашно", "en": "flour", "pronunciation": "BRASH-no", "example": "Купи килограм бяло брашно.", "type": "noun" },
+    { "bg": "мая", "en": "yeast", "pronunciation": "ma-YA", "example": "Маята кара тестото да набъбне.", "type": "noun" },
+    { "bg": "захар", "en": "sugar", "pronunciation": "ZA-har", "example": "Сложи три лъжици захар в сместа.", "type": "noun" },
+    { "bg": "масло", "en": "butter", "pronunciation": "MAS-lo", "example": "Маслото трябва да е на стайна температура.", "type": "noun" },
+    { "bg": "яйце", "en": "egg", "pronunciation": "yay-TSE", "example": "Разбий три яйца в купата.", "type": "noun" },
+    { "bg": "крем", "en": "cream/custard", "pronunciation": "krem", "example": "Кремът за тортата е ванилов.", "type": "noun" },
+    { "bg": "глазура", "en": "icing/frosting", "pronunciation": "gla-ZU-ra", "example": "Глазурата е от шоколад.", "type": "noun" },
+    { "bg": "торта", "en": "cake/torte", "pronunciation": "TOR-ta", "example": "Тортата за рождения ден е с ягоди.", "type": "noun" },
+    { "bg": "кекс", "en": "loaf cake/pound cake", "pronunciation": "keks", "example": "Мама прави кекс с орехи и стафиди.", "type": "noun" },
+    { "bg": "козунак", "en": "kozunak (Easter bread)", "pronunciation": "ko-zu-NAK", "example": "За Великден правим козунак с локум.", "type": "noun" },
+    { "bg": "баница", "en": "banitsa (filo pastry pie)", "pronunciation": "BA-ni-tsa", "example": "Баницата е със сирене и яйца.", "type": "noun" },
+    { "bg": "кроасан", "en": "croissant", "pronunciation": "kro-a-SAN", "example": "Закусвам кроасан с кафе.", "type": "noun" },
+    { "bg": "еклер", "en": "éclair", "pronunciation": "ek-LER", "example": "Еклерът с шоколад е любимият ми.", "type": "noun" },
+    { "bg": "бисквити", "en": "cookies/biscuits", "pronunciation": "bis-KVI-ti", "example": "Изпекохме бисквити с канела за Коледа.", "type": "noun" },
+    { "bg": "пека", "en": "to bake", "pronunciation": "pe-KA", "example": "Пека хляб вкъщи всяка седмица.", "type": "verb" },
+    { "bg": "замесвам", "en": "to knead", "pronunciation": "za-MES-vam", "example": "Замесвай тестото десет минути.", "type": "verb" },
+    { "bg": "втасвам", "en": "to rise (dough)", "pronunciation": "VTAS-vam", "example": "Остави тестото да втаса на топло.", "type": "verb" },
+    { "bg": "форма за печене", "en": "baking pan/mold", "pronunciation": "FOR-ma za PE-che-ne", "example": "Намажи формата за печене с масло.", "type": "noun" },
+    { "bg": "пудра захар", "en": "powdered sugar", "pronunciation": "PUD-ra ZA-har", "example": "Поръси кекса с пудра захар.", "type": "noun" }
+  ]
+}
