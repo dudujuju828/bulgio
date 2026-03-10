@@ -1,0 +1,27 @@
+{
+  "category": "Seasons",
+  "cards": [
+    { "bg": "сезон", "en": "season", "pronunciation": "se-ZON", "example": "Кой е любимият ти сезон?", "type": "noun" },
+    { "bg": "пролет", "en": "spring", "pronunciation": "pro-LET", "example": "Напролет всичко разцъфтява.", "type": "noun" },
+    { "bg": "лято", "en": "summer", "pronunciation": "LYA-to", "example": "През лятото ходим на море.", "type": "noun" },
+    { "bg": "есен", "en": "autumn/fall", "pronunciation": "E-sen", "example": "Есента листата стават жълти и червени.", "type": "noun" },
+    { "bg": "зима", "en": "winter", "pronunciation": "zi-MA", "example": "Зимата в планината е много красива.", "type": "noun" },
+    { "bg": "разцъфтявам", "en": "to bloom/blossom", "pronunciation": "ras-tsuf-TYA-vam", "example": "Черешите разцъфтяват през април.", "type": "verb" },
+    { "bg": "топя се", "en": "to melt", "pronunciation": "TO-pya se", "example": "Снегът започва да се топи през март.", "type": "verb" },
+    { "bg": "горещина", "en": "heat/hot weather", "pronunciation": "go-resh-ti-NA", "example": "През август горещината стига до четиридесет градуса.", "type": "noun" },
+    { "bg": "жега", "en": "scorching heat", "pronunciation": "ZHE-ga", "example": "В жегата всички търсят сянка.", "type": "noun" },
+    { "bg": "хлад", "en": "cool/chill", "pronunciation": "hlad", "example": "Есенният хлад идва след септември.", "type": "noun" },
+    { "bg": "студ", "en": "cold", "pronunciation": "stud", "example": "Студът през януари е непоносим.", "type": "noun" },
+    { "bg": "листопад", "en": "leaf fall", "pronunciation": "lis-to-PAD", "example": "Листопадът оцветява парковете в златно.", "type": "noun" },
+    { "bg": "снеговалеж", "en": "snowfall", "pronunciation": "sne-go-va-LEZH", "example": "Първият снеговалеж е обикновено през ноември.", "type": "noun" },
+    { "bg": "пролетно равноденствие", "en": "spring equinox", "pronunciation": "pro-LET-no rav-no-DEN-stvi-e", "example": "Пролетното равноденствие е около двадесет и първи март.", "type": "noun" },
+    { "bg": "лятно слънцестоене", "en": "summer solstice", "pronunciation": "LYAT-no slun-tse-sto-E-ne", "example": "На Еньовден празнуваме лятното слънцестоене.", "type": "noun" },
+    { "bg": "берачка", "en": "harvest season/picking time", "pronunciation": "be-RACH-ka", "example": "Берачката на грозде е през септември.", "type": "noun" },
+    { "bg": "напролет", "en": "in spring", "pronunciation": "na-pro-LET", "example": "Напролет засаждам цветя в градината.", "type": "adverb" },
+    { "bg": "наесен", "en": "in autumn", "pronunciation": "na-E-sen", "example": "Наесен събираме орехи.", "type": "adverb" },
+    { "bg": "презимувам", "en": "to overwinter", "pronunciation": "pre-zi-MU-vam", "example": "Щъркелите не презимуват в България.", "type": "verb" },
+    { "bg": "цъфтя", "en": "to be in bloom", "pronunciation": "tsuf-TYA", "example": "Розите цъфтят от май до юли в Долината на розите.", "type": "verb" },
+    { "bg": "узрявам", "en": "to ripen", "pronunciation": "uz-RYA-vam", "example": "Дините узряват през юли.", "type": "verb" },
+    { "bg": "прохлада", "en": "coolness/fresh air", "pronunciation": "pro-HLA-da", "example": "Вечерната прохлада е приятна след горещ ден.", "type": "noun" }
+  ]
+}
