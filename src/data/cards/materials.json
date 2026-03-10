@@ -1,0 +1,25 @@
+{
+  "category": "Materials",
+  "cards": [
+    { "bg": "дърво", "en": "wood", "pronunciation": "dur-VO", "example": "Масата е от дърво.", "type": "noun" },
+    { "bg": "метал", "en": "metal", "pronunciation": "me-TAL", "example": "Вратата е от метал.", "type": "noun" },
+    { "bg": "стъкло", "en": "glass", "pronunciation": "STUK-lo", "example": "Чашата е от стъкло.", "type": "noun" },
+    { "bg": "пластмаса", "en": "plastic", "pronunciation": "plast-MA-sa", "example": "Бутилката е от пластмаса.", "type": "noun" },
+    { "bg": "кожа", "en": "leather", "pronunciation": "KO-zha", "example": "Чантата е от истинска кожа.", "type": "noun" },
+    { "bg": "памук", "en": "cotton", "pronunciation": "pa-MUK", "example": "Тениската е от чист памук.", "type": "noun" },
+    { "bg": "вълна", "en": "wool", "pronunciation": "VUL-na", "example": "Пуловерът е от мека вълна.", "type": "noun" },
+    { "bg": "коприна", "en": "silk", "pronunciation": "kop-ri-NA", "example": "Роклята е от коприна.", "type": "noun" },
+    { "bg": "камък", "en": "stone", "pronunciation": "KA-muk", "example": "Къщата е построена от камък.", "type": "noun" },
+    { "bg": "тухла", "en": "brick", "pronunciation": "TUH-la", "example": "Стената е от червени тухли.", "type": "noun" },
+    { "bg": "бетон", "en": "concrete", "pronunciation": "be-TON", "example": "Сградата е от бетон.", "type": "noun" },
+    { "bg": "хартия", "en": "paper", "pronunciation": "har-TI-ya", "example": "Дай ми лист хартия, моля.", "type": "noun" },
+    { "bg": "злато", "en": "gold", "pronunciation": "ZLA-to", "example": "Пръстенът е от злато.", "type": "noun" },
+    { "bg": "сребро", "en": "silver", "pronunciation": "sreb-RO", "example": "Обеците са от сребро.", "type": "noun" },
+    { "bg": "гума", "en": "rubber", "pronunciation": "GU-ma", "example": "Подметките са от гума.", "type": "noun" },
+    { "bg": "плат", "en": "fabric/cloth", "pronunciation": "plat", "example": "Купих красив плат за завеси.", "type": "noun" },
+    { "bg": "мрамор", "en": "marble", "pronunciation": "MRA-mor", "example": "Подът е от бял мрамор.", "type": "noun" },
+    { "bg": "керамика", "en": "ceramic", "pronunciation": "ke-RA-mi-ka", "example": "Чинията е от керамика.", "type": "noun" },
+    { "bg": "мек", "en": "soft", "pronunciation": "mek", "example": "Одеялото е много меко.", "type": "adjective" },
+    { "bg": "твърд", "en": "hard", "pronunciation": "tvurd", "example": "Камъкът е много твърд.", "type": "adjective" }
+  ]
+}
