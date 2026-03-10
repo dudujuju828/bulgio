@@ -1,0 +1,27 @@
+{
+  "category": "Coins & Numismatics",
+  "cards": [
+    { "bg": "нумизматика", "en": "numismatics", "pronunciation": "nu-miz-MA-ti-ka", "example": "Нумизматиката изучава монети и тяхната история.", "type": "noun" },
+    { "bg": "монета", "en": "coin", "pronunciation": "mo-NE-ta", "example": "Монетата е от времето на Римската империя.", "type": "noun" },
+    { "bg": "нумизмат", "en": "numismatist/coin collector", "pronunciation": "nu-miz-MAT", "example": "Нумизматът откри рядка монета на пазара.", "type": "noun" },
+    { "bg": "лице", "en": "obverse/heads", "pronunciation": "li-TSE", "example": "Лицето на монетата показва герба на България.", "type": "noun" },
+    { "bg": "гръб", "en": "reverse/tails", "pronunciation": "grub", "example": "Гърбът на монетата е с номиналната стойност.", "type": "noun" },
+    { "bg": "ръб", "en": "edge (of coin)", "pronunciation": "rub", "example": "Ръбът на монетата е назъбен.", "type": "noun" },
+    { "bg": "сечене", "en": "minting", "pronunciation": "se-CHE-ne", "example": "Сеченето на монети е в монетния двор.", "type": "noun" },
+    { "bg": "монетен двор", "en": "mint (facility)", "pronunciation": "mo-NE-ten dvor", "example": "Монетният двор произвежда всички български монети.", "type": "noun" },
+    { "bg": "злато", "en": "gold", "pronunciation": "ZLA-to", "example": "Златните монети са най-ценните.", "type": "noun" },
+    { "bg": "сребро", "en": "silver", "pronunciation": "SREB-ro", "example": "Сребърната монета тежи тридесет грама.", "type": "noun" },
+    { "bg": "мед", "en": "copper", "pronunciation": "med", "example": "Медните монети потъмняват с времето.", "type": "noun" },
+    { "bg": "юбилейна монета", "en": "commemorative coin", "pronunciation": "yu-bi-LEY-na mo-NE-ta", "example": "Юбилейната монета е за стогодишнината на независимостта.", "type": "noun" },
+    { "bg": "тираж", "en": "mintage/print run", "pronunciation": "ti-RAZH", "example": "Тиражът на монетата е само пет хиляди.", "type": "noun" },
+    { "bg": "запазеност", "en": "condition/grade", "pronunciation": "za-pa-ZE-nost", "example": "Запазеността на монетата е отлична.", "type": "noun" },
+    { "bg": "патина", "en": "patina/toning", "pronunciation": "PA-ti-na", "example": "Патината придава характер на старата монета.", "type": "noun" },
+    { "bg": "стотинка", "en": "stotinka (Bulgarian cent)", "pronunciation": "sto-TIN-ka", "example": "Един лев е равен на сто стотинки.", "type": "noun" },
+    { "bg": "лев", "en": "lev (Bulgarian currency)", "pronunciation": "lev", "example": "Левът е официалната валута на България.", "type": "noun" },
+    { "bg": "антична монета", "en": "ancient coin", "pronunciation": "an-TICH-na mo-NE-ta", "example": "Античната монета е намерена при разкопки.", "type": "noun" },
+    { "bg": "каталог", "en": "catalog", "pronunciation": "ka-ta-LOG", "example": "Каталогът описва всяка монета с цена.", "type": "noun" },
+    { "bg": "аукцион", "en": "auction", "pronunciation": "auk-tsi-ON", "example": "Аукционът за редки монети е онлайн.", "type": "noun" },
+    { "bg": "фалшификат", "en": "counterfeit/forgery", "pronunciation": "fal-shi-fi-KAT", "example": "Фалшификатите се разпознават по теглото.", "type": "noun" },
+    { "bg": "витрина", "en": "display case", "pronunciation": "vit-RI-na", "example": "Витрината показва монети от всички епохи.", "type": "noun" }
+  ]
+}
