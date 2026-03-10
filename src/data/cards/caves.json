@@ -1,0 +1,28 @@
+{
+  "category": "Caves",
+  "cards": [
+    { "bg": "пещера", "en": "cave", "pronunciation": "pe-SHTE-ra", "example": "В България има над пет хиляди пещери.", "type": "noun" },
+    { "bg": "пещерняк", "en": "caver/spelunker", "pronunciation": "pe-shter-NYAK", "example": "Пещерняците изследват подземния свят.", "type": "noun" },
+    { "bg": "сталактит", "en": "stalactite", "pronunciation": "sta-lak-TIT", "example": "Сталактитите висят от тавана на пещерата.", "type": "noun" },
+    { "bg": "сталагмит", "en": "stalagmite", "pronunciation": "sta-lag-MIT", "example": "Сталагмитите растат от пода нагоре.", "type": "noun" },
+    { "bg": "сталактон", "en": "stalacton/column", "pronunciation": "sta-lak-TON", "example": "Когато сталактит и сталагмит се съединят, се образува сталактон.", "type": "noun" },
+    { "bg": "подземен", "en": "underground", "pronunciation": "pod-ZE-men", "example": "Подземната река тече през пещерата.", "type": "adjective" },
+    { "bg": "галерия", "en": "gallery/chamber", "pronunciation": "ga-le-RI-ya", "example": "Голямата галерия е висока двадесет метра.", "type": "noun" },
+    { "bg": "зала", "en": "hall/chamber", "pronunciation": "za-LA", "example": "Концертната зала в Леденика има уникална акустика.", "type": "noun" },
+    { "bg": "тъмнина", "en": "darkness", "pronunciation": "tum-ni-NA", "example": "В пещерата е пълна тъмнина без фенер.", "type": "noun" },
+    { "bg": "фенер", "en": "flashlight/torch", "pronunciation": "fe-NER", "example": "Вземи фенер с допълнителни батерии.", "type": "noun" },
+    { "bg": "каска", "en": "helmet", "pronunciation": "KAS-ka", "example": "Носенето на каска е задължително в пещерата.", "type": "noun" },
+    { "bg": "прилеп", "en": "bat", "pronunciation": "pri-LEP", "example": "Прилепите живеят в тъмните части на пещерата.", "type": "noun" },
+    { "bg": "подземна река", "en": "underground river", "pronunciation": "pod-ZEM-na re-KA", "example": "Подземната река излиза на повърхността край Деветашката пещера.", "type": "noun" },
+    { "bg": "скална стена", "en": "rock wall", "pronunciation": "SKAL-na ste-NA", "example": "Скалната стена блести от минерали.", "type": "noun" },
+    { "bg": "влага", "en": "humidity/moisture", "pronunciation": "VLA-ga", "example": "Влагата в пещерата е почти сто процента.", "type": "noun" },
+    { "bg": "температура", "en": "temperature", "pronunciation": "tem-pe-ra-TU-ra", "example": "Температурата вътре е постоянни дванадесет градуса.", "type": "noun" },
+    { "bg": "вход на пещера", "en": "cave entrance", "pronunciation": "vhod na pe-SHTE-ra", "example": "Входът на пещерата е скрит зад водопада.", "type": "noun" },
+    { "bg": "тесен проход", "en": "narrow passage", "pronunciation": "TE-sen pro-HOD", "example": "Трябва да пълзиш през тесния проход.", "type": "noun" },
+    { "bg": "пропаст", "en": "abyss/pit", "pronunciation": "PRO-past", "example": "Пропастта е дълбока петдесет метра.", "type": "noun" },
+    { "bg": "капка", "en": "drop (of water)", "pronunciation": "KAP-ka", "example": "Чуваш как капките падат от тавана.", "type": "noun" },
+    { "bg": "скалнa образувание", "en": "rock formation", "pronunciation": "SKAL-no ob-ra-zu-VA-ni-e", "example": "Скалните образувания приличат на замръзнал водопад.", "type": "noun" },
+    { "bg": "изследвам", "en": "to explore", "pronunciation": "iz-SLED-vam", "example": "Изследвахме пещерата Магурата с водач.", "type": "verb" },
+    { "bg": "екскурзия", "en": "excursion/tour", "pronunciation": "eks-KUR-zi-ya", "example": "Екскурзията до Ягодинската пещера е незабравима.", "type": "noun" }
+  ]
+}
