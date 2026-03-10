@@ -1,0 +1,28 @@
+{
+  "category": "Disability & Accessibility",
+  "cards": [
+    { "bg": "достъпност", "en": "accessibility", "pronunciation": "dos-TUP-nost", "example": "Достъпността на обществените сгради е важна.", "type": "noun" },
+    { "bg": "увреждане", "en": "disability", "pronunciation": "uv-REZH-da-ne", "example": "Хората с увреждания имат право на помощ.", "type": "noun" },
+    { "bg": "инвалидна количка", "en": "wheelchair", "pronunciation": "in-va-LID-na ko-LICH-ka", "example": "Рампата е за хора с инвалидни колички.", "type": "noun" },
+    { "bg": "рампа", "en": "ramp", "pronunciation": "RAM-pa", "example": "Магазинът има рампа до входа.", "type": "noun" },
+    { "bg": "слепота", "en": "blindness", "pronunciation": "sle-po-TA", "example": "Слепотата не е пречка за успех.", "type": "noun" },
+    { "bg": "незрящ", "en": "blind/visually impaired", "pronunciation": "ne-ZRYASHT", "example": "Незрящият мъж ходи с бял бастун.", "type": "adjective" },
+    { "bg": "бастун", "en": "cane/walking stick", "pronunciation": "bas-TUN", "example": "Бастунът помага за ориентиране.", "type": "noun" },
+    { "bg": "водач куче", "en": "guide dog", "pronunciation": "vo-DACH ku-CHE", "example": "Водачът куче е обучено специално.", "type": "noun" },
+    { "bg": "Брайлова азбука", "en": "Braille", "pronunciation": "BRAY-lo-va AZ-bu-ka", "example": "Бутоните в асансьора са с Брайлова азбука.", "type": "noun" },
+    { "bg": "глухота", "en": "deafness", "pronunciation": "glu-ho-TA", "example": "Глухотата може да бъде вродена или придобита.", "type": "noun" },
+    { "bg": "глух", "en": "deaf", "pronunciation": "gluh", "example": "Глухите хора общуват с жестомимика.", "type": "adjective" },
+    { "bg": "жестомимика", "en": "sign language", "pronunciation": "zhes-to-MI-mi-ka", "example": "Жестомимиката е пълноценен език.", "type": "noun" },
+    { "bg": "слухов апарат", "en": "hearing aid", "pronunciation": "SLU-hov a-pa-RAT", "example": "Дядо носи слухов апарат.", "type": "noun" },
+    { "bg": "протеза", "en": "prosthesis", "pronunciation": "pro-TE-za", "example": "Съвременните протези са много напреднали.", "type": "noun" },
+    { "bg": "физиотерапия", "en": "physiotherapy", "pronunciation": "fi-zi-o-te-ra-PI-ya", "example": "Физиотерапията помага за възстановяване.", "type": "noun" },
+    { "bg": "рехабилитация", "en": "rehabilitation", "pronunciation": "re-ha-bi-li-TA-tsi-ya", "example": "Рехабилитацията отне шест месеца.", "type": "noun" },
+    { "bg": "ТЕЛК", "en": "TELK (disability assessment)", "pronunciation": "telk", "example": "ТЕЛК определя процента на увреждане.", "type": "noun" },
+    { "bg": "инвалидност", "en": "disability (status)", "pronunciation": "in-va-LID-nost", "example": "Има право на пенсия по инвалидност.", "type": "noun" },
+    { "bg": "приобщаване", "en": "inclusion", "pronunciation": "pri-ob-SHTA-va-ne", "example": "Приобщаването в училище е важно за всички деца.", "type": "noun" },
+    { "bg": "дислексия", "en": "dyslexia", "pronunciation": "dis-LEK-si-ya", "example": "Дислексията затруднява четенето.", "type": "noun" },
+    { "bg": "аутизъм", "en": "autism", "pronunciation": "au-TI-zum", "example": "Децата с аутизъм имат нужда от специална подкрепа.", "type": "noun" },
+    { "bg": "помощно средство", "en": "assistive device", "pronunciation": "po-MOSHT-no SRED-stvo", "example": "Помощните средства улесняват ежедневието.", "type": "noun" },
+    { "bg": "паркомясто за инвалиди", "en": "disabled parking spot", "pronunciation": "par-ko-MYAS-to za in-va-LI-di", "example": "Паркомястото за инвалиди е до входа.", "type": "noun" }
+  ]
+}
