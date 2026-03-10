@@ -1,0 +1,27 @@
+{
+  "category": "Extreme Sports",
+  "cards": [
+    { "bg": "екстремен спорт", "en": "extreme sport", "pronunciation": "eks-TRE-men sport", "example": "Екстремните спортове не са за всеки.", "type": "noun" },
+    { "bg": "парашутизъм", "en": "skydiving", "pronunciation": "pa-ra-shu-TI-zum", "example": "Първият ми скок с парашут беше незабравим.", "type": "noun" },
+    { "bg": "парапланеризъм", "en": "paragliding", "pronunciation": "pa-ra-pla-ne-RI-zum", "example": "Параплнеризмът над Сопот е невероятно преживяване.", "type": "noun" },
+    { "bg": "бънджи скок", "en": "bungee jumping", "pronunciation": "BUN-dzhi skok", "example": "Направих бънджи скок от Клисурския мост.", "type": "noun" },
+    { "bg": "катерене", "en": "rock climbing", "pronunciation": "ka-TE-re-ne", "example": "Катеренето по скали изисква сила и техника.", "type": "noun" },
+    { "bg": "алпинизъм", "en": "mountaineering/alpinism", "pronunciation": "al-pi-NI-zum", "example": "Алпинизмът е популярен в Рила и Пирин.", "type": "noun" },
+    { "bg": "рафтинг", "en": "rafting", "pronunciation": "RAF-ting", "example": "Рафтингът по река Струма е вълнуващ.", "type": "noun" },
+    { "bg": "каякинг", "en": "kayaking", "pronunciation": "ka-YA-king", "example": "Правим каякинг по Искър всяко лято.", "type": "noun" },
+    { "bg": "сърф", "en": "surfing", "pronunciation": "surf", "example": "Уиндсърфът в Ахтопол е страхотен.", "type": "noun" },
+    { "bg": "скейтборд", "en": "skateboarding", "pronunciation": "SKEYT-bord", "example": "Скейтпаркът в Южния парк е нов.", "type": "noun" },
+    { "bg": "планинско колоездене", "en": "mountain biking", "pronunciation": "pla-NIN-sko ko-lo-EZ-de-ne", "example": "Планинското колоездене във Витоша е забавно.", "type": "noun" },
+    { "bg": "адреналин", "en": "adrenaline", "pronunciation": "ad-re-na-LIN", "example": "Адреналинът след скока е невероятен.", "type": "noun" },
+    { "bg": "въже", "en": "rope", "pronunciation": "vu-ZHE", "example": "Проверявай въжето преди катерене.", "type": "noun" },
+    { "bg": "каска", "en": "helmet", "pronunciation": "KAS-ka", "example": "Каската е задължителна за безопасност.", "type": "noun" },
+    { "bg": "предпазен колан", "en": "harness/safety belt", "pronunciation": "pred-PA-zen ko-LAN", "example": "Закопчай предпазния колан здраво.", "type": "noun" },
+    { "bg": "височина", "en": "height/altitude", "pronunciation": "vi-so-chi-NA", "example": "Скачам от височина триста метра.", "type": "noun" },
+    { "bg": "страх от височини", "en": "fear of heights", "pronunciation": "strah ot vi-so-chi-NI", "example": "Имам страх от височини, но опитах.", "type": "noun" },
+    { "bg": "инструктор", "en": "instructor", "pronunciation": "in-struk-TOR", "example": "Инструкторът обясни правилата за безопасност.", "type": "noun" },
+    { "bg": "спускане", "en": "descent/rappelling", "pronunciation": "SPUS-ka-ne", "example": "Спускането по каньона беше най-хубавата част.", "type": "noun" },
+    { "bg": "зиплайн", "en": "zipline", "pronunciation": "ZIP-layn", "example": "Зиплайнът над язовира е дълъг триста метра.", "type": "noun" },
+    { "bg": "пещерняк", "en": "caver/spelunker", "pronunciation": "pe-shter-NYAK", "example": "Пещерняците изследваха нова галерия.", "type": "noun" },
+    { "bg": "безстрашен", "en": "fearless/daring", "pronunciation": "bez-STRA-shen", "example": "Трябва да си безстрашен за този спорт.", "type": "adjective" }
+  ]
+}
