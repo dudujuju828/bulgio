@@ -1,0 +1,28 @@
+{
+  "category": "Space Exploration & Cosmonautics",
+  "cards": [
+    { "bg": "космос", "en": "space/cosmos", "pronunciation": "KOS-mos", "example": "Космосът е безкраен и пълен с тайни.", "type": "noun" },
+    { "bg": "космонавт", "en": "astronaut/cosmonaut", "pronunciation": "kos-mo-NAVT", "example": "Георги Иванов е първият български космонавт.", "type": "noun" },
+    { "bg": "ракета", "en": "rocket", "pronunciation": "ra-KE-ta", "example": "Ракетата излетя от космодрума.", "type": "noun" },
+    { "bg": "космически кораб", "en": "spacecraft/spaceship", "pronunciation": "kos-MI-ches-ki ko-RAB", "example": "Космическият кораб достигна орбитата за десет минути.", "type": "noun" },
+    { "bg": "космическа станция", "en": "space station", "pronunciation": "kos-MI-ches-ka STAN-tsi-ya", "example": "Международната космическа станция обикаля Земята.", "type": "noun" },
+    { "bg": "орбита", "en": "orbit", "pronunciation": "OR-bi-ta", "example": "Сателитът се движи по орбита около Земята.", "type": "noun" },
+    { "bg": "сателит", "en": "satellite", "pronunciation": "sa-te-LIT", "example": "Сателитът предава данни за времето.", "type": "noun" },
+    { "bg": "безтегловност", "en": "weightlessness/zero gravity", "pronunciation": "bez-teg-LOV-nost", "example": "В безтегловност предметите летят свободно.", "type": "noun" },
+    { "bg": "скафандър", "en": "spacesuit", "pronunciation": "ska-FAN-dur", "example": "Скафандърът защитава космонавта извън кораба.", "type": "noun" },
+    { "bg": "изстрелване", "en": "launch", "pronunciation": "iz-STREL-va-ne", "example": "Изстрелването беше предавано на живо по телевизията.", "type": "noun" },
+    { "bg": "кацане", "en": "landing", "pronunciation": "KA-tsa-ne", "example": "Кацането на Луната беше историческо събитие.", "type": "noun" },
+    { "bg": "Луна", "en": "Moon", "pronunciation": "lu-NA", "example": "Луната е единственият естествен спътник на Земята.", "type": "noun" },
+    { "bg": "Марс", "en": "Mars", "pronunciation": "mars", "example": "Мисията до Марс ще отнеме девет месеца.", "type": "noun" },
+    { "bg": "галактика", "en": "galaxy", "pronunciation": "ga-LAK-ti-ka", "example": "Млечният път е нашата галактика.", "type": "noun" },
+    { "bg": "черна дупка", "en": "black hole", "pronunciation": "CHER-na DUP-ka", "example": "Черната дупка поглъща всичко наоколо.", "type": "noun" },
+    { "bg": "телескоп", "en": "telescope", "pronunciation": "te-les-KOP", "example": "Телескопът показва далечни звезди и планети.", "type": "noun" },
+    { "bg": "обсерватория", "en": "observatory", "pronunciation": "ob-ser-va-TO-ri-ya", "example": "Обсерваторията на Рожен е най-голямата в България.", "type": "noun" },
+    { "bg": "комета", "en": "comet", "pronunciation": "ko-ME-ta", "example": "Кометата се вижда веднъж на седемдесет години.", "type": "noun" },
+    { "bg": "астероид", "en": "asteroid", "pronunciation": "as-te-ro-ID", "example": "Астероидът мина близо до Земята.", "type": "noun" },
+    { "bg": "мисия", "en": "mission", "pronunciation": "MI-si-ya", "example": "Мисията изследва повърхността на Марс.", "type": "noun" },
+    { "bg": "космодрум", "en": "spaceport/launch site", "pronunciation": "kos-mo-DRUM", "example": "Космодрумът Байконур е в Казахстан.", "type": "noun" },
+    { "bg": "извънземен", "en": "extraterrestrial/alien", "pronunciation": "iz-vun-ZE-men", "example": "Учените търсят признаци на извънземен живот.", "type": "adjective" },
+    { "bg": "Слънчева система", "en": "Solar System", "pronunciation": "SLUN-che-va sis-TE-ma", "example": "Слънчевата система има осем планети.", "type": "noun" }
+  ]
+}
