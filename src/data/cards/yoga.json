@@ -1,0 +1,28 @@
+{
+  "category": "Yoga",
+  "cards": [
+    { "bg": "йога", "en": "yoga", "pronunciation": "YO-ga", "example": "Практикувам йога всяка сутрин.", "type": "noun" },
+    { "bg": "поза", "en": "pose/position", "pronunciation": "PO-za", "example": "Задръж позата за пет дишания.", "type": "noun" },
+    { "bg": "дишане", "en": "breathing", "pronunciation": "DI-sha-ne", "example": "Дълбокото дишане помага за релаксация.", "type": "noun" },
+    { "bg": "дишам", "en": "to breathe", "pronunciation": "DI-sham", "example": "Дишай бавно и дълбоко.", "type": "verb" },
+    { "bg": "вдишвам", "en": "to inhale", "pronunciation": "VDISH-vam", "example": "Вдишай през носа за четири секунди.", "type": "verb" },
+    { "bg": "издишвам", "en": "to exhale", "pronunciation": "iz-DISH-vam", "example": "Издишай бавно през устата.", "type": "verb" },
+    { "bg": "медитация", "en": "meditation", "pronunciation": "me-di-TA-tsi-ya", "example": "Медитацията ми помага да се концентрирам.", "type": "noun" },
+    { "bg": "гъвкавост", "en": "flexibility", "pronunciation": "guv-KA-vost", "example": "Йогата подобрява гъвкавостта.", "type": "noun" },
+    { "bg": "равновесие", "en": "balance", "pronunciation": "rav-no-VE-si-e", "example": "Тази поза изисква добро равновесие.", "type": "noun" },
+    { "bg": "разтягане", "en": "stretching", "pronunciation": "raz-TYA-ga-ne", "example": "Започваме с леко разтягане.", "type": "noun" },
+    { "bg": "разтягам се", "en": "to stretch", "pronunciation": "raz-TYA-gam se", "example": "Разтягай се бавно, без да бързаш.", "type": "verb" },
+    { "bg": "релаксация", "en": "relaxation", "pronunciation": "re-lak-SA-tsi-ya", "example": "В края на часа правим релаксация.", "type": "noun" },
+    { "bg": "постелка", "en": "mat", "pronunciation": "pos-TEL-ka", "example": "Разстели постелката на пода.", "type": "noun" },
+    { "bg": "инструктор", "en": "instructor", "pronunciation": "in-struk-TOR", "example": "Инструкторът показва правилната поза.", "type": "noun" },
+    { "bg": "тяло", "en": "body", "pronunciation": "TYA-lo", "example": "Слушай тялото си и не прекалявай.", "type": "noun" },
+    { "bg": "ум", "en": "mind", "pronunciation": "um", "example": "Йогата свързва ума и тялото.", "type": "noun" },
+    { "bg": "спокойствие", "en": "calm/tranquility", "pronunciation": "spo-KOY-stvi-e", "example": "След практиката изпитвам дълбоко спокойствие.", "type": "noun" },
+    { "bg": "концентрация", "en": "concentration/focus", "pronunciation": "kon-tsen-TRA-tsi-ya", "example": "Медитацията подобрява концентрацията.", "type": "noun" },
+    { "bg": "стойка на ръце", "en": "handstand", "pronunciation": "STOY-ka na RU-tse", "example": "Стойката на ръце е за напреднали.", "type": "noun" },
+    { "bg": "мостче", "en": "bridge pose", "pronunciation": "MOST-che", "example": "Мостчето укрепва гърба.", "type": "noun" },
+    { "bg": "напрежение", "en": "tension/stress", "pronunciation": "na-pre-ZHE-ni-e", "example": "Йогата освобождава напрежението в раменете.", "type": "noun" },
+    { "bg": "отпускам се", "en": "to relax/let go", "pronunciation": "ot-PUS-kam se", "example": "Отпусни се напълно в последната поза.", "type": "verb" },
+    { "bg": "осъзнатост", "en": "mindfulness/awareness", "pronunciation": "o-suz-NA-tost", "example": "Осъзнатостта ни помага да живеем в настоящето.", "type": "noun" }
+  ]
+}
