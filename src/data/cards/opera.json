@@ -1,0 +1,28 @@
+{
+  "category": "Opera & Classical Music",
+  "cards": [
+    { "bg": "опера", "en": "opera", "pronunciation": "O-pe-ra", "example": "Софийската опера е на булевард Дондуков.", "type": "noun" },
+    { "bg": "оперен певец", "en": "opera singer", "pronunciation": "O-pe-ren pe-VETS", "example": "Борис Христов е един от най-великите оперни певци.", "type": "noun" },
+    { "bg": "сопрано", "en": "soprano", "pronunciation": "sop-RA-no", "example": "Сопраното изпълни арията блестящо.", "type": "noun" },
+    { "bg": "тенор", "en": "tenor", "pronunciation": "te-NOR", "example": "Тенорът има мощен и чист глас.", "type": "noun" },
+    { "bg": "бас", "en": "bass (voice)", "pronunciation": "bas", "example": "Николай Гяуров е легендарен бас.", "type": "noun" },
+    { "bg": "ария", "en": "aria", "pronunciation": "A-ri-ya", "example": "Арията от Набуко е моята любима.", "type": "noun" },
+    { "bg": "дует", "en": "duet", "pronunciation": "du-ET", "example": "Дуетът между тенора и сопраното беше вълнуващ.", "type": "noun" },
+    { "bg": "хор", "en": "choir/chorus", "pronunciation": "hor", "example": "Хорът на Софийската опера е великолепен.", "type": "noun" },
+    { "bg": "оркестър", "en": "orchestra", "pronunciation": "or-KES-tur", "example": "Софийската филхармония е отличен оркестър.", "type": "noun" },
+    { "bg": "диригент", "en": "conductor", "pronunciation": "di-ri-GENT", "example": "Диригентът вдигна палката и музиката започна.", "type": "noun" },
+    { "bg": "палка", "en": "baton (conductor's)", "pronunciation": "PAL-ka", "example": "Палката на диригента задава темпото.", "type": "noun" },
+    { "bg": "симфония", "en": "symphony", "pronunciation": "sim-FO-ni-ya", "example": "Деветата симфония на Бетовен е шедьовър.", "type": "noun" },
+    { "bg": "концерт", "en": "concert/concerto", "pronunciation": "kon-TSERT", "example": "Концертът е в зала България.", "type": "noun" },
+    { "bg": "увертюра", "en": "overture", "pronunciation": "u-ver-TYU-ra", "example": "Увертюрата създава настроението на операта.", "type": "noun" },
+    { "bg": "либрето", "en": "libretto", "pronunciation": "lib-RE-to", "example": "Либретото е на италиански език.", "type": "noun" },
+    { "bg": "балет", "en": "ballet", "pronunciation": "ba-LET", "example": "Балетът Лебедово езеро е класика.", "type": "noun" },
+    { "bg": "балерина", "en": "ballerina", "pronunciation": "ba-le-RI-na", "example": "Балерината танцува на пуанти.", "type": "noun" },
+    { "bg": "камерна музика", "en": "chamber music", "pronunciation": "KA-mer-na MU-zi-ka", "example": "Камерната музика е за малък състав.", "type": "noun" },
+    { "bg": "цигулка", "en": "violin", "pronunciation": "tsi-GUL-ka", "example": "Цигулката е водещ инструмент в оркестъра.", "type": "noun" },
+    { "bg": "виолончело", "en": "cello", "pronunciation": "vi-o-lon-CHE-lo", "example": "Виолончелото има дълбок и топъл звук.", "type": "noun" },
+    { "bg": "партитура", "en": "musical score", "pronunciation": "par-ti-TU-ra", "example": "Диригентът чете партитурата.", "type": "noun" },
+    { "bg": "премиера", "en": "premiere", "pronunciation": "pre-mi-E-ra", "example": "Премиерата на новата опера е утре.", "type": "noun" },
+    { "bg": "ложа", "en": "box (theater)", "pronunciation": "LO-zha", "example": "Седим в ложата с чудесен изглед към сцената.", "type": "noun" }
+  ]
+}
