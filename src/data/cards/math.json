@@ -1,0 +1,25 @@
+{
+  "category": "Math",
+  "cards": [
+    { "bg": "математика", "en": "mathematics", "pronunciation": "ma-te-MA-ti-ka", "example": "Математиката е любимият ми предмет.", "type": "noun" },
+    { "bg": "число", "en": "number", "pronunciation": "chis-LO", "example": "Кое число е по-голямо?", "type": "noun" },
+    { "bg": "плюс", "en": "plus/add", "pronunciation": "plyus", "example": "Две плюс три е пет.", "type": "phrase" },
+    { "bg": "минус", "en": "minus/subtract", "pronunciation": "MI-nus", "example": "Десет минус четири е шест.", "type": "phrase" },
+    { "bg": "по", "en": "times/multiply", "pronunciation": "po", "example": "Три по четири е дванадесет.", "type": "phrase" },
+    { "bg": "делено на", "en": "divided by", "pronunciation": "de-LE-no na", "example": "Двадесет делено на пет е четири.", "type": "phrase" },
+    { "bg": "равно на", "en": "equals", "pronunciation": "RAV-no na", "example": "Пет плюс пет е равно на десет.", "type": "phrase" },
+    { "bg": "половина", "en": "half", "pronunciation": "po-lo-VI-na", "example": "Половината от осем е четири.", "type": "noun" },
+    { "bg": "четвърт", "en": "quarter", "pronunciation": "CHET-vurt", "example": "Една четвърт от часа е петнадесет минути.", "type": "noun" },
+    { "bg": "процент", "en": "percent", "pronunciation": "pro-TSENT", "example": "Намалението е двадесет процента.", "type": "noun" },
+    { "bg": "сто", "en": "hundred", "pronunciation": "sto", "example": "В класа има сто ученици.", "type": "noun" },
+    { "bg": "хиляда", "en": "thousand", "pronunciation": "HI-lya-da", "example": "Книгата струва пет хиляди лева.", "type": "noun" },
+    { "bg": "милион", "en": "million", "pronunciation": "mi-li-ON", "example": "В София живеят повече от милион души.", "type": "noun" },
+    { "bg": "първи", "en": "first", "pronunciation": "PUR-vi", "example": "Той е първи в класа.", "type": "adjective" },
+    { "bg": "втори", "en": "second", "pronunciation": "VTO-ri", "example": "Тя е на втория етаж.", "type": "adjective" },
+    { "bg": "трети", "en": "third", "pronunciation": "TRE-ti", "example": "Третият опит беше успешен.", "type": "adjective" },
+    { "bg": "последен", "en": "last", "pronunciation": "po-SLE-den", "example": "Това е последният въпрос.", "type": "adjective" },
+    { "bg": "смятам", "en": "to calculate/count", "pronunciation": "SMYA-tam", "example": "Смятам колко пари трябват.", "type": "verb" },
+    { "bg": "броя", "en": "to count", "pronunciation": "bro-YA", "example": "Детето брои до двадесет.", "type": "verb" },
+    { "bg": "двойно", "en": "double", "pronunciation": "DVOY-no", "example": "Двойната порция е по-голяма.", "type": "adjective" }
+  ]
+}
