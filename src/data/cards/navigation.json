@@ -1,0 +1,27 @@
+{
+  "category": "Cartography & Navigation",
+  "cards": [
+    { "bg": "компас", "en": "compass", "pronunciation": "KOM-pas", "example": "Компасът показва север.", "type": "noun" },
+    { "bg": "навигация", "en": "navigation", "pronunciation": "na-vi-GA-tsi-ya", "example": "Навигацията в планината изисква умения.", "type": "noun" },
+    { "bg": "GPS", "en": "GPS", "pronunciation": "dzhi-pi-ES", "example": "Включи GPS-а, за да не се загубим.", "type": "noun" },
+    { "bg": "маршрут", "en": "route", "pronunciation": "marsh-RUT", "example": "Планирахме маршрут през Родопите.", "type": "noun" },
+    { "bg": "координати", "en": "coordinates", "pronunciation": "ko-or-di-NA-ti", "example": "Изпрати ми координатите на мястото.", "type": "noun" },
+    { "bg": "мащаб", "en": "scale (map)", "pronunciation": "mashTAB", "example": "Картата е в мащаб едно към петдесет хиляди.", "type": "noun" },
+    { "bg": "легенда", "en": "legend/key (map)", "pronunciation": "le-GEN-da", "example": "Провери легендата на картата за символите.", "type": "noun" },
+    { "bg": "ориентирам се", "en": "to orient oneself", "pronunciation": "o-ri-en-TI-ram se", "example": "Ориентирам се по звездите нощем.", "type": "verb" },
+    { "bg": "заблуждавам се", "en": "to get lost/go astray", "pronunciation": "za-bluzh-DA-vam se", "example": "Заблудихме се в гората без карта.", "type": "verb" },
+    { "bg": "ориентир", "en": "landmark/reference point", "pronunciation": "o-ri-en-TIR", "example": "Църквата е добър ориентир за района.", "type": "noun" },
+    { "bg": "широчина", "en": "latitude", "pronunciation": "shi-ro-chi-NA", "example": "София е на четиридесет и два градуса северна широчина.", "type": "noun" },
+    { "bg": "дължина", "en": "longitude", "pronunciation": "dul-zhi-NA", "example": "Географската дължина се мери от Гринуич.", "type": "noun" },
+    { "bg": "релеф", "en": "terrain/relief", "pronunciation": "re-LEF", "example": "Релефът на България е разнообразен.", "type": "noun" },
+    { "bg": "височина", "en": "altitude/elevation", "pronunciation": "vi-so-chi-NA", "example": "Височината на Мусала е две хиляди деветстотин и двадесет и пет метра.", "type": "noun" },
+    { "bg": "хоризонт", "en": "horizon", "pronunciation": "ho-ri-ZONT", "example": "Слънцето залязва на хоризонта.", "type": "noun" },
+    { "bg": "посока", "en": "direction", "pronunciation": "po-SO-ka", "example": "В коя посока е центърът?", "type": "noun" },
+    { "bg": "пътна карта", "en": "road map", "pronunciation": "PUT-na KAR-ta", "example": "Купих пътна карта на България от бензиностанцията.", "type": "noun" },
+    { "bg": "топографска карта", "en": "topographic map", "pronunciation": "to-po-GRAF-ska KAR-ta", "example": "Топографската карта показва височините.", "type": "noun" },
+    { "bg": "пътеводител", "en": "guidebook", "pronunciation": "pu-te-VO-di-tel", "example": "Пътеводителят препоръчва този маршрут.", "type": "noun" },
+    { "bg": "мерник", "en": "sighting/bearing", "pronunciation": "MER-nik", "example": "Вземи мерник към върха и тръгни.", "type": "noun" },
+    { "bg": "пряк път", "en": "shortcut", "pronunciation": "pryak put", "example": "Знам пряк път през гората.", "type": "noun" },
+    { "bg": "обход", "en": "detour", "pronunciation": "OB-hod", "example": "Пътят е затворен, трябва обход.", "type": "noun" }
+  ]
+}
