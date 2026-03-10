@@ -1,0 +1,26 @@
+{
+  "category": "Travel",
+  "cards": [
+    { "bg": "пътуване", "en": "trip/travel", "pronunciation": "pu-TU-va-ne", "example": "Пътуването до Варна беше приятно.", "type": "noun" },
+    { "bg": "хотел", "en": "hotel", "pronunciation": "ho-TEL", "example": "Резервирахме стая в хотела.", "type": "noun" },
+    { "bg": "стая", "en": "room", "pronunciation": "STA-ya", "example": "Стаята е на третия етаж.", "type": "noun" },
+    { "bg": "паспорт", "en": "passport", "pronunciation": "PAS-port", "example": "Не забравяй паспорта си.", "type": "noun" },
+    { "bg": "виза", "en": "visa", "pronunciation": "VI-za", "example": "Трябва ли ми виза за тази страна?", "type": "noun" },
+    { "bg": "багаж", "en": "luggage", "pronunciation": "ba-GAZH", "example": "Багажът ми е твърде тежък.", "type": "noun" },
+    { "bg": "куфар", "en": "suitcase", "pronunciation": "ku-FAR", "example": "Сложих всичко в куфара.", "type": "noun" },
+    { "bg": "резервация", "en": "reservation/booking", "pronunciation": "re-zer-VA-tsi-ya", "example": "Имам резервация за две нощи.", "type": "noun" },
+    { "bg": "екскурзия", "en": "excursion/tour", "pronunciation": "eks-KUR-zi-ya", "example": "Отиваме на екскурзия до Рилския манастир.", "type": "noun" },
+    { "bg": "турист", "en": "tourist", "pronunciation": "tu-RIST", "example": "Много туристи посещават България лятото.", "type": "noun" },
+    { "bg": "плаж", "en": "beach", "pronunciation": "plazh", "example": "Плажът в Созопол е красив.", "type": "noun" },
+    { "bg": "музей", "en": "museum", "pronunciation": "mu-ZEY", "example": "Посетихме историческия музей.", "type": "noun" },
+    { "bg": "забележителност", "en": "landmark/sight", "pronunciation": "za-be-le-ZHI-tel-nost", "example": "Какви забележителности има в София?", "type": "noun" },
+    { "bg": "пътеводител", "en": "guidebook/guide", "pronunciation": "pu-te-VO-di-tel", "example": "Купих пътеводител за България.", "type": "noun" },
+    { "bg": "граница", "en": "border", "pronunciation": "gra-NI-tsa", "example": "Минахме границата без проблем.", "type": "noun" },
+    { "bg": "чужбина", "en": "abroad", "pronunciation": "CHUZH-bi-na", "example": "Живял ли си в чужбина?", "type": "noun" },
+    { "bg": "разходка", "en": "walk/stroll", "pronunciation": "raz-HOD-ka", "example": "Направихме разходка из стария град.", "type": "noun" },
+    { "bg": "снимка", "en": "photo", "pronunciation": "SNIM-ka", "example": "Може ли да ни направите снимка?", "type": "noun" },
+    { "bg": "сувенир", "en": "souvenir", "pronunciation": "su-ve-NIR", "example": "Купих сувенири за приятелите си.", "type": "noun" },
+    { "bg": "заминавам", "en": "to depart/leave", "pronunciation": "za-mi-NA-vam", "example": "Заминаваме утре сутринта.", "type": "verb" },
+    { "bg": "връщам се", "en": "to return", "pronunciation": "VRUSH-tam se", "example": "Кога се връщаш от почивка?", "type": "verb" }
+  ]
+}
