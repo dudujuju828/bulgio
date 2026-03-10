@@ -1,0 +1,29 @@
+{
+  "category": "Barbecue",
+  "cards": [
+    { "bg": "скара", "en": "grill/barbecue", "pronunciation": "SKA-ra", "example": "В неделя правим скара в двора.", "type": "noun" },
+    { "bg": "кебапче", "en": "kebapche (grilled meat roll)", "pronunciation": "ke-BAP-che", "example": "Поръчах три кебапчета с лютеница.", "type": "noun" },
+    { "bg": "кюфте", "en": "kyufte (grilled meatball)", "pronunciation": "KYUF-te", "example": "Кюфтетата на баба са най-вкусни.", "type": "noun" },
+    { "bg": "наденица", "en": "sausage (fresh)", "pronunciation": "na-de-NI-tsa", "example": "Сложи наденицата на скарата.", "type": "noun" },
+    { "bg": "шишче", "en": "skewer/shish kebab", "pronunciation": "SHISH-che", "example": "Шишчетата с пилешко и зеленчуци са готови.", "type": "noun" },
+    { "bg": "пържола", "en": "steak/chop", "pronunciation": "pur-ZHO-la", "example": "Свинската пържола на скара е класика.", "type": "noun" },
+    { "bg": "карначе", "en": "small spicy sausage", "pronunciation": "kar-NA-che", "example": "Карначетата са пикантни и много вкусни.", "type": "noun" },
+    { "bg": "въглища", "en": "charcoal", "pronunciation": "VUG-lish-ta", "example": "Купи два чувала въглища за скарата.", "type": "noun" },
+    { "bg": "жарава", "en": "embers/hot coals", "pronunciation": "zha-ra-VA", "example": "Чакай да се образува хубава жарава.", "type": "noun" },
+    { "bg": "паля", "en": "to light/start (fire)", "pronunciation": "PA-lya", "example": "Кой ще пали скарата?", "type": "verb" },
+    { "bg": "обръщам", "en": "to flip/turn over", "pronunciation": "ob-RUSH-tam", "example": "Обърни кебапчетата от другата страна.", "type": "verb" },
+    { "bg": "печа на скара", "en": "to grill", "pronunciation": "pe-CHA na SKA-ra", "example": "Печем зеленчуци на скара за гарнитура.", "type": "phrase" },
+    { "bg": "лютеница", "en": "lyutenitsa (pepper-tomato relish)", "pronunciation": "lyu-te-NI-tsa", "example": "Кебапчетата без лютеница не са същите.", "type": "noun" },
+    { "bg": "шопска салата", "en": "shopska salad", "pronunciation": "SHOP-ska sa-LA-ta", "example": "Шопската салата е задължителна на всяка скара.", "type": "noun" },
+    { "bg": "люти чушки", "en": "hot peppers", "pronunciation": "LYU-ti CHUSH-ki", "example": "Сложи и люти чушки на скарата.", "type": "noun" },
+    { "bg": "печени чушки", "en": "roasted peppers", "pronunciation": "pe-CHE-ni CHUSH-ki", "example": "Печените чушки с чесън са страхотна мезета.", "type": "noun" },
+    { "bg": "мезе", "en": "appetizer/side dish", "pronunciation": "me-ZE", "example": "Сервирахме мезета докато скарата се пече.", "type": "noun" },
+    { "bg": "маринова", "en": "to marinate", "pronunciation": "ma-ri-NO-vam", "example": "Мариновах месото от снощи.", "type": "verb" },
+    { "bg": "подправки", "en": "spices/seasonings", "pronunciation": "pod-PRAV-ki", "example": "Сложи подправки — сол, пипер и кимион.", "type": "noun" },
+    { "bg": "кимион", "en": "cumin", "pronunciation": "ki-mi-ON", "example": "Кимионът е тайната на доброто кебапче.", "type": "noun" },
+    { "bg": "чевермe", "en": "cheverme (whole roast lamb)", "pronunciation": "che-ver-ME", "example": "На събора правят чевермe на шиш.", "type": "noun" },
+    { "bg": "опушен", "en": "smoked", "pronunciation": "o-PU-shen", "example": "Обичам опушена свинска ребра.", "type": "adjective" },
+    { "bg": "хрупкав", "en": "crispy", "pronunciation": "HRUP-kav", "example": "Кожичката на пилето стана хрупкава.", "type": "adjective" },
+    { "bg": "сочен", "en": "juicy", "pronunciation": "SO-chen", "example": "Месото е сочно и много вкусно.", "type": "adjective" }
+  ]
+}
