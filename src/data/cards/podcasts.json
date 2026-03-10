@@ -1,0 +1,28 @@
+{
+  "category": "Podcasts",
+  "cards": [
+    { "bg": "подкаст", "en": "podcast", "pronunciation": "pod-KAST", "example": "Слушам подкасти по пътя към работа.", "type": "noun" },
+    { "bg": "епизод", "en": "episode", "pronunciation": "e-pi-ZOD", "example": "Новият епизод излиза всеки понеделник.", "type": "noun" },
+    { "bg": "водещ", "en": "host/presenter", "pronunciation": "vo-DESHT", "example": "Водещият интервюира интересни гости.", "type": "noun" },
+    { "bg": "гост", "en": "guest", "pronunciation": "gost", "example": "Днешният гост е известен писател.", "type": "noun" },
+    { "bg": "слушател", "en": "listener", "pronunciation": "slu-SHA-tel", "example": "Подкастът има хиляди слушатели.", "type": "noun" },
+    { "bg": "абонирам се", "en": "to subscribe", "pronunciation": "a-bo-NI-ram se", "example": "Абонирай се, за да не пропускаш нови епизоди.", "type": "verb" },
+    { "bg": "стрийминг", "en": "streaming", "pronunciation": "STRIYM-ing", "example": "Слушам музика на стрийминг платформа.", "type": "noun" },
+    { "bg": "радио", "en": "radio", "pronunciation": "RA-di-o", "example": "Радио София пуска новини на всеки час.", "type": "noun" },
+    { "bg": "предаване", "en": "show/broadcast", "pronunciation": "pre-DA-va-ne", "example": "Сутрешното предаване е много забавно.", "type": "noun" },
+    { "bg": "на живо", "en": "live", "pronunciation": "na ZHI-vo", "example": "Предаването е на живо, не е записано.", "type": "phrase" },
+    { "bg": "запис", "en": "recording", "pronunciation": "ZA-pis", "example": "Записът е с отлично качество.", "type": "noun" },
+    { "bg": "записвам", "en": "to record", "pronunciation": "za-PIS-vam", "example": "Записваме в домашно студио.", "type": "verb" },
+    { "bg": "микрофон", "en": "microphone", "pronunciation": "mik-ro-FON", "example": "Купих нов микрофон за подкаста.", "type": "noun" },
+    { "bg": "слушалки", "en": "headphones", "pronunciation": "slu-SHAL-ki", "example": "Слушам подкасти със слушалки в метрото.", "type": "noun" },
+    { "bg": "плейлист", "en": "playlist", "pronunciation": "PLEY-list", "example": "Добавих епизода в плейлиста.", "type": "noun" },
+    { "bg": "сваляне", "en": "download", "pronunciation": "SVA-lya-ne", "example": "Свалих епизода за офлайн слушане.", "type": "noun" },
+    { "bg": "интервю", "en": "interview", "pronunciation": "in-ter-VYU", "example": "Интервюто с учения е много интересно.", "type": "noun" },
+    { "bg": "тема", "en": "topic/subject", "pronunciation": "TE-ma", "example": "Темата на днешния епизод е пътуването.", "type": "noun" },
+    { "bg": "коментар", "en": "comment", "pronunciation": "ko-men-TAR", "example": "Остави коментар под епизода.", "type": "noun" },
+    { "bg": "оценка", "en": "rating/review", "pronunciation": "o-TSEN-ka", "example": "Сложи пет звезди оценка, ако ти хареса.", "type": "noun" },
+    { "bg": "реклама", "en": "advertisement/ad", "pronunciation": "rek-LA-ma", "example": "Подкастът има кратка реклама в началото.", "type": "noun" },
+    { "bg": "сезон", "en": "season", "pronunciation": "se-ZON", "example": "Вторият сезон на подкаста стартира скоро.", "type": "noun" },
+    { "bg": "препоръчвам", "en": "to recommend", "pronunciation": "pre-po-RUCH-vam", "example": "Препоръчвам ти този подкаст на български.", "type": "verb" }
+  ]
+}
