@@ -1,0 +1,28 @@
+{
+  "category": "Dairy",
+  "cards": [
+    { "bg": "мляко", "en": "milk", "pronunciation": "MLYA-ko", "example": "Купи прясно мляко от магазина.", "type": "noun" },
+    { "bg": "кисело мляко", "en": "yogurt (Bulgarian)", "pronunciation": "KI-se-lo MLYA-ko", "example": "Българското кисело мляко е известно по целия свят.", "type": "noun" },
+    { "bg": "сирене", "en": "white cheese (feta-style)", "pronunciation": "si-RE-ne", "example": "Шопската салата се прави с бяло сирене.", "type": "noun" },
+    { "bg": "кашкавал", "en": "yellow cheese (kashkaval)", "pronunciation": "kash-ka-VAL", "example": "Кашкавалът от Витоша е много вкусен.", "type": "noun" },
+    { "bg": "извара", "en": "cottage cheese/curd", "pronunciation": "iz-VA-ra", "example": "Изварата е чудесна с мед за закуска.", "type": "noun" },
+    { "bg": "масло", "en": "butter", "pronunciation": "MAS-lo", "example": "Слагам масло в тигана за палачинки.", "type": "noun" },
+    { "bg": "сметана", "en": "cream/sour cream", "pronunciation": "sme-TA-na", "example": "Сложи сметана върху супата.", "type": "noun" },
+    { "bg": "айран", "en": "ayran (yogurt drink)", "pronunciation": "ay-RAN", "example": "През лятото пия студен айран.", "type": "noun" },
+    { "bg": "боза", "en": "boza (fermented grain drink)", "pronunciation": "bo-ZA", "example": "Бозата е традиционна българска напитка.", "type": "noun" },
+    { "bg": "лактобацилус булгарикус", "en": "Lactobacillus bulgaricus", "pronunciation": "lak-to-ba-TSI-lus bul-GA-ri-kus", "example": "Лактобацилус булгарикус е бактерията в българското кисело мляко.", "type": "noun" },
+    { "bg": "овче мляко", "en": "sheep's milk", "pronunciation": "OV-che MLYA-ko", "example": "Сиренето от овче мляко е по-наситено.", "type": "noun" },
+    { "bg": "козе мляко", "en": "goat's milk", "pronunciation": "KO-ze MLYA-ko", "example": "Козето мляко е полезно за здравето.", "type": "noun" },
+    { "bg": "краве мляко", "en": "cow's milk", "pronunciation": "KRA-ve MLYA-ko", "example": "Повечето хора пият краве мляко.", "type": "noun" },
+    { "bg": "мандра", "en": "dairy farm/creamery", "pronunciation": "MAN-dra", "example": "Купуваме сирене директно от мандрата.", "type": "noun" },
+    { "bg": "пресен", "en": "fresh", "pronunciation": "PRE-sen", "example": "Пресното сирене е по-меко.", "type": "adjective" },
+    { "bg": "зрял", "en": "aged/matured", "pronunciation": "zryal", "example": "Зрелият кашкавал има по-силен вкус.", "type": "adjective" },
+    { "bg": "саламура", "en": "brine", "pronunciation": "sa-la-MU-ra", "example": "Сиренето се съхранява в саламура.", "type": "noun" },
+    { "bg": "млечен продукт", "en": "dairy product", "pronunciation": "MLE-chen pro-DUKT", "example": "Млечните продукти са важна част от българската кухня.", "type": "noun" },
+    { "bg": "подквасвам", "en": "to ferment/culture", "pronunciation": "pod-KVAS-vam", "example": "Подквасваме млякото с жива закваска.", "type": "verb" },
+    { "bg": "закваска", "en": "starter culture", "pronunciation": "zak-VAS-ka", "example": "Без хубава закваска няма хубаво кисело мляко.", "type": "noun" },
+    { "bg": "топено сирене", "en": "processed/melted cheese", "pronunciation": "TO-pe-no si-RE-ne", "example": "Децата обичат топено сирене на филийка.", "type": "noun" },
+    { "bg": "ферма", "en": "farm", "pronunciation": "FER-ma", "example": "Фермата отглежда сто крави за мляко.", "type": "noun" },
+    { "bg": "доя", "en": "to milk", "pronunciation": "do-YA", "example": "Баба доеше кравата рано сутрин.", "type": "verb" }
+  ]
+}
