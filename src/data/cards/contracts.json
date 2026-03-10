@@ -1,0 +1,28 @@
+{
+  "category": "Contracts",
+  "cards": [
+    { "bg": "договор", "en": "contract/agreement", "pronunciation": "do-go-VOR", "example": "Подписахме договор за наем на апартамент.", "type": "noun" },
+    { "bg": "подписвам", "en": "to sign", "pronunciation": "pod-PIS-vam", "example": "Прочети внимателно преди да подпишеш.", "type": "verb" },
+    { "bg": "подпис", "en": "signature", "pronunciation": "POD-pis", "example": "Сложи подписа си на всяка страница.", "type": "noun" },
+    { "bg": "клауза", "en": "clause", "pronunciation": "KLA-u-za", "example": "Тази клауза ограничава правата ти.", "type": "noun" },
+    { "bg": "условие", "en": "condition/term", "pronunciation": "us-LO-vi-e", "example": "Условията на договора са ясни.", "type": "noun" },
+    { "bg": "срок", "en": "term/deadline", "pronunciation": "srok", "example": "Договорът е със срок от една година.", "type": "noun" },
+    { "bg": "удължавам", "en": "to extend/renew", "pronunciation": "u-dul-ZHA-vam", "example": "Искам да удължа договора с още шест месеца.", "type": "verb" },
+    { "bg": "прекратявам", "en": "to terminate/cancel", "pronunciation": "pre-kra-TYA-vam", "example": "Прекратихме договора предсрочно.", "type": "verb" },
+    { "bg": "неустойка", "en": "penalty/fine", "pronunciation": "ne-us-TOY-ka", "example": "При ранно напускане дължиш неустойка.", "type": "noun" },
+    { "bg": "наем", "en": "rent/lease", "pronunciation": "na-EM", "example": "Наемът е петстотин лева на месец.", "type": "noun" },
+    { "bg": "наемател", "en": "tenant", "pronunciation": "na-e-MA-tel", "example": "Наемателят плаща наема до петнадесето число.", "type": "noun" },
+    { "bg": "наемодател", "en": "landlord", "pronunciation": "na-e-mo-DA-tel", "example": "Наемодателят поддържа сградата.", "type": "noun" },
+    { "bg": "депозит", "en": "deposit", "pronunciation": "de-po-ZIT", "example": "Депозитът е равен на един месечен наем.", "type": "noun" },
+    { "bg": "нотариус", "en": "notary", "pronunciation": "no-TA-ri-us", "example": "Договорът трябва да се завери при нотариус.", "type": "noun" },
+    { "bg": "заверявам", "en": "to notarize/certify", "pronunciation": "za-ve-RYA-vam", "example": "Заверихме документите в нотариалната кантора.", "type": "verb" },
+    { "bg": "пълномощно", "en": "power of attorney", "pronunciation": "pul-no-MOSHT-no", "example": "Дадох пълномощно на адвоката си.", "type": "noun" },
+    { "bg": "страна по договора", "en": "party to the contract", "pronunciation": "stra-NA po do-go-VO-ra", "example": "И двете страни по договора имат задължения.", "type": "noun" },
+    { "bg": "задължение", "en": "obligation", "pronunciation": "za-dul-ZHE-ni-e", "example": "Имаш задължение да плащаш навреме.", "type": "noun" },
+    { "bg": "право", "en": "right", "pronunciation": "PRA-vo", "example": "Имаш право да прекратиш договора с предизвестие.", "type": "noun" },
+    { "bg": "предизвестие", "en": "notice (period)", "pronunciation": "pre-diz-VES-ti-e", "example": "Предизвестието за напускане е един месец.", "type": "noun" },
+    { "bg": "анекс", "en": "annex/amendment", "pronunciation": "A-neks", "example": "Подписахме анекс за промяна на наема.", "type": "noun" },
+    { "bg": "гаранция", "en": "guarantee/warranty", "pronunciation": "ga-RAN-tsi-ya", "example": "Гаранцията на уреда е две години.", "type": "noun" },
+    { "bg": "фактура", "en": "invoice", "pronunciation": "fak-TU-ra", "example": "Моля, издайте ми фактура.", "type": "noun" }
+  ]
+}
