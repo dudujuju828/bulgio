@@ -1,0 +1,28 @@
+{
+  "category": "Vitamins & Supplements",
+  "cards": [
+    { "bg": "витамин", "en": "vitamin", "pronunciation": "vi-ta-MIN", "example": "Витамин Д е важен за костите.", "type": "noun" },
+    { "bg": "хранителна добавка", "en": "dietary supplement", "pronunciation": "hra-ni-TEL-na do-BAV-ka", "example": "Приемам хранителни добавки през зимата.", "type": "noun" },
+    { "bg": "минерал", "en": "mineral (nutrient)", "pronunciation": "mi-ne-RAL", "example": "Желязото е важен минерал за кръвта.", "type": "noun" },
+    { "bg": "желязо", "en": "iron (nutrient)", "pronunciation": "zhe-LYA-zo", "example": "Желязото се намира в месо и спанак.", "type": "noun" },
+    { "bg": "калций", "en": "calcium", "pronunciation": "KAL-tsiy", "example": "Калцият укрепва костите и зъбите.", "type": "noun" },
+    { "bg": "магнезий", "en": "magnesium", "pronunciation": "mag-NE-ziy", "example": "Магнезият помага при мускулни крампи.", "type": "noun" },
+    { "bg": "цинк", "en": "zinc", "pronunciation": "tsink", "example": "Цинкът подкрепя имунната система.", "type": "noun" },
+    { "bg": "омега-3", "en": "omega-3", "pronunciation": "o-ME-ga tri", "example": "Омега-3 мастните киселини са в рибата.", "type": "noun" },
+    { "bg": "пробиотик", "en": "probiotic", "pronunciation": "pro-bi-O-tik", "example": "Пробиотиците подобряват храносмилането.", "type": "noun" },
+    { "bg": "имунитет", "en": "immunity", "pronunciation": "i-mu-ni-TET", "example": "Витамин Ц укрепва имунитета.", "type": "noun" },
+    { "bg": "дефицит", "en": "deficiency", "pronunciation": "de-fi-TSIT", "example": "Имам дефицит на витамин Д.", "type": "noun" },
+    { "bg": "дозировка", "en": "dosage", "pronunciation": "do-zi-ROV-ka", "example": "Не превишавай препоръчителната дозировка.", "type": "noun" },
+    { "bg": "таблетка", "en": "tablet/pill", "pronunciation": "tab-LET-ka", "example": "Вземай по една таблетка на ден.", "type": "noun" },
+    { "bg": "капсула", "en": "capsule", "pronunciation": "KAP-su-la", "example": "Капсулите с рибено масло са полезни.", "type": "noun" },
+    { "bg": "шипка", "en": "rosehip", "pronunciation": "SHIP-ka", "example": "Чаят от шипки е богат на витамин Ц.", "type": "noun" },
+    { "bg": "ехинацея", "en": "echinacea", "pronunciation": "e-hi-na-TSE-ya", "example": "Ехинацеята помага при настинка.", "type": "noun" },
+    { "bg": "рибено масло", "en": "fish oil", "pronunciation": "RI-be-no MAS-lo", "example": "Рибеното масло съдържа омега-3.", "type": "noun" },
+    { "bg": "коензим", "en": "coenzyme", "pronunciation": "ko-en-ZIM", "example": "Коензим Q10 е популярна добавка.", "type": "noun" },
+    { "bg": "антиоксидант", "en": "antioxidant", "pronunciation": "an-ti-ok-si-DANT", "example": "Антиоксидантите предпазват клетките.", "type": "noun" },
+    { "bg": "колаген", "en": "collagen", "pronunciation": "ko-la-GEN", "example": "Колагенът поддържа кожата еластична.", "type": "noun" },
+    { "bg": "храносмилане", "en": "digestion", "pronunciation": "hra-no-SMI-la-ne", "example": "Фибрите подобряват храносмилането.", "type": "noun" },
+    { "bg": "фибри", "en": "fiber (dietary)", "pronunciation": "FIB-ri", "example": "Ябълките са богати на фибри.", "type": "noun" },
+    { "bg": "протеин", "en": "protein", "pronunciation": "pro-te-IN", "example": "Протеинът е важен за мускулите.", "type": "noun" }
+  ]
+}
