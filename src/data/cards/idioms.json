@@ -1,0 +1,27 @@
+{
+  "category": "Idioms",
+  "cards": [
+    { "bg": "вземам си бележка", "en": "to take note / keep in mind", "pronunciation": "VZE-mam si be-LEZH-ka", "example": "Вземи си бележка — утре е изпитът.", "type": "phrase" },
+    { "bg": "хвърлям око", "en": "to glance / take a look", "pronunciation": "HVUR-lyam o-KO", "example": "Хвърли едно око на рецептата.", "type": "phrase" },
+    { "bg": "държа на думата си", "en": "to keep one's word", "pronunciation": "dur-ZHA na DU-ma-ta si", "example": "Той винаги държи на думата си.", "type": "phrase" },
+    { "bg": "вадя си кестените от огъня", "en": "to get oneself out of trouble", "pronunciation": "VA-dya si kes-TE-ni-te ot o-GU-nya", "example": "Сам си вади кестените от огъня.", "type": "phrase" },
+    { "bg": "като гръм от ясно небе", "en": "like a bolt from the blue", "pronunciation": "ka-TO grum ot YAS-no ne-BE", "example": "Новината дойде като гръм от ясно небе.", "type": "phrase" },
+    { "bg": "вземам присърце", "en": "to take to heart", "pronunciation": "VZE-mam pri-SUR-tse", "example": "Не вземай думите му присърце.", "type": "phrase" },
+    { "bg": "на края на краищата", "en": "after all / at the end of the day", "pronunciation": "na KRA-ya na kra-ISH-ta-ta", "example": "На края на краищата, всичко се получи добре.", "type": "phrase" },
+    { "bg": "бъркам в кашата", "en": "to meddle / stir up trouble", "pronunciation": "BUR-kam v ka-SHA-ta", "example": "Не бъркай в чуждата каша.", "type": "phrase" },
+    { "bg": "имам предвид", "en": "I mean / I have in mind", "pronunciation": "I-mam pred-VID", "example": "Имам предвид другия ресторант.", "type": "phrase" },
+    { "bg": "идвам на себе си", "en": "to come to one's senses", "pronunciation": "ID-vam na SE-be si", "example": "След починката дойдох на себе си.", "type": "phrase" },
+    { "bg": "от дъжд на вятър", "en": "once in a blue moon / rarely", "pronunciation": "ot duzhd na VYA-tur", "example": "Виждаме се от дъжд на вятър.", "type": "phrase" },
+    { "bg": "пада ми се", "en": "I deserve / it's my turn", "pronunciation": "PA-da mi se", "example": "Пада ти се почивка след толкова работа.", "type": "phrase" },
+    { "bg": "на път съм", "en": "I'm on my way", "pronunciation": "na put sum", "example": "На път съм, ще бъда там след десет минути.", "type": "phrase" },
+    { "bg": "не ми пука", "en": "I don't care", "pronunciation": "ne mi PU-ka", "example": "Не му пука какво мислят другите.", "type": "phrase" },
+    { "bg": "правя от мухата слон", "en": "to make a mountain out of a molehill", "pronunciation": "PRA-vya ot MU-ha-ta slon", "example": "Не прави от мухата слон, всичко е наред.", "type": "phrase" },
+    { "bg": "сърце ме боли", "en": "it breaks my heart", "pronunciation": "SUR-tse me bo-LI", "example": "Сърце ме боли, когато я виждам тъжна.", "type": "phrase" },
+    { "bg": "хващам бика за рогата", "en": "to take the bull by the horns", "pronunciation": "HVASH-tam BI-ka za ro-GA-ta", "example": "Хвана бика за рогата и реши проблема.", "type": "phrase" },
+    { "bg": "няма начин", "en": "no way / impossible", "pronunciation": "NYA-ma na-CHIN", "example": "Няма начин да стигнем навреме.", "type": "phrase" },
+    { "bg": "минавам през огън и вода", "en": "to go through fire and water", "pronunciation": "mi-NA-vam prez o-GUN i vo-DA", "example": "Те са минали през огън и вода заедно.", "type": "phrase" },
+    { "bg": "дърпам конците", "en": "to pull the strings", "pronunciation": "DUR-pam kon-TSI-te", "example": "Той дърпа конците зад кулисите.", "type": "phrase" },
+    { "bg": "на всяка манджа мерудия", "en": "jack of all trades / meddler", "pronunciation": "na VSYA-ka man-DZHA me-ru-DI-ya", "example": "Той е на всяка манджа мерудия.", "type": "phrase" },
+    { "bg": "удрям на камък", "en": "to hit a wall / reach a dead end", "pronunciation": "UD-ryam na KA-muk", "example": "Ударихме на камък с проекта.", "type": "phrase" }
+  ]
+}
