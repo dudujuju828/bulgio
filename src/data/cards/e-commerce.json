@@ -1,0 +1,28 @@
+{
+  "category": "E-Commerce & Online Shopping",
+  "cards": [
+    { "bg": "онлайн магазин", "en": "online store", "pronunciation": "on-LAYN ma-ga-ZIN", "example": "Поръчах от онлайн магазина снощи.", "type": "noun" },
+    { "bg": "поръчка", "en": "order", "pronunciation": "po-RUCH-ka", "example": "Поръчката ще пристигне за два дни.", "type": "noun" },
+    { "bg": "поръчвам", "en": "to order", "pronunciation": "po-RUCH-vam", "example": "Поръчвам хранителни продукти онлайн.", "type": "verb" },
+    { "bg": "количка", "en": "shopping cart", "pronunciation": "ko-LICH-ka", "example": "Добавих три продукта в количката.", "type": "noun" },
+    { "bg": "плащане", "en": "payment", "pronunciation": "pla-SHTA-ne", "example": "Плащането е с карта или наложен платеж.", "type": "noun" },
+    { "bg": "кредитна карта", "en": "credit card", "pronunciation": "kre-DIT-na KAR-ta", "example": "Платих с кредитна карта онлайн.", "type": "noun" },
+    { "bg": "дебитна карта", "en": "debit card", "pronunciation": "de-BIT-na KAR-ta", "example": "Дебитната карта е свързана с банковата сметка.", "type": "noun" },
+    { "bg": "промо код", "en": "promo code/discount code", "pronunciation": "PRO-mo kod", "example": "Въведи промо код за десет процента отстъпка.", "type": "noun" },
+    { "bg": "отстъпка", "en": "discount", "pronunciation": "ot-STUP-ka", "example": "Има отстъпка от тридесет процента.", "type": "noun" },
+    { "bg": "разпродажба", "en": "sale/clearance", "pronunciation": "raz-pro-DAZH-ba", "example": "Разпродажбата е до края на седмицата.", "type": "noun" },
+    { "bg": "Черен петък", "en": "Black Friday", "pronunciation": "CHE-ren PE-tuk", "example": "На Черен петък намаленията са огромни.", "type": "noun" },
+    { "bg": "отзив", "en": "review", "pronunciation": "OT-ziv", "example": "Прочетох отзивите преди да купя.", "type": "noun" },
+    { "bg": "оценка", "en": "rating", "pronunciation": "o-TSEN-ka", "example": "Продуктът има оценка четири и половина звезди.", "type": "noun" },
+    { "bg": "наличност", "en": "availability/in stock", "pronunciation": "na-LICH-nost", "example": "Продуктът е в наличност и се доставя утре.", "type": "noun" },
+    { "bg": "изчерпан", "en": "out of stock", "pronunciation": "iz-CHER-pan", "example": "За съжаление продуктът е изчерпан.", "type": "adjective" },
+    { "bg": "размер", "en": "size", "pronunciation": "raz-MER", "example": "Какъв размер носиш — М или Л?", "type": "noun" },
+    { "bg": "списък с желания", "en": "wishlist", "pronunciation": "SPI-suk s zhe-LA-ni-ya", "example": "Добавих чантата в списъка с желания.", "type": "noun" },
+    { "bg": "безплатна доставка", "en": "free shipping", "pronunciation": "bez-PLAT-na dos-TAV-ka", "example": "Над петдесет лева доставката е безплатна.", "type": "noun" },
+    { "bg": "проследявам", "en": "to track (order)", "pronunciation": "pro-sle-DYA-vam", "example": "Проследявам поръчката с номера за проследяване.", "type": "verb" },
+    { "bg": "връщане", "en": "return (of item)", "pronunciation": "VRUSH-ta-ne", "example": "Връщането е безплатно в рамките на четиринадесет дни.", "type": "noun" },
+    { "bg": "ePay", "en": "ePay (Bulgarian e-payment)", "pronunciation": "i-PEY", "example": "Платих чрез ePay от телефона.", "type": "noun" },
+    { "bg": "OLX", "en": "OLX (classifieds site)", "pronunciation": "o-el-IKS", "example": "Продавам стария велосипед в OLX.", "type": "noun" },
+    { "bg": "потвърждение", "en": "confirmation", "pronunciation": "pot-vur-zhDE-ni-e", "example": "Получих потвърждение на поръчката по имейл.", "type": "noun" }
+  ]
+}
