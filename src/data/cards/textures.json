@@ -1,0 +1,27 @@
+{
+  "category": "Textures",
+  "cards": [
+    { "bg": "гладък", "en": "smooth", "pronunciation": "GLA-duk", "example": "Повърхността на масата е гладка.", "type": "adjective" },
+    { "bg": "грапав", "en": "rough", "pronunciation": "GRA-pav", "example": "Стената е грапава на допир.", "type": "adjective" },
+    { "bg": "мек", "en": "soft", "pronunciation": "mek", "example": "Възглавницата е много мека.", "type": "adjective" },
+    { "bg": "твърд", "en": "hard", "pronunciation": "tvurd", "example": "Камъкът е твърд и студен.", "type": "adjective" },
+    { "bg": "пухкав", "en": "fluffy", "pronunciation": "PUH-kav", "example": "Котенцето е пухкаво и сладко.", "type": "adjective" },
+    { "bg": "хлъзгав", "en": "slippery", "pronunciation": "HLUZ-gav", "example": "Подът е хлъзгав, когато е мокър.", "type": "adjective" },
+    { "bg": "лепкав", "en": "sticky", "pronunciation": "LEP-kav", "example": "Медът е лепкав.", "type": "adjective" },
+    { "bg": "мокър", "en": "wet", "pronunciation": "MO-kur", "example": "Дрехите са мокри от дъжда.", "type": "adjective" },
+    { "bg": "сух", "en": "dry", "pronunciation": "suh", "example": "Земята е суха от жегата.", "type": "adjective" },
+    { "bg": "тежък", "en": "heavy", "pronunciation": "TE-zhuk", "example": "Чантата е много тежка.", "type": "adjective" },
+    { "bg": "лек", "en": "light (weight)", "pronunciation": "lek", "example": "Перото е леко като въздух.", "type": "adjective" },
+    { "bg": "дебел", "en": "thick", "pronunciation": "de-BEL", "example": "Дебелото одеяло топли добре.", "type": "adjective" },
+    { "bg": "тънък", "en": "thin", "pronunciation": "TU-nuk", "example": "Хартията е много тънка.", "type": "adjective" },
+    { "bg": "остър", "en": "sharp", "pronunciation": "OS-tur", "example": "Ножът е много остър, внимавай.", "type": "adjective" },
+    { "bg": "тъп", "en": "blunt/dull", "pronunciation": "tup", "example": "Моливът е тъп, трябва да го наостря.", "type": "adjective" },
+    { "bg": "еластичен", "en": "elastic/stretchy", "pronunciation": "e-las-TI-chen", "example": "Тъканта е еластична и удобна.", "type": "adjective" },
+    { "bg": "крехък", "en": "fragile/brittle", "pronunciation": "KRE-huk", "example": "Вазата е крехка, дръж я внимателно.", "type": "adjective" },
+    { "bg": "прозрачен", "en": "transparent", "pronunciation": "pro-ZRA-chen", "example": "Стъклото е прозрачно.", "type": "adjective" },
+    { "bg": "матов", "en": "matte", "pronunciation": "MA-tov", "example": "Предпочитам матова боя за стените.", "type": "adjective" },
+    { "bg": "лъскав", "en": "shiny/glossy", "pronunciation": "LUS-kav", "example": "Новата кола е лъскава.", "type": "adjective" },
+    { "bg": "ръждив", "en": "rusty", "pronunciation": "RUZH-div", "example": "Старият ключ е ръждив.", "type": "adjective" },
+    { "bg": "влакнест", "en": "fibrous/hairy", "pronunciation": "VLAK-nest", "example": "Кокосовият орех има влакнеста обвивка.", "type": "adjective" }
+  ]
+}
