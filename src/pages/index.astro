@@ -183,6 +183,15 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
 
     function renderCard() {
       if (cards.length === 0) return;
+      // Instantly unflip without animation before updating content
+      if (isFlipped) {
+        const inner = card.querySelector('.card-inner');
+        inner.style.transition = 'none';
+        unflip();
+        // Force reflow so the unflip applies immediately
+        inner.offsetHeight;
+        inner.style.transition = '';
+      }
       const c = cards[currentIndex];
       if (c.image) {
         backImage.src = `/images/cards/${c.image}`;
@@ -211,7 +220,6 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
       frontMeta.textContent = `${c.category} · ${c.type}`;
       backExample.textContent = c.example;
       progress.textContent = `${currentIndex + 1} / ${cards.length}`;
-      unflip();
     }
 
     function flip() {
