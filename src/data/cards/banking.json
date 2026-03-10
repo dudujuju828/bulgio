@@ -1,0 +1,25 @@
+{
+  "category": "Banking",
+  "cards": [
+    { "bg": "банка", "en": "bank", "pronunciation": "BAN-ka", "example": "Банката отваря в девет часа.", "type": "noun" },
+    { "bg": "пари", "en": "money", "pronunciation": "pa-RI", "example": "Нямам достатъчно пари в брой.", "type": "noun" },
+    { "bg": "лев", "en": "lev (Bulgarian currency)", "pronunciation": "lev", "example": "Един лев е равен на около петдесет евроцента.", "type": "noun" },
+    { "bg": "стотинка", "en": "stotinka (cent)", "pronunciation": "sto-TIN-ka", "example": "Хлябът струва два лева и петдесет стотинки.", "type": "noun" },
+    { "bg": "карта", "en": "card (bank)", "pronunciation": "KAR-ta", "example": "Мога ли да платя с карта?", "type": "noun" },
+    { "bg": "банкомат", "en": "ATM", "pronunciation": "ban-ko-MAT", "example": "Къде е най-близкият банкомат?", "type": "noun" },
+    { "bg": "сметка", "en": "account", "pronunciation": "SMET-ka", "example": "Искам да открия банкова сметка.", "type": "noun" },
+    { "bg": "превод", "en": "transfer", "pronunciation": "pre-VOD", "example": "Направих банков превод днес.", "type": "noun" },
+    { "bg": "теглене", "en": "withdrawal", "pronunciation": "TEG-le-ne", "example": "Направих теглене от банкомата.", "type": "noun" },
+    { "bg": "внасяне", "en": "deposit", "pronunciation": "VNA-sya-ne", "example": "Направих внасяне на заплатата си.", "type": "noun" },
+    { "bg": "кредит", "en": "loan/credit", "pronunciation": "kre-DIT", "example": "Взех кредит за апартамент.", "type": "noun" },
+    { "bg": "лихва", "en": "interest", "pronunciation": "LIH-va", "example": "Лихвата по кредита е ниска.", "type": "noun" },
+    { "bg": "данък", "en": "tax", "pronunciation": "da-NUK", "example": "Плащам данъци всяка година.", "type": "noun" },
+    { "bg": "плащам", "en": "to pay", "pronunciation": "PLA-shtam", "example": "Плащам наема в началото на месеца.", "type": "verb" },
+    { "bg": "спестявам", "en": "to save (money)", "pronunciation": "spes-TYA-vam", "example": "Спестявам пари за почивка.", "type": "verb" },
+    { "bg": "харча", "en": "to spend", "pronunciation": "HAR-cha", "example": "Харча много за храна.", "type": "verb" },
+    { "bg": "обменям", "en": "to exchange", "pronunciation": "ob-ME-nyam", "example": "Къде мога да обменя евро за левове?", "type": "verb" },
+    { "bg": "обменно бюро", "en": "exchange office", "pronunciation": "ob-MEN-no byu-RO", "example": "Обменното бюро е до хотела.", "type": "noun" },
+    { "bg": "касиер", "en": "cashier/teller", "pronunciation": "ka-si-ER", "example": "Отидох при касиера на банката.", "type": "noun" },
+    { "bg": "портфейл", "en": "wallet", "pronunciation": "port-FEYL", "example": "Портфейлът ми е в джоба.", "type": "noun" }
+  ]
+}
