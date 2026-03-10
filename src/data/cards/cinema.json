@@ -1,0 +1,25 @@
+{
+  "category": "Cinema",
+  "cards": [
+    { "bg": "кино", "en": "cinema/movies", "pronunciation": "ki-NO", "example": "Отиваме на кино тази вечер.", "type": "noun" },
+    { "bg": "филм", "en": "movie/film", "pronunciation": "film", "example": "Този филм е много интересен.", "type": "noun" },
+    { "bg": "сериал", "en": "TV series", "pronunciation": "se-ri-AL", "example": "Гледам нов сериал по телевизията.", "type": "noun" },
+    { "bg": "актьор", "en": "actor", "pronunciation": "ak-TYOR", "example": "Актьорът играе много добре.", "type": "noun" },
+    { "bg": "актриса", "en": "actress", "pronunciation": "ak-TRI-sa", "example": "Актрисата получи награда.", "type": "noun" },
+    { "bg": "режисьор", "en": "director", "pronunciation": "re-zhi-SYOR", "example": "Режисьорът снима нов филм.", "type": "noun" },
+    { "bg": "комедия", "en": "comedy", "pronunciation": "ko-ME-di-ya", "example": "Обичам да гледам комедии.", "type": "noun" },
+    { "bg": "драма", "en": "drama", "pronunciation": "DRA-ma", "example": "Тази драма ме разплака.", "type": "noun" },
+    { "bg": "ужас", "en": "horror", "pronunciation": "U-zhas", "example": "Не обичам филми на ужасите.", "type": "noun" },
+    { "bg": "анимация", "en": "animation/cartoon", "pronunciation": "a-ni-MA-tsi-ya", "example": "Децата гледат анимация.", "type": "noun" },
+    { "bg": "субтитри", "en": "subtitles", "pronunciation": "sub-TIT-ri", "example": "Филмът е със субтитри на български.", "type": "noun" },
+    { "bg": "екран", "en": "screen", "pronunciation": "ek-RAN", "example": "Екранът в киното е огромен.", "type": "noun" },
+    { "bg": "билет", "en": "ticket", "pronunciation": "bi-LET", "example": "Купих билети за киното.", "type": "noun" },
+    { "bg": "сеанс", "en": "showtime/screening", "pronunciation": "se-ANS", "example": "Следващият сеанс е в девет.", "type": "noun" },
+    { "bg": "театър", "en": "theater", "pronunciation": "te-A-tur", "example": "Театърът е в центъра на града.", "type": "noun" },
+    { "bg": "представление", "en": "performance/show", "pronunciation": "pred-stav-LE-ni-e", "example": "Представлението беше невероятно.", "type": "noun" },
+    { "bg": "гледам", "en": "to watch", "pronunciation": "GLE-dam", "example": "Гледам филм всяка вечер.", "type": "verb" },
+    { "bg": "снимам", "en": "to film/shoot", "pronunciation": "SNI-mam", "example": "Снимат нов филм в София.", "type": "verb" },
+    { "bg": "награда", "en": "award/prize", "pronunciation": "na-GRA-da", "example": "Филмът спечели много награди.", "type": "noun" },
+    { "bg": "пуканки", "en": "popcorn", "pronunciation": "pu-KAN-ki", "example": "Искаш ли пуканки на киното?", "type": "noun" }
+  ]
+}
