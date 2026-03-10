@@ -1,0 +1,27 @@
+{
+  "category": "Gym",
+  "cards": [
+    { "bg": "фитнес", "en": "gym/fitness", "pronunciation": "FIT-nes", "example": "Ходя на фитнес три пъти седмично.", "type": "noun" },
+    { "bg": "тренировка", "en": "workout/training", "pronunciation": "tre-ni-ROV-ka", "example": "Тренировката продължи един час.", "type": "noun" },
+    { "bg": "упражнение", "en": "exercise", "pronunciation": "up-razh-NE-ni-e", "example": "Това упражнение е за коремните мускули.", "type": "noun" },
+    { "bg": "мускул", "en": "muscle", "pronunciation": "MUS-kul", "example": "Мускулите ме болят след тренировката.", "type": "noun" },
+    { "bg": "тежест", "en": "weight", "pronunciation": "TE-zhest", "example": "Вдигам тежести всеки ден.", "type": "noun" },
+    { "bg": "дъмбел", "en": "dumbbell", "pronunciation": "DUM-bel", "example": "Започвам с леки дъмбели.", "type": "noun" },
+    { "bg": "бягаща пътека", "en": "treadmill", "pronunciation": "BYA-gash-ta pu-TE-ka", "example": "Загрявам на бягащата пътека.", "type": "noun" },
+    { "bg": "лицеви опори", "en": "push-ups", "pronunciation": "li-TSE-vi o-PO-ri", "example": "Правя петдесет лицеви опори на ден.", "type": "noun" },
+    { "bg": "клек", "en": "squat", "pronunciation": "klek", "example": "Клековете укрепват краката.", "type": "noun" },
+    { "bg": "коремна преса", "en": "sit-ups/crunches", "pronunciation": "ko-REM-na PRE-sa", "example": "Правя коремни преси за по-силен корем.", "type": "noun" },
+    { "bg": "загрявка", "en": "warm-up", "pronunciation": "za-GRYAV-ka", "example": "Загрявката преди тренировка е важна.", "type": "noun" },
+    { "bg": "разтягане", "en": "stretching", "pronunciation": "raz-TYA-ga-ne", "example": "След тренировка правя разтягане.", "type": "noun" },
+    { "bg": "треньор", "en": "trainer/coach", "pronunciation": "tre-NYOR", "example": "Треньорът ми написа програма.", "type": "noun" },
+    { "bg": "тренирам", "en": "to train/work out", "pronunciation": "tre-NI-ram", "example": "Тренирам всеки ден след работа.", "type": "verb" },
+    { "bg": "вдигам", "en": "to lift", "pronunciation": "VDIG-am", "example": "Вдигам осемдесет килограма от лежанка.", "type": "verb" },
+    { "bg": "бягам", "en": "to run", "pronunciation": "BYA-gam", "example": "Бягам пет километра всяка сутрин.", "type": "verb" },
+    { "bg": "издръжливост", "en": "endurance/stamina", "pronunciation": "iz-DRUZH-li-vost", "example": "Кардиото подобрява издръжливостта.", "type": "noun" },
+    { "bg": "кардио", "en": "cardio", "pronunciation": "KAR-di-o", "example": "Правя кардио тридесет минути.", "type": "noun" },
+    { "bg": "йога", "en": "yoga", "pronunciation": "YO-ga", "example": "Йогата помага за гъвкавостта.", "type": "noun" },
+    { "bg": "гъвкавост", "en": "flexibility", "pronunciation": "guv-ka-VOST", "example": "Работя върху гъвкавостта си.", "type": "noun" },
+    { "bg": "абонамент", "en": "membership/subscription", "pronunciation": "a-bo-na-MENT", "example": "Абонаментът за фитнеса е петдесет лева.", "type": "noun" },
+    { "bg": "отпочивам", "en": "to rest/recover", "pronunciation": "ot-po-CHI-vam", "example": "Важно е да отпочиваш между сериите.", "type": "verb" }
+  ]
+}
