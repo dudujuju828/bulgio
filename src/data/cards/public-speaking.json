@@ -1,0 +1,28 @@
+{
+  "category": "Public Speaking",
+  "cards": [
+    { "bg": "реч", "en": "speech", "pronunciation": "rech", "example": "Речта му продължи двадесет минути.", "type": "noun" },
+    { "bg": "оратор", "en": "speaker/orator", "pronunciation": "o-RA-tor", "example": "Ораторът говори уверено пред публиката.", "type": "noun" },
+    { "bg": "публика", "en": "audience", "pronunciation": "PUB-li-ka", "example": "Публиката аплодира след презентацията.", "type": "noun" },
+    { "bg": "презентация", "en": "presentation", "pronunciation": "pre-zen-TA-tsi-ya", "example": "Подготвих презентация за утрешната среща.", "type": "noun" },
+    { "bg": "микрофон", "en": "microphone", "pronunciation": "mik-ro-FON", "example": "Микрофонът не работи, говори по-силно.", "type": "noun" },
+    { "bg": "трибуна", "en": "podium/lectern", "pronunciation": "tri-BU-na", "example": "Застани зад трибуната и започни.", "type": "noun" },
+    { "bg": "увереност", "en": "confidence", "pronunciation": "u-VE-re-nost", "example": "Увереността идва с практиката.", "type": "noun" },
+    { "bg": "трема", "en": "stage fright", "pronunciation": "TRE-ma", "example": "Имам трема преди всяко изказване.", "type": "noun" },
+    { "bg": "изказване", "en": "statement/address", "pronunciation": "iz-KAZ-va-ne", "example": "Изказването му беше кратко и ясно.", "type": "noun" },
+    { "bg": "убеждавам", "en": "to persuade/convince", "pronunciation": "u-bezh-DA-vam", "example": "Трябва да убедиш аудиторията с аргументи.", "type": "verb" },
+    { "bg": "аргумент", "en": "argument/point", "pronunciation": "ar-gu-MENT", "example": "Представи три силни аргумента.", "type": "noun" },
+    { "bg": "жест", "en": "gesture", "pronunciation": "zhest", "example": "Използвай жестове, за да подчертаеш думите си.", "type": "noun" },
+    { "bg": "контакт с очите", "en": "eye contact", "pronunciation": "kon-TAKT s o-CHI-te", "example": "Поддържай контакт с очите на публиката.", "type": "noun" },
+    { "bg": "слайд", "en": "slide", "pronunciation": "slayd", "example": "На следващия слайд ще покажа графиката.", "type": "noun" },
+    { "bg": "въпрос", "en": "question", "pronunciation": "vu-PROS", "example": "Има ли въпроси от публиката?", "type": "noun" },
+    { "bg": "отговарям", "en": "to answer/respond", "pronunciation": "ot-go-VA-ryam", "example": "Ще отговоря на всички въпроси накрая.", "type": "verb" },
+    { "bg": "пауза", "en": "pause", "pronunciation": "PA-u-za", "example": "Направи пауза за ефект преди важната точка.", "type": "noun" },
+    { "bg": "тон", "en": "tone (of voice)", "pronunciation": "ton", "example": "Променяй тона си, за да задържиш вниманието.", "type": "noun" },
+    { "bg": "аплодисменти", "en": "applause", "pronunciation": "ap-lo-dis-MEN-ti", "example": "Речта завърши с бурни аплодисменти.", "type": "noun" },
+    { "bg": "конференция", "en": "conference", "pronunciation": "kon-fe-REN-tsi-ya", "example": "Говоря на конференция в НДК.", "type": "noun" },
+    { "bg": "лектор", "en": "lecturer", "pronunciation": "LEK-tor", "example": "Лекторът е професор от Софийския университет.", "type": "noun" },
+    { "bg": "репетирам", "en": "to rehearse", "pronunciation": "re-pe-TI-ram", "example": "Репетирах речта си пет пъти.", "type": "verb" },
+    { "bg": "заключение", "en": "conclusion", "pronunciation": "za-klyu-CHE-ni-e", "example": "В заключение искам да благодаря на всички.", "type": "noun" }
+  ]
+}
