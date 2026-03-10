@@ -1,0 +1,28 @@
+{
+  "category": "Insurance & Social Security",
+  "cards": [
+    { "bg": "застраховка", "en": "insurance", "pronunciation": "za-stra-HOV-ka", "example": "Застраховката на колата изтича следващия месец.", "type": "noun" },
+    { "bg": "застраховам", "en": "to insure", "pronunciation": "za-stra-HO-vam", "example": "Застраховах апартамента срещу пожар.", "type": "verb" },
+    { "bg": "здравна осигуровка", "en": "health insurance", "pronunciation": "ZDRAV-na o-si-gu-ROV-ka", "example": "Здравната осигуровка покрива прегледите.", "type": "noun" },
+    { "bg": "каско", "en": "comprehensive car insurance", "pronunciation": "KAS-ko", "example": "Каското покрива щети от градушка.", "type": "noun" },
+    { "bg": "Гражданска отговорност", "en": "third-party car insurance", "pronunciation": "grazh-DAN-ska ot-go-VOR-nost", "example": "Гражданската отговорност е задължителна за всеки автомобил.", "type": "noun" },
+    { "bg": "полица", "en": "insurance policy", "pronunciation": "PO-li-tsa", "example": "Полицата е валидна за една година.", "type": "noun" },
+    { "bg": "премия", "en": "premium (payment)", "pronunciation": "PRE-mi-ya", "example": "Месечната премия е петдесет лева.", "type": "noun" },
+    { "bg": "обезщетение", "en": "compensation/indemnity", "pronunciation": "o-bez-shte-TE-ni-e", "example": "Получих обезщетение за щетите от наводнението.", "type": "noun" },
+    { "bg": "щета", "en": "damage/loss", "pronunciation": "SHTE-ta", "example": "Щетите от катастрофата бяха покрити от застраховката.", "type": "noun" },
+    { "bg": "иск", "en": "claim", "pronunciation": "isk", "example": "Подадох иск към застрахователната компания.", "type": "noun" },
+    { "bg": "застрахователна компания", "en": "insurance company", "pronunciation": "za-stra-ho-VA-tel-na kom-PA-ni-ya", "example": "Застрахователната компания одобри плащането.", "type": "noun" },
+    { "bg": "НОИ", "en": "National Social Security Institute", "pronunciation": "en-o-I", "example": "НОИ изплаща пенсиите и обезщетенията.", "type": "noun" },
+    { "bg": "осигуровки", "en": "social security contributions", "pronunciation": "o-si-gu-ROV-ki", "example": "Работодателят внася осигуровки всеки месец.", "type": "noun" },
+    { "bg": "пенсия", "en": "pension", "pronunciation": "PEN-si-ya", "example": "Пенсията се получава след навършване на определена възраст.", "type": "noun" },
+    { "bg": "пенсиониране", "en": "retirement", "pronunciation": "pen-si-o-NI-ra-ne", "example": "Пенсионирането му е след две години.", "type": "noun" },
+    { "bg": "болничен лист", "en": "sick leave certificate", "pronunciation": "bol-NI-chen list", "example": "Лекарят ми издаде болничен лист за седмица.", "type": "noun" },
+    { "bg": "майчинство", "en": "maternity leave", "pronunciation": "may-CHIN-stvo", "example": "Майчинството в България е до две години.", "type": "noun" },
+    { "bg": "обезщетение за безработица", "en": "unemployment benefit", "pronunciation": "o-bez-shte-TE-ni-e za bez-ra-BO-ti-tsa", "example": "Регистрирах се в бюрото по труда за обезщетение за безработица.", "type": "noun" },
+    { "bg": "животозастраховане", "en": "life insurance", "pronunciation": "zhi-vo-to-za-stra-HO-va-ne", "example": "Животозастраховането гарантира финансова сигурност на семейството.", "type": "noun" },
+    { "bg": "имуществена застраховка", "en": "property insurance", "pronunciation": "i-mu-SHEST-ve-na za-stra-HOV-ka", "example": "Имуществената застраховка покрива кражба и пожар.", "type": "noun" },
+    { "bg": "туристическа застраховка", "en": "travel insurance", "pronunciation": "tu-ris-TI-ches-ka za-stra-HOV-ka", "example": "Направи си туристическа застраховка преди пътуването.", "type": "noun" },
+    { "bg": "франшиз", "en": "deductible/excess", "pronunciation": "fran-SHIZ", "example": "Франшизът е двеста лева при всяка щета.", "type": "noun" },
+    { "bg": "застрахователен агент", "en": "insurance agent", "pronunciation": "za-stra-ho-VA-te-len a-GENT", "example": "Застрахователният агент ми предложи по-добра оферта.", "type": "noun" }
+  ]
+}
