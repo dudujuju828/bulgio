@@ -1,0 +1,27 @@
+{
+  "category": "Zodiac",
+  "cards": [
+    { "bg": "зодия", "en": "zodiac sign", "pronunciation": "ZO-di-ya", "example": "Каква зодия си?", "type": "noun" },
+    { "bg": "хороскоп", "en": "horoscope", "pronunciation": "ho-ros-KOP", "example": "Четеш ли хороскопа всяка сутрин?", "type": "noun" },
+    { "bg": "Овен", "en": "Aries", "pronunciation": "O-ven", "example": "Овенът е първата зодия.", "type": "noun" },
+    { "bg": "Телец", "en": "Taurus", "pronunciation": "te-LETS", "example": "Телците са упорити и търпеливи.", "type": "noun" },
+    { "bg": "Близнаци", "en": "Gemini", "pronunciation": "bliz-NA-tsi", "example": "Близнаците са общителни и любопитни.", "type": "noun" },
+    { "bg": "Рак", "en": "Cancer", "pronunciation": "rak", "example": "Раците са чувствителни и семейни.", "type": "noun" },
+    { "bg": "Лъв", "en": "Leo", "pronunciation": "luv", "example": "Лъвовете обичат да са в центъра на вниманието.", "type": "noun" },
+    { "bg": "Дева", "en": "Virgo", "pronunciation": "DE-va", "example": "Девите са перфекционисти.", "type": "noun" },
+    { "bg": "Везни", "en": "Libra", "pronunciation": "VEZ-ni", "example": "Везните търсят баланс във всичко.", "type": "noun" },
+    { "bg": "Скорпион", "en": "Scorpio", "pronunciation": "skor-pi-ON", "example": "Скорпионите са страстни и решителни.", "type": "noun" },
+    { "bg": "Стрелец", "en": "Sagittarius", "pronunciation": "stre-LETS", "example": "Стрелците обичат пътешествия и приключения.", "type": "noun" },
+    { "bg": "Козирог", "en": "Capricorn", "pronunciation": "ko-zi-ROG", "example": "Козирозите са амбициозни и дисциплинирани.", "type": "noun" },
+    { "bg": "Водолей", "en": "Aquarius", "pronunciation": "vo-do-LEY", "example": "Водолеите са независими и оригинални.", "type": "noun" },
+    { "bg": "Риби", "en": "Pisces", "pronunciation": "RI-bi", "example": "Рибите са мечтателни и интуитивни.", "type": "noun" },
+    { "bg": "стихия", "en": "element", "pronunciation": "sti-HI-ya", "example": "Всяка зодия принадлежи към определена стихия.", "type": "noun" },
+    { "bg": "огнена зодия", "en": "fire sign", "pronunciation": "OG-ne-na ZO-di-ya", "example": "Овен, Лъв и Стрелец са огнени зодии.", "type": "noun" },
+    { "bg": "земна зодия", "en": "earth sign", "pronunciation": "ZEM-na ZO-di-ya", "example": "Телец, Дева и Козирог са земни зодии.", "type": "noun" },
+    { "bg": "въздушна зодия", "en": "air sign", "pronunciation": "vuz-DUSH-na ZO-di-ya", "example": "Близнаци, Везни и Водолей са въздушни зодии.", "type": "noun" },
+    { "bg": "водна зодия", "en": "water sign", "pronunciation": "VOD-na ZO-di-ya", "example": "Рак, Скорпион и Риби са водни зодии.", "type": "noun" },
+    { "bg": "съвместимост", "en": "compatibility", "pronunciation": "suv-mes-TI-most", "example": "Проверих съвместимостта на зодиите ни.", "type": "noun" },
+    { "bg": "предсказание", "en": "prediction/forecast", "pronunciation": "pred-ska-ZA-ni-e", "example": "Днешното предсказание е положително.", "type": "noun" },
+    { "bg": "вярвам в зодиите", "en": "to believe in zodiac signs", "pronunciation": "VYAR-vam v ZO-di-i-te", "example": "Не вярвам в зодиите, но ги чета за забавление.", "type": "phrase" }
+  ]
+}
