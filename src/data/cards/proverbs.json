@@ -1,0 +1,25 @@
+{
+  "category": "Proverbs",
+  "cards": [
+    { "bg": "Който рано рани, два пъти печели.", "en": "The early bird catches the worm.", "pronunciation": "KOY-to RA-no RA-ni, dva PU-ti pe-CHE-li", "example": "Ставай рано — който рано рани, два пъти печели.", "type": "phrase" },
+    { "bg": "Капка по капка — вир става.", "en": "Drop by drop — a pool is formed. (Little by little.)", "pronunciation": "KAP-ka po KAP-ka — vir STA-va", "example": "Спестявай всеки ден, капка по капка — вир става.", "type": "phrase" },
+    { "bg": "Дай боже, ще ти се върне.", "en": "Give freely, it will come back to you.", "pronunciation": "day BO-zhe, shte ti se VURNE", "example": "Помагай на хората — дай боже, ще ти се върне.", "type": "phrase" },
+    { "bg": "На вълка му е дебел вратът, защото сам си върши работата.", "en": "The wolf's neck is thick because he does his own work.", "pronunciation": "na VUL-ka mu e de-BEL vra-TUT, zash-TO-to sam si VUR-shi ra-BO-ta-ta", "example": "Не чакай от другите — на вълка му е дебел вратът, защото сам си върши работата.", "type": "phrase" },
+    { "bg": "Който търси — намира.", "en": "He who seeks — finds.", "pronunciation": "KOY-to TUR-si — na-MI-ra", "example": "Не се отказвай, който търси — намира.", "type": "phrase" },
+    { "bg": "Тихите води са най-дълбоки.", "en": "Still waters run deep.", "pronunciation": "TI-hi-te VO-di sa nay-dul-BO-ki", "example": "Не го подценявай — тихите води са най-дълбоки.", "type": "phrase" },
+    { "bg": "По дрехите посрещат, по ума изпращат.", "en": "They greet you by your clothes, they see you off by your mind.", "pronunciation": "po DRE-hi-te pos-RESH-tat, po u-MA iz-PRA-shtat", "example": "Облечи се добре за интервюто — по дрехите посрещат, по ума изпращат.", "type": "phrase" },
+    { "bg": "Бързата кучка слепи ги ражда.", "en": "The hasty dog gives birth to blind pups. (Haste makes waste.)", "pronunciation": "BUR-za-ta KUCH-ka sle-PI gi RAZH-da", "example": "Не бързай с решението — бързата кучка слепи ги ражда.", "type": "phrase" },
+    { "bg": "Два пъти мери, един път режи.", "en": "Measure twice, cut once.", "pronunciation": "dva PU-ti ME-ri, e-DIN put RE-zhi", "example": "Провери сметките отново — два пъти мери, един път режи.", "type": "phrase" },
+    { "bg": "Където има дим, има и огън.", "en": "Where there's smoke, there's fire.", "pronunciation": "ku-DE-to I-ma dim, I-ma i o-GUN", "example": "Слуховете не са случайни — където има дим, има и огън.", "type": "phrase" },
+    { "bg": "Ябълката не пада по-далеч от дървото.", "en": "The apple doesn't fall far from the tree.", "pronunciation": "ya-BUL-ka-ta ne PA-da po-da-LECH ot dur-VO-to", "example": "Синът е като баща си — ябълката не пада по-далеч от дървото.", "type": "phrase" },
+    { "bg": "На всяко гърне похлупак се намира.", "en": "Every pot finds its lid. (There's someone for everyone.)", "pronunciation": "na VSYA-ko GUR-ne poh-LU-pak se na-MI-ra", "example": "Не се притеснявай, на всяко гърне похлупак се намира.", "type": "phrase" },
+    { "bg": "Когато котката я няма, мишките хоро играят.", "en": "When the cat's away, the mice will play.", "pronunciation": "ko-GA-to KOT-ka-ta ya NYA-ma, MISH-ki-te ho-RO ig-RA-yat", "example": "Шефът е в отпуска — когато котката я няма, мишките хоро играят.", "type": "phrase" },
+    { "bg": "Краставата овца цялото стадо опаршивява.", "en": "One bad apple spoils the bunch.", "pronunciation": "kras-TA-va-ta ov-TSA TSYA-lo-to STA-do o-par-shi-VYA-va", "example": "Внимавай с кого се събираш — краставата овца цялото стадо опаршивява.", "type": "phrase" },
+    { "bg": "На готово и попът яде.", "en": "Even a priest eats for free. (Everyone takes a freebie.)", "pronunciation": "na GO-to-vo i po-PUT YA-de", "example": "Не се учудвай, че искат — на готово и попът яде.", "type": "phrase" },
+    { "bg": "Който копае гроб другиму, сам пада в него.", "en": "He who digs a pit for others falls in it himself.", "pronunciation": "KOY-to ko-PA-e grob dru-GI-mu, sam PA-da v NE-go", "example": "Не прави зло — който копае гроб другиму, сам пада в него.", "type": "phrase" },
+    { "bg": "Умен враг е по-добър от глупав приятел.", "en": "A wise enemy is better than a foolish friend.", "pronunciation": "U-men vrag e po-DO-bur ot GLU-pav pri-YA-tel", "example": "Внимавай кому се доверяваш — умен враг е по-добър от глупав приятел.", "type": "phrase" },
+    { "bg": "Дървото се познава по плода.", "en": "A tree is known by its fruit.", "pronunciation": "dur-VO-to se poz-NA-va po PLO-da", "example": "Гледай делата, не думите — дървото се познава по плода.", "type": "phrase" },
+    { "bg": "Око за око, зъб за зъб.", "en": "An eye for an eye, a tooth for a tooth.", "pronunciation": "O-ko za O-ko, zub za zub", "example": "Той вярва в справедливостта — око за око, зъб за зъб.", "type": "phrase" },
+    { "bg": "На крив дявол, крива свещ.", "en": "For a crooked devil, a crooked candle. (Fight fire with fire.)", "pronunciation": "na kriv DYA-vol, KRI-va svesht", "example": "Понякога трябва хитрост — на крив дявол, крива свещ.", "type": "phrase" }
+  ]
+}
