@@ -1,0 +1,28 @@
+{
+  "category": "Rivers",
+  "cards": [
+    { "bg": "река", "en": "river", "pronunciation": "re-KA", "example": "Дунав е най-дългата река, минаваща през България.", "type": "noun" },
+    { "bg": "поток", "en": "stream/creek", "pronunciation": "po-TOK", "example": "Планинският поток тече бързо след дъжда.", "type": "noun" },
+    { "bg": "течение", "en": "current", "pronunciation": "te-CHE-ni-e", "example": "Течението на Марица е силно напролет.", "type": "noun" },
+    { "bg": "приток", "en": "tributary", "pronunciation": "PRI-tok", "example": "Тунджа е приток на Марица.", "type": "noun" },
+    { "bg": "устие", "en": "river mouth/estuary", "pronunciation": "US-ti-e", "example": "Устието на Камчия е защитена природна зона.", "type": "noun" },
+    { "bg": "извор", "en": "spring/source", "pronunciation": "iz-VOR", "example": "Изворът на Искър е в Рила.", "type": "noun" },
+    { "bg": "бряг", "en": "bank/shore", "pronunciation": "bryag", "example": "Седнахме на брега на реката.", "type": "noun" },
+    { "bg": "мост", "en": "bridge", "pronunciation": "most", "example": "Мостът над Янтра е от римско време.", "type": "noun" },
+    { "bg": "язовир", "en": "dam/reservoir", "pronunciation": "ya-zo-VIR", "example": "Язовир Искър снабдява София с вода.", "type": "noun" },
+    { "bg": "наводнение", "en": "flood", "pronunciation": "na-vod-NE-ni-e", "example": "След проливния дъжд имаше наводнение.", "type": "noun" },
+    { "bg": "разливам се", "en": "to overflow/flood", "pronunciation": "raz-LI-vam se", "example": "Реката се разля и наводни полетата.", "type": "verb" },
+    { "bg": "тече", "en": "to flow", "pronunciation": "te-CHE", "example": "Реката тече спокойно през равнината.", "type": "verb" },
+    { "bg": "корито", "en": "riverbed", "pronunciation": "ko-RI-to", "example": "През лятото коритото на реката пресъхва.", "type": "noun" },
+    { "bg": "пресъхвам", "en": "to dry up", "pronunciation": "pre-SUH-vam", "example": "Малките реки пресъхват в жегите.", "type": "verb" },
+    { "bg": "бент", "en": "weir/small dam", "pronunciation": "bent", "example": "Децата се къпеха при бента.", "type": "noun" },
+    { "bg": "водопад", "en": "waterfall", "pronunciation": "vo-do-PAD", "example": "Крушунските водопади привличат много туристи.", "type": "noun" },
+    { "bg": "делта", "en": "delta", "pronunciation": "DEL-ta", "example": "Делтата на Дунав е богата на птици.", "type": "noun" },
+    { "bg": "дълбочина", "en": "depth", "pronunciation": "dul-bo-chi-NA", "example": "Дълбочината на реката тук е три метра.", "type": "noun" },
+    { "bg": "плитко", "en": "shallow", "pronunciation": "PLIT-ko", "example": "Тук е плитко, можеш да минеш пеша.", "type": "adjective" },
+    { "bg": "бързей", "en": "rapids", "pronunciation": "bur-ZEY", "example": "Бързеите на Струма са популярни за рафтинг.", "type": "noun" },
+    { "bg": "рафтинг", "en": "rafting", "pronunciation": "RAF-ting", "example": "Правихме рафтинг по река Струма.", "type": "noun" },
+    { "bg": "рибар", "en": "fisherman", "pronunciation": "ri-BAR", "example": "Рибарите ловят сом в Дунав.", "type": "noun" },
+    { "bg": "къпя се", "en": "to swim/bathe (in river)", "pronunciation": "KU-pya se", "example": "Забранено е да се къпете в тази река.", "type": "verb" }
+  ]
+}
