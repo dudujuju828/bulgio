@@ -1,0 +1,27 @@
+{
+  "category": "Photography",
+  "cards": [
+    { "bg": "снимка", "en": "photo/picture", "pronunciation": "SNIM-ka", "example": "Тази снимка е много красива.", "type": "noun" },
+    { "bg": "фотоапарат", "en": "camera", "pronunciation": "fo-to-a-pa-RAT", "example": "Купих нов фотоапарат за пътуването.", "type": "noun" },
+    { "bg": "обектив", "en": "lens", "pronunciation": "ob-ek-TIV", "example": "Този обектив е за портретна фотография.", "type": "noun" },
+    { "bg": "снимам", "en": "to take a photo", "pronunciation": "SNI-mam", "example": "Може ли да ни снимате, моля?", "type": "verb" },
+    { "bg": "светкавица", "en": "flash", "pronunciation": "svet-KA-vi-tsa", "example": "Изключи светкавицата, тук е забранено.", "type": "noun" },
+    { "bg": "светлина", "en": "light", "pronunciation": "svet-li-NA", "example": "Светлината е най-добра сутрин рано.", "type": "noun" },
+    { "bg": "сянка", "en": "shadow", "pronunciation": "SYAN-ka", "example": "Сянките правят снимката по-интересна.", "type": "noun" },
+    { "bg": "фокус", "en": "focus", "pronunciation": "FO-kus", "example": "Снимката не е на фокус.", "type": "noun" },
+    { "bg": "размазан", "en": "blurry", "pronunciation": "raz-MA-zan", "example": "Снимката излезе размазана.", "type": "adjective" },
+    { "bg": "портрет", "en": "portrait", "pronunciation": "por-TRET", "example": "Специализирам се в портретна фотография.", "type": "noun" },
+    { "bg": "пейзаж", "en": "landscape", "pronunciation": "pey-ZAZH", "example": "Снимах пейзажи в Родопите.", "type": "noun" },
+    { "bg": "селфи", "en": "selfie", "pronunciation": "SEL-fi", "example": "Направихме селфи пред катедралата.", "type": "noun" },
+    { "bg": "редактирам", "en": "to edit", "pronunciation": "re-dak-TI-ram", "example": "Редактирам снимките на компютъра.", "type": "verb" },
+    { "bg": "отпечатвам", "en": "to print", "pronunciation": "ot-pe-CHAT-vam", "example": "Отпечатах снимките в голям размер.", "type": "verb" },
+    { "bg": "албум", "en": "album", "pronunciation": "AL-bum", "example": "Бабиният фотоалбум е пълен със спомени.", "type": "noun" },
+    { "bg": "рамка", "en": "frame", "pronunciation": "RAM-ka", "example": "Сложих снимката в красива рамка.", "type": "noun" },
+    { "bg": "статив", "en": "tripod", "pronunciation": "sta-TIV", "example": "За нощни снимки ти трябва статив.", "type": "noun" },
+    { "bg": "кадър", "en": "shot/frame", "pronunciation": "KA-dur", "example": "Този кадър е перфектен.", "type": "noun" },
+    { "bg": "увеличавам", "en": "to zoom in", "pronunciation": "u-ve-li-CHA-vam", "example": "Увеличи снимката да видим детайлите.", "type": "verb" },
+    { "bg": "намалявам", "en": "to zoom out", "pronunciation": "na-ma-LYA-vam", "example": "Намали малко, за да се побере всичко.", "type": "verb" },
+    { "bg": "изложба", "en": "exhibition", "pronunciation": "iz-LOZH-ba", "example": "Отидохме на фотоизложба в галерията.", "type": "noun" },
+    { "bg": "черно-бял", "en": "black and white", "pronunciation": "CHER-no BYAL", "example": "Черно-белите снимки имат специално настроение.", "type": "adjective" }
+  ]
+}
