@@ -1,0 +1,28 @@
+{
+  "category": "Aviation & Flying",
+  "cards": [
+    { "bg": "авиация", "en": "aviation", "pronunciation": "a-vi-A-tsi-ya", "example": "Авиацията е революционизирала пътуванията.", "type": "noun" },
+    { "bg": "самолет", "en": "airplane", "pronunciation": "sa-mo-LET", "example": "Самолетът каца на летище София.", "type": "noun" },
+    { "bg": "пилот", "en": "pilot", "pronunciation": "pi-LOT", "example": "Пилотът съобщи, че кацаме след десет минути.", "type": "noun" },
+    { "bg": "стюардеса", "en": "flight attendant (f)", "pronunciation": "styu-ar-DE-sa", "example": "Стюардесата донесе напитки.", "type": "noun" },
+    { "bg": "излитане", "en": "takeoff", "pronunciation": "iz-LI-ta-ne", "example": "Излитането е в осем и половина.", "type": "noun" },
+    { "bg": "кацане", "en": "landing", "pronunciation": "KA-tsa-ne", "example": "Кацането беше гладко въпреки вятъра.", "type": "noun" },
+    { "bg": "полет", "en": "flight", "pronunciation": "po-LET", "example": "Полетът до Лондон е два часа и половина.", "type": "noun" },
+    { "bg": "кабина", "en": "cabin", "pronunciation": "ka-BI-na", "example": "Пристегнете коланите в кабината.", "type": "noun" },
+    { "bg": "пилотска кабина", "en": "cockpit", "pronunciation": "pi-LOT-ska ka-BI-na", "example": "Пилотската кабина е заключена по време на полет.", "type": "noun" },
+    { "bg": "турбуленция", "en": "turbulence", "pronunciation": "tur-bu-LEN-tsi-ya", "example": "Преминаваме през зона на турбуленция.", "type": "noun" },
+    { "bg": "височина", "en": "altitude", "pronunciation": "vi-so-chi-NA", "example": "Летим на височина десет хиляди метра.", "type": "noun" },
+    { "bg": "крило", "en": "wing", "pronunciation": "kri-LO", "example": "Седя до прозореца и виждам крилото.", "type": "noun" },
+    { "bg": "двигател", "en": "engine", "pronunciation": "DVI-ga-tel", "example": "Самолетът има два двигателя.", "type": "noun" },
+    { "bg": "колесник", "en": "landing gear", "pronunciation": "ko-LES-nik", "example": "Колесникът се прибра след излитането.", "type": "noun" },
+    { "bg": "писта", "en": "runway", "pronunciation": "PIS-ta", "example": "Самолетът чака на пистата.", "type": "noun" },
+    { "bg": "контролна кула", "en": "control tower", "pronunciation": "kon-TROL-na KU-la", "example": "Контролната кула даде разрешение за кацане.", "type": "noun" },
+    { "bg": "хеликоптер", "en": "helicopter", "pronunciation": "he-li-KOP-ter", "example": "Хеликоптерът кацна на покрива на болницата.", "type": "noun" },
+    { "bg": "черна кутия", "en": "black box (flight recorder)", "pronunciation": "CHER-na KU-ti-ya", "example": "Черната кутия записва данните от полета.", "type": "noun" },
+    { "bg": "спасителна жилетка", "en": "life vest", "pronunciation": "spa-SI-tel-na zhi-LET-ka", "example": "Спасителната жилетка е под седалката.", "type": "noun" },
+    { "bg": "аварийно кацане", "en": "emergency landing", "pronunciation": "a-va-RIY-no KA-tsa-ne", "example": "Пилотът извърши аварийно кацане.", "type": "noun" },
+    { "bg": "нискотарифна авиокомпания", "en": "low-cost airline", "pronunciation": "nis-ko-ta-RIF-na a-vi-o-kom-PA-ni-ya", "example": "Летя с нискотарифна авиокомпания до Барселона.", "type": "noun" },
+    { "bg": "директен полет", "en": "direct flight", "pronunciation": "di-REK-ten po-LET", "example": "Има директен полет от София до Амстердам.", "type": "noun" },
+    { "bg": "междинно кацане", "en": "layover/stopover", "pronunciation": "mezh-DIN-no KA-tsa-ne", "example": "Полетът е с междинно кацане във Виена.", "type": "noun" }
+  ]
+}
