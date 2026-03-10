@@ -1,0 +1,27 @@
+{
+  "category": "Bulgarian Folk Instruments",
+  "cards": [
+    { "bg": "гайда", "en": "gaida (Bulgarian bagpipe)", "pronunciation": "GAY-da", "example": "Гайдата е символ на родопската музика.", "type": "noun" },
+    { "bg": "гайдар", "en": "gaida player", "pronunciation": "gay-DAR", "example": "Гайдарят свири на събора в Копривщица.", "type": "noun" },
+    { "bg": "кавал", "en": "kaval (wooden flute)", "pronunciation": "ka-VAL", "example": "Кавалът има мек и мелодичен звук.", "type": "noun" },
+    { "bg": "тъпан", "en": "tupan (large drum)", "pronunciation": "tu-PAN", "example": "Тъпанарят задава ритъма на хорото.", "type": "noun" },
+    { "bg": "тъпанар", "en": "tupan player", "pronunciation": "tu-pa-NAR", "example": "Тъпанарят удря с палка и пръчка.", "type": "noun" },
+    { "bg": "гъдулка", "en": "gadulka (bowed string instrument)", "pronunciation": "gu-DUL-ka", "example": "Гъдулката е типична за тракийската музика.", "type": "noun" },
+    { "bg": "тамбура", "en": "tambura (long-necked lute)", "pronunciation": "tam-BU-ra", "example": "Тамбурата съпровожда народните песни.", "type": "noun" },
+    { "bg": "зурна", "en": "zurna (double-reed wind instrument)", "pronunciation": "zur-NA", "example": "Зурната е силна и се чува отдалеч.", "type": "noun" },
+    { "bg": "двоянка", "en": "dvoyanka (double flute)", "pronunciation": "dvo-YAN-ka", "example": "Двоянката свири две мелодии едновременно.", "type": "noun" },
+    { "bg": "народна музика", "en": "folk music", "pronunciation": "na-ROD-na MU-zi-ka", "example": "Българската народна музика е уникална в света.", "type": "noun" },
+    { "bg": "народна песен", "en": "folk song", "pronunciation": "na-ROD-na pe-SEN", "example": "Народната песен Излел е Дельо хайдутин лети в космоса.", "type": "noun" },
+    { "bg": "хоро", "en": "horo (chain dance)", "pronunciation": "ho-RO", "example": "Цялото село се хвана на хоро.", "type": "noun" },
+    { "bg": "ръченица", "en": "rachenitsa (solo dance)", "pronunciation": "ru-che-NI-tsa", "example": "Ръченицата е в седем осми такт.", "type": "noun" },
+    { "bg": "такт", "en": "time signature/rhythm", "pronunciation": "takt", "example": "Българската музика е известна с нечетните тактове.", "type": "noun" },
+    { "bg": "мелодия", "en": "melody", "pronunciation": "me-LO-di-ya", "example": "Мелодията е тъжна и красива.", "type": "noun" },
+    { "bg": "ритъм", "en": "rhythm", "pronunciation": "RI-tum", "example": "Ритъмът на тъпана кара хората да танцуват.", "type": "noun" },
+    { "bg": "събор", "en": "festival/gathering", "pronunciation": "su-BOR", "example": "Съборът в Копривщица е на всеки пет години.", "type": "noun" },
+    { "bg": "оркестър", "en": "folk orchestra/ensemble", "pronunciation": "or-KES-tur", "example": "Оркестърът свири на сватбата цяла нощ.", "type": "noun" },
+    { "bg": "Мистерията на българските гласове", "en": "Le Mystère des Voix Bulgares", "pronunciation": "mis-TE-ri-ya-ta na bul-GAR-ski-te gla-SO-ve", "example": "Мистерията на българските гласове спечели Грами.", "type": "noun" },
+    { "bg": "многогласие", "en": "polyphony", "pronunciation": "mno-go-GLA-si-e", "example": "Българското многогласие е уникално.", "type": "noun" },
+    { "bg": "свирач", "en": "musician/player", "pronunciation": "svi-RACH", "example": "Свирачът научи занаята от дядо си.", "type": "noun" },
+    { "bg": "свиря", "en": "to play (instrument)", "pronunciation": "SVI-rya", "example": "Свиря на кавал от десетгодишен.", "type": "verb" }
+  ]
+}
