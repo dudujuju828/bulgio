@@ -1,0 +1,25 @@
+{
+  "category": "Drinks",
+  "cards": [
+    { "bg": "вода", "en": "water", "pronunciation": "vo-DA", "example": "Една чаша вода, моля.", "type": "noun" },
+    { "bg": "кафе", "en": "coffee", "pronunciation": "ka-FE", "example": "Пия кафе всяка сутрин.", "type": "noun" },
+    { "bg": "чай", "en": "tea", "pronunciation": "chay", "example": "Обичам чай с мед и лимон.", "type": "noun" },
+    { "bg": "бира", "en": "beer", "pronunciation": "BI-ra", "example": "Една бира, моля.", "type": "noun" },
+    { "bg": "вино", "en": "wine", "pronunciation": "vi-NO", "example": "Българското вино е много добро.", "type": "noun" },
+    { "bg": "сок", "en": "juice", "pronunciation": "sok", "example": "Искам портокалов сок.", "type": "noun" },
+    { "bg": "мляко", "en": "milk", "pronunciation": "MLYA-ko", "example": "Децата пият мляко за закуска.", "type": "noun" },
+    { "bg": "айрян", "en": "ayran (yogurt drink)", "pronunciation": "ay-RYAN", "example": "Айрянът е освежаваща напитка лятото.", "type": "noun" },
+    { "bg": "ракия", "en": "rakia (fruit brandy)", "pronunciation": "ra-KI-ya", "example": "Ракията е традиционна българска напитка.", "type": "noun" },
+    { "bg": "боза", "en": "boza (fermented drink)", "pronunciation": "BO-za", "example": "Пия боза с баничка.", "type": "noun" },
+    { "bg": "лимонада", "en": "lemonade", "pronunciation": "li-mo-NA-da", "example": "Лимонадата е студена и вкусна.", "type": "noun" },
+    { "bg": "газирана вода", "en": "sparkling water", "pronunciation": "ga-ZI-ra-na vo-DA", "example": "Искате ли газирана или обикновена вода?", "type": "noun" },
+    { "bg": "коктейл", "en": "cocktail", "pronunciation": "kok-TEYL", "example": "Поръчах коктейл на бара.", "type": "noun" },
+    { "bg": "напитка", "en": "drink/beverage", "pronunciation": "na-PIT-ka", "example": "Какви напитки имате?", "type": "noun" },
+    { "bg": "пия", "en": "to drink", "pronunciation": "PI-ya", "example": "Пия много вода всеки ден.", "type": "verb" },
+    { "bg": "наздраве", "en": "cheers", "pronunciation": "naz-DRA-ve", "example": "Наздраве! За здравето!", "type": "phrase" },
+    { "bg": "жаден", "en": "thirsty", "pronunciation": "ZHA-den", "example": "Много съм жаден, дай ми вода.", "type": "adjective" },
+    { "bg": "топъл шоколад", "en": "hot chocolate", "pronunciation": "TO-pul sho-ko-LAD", "example": "Зимата обичам топъл шоколад.", "type": "noun" },
+    { "bg": "с лед", "en": "with ice", "pronunciation": "s led", "example": "Кафе с лед, моля.", "type": "phrase" },
+    { "bg": "без захар", "en": "without sugar", "pronunciation": "bez za-HAR", "example": "Чай без захар, моля.", "type": "phrase" }
+  ]
+}
