@@ -1,0 +1,28 @@
+{
+  "category": "Rock Climbing & Bouldering",
+  "cards": [
+    { "bg": "катерене", "en": "climbing", "pronunciation": "ka-TE-re-ne", "example": "Катеренето е популярен спорт в Родопите.", "type": "noun" },
+    { "bg": "катеря се", "en": "to climb", "pronunciation": "KA-te-rya se", "example": "Катеря се по скалите всеки уикенд.", "type": "verb" },
+    { "bg": "скално катерене", "en": "rock climbing", "pronunciation": "SKAL-no ka-TE-re-ne", "example": "Скалното катерене изисква сила и техника.", "type": "noun" },
+    { "bg": "болдъринг", "en": "bouldering", "pronunciation": "bol-DU-ring", "example": "Болдърингът е катерене без въже на ниски скали.", "type": "noun" },
+    { "bg": "катерачна стена", "en": "climbing wall", "pronunciation": "ka-te-RACH-na ste-NA", "example": "Катерачната стена в зала Walltopia е огромна.", "type": "noun" },
+    { "bg": "въже", "en": "rope", "pronunciation": "vu-ZHE", "example": "Въжето те предпазва при падане.", "type": "noun" },
+    { "bg": "обвързка", "en": "harness", "pronunciation": "ob-VRUZ-ka", "example": "Обвързката трябва да е добре затегната.", "type": "noun" },
+    { "bg": "карабинер", "en": "carabiner", "pronunciation": "ka-ra-bi-NER", "example": "Карабинерът свързва въжето с обвързката.", "type": "noun" },
+    { "bg": "катерачни обувки", "en": "climbing shoes", "pronunciation": "ka-te-RACH-ni o-BUV-ki", "example": "Катерачните обувки са тесни за по-добро усещане.", "type": "noun" },
+    { "bg": "магнезий", "en": "chalk (climbing)", "pronunciation": "mag-NE-ziy", "example": "Магнезият предпазва ръцете от изпотяване.", "type": "noun" },
+    { "bg": "торбичка за магнезий", "en": "chalk bag", "pronunciation": "tor-BICH-ka za mag-NE-ziy", "example": "Торбичката за магнезий виси на кръста.", "type": "noun" },
+    { "bg": "хват", "en": "hold/grip", "pronunciation": "hvat", "example": "Хватовете на стената са с различни форми.", "type": "noun" },
+    { "bg": "стъпка", "en": "foothold", "pronunciation": "STUP-ka", "example": "Стъпката е малка — само за пръстите.", "type": "noun" },
+    { "bg": "маршрут", "en": "route", "pronunciation": "marsh-RUT", "example": "Маршрутът е с трудност 6а.", "type": "noun" },
+    { "bg": "трудност", "en": "grade/difficulty", "pronunciation": "TRUD-nost", "example": "Трудността варира от 3 до 9 по френската скала.", "type": "noun" },
+    { "bg": "осигуряване", "en": "belaying", "pronunciation": "o-si-gu-RYA-va-ne", "example": "Осигуряването е задача на партньора долу.", "type": "noun" },
+    { "bg": "осигурител", "en": "belayer", "pronunciation": "o-si-gu-ri-TEL", "example": "Осигурителят държи въжето опънато.", "type": "noun" },
+    { "bg": "осигурително устройство", "en": "belay device", "pronunciation": "o-si-gu-ri-TEL-no us-TROY-stvo", "example": "Осигурителното устройство контролира спускането.", "type": "noun" },
+    { "bg": "каска", "en": "helmet", "pronunciation": "KAS-ka", "example": "Каската предпазва от падащи камъни.", "type": "noun" },
+    { "bg": "падане", "en": "fall", "pronunciation": "PA-da-ne", "example": "Падането е част от ученето.", "type": "noun" },
+    { "bg": "дюлфер", "en": "rappelling/abseiling", "pronunciation": "dyul-FER", "example": "Дюлферът е спускане по въже от скалата.", "type": "noun" },
+    { "bg": "крак", "en": "crack (in rock)", "pronunciation": "krak", "example": "Кракът в скалата е идеален за хватове.", "type": "noun" },
+    { "bg": "връх", "en": "top/summit", "pronunciation": "vruh", "example": "Стигнах до върха на маршрута.", "type": "noun" }
+  ]
+}
