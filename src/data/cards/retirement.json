@@ -1,0 +1,27 @@
+{
+  "category": "Retirement",
+  "cards": [
+    { "bg": "пенсия", "en": "pension/retirement", "pronunciation": "PEN-si-ya", "example": "Пенсията ми е малка, но се справям.", "type": "noun" },
+    { "bg": "пенсионер", "en": "retiree/pensioner", "pronunciation": "pen-si-o-NER", "example": "Пенсионерите получават намаление в транспорта.", "type": "noun" },
+    { "bg": "пенсионирам се", "en": "to retire", "pronunciation": "pen-si-o-NI-ram se", "example": "Пенсионирах се на шестдесет и пет години.", "type": "verb" },
+    { "bg": "пенсионна възраст", "en": "retirement age", "pronunciation": "pen-si-ON-na vuz-RAST", "example": "Пенсионната възраст за мъже е шестдесет и пет.", "type": "noun" },
+    { "bg": "трудов стаж", "en": "years of service/work experience", "pronunciation": "tru-DOV stazh", "example": "Имам тридесет и осем години трудов стаж.", "type": "noun" },
+    { "bg": "НОИ", "en": "National Social Security Institute", "pronunciation": "en-o-I", "example": "Подадох документи в НОИ за пенсия.", "type": "noun" },
+    { "bg": "осигурителен доход", "en": "insurable income", "pronunciation": "o-si-gu-ri-TE-len do-HOD", "example": "Пенсията зависи от осигурителния доход.", "type": "noun" },
+    { "bg": "старост", "en": "old age", "pronunciation": "STA-rost", "example": "Искам да прекарам старостта си в родното село.", "type": "noun" },
+    { "bg": "възрастен", "en": "elderly/older", "pronunciation": "vuz-RAS-ten", "example": "Възрастните хора заслужават уважение.", "type": "adjective" },
+    { "bg": "баба", "en": "grandmother/elderly woman", "pronunciation": "BA-ba", "example": "Баба отглежда зеленчуци в градината.", "type": "noun" },
+    { "bg": "дядо", "en": "grandfather/elderly man", "pronunciation": "DYA-do", "example": "Дядо играе шах в парка всеки ден.", "type": "noun" },
+    { "bg": "дом за възрастни", "en": "retirement home", "pronunciation": "dom za vuz-RAST-ni", "example": "Домът за възрастни е в покрайнините на града.", "type": "noun" },
+    { "bg": "спестявания", "en": "savings", "pronunciation": "spes-TYA-va-ni-ya", "example": "Спестяванията ми допълват пенсията.", "type": "noun" },
+    { "bg": "допълнителна пенсия", "en": "supplementary pension", "pronunciation": "do-PUL-ni-tel-na PEN-si-ya", "example": "Допълнителната пенсия е от частен фонд.", "type": "noun" },
+    { "bg": "пенсионен фонд", "en": "pension fund", "pronunciation": "pen-si-O-nen fond", "example": "Осигурявам се в универсален пенсионен фонд.", "type": "noun" },
+    { "bg": "свободно време", "en": "free time/leisure", "pronunciation": "svo-BOD-no VRE-me", "example": "В пенсия имам много свободно време.", "type": "noun" },
+    { "bg": "внуци", "en": "grandchildren", "pronunciation": "VNU-tsi", "example": "Гледам внуците, докато родителите работят.", "type": "noun" },
+    { "bg": "здравна книжка", "en": "health booklet", "pronunciation": "ZDRAV-na KNIZH-ka", "example": "Пенсионерите имат право на безплатни прегледи.", "type": "noun" },
+    { "bg": "карта за намаление", "en": "discount card", "pronunciation": "KAR-ta za na-ma-LE-ni-e", "example": "С картата за намаление пътувам безплатно в градския транспорт.", "type": "noun" },
+    { "bg": "доживотна пенсия", "en": "lifetime pension", "pronunciation": "do-zhi-VOT-na PEN-si-ya", "example": "Доживотната пенсия се изплаща всеки месец.", "type": "noun" },
+    { "bg": "клуб на пенсионера", "en": "retirees' club", "pronunciation": "klub na pen-si-o-NE-ra", "example": "В клуба на пенсионера играят карти и шах.", "type": "noun" },
+    { "bg": "активна старост", "en": "active aging", "pronunciation": "ak-TIV-na STA-rost", "example": "Активната старост означава движение и социален живот.", "type": "noun" }
+  ]
+}
