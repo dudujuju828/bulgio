@@ -1,0 +1,28 @@
+{
+  "category": "Weightlifting & Strength Training",
+  "cards": [
+    { "bg": "вдигане на тежести", "en": "weightlifting", "pronunciation": "VDIG-a-ne na te-ZHES-ti", "example": "Вдигането на тежести укрепва мускулите.", "type": "noun" },
+    { "bg": "щанга", "en": "barbell", "pronunciation": "SHTAN-ga", "example": "Щангата тежи двадесет килограма без дисковете.", "type": "noun" },
+    { "bg": "дъмбел", "en": "dumbbell", "pronunciation": "DUM-bel", "example": "Дъмбелите са от пет до тридесет килограма.", "type": "noun" },
+    { "bg": "диск", "en": "weight plate", "pronunciation": "disk", "example": "Сложи два диска от по десет килограма.", "type": "noun" },
+    { "bg": "клек", "en": "squat", "pronunciation": "klek", "example": "Клекът е основно упражнение за краката.", "type": "noun" },
+    { "bg": "мъртва тяга", "en": "deadlift", "pronunciation": "MURT-va TYA-ga", "example": "Мъртвата тяга работи цялото тяло.", "type": "noun" },
+    { "bg": "жим от лег", "en": "bench press", "pronunciation": "zhim ot leg", "example": "Жимът от лег развива гръдните мускули.", "type": "noun" },
+    { "bg": "набиране", "en": "pull-up", "pronunciation": "na-BI-ra-ne", "example": "Правя десет набирания на лост.", "type": "noun" },
+    { "bg": "лост", "en": "pull-up bar", "pronunciation": "lost", "example": "Лостът е монтиран на вратата.", "type": "noun" },
+    { "bg": "серия", "en": "set (of reps)", "pronunciation": "SE-ri-ya", "example": "Правя три серии по дванадесет повторения.", "type": "noun" },
+    { "bg": "повторение", "en": "repetition/rep", "pronunciation": "pov-to-RE-ni-e", "example": "Последното повторение е най-трудното.", "type": "noun" },
+    { "bg": "тренировка", "en": "workout/training", "pronunciation": "tre-ni-ROV-ka", "example": "Тренировката трае час и половина.", "type": "noun" },
+    { "bg": "загрявка", "en": "warm-up", "pronunciation": "za-GRYAV-ka", "example": "Загрявката предотвратява контузии.", "type": "noun" },
+    { "bg": "разтягане", "en": "stretching", "pronunciation": "raz-TYA-ga-ne", "example": "Разтягането след тренировка е задължително.", "type": "noun" },
+    { "bg": "протеин", "en": "protein", "pronunciation": "pro-te-IN", "example": "Протеинът помага за възстановяване на мускулите.", "type": "noun" },
+    { "bg": "тежест", "en": "weight", "pronunciation": "te-ZHEST", "example": "Увеличавам тежестта всяка седмица.", "type": "noun" },
+    { "bg": "стойка", "en": "rack/stand", "pronunciation": "STOY-ka", "example": "Върни щангата на стойката след серията.", "type": "noun" },
+    { "bg": "пейка", "en": "bench", "pronunciation": "PEY-ka", "example": "Легни на пейката за жим.", "type": "noun" },
+    { "bg": "колан за вдигане", "en": "lifting belt", "pronunciation": "ko-LAN za VDIG-a-ne", "example": "Коланът за вдигане поддържа гърба.", "type": "noun" },
+    { "bg": "осигурител", "en": "spotter", "pronunciation": "o-si-gu-ri-TEL", "example": "Осигурителят помага при тежки опити.", "type": "noun" },
+    { "bg": "максимум", "en": "max/personal record", "pronunciation": "MAK-si-mum", "example": "Личният ми максимум на клек е сто килограма.", "type": "noun" },
+    { "bg": "гриф", "en": "bar grip/handle", "pronunciation": "grif", "example": "Хващам грифа с ширин на раменете.", "type": "noun" },
+    { "bg": "възстановяване", "en": "recovery", "pronunciation": "vuz-sta-no-VYA-va-ne", "example": "Възстановяването между тренировките е важно.", "type": "noun" }
+  ]
+}
