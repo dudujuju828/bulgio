@@ -1,0 +1,29 @@
+{
+  "category": "Real Estate",
+  "cards": [
+    { "bg": "имот", "en": "property/real estate", "pronunciation": "i-MOT", "example": "Търсим имот в околностите на Пловдив.", "type": "noun" },
+    { "bg": "недвижим имот", "en": "real estate (immovable property)", "pronunciation": "ne-DVI-zhim i-MOT", "example": "Цените на недвижимите имоти растат.", "type": "noun" },
+    { "bg": "агенция за имоти", "en": "real estate agency", "pronunciation": "a-GEN-tsi-ya za i-MO-ti", "example": "Обърнахме се към агенция за имоти.", "type": "noun" },
+    { "bg": "брокер", "en": "broker/agent", "pronunciation": "BRO-ker", "example": "Брокерът ни показа пет апартамента.", "type": "noun" },
+    { "bg": "купувам", "en": "to buy", "pronunciation": "ku-PU-vam", "example": "Купихме къща в село близо до морето.", "type": "verb" },
+    { "bg": "продавам", "en": "to sell", "pronunciation": "pro-DA-vam", "example": "Продаваме двустаен апартамент в центъра.", "type": "verb" },
+    { "bg": "наемам", "en": "to rent", "pronunciation": "na-E-mam", "example": "Наемаме офис в бизнес сграда.", "type": "verb" },
+    { "bg": "оглед", "en": "viewing/inspection", "pronunciation": "og-LED", "example": "Уговорихме оглед за утре следобед.", "type": "noun" },
+    { "bg": "квадратен метър", "en": "square meter", "pronunciation": "kvad-RA-ten ME-tur", "example": "Апартаментът е осемдесет квадратни метра.", "type": "noun" },
+    { "bg": "етаж", "en": "floor/story", "pronunciation": "e-TAZH", "example": "Живеем на петия етаж.", "type": "noun" },
+    { "bg": "едностаен", "en": "studio/one-room", "pronunciation": "ed-no-STA-en", "example": "Едностаен апартамент е достатъчен за мен.", "type": "adjective" },
+    { "bg": "двустаен", "en": "one-bedroom (two-room)", "pronunciation": "dvu-STA-en", "example": "Търсим двустаен апартамент под наем.", "type": "adjective" },
+    { "bg": "тристаен", "en": "two-bedroom (three-room)", "pronunciation": "tri-STA-en", "example": "Тристайният е идеален за семейство с дете.", "type": "adjective" },
+    { "bg": "панелка", "en": "panel block (Soviet-era building)", "pronunciation": "pa-NEL-ka", "example": "Много софиянци живеят в панелки.", "type": "noun" },
+    { "bg": "ново строителство", "en": "new construction", "pronunciation": "NO-vo stro-I-tel-stvo", "example": "Предпочитаме ново строителство с акт 16.", "type": "noun" },
+    { "bg": "акт 16", "en": "occupancy permit (act 16)", "pronunciation": "akt shest-NA-de-set", "example": "Сградата вече има акт 16.", "type": "noun" },
+    { "bg": "нотариален акт", "en": "title deed", "pronunciation": "no-ta-ri-A-len akt", "example": "Нотариалният акт е на твое име.", "type": "noun" },
+    { "bg": "ипотека", "en": "mortgage", "pronunciation": "i-po-TE-ka", "example": "Взехме ипотека от банката за двадесет години.", "type": "noun" },
+    { "bg": "вноска", "en": "installment/payment", "pronunciation": "VNOS-ka", "example": "Месечната вноска по ипотеката е осемстотин лева.", "type": "noun" },
+    { "bg": "капаро", "en": "deposit/earnest money", "pronunciation": "ka-pa-RO", "example": "Дадохме капаро, за да запазим имота.", "type": "noun" },
+    { "bg": "вход", "en": "entrance/stairwell", "pronunciation": "vhod", "example": "Апартаментът е във вход Б.", "type": "noun" },
+    { "bg": "тераса", "en": "balcony/terrace", "pronunciation": "te-RA-sa", "example": "От терасата се вижда Витоша.", "type": "noun" },
+    { "bg": "мазе", "en": "basement/cellar", "pronunciation": "ma-ZE", "example": "Към апартамента има мазе и гараж.", "type": "noun" },
+    { "bg": "таван", "en": "attic", "pronunciation": "ta-VAN", "example": "Преустроихме тавана в стая.", "type": "noun" }
+  ]
+}
