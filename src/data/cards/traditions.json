@@ -1,0 +1,27 @@
+{
+  "category": "Traditions",
+  "cards": [
+    { "bg": "традиция", "en": "tradition", "pronunciation": "tra-DI-tsi-ya", "example": "Българите пазят много стари традиции.", "type": "noun" },
+    { "bg": "обичай", "en": "custom/ritual", "pronunciation": "o-bi-CHAY", "example": "Кукерските обичаи са уникални.", "type": "noun" },
+    { "bg": "кукер", "en": "kuker (masked performer)", "pronunciation": "KU-ker", "example": "Кукерите гонят злите духове.", "type": "noun" },
+    { "bg": "нестинарство", "en": "fire dancing (nestinarstvo)", "pronunciation": "nes-ti-NAR-stvo", "example": "Нестинарството е танцуване върху жарава.", "type": "noun" },
+    { "bg": "сурвакане", "en": "survakane (New Year ritual)", "pronunciation": "sur-VA-ka-ne", "example": "На Нова година децата сурвакат за здраве.", "type": "noun" },
+    { "bg": "именен ден", "en": "name day", "pronunciation": "I-me-nen den", "example": "В България именният ден е по-важен от рождения.", "type": "noun" },
+    { "bg": "трапеза", "en": "feast/table spread", "pronunciation": "tra-PE-za", "example": "Коледната трапеза има нечетен брой ястия.", "type": "noun" },
+    { "bg": "кръщене", "en": "christening/baptism", "pronunciation": "kru-SHTE-ne", "example": "Кръщенето е важно събитие за семейството.", "type": "noun" },
+    { "bg": "кръстник", "en": "godfather", "pronunciation": "KRUST-nik", "example": "Кръстникът носи подарък за детето.", "type": "noun" },
+    { "bg": "кръстница", "en": "godmother", "pronunciation": "KRUST-ni-tsa", "example": "Кръстницата избира името на бебето.", "type": "noun" },
+    { "bg": "годеж", "en": "engagement", "pronunciation": "go-DEZH", "example": "Годежът е официално обещание за сватба.", "type": "noun" },
+    { "bg": "кумове", "en": "best man and maid of honor", "pronunciation": "KU-mo-ve", "example": "Кумовете държат венците на сватбата.", "type": "noun" },
+    { "bg": "хоро", "en": "horo (circle dance)", "pronunciation": "ho-RO", "example": "На всяко тържество се хваща хоро.", "type": "noun" },
+    { "bg": "мартеница", "en": "martenitsa (spring charm)", "pronunciation": "mar-te-NI-tsa", "example": "На Първи март подаряваме мартеници.", "type": "noun" },
+    { "bg": "баба Марта", "en": "Baba Marta (spring figure)", "pronunciation": "BA-ba MAR-ta", "example": "Баба Марта идва и зимата си отива.", "type": "noun" },
+    { "bg": "лазаруване", "en": "lazaruvane (Palm Saturday ritual)", "pronunciation": "la-za-RU-va-ne", "example": "Момичетата пеят лазарски песни.", "type": "noun" },
+    { "bg": "коледуване", "en": "caroling (Christmas)", "pronunciation": "ko-le-DU-va-ne", "example": "Коледарите ходят от къща на къща.", "type": "noun" },
+    { "bg": "седянка", "en": "sedyanka (social gathering)", "pronunciation": "se-DYAN-ka", "example": "На седянката жените предяха и пееха.", "type": "noun" },
+    { "bg": "тъпан", "en": "drum (folk)", "pronunciation": "tu-PAN", "example": "Тъпанът задава ритъма на хорото.", "type": "noun" },
+    { "bg": "шевица", "en": "shevitsa (embroidery pattern)", "pronunciation": "she-VI-tsa", "example": "Шевиците по носията имат символично значение.", "type": "noun" },
+    { "bg": "обред", "en": "rite/ceremony", "pronunciation": "ob-RED", "example": "Обредът за дъжд се прави при суша.", "type": "noun" },
+    { "bg": "наздравица", "en": "toast (cheers)", "pronunciation": "naz-DRA-vi-tsa", "example": "Кумът вдигна наздравица за младоженците.", "type": "noun" }
+  ]
+}
