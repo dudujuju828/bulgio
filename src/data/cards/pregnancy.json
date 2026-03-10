@@ -1,0 +1,28 @@
+{
+  "category": "Pregnancy",
+  "cards": [
+    { "bg": "бременност", "en": "pregnancy", "pronunciation": "BRE-men-nost", "example": "Бременността продължава девет месеца.", "type": "noun" },
+    { "bg": "бременна", "en": "pregnant", "pronunciation": "BRE-men-na", "example": "Тя е бременна в шестия месец.", "type": "adjective" },
+    { "bg": "бебе", "en": "baby", "pronunciation": "be-BE", "example": "Бебето се ражда през октомври.", "type": "noun" },
+    { "bg": "раждане", "en": "birth/delivery", "pronunciation": "RAZH-da-ne", "example": "Раждането мина добре, майката и бебето са здрави.", "type": "noun" },
+    { "bg": "родилно отделение", "en": "maternity ward", "pronunciation": "ro-DIL-no ot-de-LE-ni-e", "example": "Родилното отделение е на третия етаж.", "type": "noun" },
+    { "bg": "акушерка", "en": "midwife", "pronunciation": "a-ku-SHER-ka", "example": "Акушерката помага при раждането.", "type": "noun" },
+    { "bg": "гинеколог", "en": "gynecologist", "pronunciation": "gi-ne-KO-log", "example": "Ходя на преглед при гинеколога всеки месец.", "type": "noun" },
+    { "bg": "ехография", "en": "ultrasound", "pronunciation": "e-ho-GRA-fi-ya", "example": "На ехографията видяхме, че е момиченце.", "type": "noun" },
+    { "bg": "преглед", "en": "check-up/examination", "pronunciation": "preg-LED", "example": "Следващият преглед е след две седмици.", "type": "noun" },
+    { "bg": "гадене", "en": "nausea/morning sickness", "pronunciation": "ga-DE-ne", "example": "Гаденето е нормално през първите месеци.", "type": "noun" },
+    { "bg": "контракции", "en": "contractions", "pronunciation": "kon-TRAK-tsi-i", "example": "Контракциите започнаха на всеки пет минути.", "type": "noun" },
+    { "bg": "цезарово сечение", "en": "cesarean section", "pronunciation": "tse-ZA-ro-vo se-CHE-ni-e", "example": "Лекарят реши да направи цезарово сечение.", "type": "noun" },
+    { "bg": "кърмя", "en": "to breastfeed", "pronunciation": "kur-MYA", "example": "Кърмя бебето на всеки три часа.", "type": "verb" },
+    { "bg": "пелена", "en": "diaper", "pronunciation": "pe-le-NA", "example": "Трябва да купим още пелени.", "type": "noun" },
+    { "bg": "количка", "en": "stroller/pram", "pronunciation": "ko-LICH-ka", "example": "Разхождаме бебето с количката в парка.", "type": "noun" },
+    { "bg": "кошче", "en": "bassinet/crib", "pronunciation": "KOSH-che", "example": "Бебето спи в кошчето до леглото.", "type": "noun" },
+    { "bg": "бебешки дрехи", "en": "baby clothes", "pronunciation": "be-BESH-ki DRE-hi", "example": "Купихме бебешки дрехи за новороденото.", "type": "noun" },
+    { "bg": "новородено", "en": "newborn", "pronunciation": "no-vo-ro-DE-no", "example": "Новороденото тежи три килограма и петстотин.", "type": "noun" },
+    { "bg": "близнаци", "en": "twins", "pronunciation": "bliz-NA-tsi", "example": "Чакаме близнаци — момче и момиче!", "type": "noun" },
+    { "bg": "отпуск по майчинство", "en": "maternity leave", "pronunciation": "OT-pusk po may-CHIN-stvo", "example": "В България отпускът по майчинство е две години.", "type": "noun" },
+    { "bg": "витамини", "en": "vitamins", "pronunciation": "vi-ta-MI-ni", "example": "Лекарят препоръча витамини и фолиева киселина.", "type": "noun" },
+    { "bg": "шушулка", "en": "baby bump (colloquial)", "pronunciation": "shu-SHUL-ka", "example": "Шушулката вече се вижда.", "type": "noun" },
+    { "bg": "терминът", "en": "due date", "pronunciation": "ter-mi-NUT", "example": "Терминът е в края на ноември.", "type": "noun" }
+  ]
+}
