@@ -1,0 +1,28 @@
+{
+  "category": "Painting",
+  "cards": [
+    { "bg": "рисуване", "en": "painting/drawing", "pronunciation": "ri-SU-va-ne", "example": "Рисуването е любимото ми хоби.", "type": "noun" },
+    { "bg": "рисувам", "en": "to paint/draw", "pronunciation": "ri-SU-vam", "example": "Рисувам пейзаж с акварел.", "type": "verb" },
+    { "bg": "картина", "en": "painting/picture", "pronunciation": "kar-TI-na", "example": "Тази картина е от деветнадесети век.", "type": "noun" },
+    { "bg": "художник", "en": "painter/artist", "pronunciation": "hu-DOZH-nik", "example": "Художникът рисува портрети на улицата.", "type": "noun" },
+    { "bg": "четка", "en": "brush/paintbrush", "pronunciation": "CHET-ka", "example": "Измий четките след рисуване.", "type": "noun" },
+    { "bg": "боя", "en": "paint", "pronunciation": "bo-YA", "example": "Купих нови бои за рисуване.", "type": "noun" },
+    { "bg": "акварел", "en": "watercolor", "pronunciation": "ak-va-REL", "example": "Акварелът е подходящ за пейзажи.", "type": "noun" },
+    { "bg": "маслени бои", "en": "oil paints", "pronunciation": "MAS-le-ni bo-I", "example": "Маслените бои съхнат бавно.", "type": "noun" },
+    { "bg": "платно", "en": "canvas", "pronunciation": "plat-NO", "example": "Опънах ново платно на рамката.", "type": "noun" },
+    { "bg": "палитра", "en": "palette", "pronunciation": "pa-LIT-ra", "example": "Смесвам цветовете на палитрата.", "type": "noun" },
+    { "bg": "статив", "en": "easel", "pronunciation": "sta-TIV", "example": "Сложи платното на статива.", "type": "noun" },
+    { "bg": "скица", "en": "sketch", "pronunciation": "SKI-tsa", "example": "Първо нарисувай скица с молив.", "type": "noun" },
+    { "bg": "пейзаж", "en": "landscape", "pronunciation": "pey-ZAZH", "example": "Рисувам пейзаж на Родопите.", "type": "noun" },
+    { "bg": "портрет", "en": "portrait", "pronunciation": "por-TRET", "example": "Портретът е на Васил Левски.", "type": "noun" },
+    { "bg": "натюрморт", "en": "still life", "pronunciation": "na-tyur-MORT", "example": "Натюрмортът изобразява плодове и цветя.", "type": "noun" },
+    { "bg": "сянка", "en": "shadow/shading", "pronunciation": "SYAN-ka", "example": "Добави сенки, за да изглежда обемно.", "type": "noun" },
+    { "bg": "светлина", "en": "light", "pronunciation": "svet-li-NA", "example": "Светлината идва от лявата страна.", "type": "noun" },
+    { "bg": "рамка", "en": "frame", "pronunciation": "RAM-ka", "example": "Сложи картината в рамка и я окачи.", "type": "noun" },
+    { "bg": "изложба", "en": "exhibition", "pronunciation": "iz-LOZH-ba", "example": "Изложбата е в галерията на Владимир Димитров-Майстора.", "type": "noun" },
+    { "bg": "галерия", "en": "gallery", "pronunciation": "ga-le-RI-ya", "example": "Националната галерия е в двореца.", "type": "noun" },
+    { "bg": "смесвам", "en": "to mix (colors)", "pronunciation": "SMES-vam", "example": "Смесвам синьо и жълто, за да получа зелено.", "type": "verb" },
+    { "bg": "нюанс", "en": "shade/nuance", "pronunciation": "nyu-ANS", "example": "Този нюанс на зеленото е много красив.", "type": "noun" },
+    { "bg": "вдъхновение", "en": "inspiration", "pronunciation": "vduh-no-VE-ni-e", "example": "Природата е най-голямото ми вдъхновение.", "type": "noun" }
+  ]
+}
