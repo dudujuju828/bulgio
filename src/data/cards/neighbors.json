@@ -1,0 +1,28 @@
+{
+  "category": "Neighbors",
+  "cards": [
+    { "bg": "съсед", "en": "neighbor (male)", "pronunciation": "su-SED", "example": "Съседът ни е много приятен човек.", "type": "noun" },
+    { "bg": "съседка", "en": "neighbor (female)", "pronunciation": "su-SED-ka", "example": "Съседката от горния етаж ни поканила на кафе.", "type": "noun" },
+    { "bg": "жилищен блок", "en": "apartment building", "pronunciation": "zhi-LISH-ten blok", "example": "Живеем в жилищен блок с осем етажа.", "type": "noun" },
+    { "bg": "етажна собственост", "en": "condominium/building association", "pronunciation": "e-TAZH-na SOB-stve-nost", "example": "Събранието на етажната собственост е в неделя.", "type": "noun" },
+    { "bg": "домоуправител", "en": "building manager", "pronunciation": "do-mo-up-ra-VI-tel", "example": "Домоуправителят събира парите за общите разходи.", "type": "noun" },
+    { "bg": "общи части", "en": "common areas", "pronunciation": "OB-shti CHAS-ti", "example": "Стълбището е обща част на сградата.", "type": "noun" },
+    { "bg": "стълбище", "en": "staircase", "pronunciation": "STUL-bish-te", "example": "Стълбището трябва да се почиства по график.", "type": "noun" },
+    { "bg": "шум", "en": "noise", "pronunciation": "shum", "example": "Съседите правят много шум вечер.", "type": "noun" },
+    { "bg": "шумен", "en": "noisy", "pronunciation": "SHU-men", "example": "Новите съседи са много шумни.", "type": "adjective" },
+    { "bg": "тишина", "en": "quiet/silence", "pronunciation": "ti-shi-NA", "example": "След десет вечерта трябва да е тишина.", "type": "noun" },
+    { "bg": "оплаквам се", "en": "to complain", "pronunciation": "op-LAK-vam se", "example": "Оплаках се от шума на домоуправителя.", "type": "verb" },
+    { "bg": "извинявам се", "en": "to apologize", "pronunciation": "iz-vi-NYA-vam se", "example": "Извиняваме се за шума снощи.", "type": "verb" },
+    { "bg": "ремонт", "en": "renovation (noisy)", "pronunciation": "re-MONT", "example": "Съседите правят ремонт от два месеца.", "type": "noun" },
+    { "bg": "пробивам", "en": "to drill", "pronunciation": "pro-BI-vam", "example": "Пробиват стени от осем сутринта.", "type": "verb" },
+    { "bg": "течение", "en": "leak (from upstairs)", "pronunciation": "te-CHE-ni-e", "example": "Има течение от горния апартамент.", "type": "noun" },
+    { "bg": "общо събрание", "en": "building meeting", "pronunciation": "OB-shto sub-RA-ni-e", "example": "На общото събрание решихме да сменим входната врата.", "type": "noun" },
+    { "bg": "такса поддръжка", "en": "maintenance fee", "pronunciation": "TAK-sa pod-DRUZH-ka", "example": "Таксата за поддръжка е двадесет лева на месец.", "type": "noun" },
+    { "bg": "входна врата", "en": "front door (building)", "pronunciation": "VHOD-na vra-TA", "example": "Входната врата е с домофон.", "type": "noun" },
+    { "bg": "домофон", "en": "intercom/buzzer", "pronunciation": "do-mo-FON", "example": "Звънни на домофона на апартамент пет.", "type": "noun" },
+    { "bg": "пощенска кутия", "en": "mailbox", "pronunciation": "POSH-ten-ska KU-ti-ya", "example": "Провери пощенската кутия за писма.", "type": "noun" },
+    { "bg": "парцел", "en": "plot/yard", "pronunciation": "par-TSEL", "example": "Имаме малък парцел зад блока.", "type": "noun" },
+    { "bg": "огради", "en": "fence", "pronunciation": "og-RA-da", "example": "Оградата между дворовете е ниска.", "type": "noun" },
+    { "bg": "помагам на съседи", "en": "to help neighbors", "pronunciation": "po-MA-gam na su-SE-di", "example": "В България е обичайно да помагаш на съседите.", "type": "phrase" }
+  ]
+}
