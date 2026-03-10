@@ -1,0 +1,28 @@
+{
+  "category": "Diving & Snorkeling",
+  "cards": [
+    { "bg": "гмуркане", "en": "diving", "pronunciation": "gmur-KA-ne", "example": "Гмуркането в Черно море е незабравимо.", "type": "noun" },
+    { "bg": "гмуркам се", "en": "to dive", "pronunciation": "gmur-KAM se", "example": "Гмуркам се всяко лято край Созопол.", "type": "verb" },
+    { "bg": "шнорхел", "en": "snorkel", "pronunciation": "SHNOR-hel", "example": "Шнорхелът ти позволява да дишаш на повърхността.", "type": "noun" },
+    { "bg": "водолазен костюм", "en": "wetsuit/diving suit", "pronunciation": "vo-do-LA-zen kos-TYUM", "example": "Водолазният костюм предпазва от студената вода.", "type": "noun" },
+    { "bg": "маска", "en": "diving mask", "pronunciation": "MAS-ka", "example": "Маската ми се запотява под водата.", "type": "noun" },
+    { "bg": "перки", "en": "fins/flippers", "pronunciation": "PER-ki", "example": "Перките помагат да плуваш по-бързо.", "type": "noun" },
+    { "bg": "бутилка с въздух", "en": "air tank/cylinder", "pronunciation": "bu-TIL-ka s vuz-DUH", "example": "Бутилката с въздух стига за около час.", "type": "noun" },
+    { "bg": "регулатор", "en": "regulator", "pronunciation": "re-gu-LA-tor", "example": "Регулаторът подава въздух при поискване.", "type": "noun" },
+    { "bg": "дълбочина", "en": "depth", "pronunciation": "dul-bo-chi-NA", "example": "Максималната дълбочина за начинаещи е осемнадесет метра.", "type": "noun" },
+    { "bg": "коралов риф", "en": "coral reef", "pronunciation": "ko-RA-lov rif", "example": "Кораловият риф е пълен с цветни рибки.", "type": "noun" },
+    { "bg": "подводен свят", "en": "underwater world", "pronunciation": "pod-VO-den svyat", "example": "Подводният свят на Черно море крие потънали кораби.", "type": "noun" },
+    { "bg": "потънал кораб", "en": "shipwreck", "pronunciation": "po-TU-nal ko-RAB", "example": "Потъналият кораб край Каварна е на двадесет метра.", "type": "noun" },
+    { "bg": "видимост", "en": "visibility", "pronunciation": "vi-DI-most", "example": "Видимостта днес е отлична — над десет метра.", "type": "noun" },
+    { "bg": "течение", "en": "current", "pronunciation": "te-CHE-ni-e", "example": "Внимавай, теченията тук са силни.", "type": "noun" },
+    { "bg": "декомпресия", "en": "decompression", "pronunciation": "de-kom-PRE-si-ya", "example": "Спазвай декомпресионните спирки при изкачване.", "type": "noun" },
+    { "bg": "сертификат", "en": "certification", "pronunciation": "ser-ti-fi-KAT", "example": "Имам сертификат за открито водно гмуркане.", "type": "noun" },
+    { "bg": "инструктор", "en": "instructor", "pronunciation": "in-struk-TOR", "example": "Инструкторът обясни правилата за безопасност.", "type": "noun" },
+    { "bg": "морско дъно", "en": "seabed/ocean floor", "pronunciation": "MOR-sko du-NO", "example": "Морското дъно е покрито с пясък и водорасли.", "type": "noun" },
+    { "bg": "медуза", "en": "jellyfish", "pronunciation": "me-DU-za", "example": "Внимавай за медузи близо до брега.", "type": "noun" },
+    { "bg": "морска звезда", "en": "starfish", "pronunciation": "MOR-ska zvez-DA", "example": "Морската звезда лежи на дъното.", "type": "noun" },
+    { "bg": "водорасли", "en": "seaweed/algae", "pronunciation": "vo-do-RAS-li", "example": "Водораслите са зелени и гъсти през лятото.", "type": "noun" },
+    { "bg": "буйка", "en": "buoy", "pronunciation": "BUY-ka", "example": "Не плувай отвъд буйките.", "type": "noun" },
+    { "bg": "подводна пещера", "en": "underwater cave", "pronunciation": "pod-VOD-na pe-SHTE-ra", "example": "Подводната пещера край Тюленово е известна сред водолазите.", "type": "noun" }
+  ]
+}
