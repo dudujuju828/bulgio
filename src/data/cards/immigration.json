@@ -1,0 +1,28 @@
+{
+  "category": "Immigration",
+  "cards": [
+    { "bg": "виза", "en": "visa", "pronunciation": "VI-za", "example": "Трябва ми виза за България.", "type": "noun" },
+    { "bg": "паспорт", "en": "passport", "pronunciation": "PAS-port", "example": "Паспортът ми е валиден още три години.", "type": "noun" },
+    { "bg": "лична карта", "en": "ID card", "pronunciation": "LICH-na KAR-ta", "example": "Всеки български гражданин има лична карта.", "type": "noun" },
+    { "bg": "разрешение за пребиваване", "en": "residence permit", "pronunciation": "raz-re-SHE-ni-e za pre-bi-VA-va-ne", "example": "Подадох документи за разрешение за пребиваване.", "type": "noun" },
+    { "bg": "работна виза", "en": "work visa", "pronunciation": "ra-BOT-na VI-za", "example": "Работната виза се издава от посолството.", "type": "noun" },
+    { "bg": "гражданство", "en": "citizenship", "pronunciation": "grazh-DAN-stvo", "example": "Кандидатствам за българско гражданство.", "type": "noun" },
+    { "bg": "чужденец", "en": "foreigner", "pronunciation": "chuzh-de-NETS", "example": "Много чужденци живеят в София.", "type": "noun" },
+    { "bg": "имигрант", "en": "immigrant", "pronunciation": "i-mi-GRANT", "example": "Имигрантите допринасят за икономиката.", "type": "noun" },
+    { "bg": "посолство", "en": "embassy", "pronunciation": "po-SOL-stvo", "example": "Отидох в посолството за нова виза.", "type": "noun" },
+    { "bg": "консулство", "en": "consulate", "pronunciation": "KON-sul-stvo", "example": "Консулството е във Варна.", "type": "noun" },
+    { "bg": "миграция", "en": "migration office", "pronunciation": "mig-RA-tsi-ya", "example": "Миграцията е на бул. Княгиня Мария Луиза.", "type": "noun" },
+    { "bg": "регистрация по адрес", "en": "address registration", "pronunciation": "re-gis-TRA-tsi-ya po ad-RES", "example": "Чужденците трябва да направят регистрация по адрес.", "type": "noun" },
+    { "bg": "ЛНЧ", "en": "personal number for foreigners", "pronunciation": "el-en-CHE", "example": "ЛНЧ-то е като ЕГН, но за чужденци.", "type": "noun" },
+    { "bg": "ЕГН", "en": "civil registration number", "pronunciation": "e-ge-EN", "example": "ЕГН-то е уникален номер за всеки гражданин.", "type": "noun" },
+    { "bg": "заявление", "en": "application/form", "pronunciation": "za-yav-LE-ni-e", "example": "Попълни заявлението на кирилица.", "type": "noun" },
+    { "bg": "документ", "en": "document", "pronunciation": "do-ku-MENT", "example": "Донесете всички необходими документи.", "type": "noun" },
+    { "bg": "превод", "en": "translation", "pronunciation": "pre-VOD", "example": "Документите трябва да са с легализиран превод.", "type": "noun" },
+    { "bg": "легализация", "en": "legalization/apostille", "pronunciation": "le-ga-li-ZA-tsi-ya", "example": "Дипломата изисква легализация.", "type": "noun" },
+    { "bg": "такса", "en": "fee", "pronunciation": "TAK-sa", "example": "Таксата за разрешение е двести лева.", "type": "noun" },
+    { "bg": "срок на валидност", "en": "validity period", "pronunciation": "srok na va-LID-nost", "example": "Срокът на валидност на визата е деветдесет дни.", "type": "noun" },
+    { "bg": "удължавам", "en": "to extend/renew", "pronunciation": "u-dul-ZHA-vam", "example": "Трябва да удължа разрешителното преди да изтече.", "type": "verb" },
+    { "bg": "постоянно пребиваване", "en": "permanent residence", "pronunciation": "pos-to-YAN-no pre-bi-VA-va-ne", "example": "След пет години можеш да кандидатстваш за постоянно пребиваване.", "type": "noun" },
+    { "bg": "депортиране", "en": "deportation", "pronunciation": "de-por-TI-ra-ne", "example": "Без валидни документи рискуваш депортиране.", "type": "noun" }
+  ]
+}
