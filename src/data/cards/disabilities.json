@@ -1,0 +1,28 @@
+{
+  "category": "Disabilities",
+  "cards": [
+    { "bg": "увреждане", "en": "disability", "pronunciation": "uv-REZH-da-ne", "example": "Хората с увреждания имат равни права.", "type": "noun" },
+    { "bg": "достъпност", "en": "accessibility", "pronunciation": "dos-TUP-nost", "example": "Достъпността на обществените сгради е важна.", "type": "noun" },
+    { "bg": "достъпен", "en": "accessible", "pronunciation": "dos-TU-pen", "example": "Музеят е достъпен за хора с инвалидни колички.", "type": "adjective" },
+    { "bg": "инвалидна количка", "en": "wheelchair", "pronunciation": "in-va-LID-na ko-LICH-ka", "example": "Рампата е за хора с инвалидни колички.", "type": "noun" },
+    { "bg": "рампа", "en": "ramp", "pronunciation": "RAM-pa", "example": "Сградата има рампа до входа.", "type": "noun" },
+    { "bg": "асансьор", "en": "elevator", "pronunciation": "a-san-SYOR", "example": "Асансьорът е достатъчно широк за количка.", "type": "noun" },
+    { "bg": "сляп", "en": "blind", "pronunciation": "slyap", "example": "Кучето водач помага на слепия човек.", "type": "adjective" },
+    { "bg": "куче водач", "en": "guide dog", "pronunciation": "KU-che vo-DACH", "example": "Кучетата водачи са допуснати навсякъде.", "type": "noun" },
+    { "bg": "Брайлова азбука", "en": "Braille", "pronunciation": "BRAY-lo-va AZ-bu-ka", "example": "Бутоните в асансьора са с Брайлова азбука.", "type": "noun" },
+    { "bg": "глух", "en": "deaf", "pronunciation": "gluh", "example": "Глухите хора общуват с жестомимичен език.", "type": "adjective" },
+    { "bg": "жестомимичен език", "en": "sign language", "pronunciation": "zhes-to-mi-MI-chen e-ZIK", "example": "Искам да науча жестомимичен език.", "type": "noun" },
+    { "bg": "слухов апарат", "en": "hearing aid", "pronunciation": "SLU-hov a-pa-RAT", "example": "Баба носи слухов апарат.", "type": "noun" },
+    { "bg": "протеза", "en": "prosthesis", "pronunciation": "pro-TE-za", "example": "Съвременните протези са много напреднали.", "type": "noun" },
+    { "bg": "патерица", "en": "crutch", "pronunciation": "pa-te-RI-tsa", "example": "Ходи с патерици след операцията.", "type": "noun" },
+    { "bg": "бастун", "en": "cane/walking stick", "pronunciation": "bas-TUN", "example": "Бял бастун означава, че човекът е незрящ.", "type": "noun" },
+    { "bg": "незрящ", "en": "visually impaired", "pronunciation": "ne-ZRYASHT", "example": "За незрящите има аудио описания в музея.", "type": "adjective" },
+    { "bg": "помощно средство", "en": "assistive device", "pronunciation": "po-MOSHT-no SRED-stvo", "example": "Помощните средства улесняват ежедневието.", "type": "noun" },
+    { "bg": "приобщаване", "en": "inclusion", "pronunciation": "pri-ob-SHTA-va-ne", "example": "Приобщаването в училище е право на всяко дете.", "type": "noun" },
+    { "bg": "аутизъм", "en": "autism", "pronunciation": "a-u-TI-zum", "example": "Децата с аутизъм имат нужда от индивидуален подход.", "type": "noun" },
+    { "bg": "рехабилитация", "en": "rehabilitation", "pronunciation": "re-ha-bi-li-TA-tsi-ya", "example": "Рехабилитацията помага за възстановяване.", "type": "noun" },
+    { "bg": "личен асистент", "en": "personal assistant/caregiver", "pronunciation": "LI-chen a-sis-TENT", "example": "Личният асистент помага в ежедневието.", "type": "noun" },
+    { "bg": "паркомясто за инвалиди", "en": "disabled parking space", "pronunciation": "par-ko-MYAS-to za in-va-LI-di", "example": "Не паркирай на паркомястото за инвалиди.", "type": "noun" },
+    { "bg": "равни възможности", "en": "equal opportunities", "pronunciation": "RAV-ni vuz-MOZH-nos-ti", "example": "Всеки заслужава равни възможности за работа.", "type": "noun" }
+  ]
+}
