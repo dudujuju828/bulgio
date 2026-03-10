@@ -1,0 +1,28 @@
+{
+  "category": "Investing & Stock Market",
+  "cards": [
+    { "bg": "инвестиция", "en": "investment", "pronunciation": "in-ves-TI-tsi-ya", "example": "Инвестицията в имоти е популярна в България.", "type": "noun" },
+    { "bg": "инвестирам", "en": "to invest", "pronunciation": "in-ves-TI-ram", "example": "Инвестирах спестяванията си в акции.", "type": "verb" },
+    { "bg": "акция", "en": "stock/share", "pronunciation": "AK-tsi-ya", "example": "Акциите на компанията поскъпнаха с десет процента.", "type": "noun" },
+    { "bg": "борса", "en": "stock exchange", "pronunciation": "BOR-sa", "example": "Българската фондова борса е в София.", "type": "noun" },
+    { "bg": "облигация", "en": "bond", "pronunciation": "ob-li-GA-tsi-ya", "example": "Държавните облигации са по-сигурна инвестиция.", "type": "noun" },
+    { "bg": "дивидент", "en": "dividend", "pronunciation": "di-vi-DENT", "example": "Дивидентът се изплаща веднъж годишно.", "type": "noun" },
+    { "bg": "портфейл", "en": "portfolio", "pronunciation": "port-FEYL", "example": "Портфейлът ми включва акции и облигации.", "type": "noun" },
+    { "bg": "доходност", "en": "return/yield", "pronunciation": "do-HOD-nost", "example": "Доходността на фонда е шест процента.", "type": "noun" },
+    { "bg": "риск", "en": "risk", "pronunciation": "risk", "example": "По-високата доходност означава по-висок риск.", "type": "noun" },
+    { "bg": "фонд", "en": "fund", "pronunciation": "fond", "example": "Взаимният фонд разпределя парите в много компании.", "type": "noun" },
+    { "bg": "брокер", "en": "broker", "pronunciation": "BRO-ker", "example": "Брокерът ми помогна да купя акции.", "type": "noun" },
+    { "bg": "печалба", "en": "profit/gain", "pronunciation": "pe-CHAL-ba", "example": "Печалбата от продажбата беше значителна.", "type": "noun" },
+    { "bg": "загуба", "en": "loss", "pronunciation": "za-GU-ba", "example": "Загубата беше малка благодарение на диверсификацията.", "type": "noun" },
+    { "bg": "диверсификация", "en": "diversification", "pronunciation": "di-ver-si-fi-KA-tsi-ya", "example": "Диверсификацията намалява общия риск.", "type": "noun" },
+    { "bg": "криптовалута", "en": "cryptocurrency", "pronunciation": "krip-to-va-LU-ta", "example": "Криптовалутите са много волатилни.", "type": "noun" },
+    { "bg": "инфлация", "en": "inflation", "pronunciation": "in-FLA-tsi-ya", "example": "Инфлацията обезценява спестяванията.", "type": "noun" },
+    { "bg": "лихва", "en": "interest (rate)", "pronunciation": "LIH-va", "example": "Лихвата по депозита е два процента.", "type": "noun" },
+    { "bg": "депозит", "en": "deposit/savings account", "pronunciation": "de-po-ZIT", "example": "Срочният депозит е за дванадесет месеца.", "type": "noun" },
+    { "bg": "пазар", "en": "market", "pronunciation": "pa-ZAR", "example": "Пазарът расте стабилно тази година.", "type": "noun" },
+    { "bg": "спекулация", "en": "speculation", "pronunciation": "spe-ku-LA-tsi-ya", "example": "Спекулацията с имоти е рискована.", "type": "noun" },
+    { "bg": "капитал", "en": "capital", "pronunciation": "ka-pi-TAL", "example": "Начален капитал от десет хиляди лева е достатъчен.", "type": "noun" },
+    { "bg": "ликвидност", "en": "liquidity", "pronunciation": "lik-VID-nost", "example": "Акциите имат висока ликвидност.", "type": "noun" },
+    { "bg": "пасивен доход", "en": "passive income", "pronunciation": "pa-SI-ven do-HOD", "example": "Наемите от апартаменти са пасивен доход.", "type": "noun" }
+  ]
+}
