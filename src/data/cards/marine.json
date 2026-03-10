@@ -1,0 +1,28 @@
+{
+  "category": "Marine",
+  "cards": [
+    { "bg": "океан", "en": "ocean", "pronunciation": "o-ke-AN", "example": "Океанът е много по-голям от морето.", "type": "noun" },
+    { "bg": "риба", "en": "fish", "pronunciation": "RI-ba", "example": "В Черно море има много видове риби.", "type": "noun" },
+    { "bg": "делфин", "en": "dolphin", "pronunciation": "del-FIN", "example": "Видяхме делфини край Созопол.", "type": "noun" },
+    { "bg": "акула", "en": "shark", "pronunciation": "a-KU-la", "example": "В Черно море няма акули.", "type": "noun" },
+    { "bg": "кит", "en": "whale", "pronunciation": "kit", "example": "Китът е най-голямото животно на Земята.", "type": "noun" },
+    { "bg": "мида", "en": "mussel/clam", "pronunciation": "MI-da", "example": "Ядохме миди на ресторант край морето.", "type": "noun" },
+    { "bg": "рак", "en": "crab/crayfish", "pronunciation": "rak", "example": "Ракът се движи настрани.", "type": "noun" },
+    { "bg": "скарида", "en": "shrimp/prawn", "pronunciation": "ska-RI-da", "example": "Скаридите са много вкусни на скара.", "type": "noun" },
+    { "bg": "октопод", "en": "octopus", "pronunciation": "ok-to-POD", "example": "Октоподът има осем пипала.", "type": "noun" },
+    { "bg": "медуза", "en": "jellyfish", "pronunciation": "me-DU-za", "example": "Внимавай за медузите в морето.", "type": "noun" },
+    { "bg": "морска звезда", "en": "starfish", "pronunciation": "MOR-ska zvez-DA", "example": "Намерих морска звезда на плажа.", "type": "noun" },
+    { "bg": "тюлен", "en": "seal", "pronunciation": "tyu-LEN", "example": "Тюленът монах е застрашен вид в Черно море.", "type": "noun" },
+    { "bg": "корал", "en": "coral", "pronunciation": "ko-RAL", "example": "Кораловите рифове са много красиви.", "type": "noun" },
+    { "bg": "водорасло", "en": "seaweed/algae", "pronunciation": "vo-do-RAS-lo", "example": "По брега има много водорасли.", "type": "noun" },
+    { "bg": "котва", "en": "anchor", "pronunciation": "KOT-va", "example": "Корабът хвърли котва в залива.", "type": "noun" },
+    { "bg": "кораб", "en": "ship", "pronunciation": "ko-RAB", "example": "Големият кораб влезе в пристанището.", "type": "noun" },
+    { "bg": "рибар", "en": "fisherman", "pronunciation": "ri-BAR", "example": "Рибарите излизат рано сутрин.", "type": "noun" },
+    { "bg": "мрежа", "en": "net", "pronunciation": "mre-ZHA", "example": "Рибарят хвърли мрежата в морето.", "type": "noun" },
+    { "bg": "въдица", "en": "fishing rod", "pronunciation": "VU-di-tsa", "example": "Ловя риба с въдица на мола.", "type": "noun" },
+    { "bg": "морско дъно", "en": "seabed", "pronunciation": "MOR-sko DU-no", "example": "На морското дъно има потънали кораби.", "type": "noun" },
+    { "bg": "вълна", "en": "wave", "pronunciation": "VUL-na", "example": "Вълните са опасни при буря.", "type": "noun" },
+    { "bg": "течение", "en": "current", "pronunciation": "te-CHE-ni-e", "example": "Теченията в морето могат да бъдат силни.", "type": "noun" },
+    { "bg": "потъвам", "en": "to sink/dive", "pronunciation": "po-TU-vam", "example": "Корабът потъна по време на бурята.", "type": "verb" }
+  ]
+}
