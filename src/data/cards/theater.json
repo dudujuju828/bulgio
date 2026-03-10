@@ -1,0 +1,28 @@
+{
+  "category": "Theater",
+  "cards": [
+    { "bg": "театър", "en": "theater", "pronunciation": "te-A-tur", "example": "Народният театър е в центъра на София.", "type": "noun" },
+    { "bg": "пиеса", "en": "play", "pronunciation": "pi-E-sa", "example": "Пиесата продължи два часа.", "type": "noun" },
+    { "bg": "представление", "en": "performance/show", "pronunciation": "pred-stav-LE-ni-e", "example": "Представлението започва в седем часа.", "type": "noun" },
+    { "bg": "актьор", "en": "actor", "pronunciation": "ak-TYOR", "example": "Актьорът играе главната роля.", "type": "noun" },
+    { "bg": "актриса", "en": "actress", "pronunciation": "ak-TRI-sa", "example": "Актрисата получи награда за ролята си.", "type": "noun" },
+    { "bg": "режисьор", "en": "director", "pronunciation": "re-zhi-SYOR", "example": "Режисьорът постави нова пиеса.", "type": "noun" },
+    { "bg": "роля", "en": "role/part", "pronunciation": "RO-lya", "example": "Той получи главната роля в спектакъла.", "type": "noun" },
+    { "bg": "сцена", "en": "stage/scene", "pronunciation": "STSE-na", "example": "Актьорите излязоха на сцената.", "type": "noun" },
+    { "bg": "зала", "en": "hall/auditorium", "pronunciation": "ZA-la", "example": "Залата беше пълна с публика.", "type": "noun" },
+    { "bg": "публика", "en": "audience", "pronunciation": "PUB-li-ka", "example": "Публиката аплодира дълго.", "type": "noun" },
+    { "bg": "аплодирам", "en": "to applaud", "pronunciation": "ap-lo-DI-ram", "example": "Всички аплодираха на крака.", "type": "verb" },
+    { "bg": "антракт", "en": "intermission", "pronunciation": "an-TRAKT", "example": "По време на антракта пихме кафе.", "type": "noun" },
+    { "bg": "костюм", "en": "costume", "pronunciation": "kos-TYUM", "example": "Костюмите са от епохата на Възраждането.", "type": "noun" },
+    { "bg": "декор", "en": "set/scenery", "pronunciation": "de-KOR", "example": "Декорът пресъздава средновековен замък.", "type": "noun" },
+    { "bg": "завеса", "en": "curtain", "pronunciation": "za-VE-sa", "example": "Завесата се вдигна и спектакълът започна.", "type": "noun" },
+    { "bg": "комедия", "en": "comedy", "pronunciation": "ko-ME-di-ya", "example": "Тази комедия е много смешна.", "type": "noun" },
+    { "bg": "трагедия", "en": "tragedy", "pronunciation": "tra-GE-di-ya", "example": "Хамлет е класическа трагедия.", "type": "noun" },
+    { "bg": "опера", "en": "opera", "pronunciation": "O-pe-ra", "example": "Софийската опера има чудесен репертоар.", "type": "noun" },
+    { "bg": "репетирам", "en": "to rehearse", "pronunciation": "re-pe-TI-ram", "example": "Репетираме всеки ден преди премиерата.", "type": "verb" },
+    { "bg": "премиера", "en": "premiere", "pronunciation": "pre-mi-E-ra", "example": "Премиерата е в петък вечер.", "type": "noun" },
+    { "bg": "билет", "en": "ticket", "pronunciation": "bi-LET", "example": "Купих два билета за театъра.", "type": "noun" },
+    { "bg": "прожектор", "en": "spotlight", "pronunciation": "pro-zhek-TOR", "example": "Прожекторът осветява главния герой.", "type": "noun" },
+    { "bg": "ръкопляскам", "en": "to clap", "pronunciation": "ru-ko-PLYAS-kam", "example": "Публиката ръкопляска след всяко действие.", "type": "verb" }
+  ]
+}
