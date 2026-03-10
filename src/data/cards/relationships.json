@@ -1,0 +1,26 @@
+{
+  "category": "Relationships",
+  "cards": [
+    { "bg": "приятел", "en": "friend (male)", "pronunciation": "pri-YA-tel", "example": "Той е най-добрият ми приятел.", "type": "noun" },
+    { "bg": "приятелка", "en": "friend/girlfriend", "pronunciation": "pri-ya-TEL-ka", "example": "Приятелката ми живее в Пловдив.", "type": "noun" },
+    { "bg": "гадже", "en": "boyfriend/girlfriend", "pronunciation": "GA-dzhe", "example": "Имаш ли гадже?", "type": "noun" },
+    { "bg": "съсед", "en": "neighbor", "pronunciation": "su-SED", "example": "Съседът ни е много любезен.", "type": "noun" },
+    { "bg": "колега", "en": "colleague", "pronunciation": "ko-LE-ga", "example": "Колегата ми помогна с проекта.", "type": "noun" },
+    { "bg": "познат", "en": "acquaintance", "pronunciation": "poz-NAT", "example": "Той е познат от работата.", "type": "noun" },
+    { "bg": "сватба", "en": "wedding", "pronunciation": "SVAT-ba", "example": "Сватбата беше много красива.", "type": "noun" },
+    { "bg": "годеж", "en": "engagement", "pronunciation": "go-DEZH", "example": "Годежът им беше изненада.", "type": "noun" },
+    { "bg": "любов", "en": "love", "pronunciation": "lyu-BOV", "example": "Любовта е най-важното нещо.", "type": "noun" },
+    { "bg": "приятелство", "en": "friendship", "pronunciation": "pri-ya-TEL-stvo", "example": "Приятелството ни е много силно.", "type": "noun" },
+    { "bg": "обичам", "en": "to love", "pronunciation": "o-BI-cham", "example": "Обичам те много.", "type": "verb" },
+    { "bg": "харесвам", "en": "to like", "pronunciation": "ha-RES-vam", "example": "Харесвам те като човек.", "type": "verb" },
+    { "bg": "целувам", "en": "to kiss", "pronunciation": "tse-LU-vam", "example": "Целуна я за лека нощ.", "type": "verb" },
+    { "bg": "прегръщам", "en": "to hug", "pronunciation": "pre-GRUSH-tam", "example": "Прегърни ме, моля те.", "type": "verb" },
+    { "bg": "доверие", "en": "trust", "pronunciation": "do-VE-ri-e", "example": "Доверието е основата на всяка връзка.", "type": "noun" },
+    { "bg": "връзка", "en": "relationship", "pronunciation": "VRUZ-ka", "example": "Имаме добра връзка.", "type": "noun" },
+    { "bg": "женя се", "en": "to get married", "pronunciation": "ZHE-nya se", "example": "Те се женят през юни.", "type": "verb" },
+    { "bg": "запознавам се", "en": "to meet/get to know", "pronunciation": "za-poz-NA-vam se", "example": "Приятно ми е да се запознаем.", "type": "verb" },
+    { "bg": "скъп/скъпа", "en": "dear/darling", "pronunciation": "skup / SKU-pa", "example": "Скъпа, обичам те!", "type": "phrase" },
+    { "bg": "липсваш ми", "en": "I miss you", "pronunciation": "LIPS-vash mi", "example": "Много ми липсваш.", "type": "phrase" },
+    { "bg": "каня", "en": "to invite", "pronunciation": "KA-nya", "example": "Каня те на вечеря утре.", "type": "verb" }
+  ]
+}
