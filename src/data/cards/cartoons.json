@@ -1,0 +1,28 @@
+{
+  "category": "Cartoons & Animation",
+  "cards": [
+    { "bg": "анимация", "en": "animation", "pronunciation": "a-ni-MA-tsi-ya", "example": "Българската анимация има дълга традиция.", "type": "noun" },
+    { "bg": "анимационен филм", "en": "animated film/cartoon", "pronunciation": "a-ni-ma-tsi-O-nen film", "example": "Анимационният филм спечели награда на фестивала.", "type": "noun" },
+    { "bg": "карикатура", "en": "caricature/cartoon drawing", "pronunciation": "ka-ri-ka-TU-ra", "example": "Карикатурата във вестника е много смешна.", "type": "noun" },
+    { "bg": "комикс", "en": "comic/comic book", "pronunciation": "KO-miks", "example": "Комиксите са популярни сред тийнейджърите.", "type": "noun" },
+    { "bg": "персонаж", "en": "character", "pronunciation": "per-so-NAZH", "example": "Любимият ми персонаж е смелата принцеса.", "type": "noun" },
+    { "bg": "рисувам", "en": "to draw", "pronunciation": "ri-SU-vam", "example": "Аниматорът рисува двадесет кадъра в секунда.", "type": "verb" },
+    { "bg": "кадър", "en": "frame (animation)", "pronunciation": "KA-dur", "example": "Всеки кадър е нарисуван на ръка.", "type": "noun" },
+    { "bg": "озвучавам", "en": "to dub/voice", "pronunciation": "oz-vu-CHA-vam", "example": "Известен актьор озвучава главния герой.", "type": "verb" },
+    { "bg": "дублаж", "en": "dubbing", "pronunciation": "dub-LAZH", "example": "Българският дублаж на филма е отличен.", "type": "noun" },
+    { "bg": "субтитри", "en": "subtitles", "pronunciation": "sub-TIT-ri", "example": "Гледам с български субтитри.", "type": "noun" },
+    { "bg": "студио", "en": "studio", "pronunciation": "STU-di-o", "example": "Студиото произвежда анимационни сериали.", "type": "noun" },
+    { "bg": "сериал", "en": "series/show", "pronunciation": "se-ri-AL", "example": "Детският сериал върви всяка сутрин.", "type": "noun" },
+    { "bg": "епизод", "en": "episode", "pronunciation": "e-pi-ZOD", "example": "Новият епизод излиза в петък.", "type": "noun" },
+    { "bg": "злодей", "en": "villain", "pronunciation": "zlo-DEY", "example": "Злодеят иска да завладее света.", "type": "noun" },
+    { "bg": "суперсила", "en": "superpower", "pronunciation": "SU-per-SI-la", "example": "Суперсилата на героя е невидимост.", "type": "noun" },
+    { "bg": "вълшебство", "en": "magic/enchantment", "pronunciation": "vul-SHEB-stvo", "example": "Вълшебството превръща тиквата в каляска.", "type": "noun" },
+    { "bg": "приключение", "en": "adventure", "pronunciation": "prik-lyu-CHE-ni-e", "example": "Приключението ги отвежда в далечна страна.", "type": "noun" },
+    { "bg": "аниме", "en": "anime", "pronunciation": "a-ni-ME", "example": "Аниметата от Япония са популярни в България.", "type": "noun" },
+    { "bg": "манга", "en": "manga", "pronunciation": "MAN-ga", "example": "Мангата се чете отдясно наляво.", "type": "noun" },
+    { "bg": "пластилинова анимация", "en": "claymation/stop-motion", "pronunciation": "plas-ti-LI-no-va a-ni-MA-tsi-ya", "example": "Пластилиновата анимация изисква много търпение.", "type": "noun" },
+    { "bg": "компютърна анимация", "en": "CGI/computer animation", "pronunciation": "kom-PYU-tur-na a-ni-MA-tsi-ya", "example": "Компютърната анимация заменя ръчното рисуване.", "type": "noun" },
+    { "bg": "сценарий", "en": "screenplay/script", "pronunciation": "stse-NA-riy", "example": "Сценарият е написан от български автор.", "type": "noun" },
+    { "bg": "весел", "en": "cheerful/funny", "pronunciation": "VE-sel", "example": "Веселият герой разсмива всички деца.", "type": "adjective" }
+  ]
+}
