@@ -1,0 +1,28 @@
+{
+  "category": "Art",
+  "cards": [
+    { "bg": "изкуство", "en": "art", "pronunciation": "iz-KUS-tvo", "example": "Изкуството е важна част от културата.", "type": "noun" },
+    { "bg": "картина", "en": "painting/picture", "pronunciation": "kar-TI-na", "example": "Тази картина е от осемнадесети век.", "type": "noun" },
+    { "bg": "рисувам", "en": "to draw/paint", "pronunciation": "ri-SU-vam", "example": "Рисувам пейзажи с акварел.", "type": "verb" },
+    { "bg": "рисунка", "en": "drawing", "pronunciation": "ri-SUN-ka", "example": "Детето направи рисунка на семейството си.", "type": "noun" },
+    { "bg": "скулптура", "en": "sculpture", "pronunciation": "skulp-TU-ra", "example": "В парка има красива скулптура.", "type": "noun" },
+    { "bg": "галерия", "en": "gallery", "pronunciation": "ga-le-RI-ya", "example": "Ходихме на галерия в Пловдив.", "type": "noun" },
+    { "bg": "музей", "en": "museum", "pronunciation": "mu-ZEY", "example": "Националният музей има богата колекция.", "type": "noun" },
+    { "bg": "художник", "en": "artist/painter", "pronunciation": "hu-DOZH-nik", "example": "Художникът рисува портрет на площада.", "type": "noun" },
+    { "bg": "четка", "en": "brush", "pronunciation": "CHET-ka", "example": "Купих нови четки за рисуване.", "type": "noun" },
+    { "bg": "боя", "en": "paint", "pronunciation": "bo-YA", "example": "Маслените бои са по-скъпи от акварелните.", "type": "noun" },
+    { "bg": "платно", "en": "canvas", "pronunciation": "PLAT-no", "example": "Рисувам върху голямо платно.", "type": "noun" },
+    { "bg": "молив", "en": "pencil", "pronunciation": "mo-LIV", "example": "Скицирам с мек молив.", "type": "noun" },
+    { "bg": "скица", "en": "sketch", "pronunciation": "SKI-tsa", "example": "Направих бърза скица на сградата.", "type": "noun" },
+    { "bg": "палитра", "en": "palette", "pronunciation": "pa-LIT-ra", "example": "Смесвам цветовете на палитрата.", "type": "noun" },
+    { "bg": "акварел", "en": "watercolor", "pronunciation": "ak-va-REL", "example": "Акварелът създава нежни цветове.", "type": "noun" },
+    { "bg": "керамика", "en": "ceramics/pottery", "pronunciation": "ke-RA-mi-ka", "example": "Троянската керамика е известна в цяла България.", "type": "noun" },
+    { "bg": "творба", "en": "work of art", "pronunciation": "TVOR-ba", "example": "Тази творба спечели първа награда.", "type": "noun" },
+    { "bg": "изложба", "en": "exhibition", "pronunciation": "iz-LOZH-ba", "example": "Утре откриват нова изложба в галерията.", "type": "noun" },
+    { "bg": "стил", "en": "style", "pronunciation": "stil", "example": "Харесвам импресионистичния стил.", "type": "noun" },
+    { "bg": "вдъхновение", "en": "inspiration", "pronunciation": "vduh-no-VE-ni-e", "example": "Природата е моето вдъхновение.", "type": "noun" },
+    { "bg": "създавам", "en": "to create", "pronunciation": "suz-DA-vam", "example": "Създавам нещо ново всеки ден.", "type": "verb" },
+    { "bg": "рамка", "en": "frame", "pronunciation": "RAM-ka", "example": "Картината е в златна рамка.", "type": "noun" },
+    { "bg": "шедьовър", "en": "masterpiece", "pronunciation": "she-DYO-vur", "example": "Тази картина е истински шедьовър.", "type": "noun" }
+  ]
+}
