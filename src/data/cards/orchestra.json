@@ -1,0 +1,28 @@
+{
+  "category": "Orchestra & Classical Music",
+  "cards": [
+    { "bg": "оркестър", "en": "orchestra", "pronunciation": "or-KES-tur", "example": "Софийската филхармония е най-известният оркестър в България.", "type": "noun" },
+    { "bg": "диригент", "en": "conductor", "pronunciation": "di-ri-GENT", "example": "Диригентът вдигна палката и музиката започна.", "type": "noun" },
+    { "bg": "палка", "en": "baton", "pronunciation": "PAL-ka", "example": "Палката на диригента задава темпото.", "type": "noun" },
+    { "bg": "цигулка", "en": "violin", "pronunciation": "tsi-GUL-ka", "example": "Цигулката свири водещата мелодия.", "type": "noun" },
+    { "bg": "виолончело", "en": "cello", "pronunciation": "vi-o-lon-CHE-lo", "example": "Виолончелото има дълбок и топъл звук.", "type": "noun" },
+    { "bg": "контрабас", "en": "double bass", "pronunciation": "kon-tra-BAS", "example": "Контрабасът е най-големият струнен инструмент.", "type": "noun" },
+    { "bg": "флейта", "en": "flute", "pronunciation": "FLEY-ta", "example": "Флейтата свири нежната тема.", "type": "noun" },
+    { "bg": "кларинет", "en": "clarinet", "pronunciation": "kla-ri-NET", "example": "Кларинетът има мек и приятен тембър.", "type": "noun" },
+    { "bg": "тромпет", "en": "trumpet", "pronunciation": "trom-PET", "example": "Тромпетът засвири фанфарата.", "type": "noun" },
+    { "bg": "тромбон", "en": "trombone", "pronunciation": "trom-BON", "example": "Тромбонът добавя мощ към оркестъра.", "type": "noun" },
+    { "bg": "арфа", "en": "harp", "pronunciation": "AR-fa", "example": "Арфата създава вълшебно звучене.", "type": "noun" },
+    { "bg": "литаври", "en": "timpani/kettledrums", "pronunciation": "li-TAV-ri", "example": "Литаврите удрят в драматичния момент.", "type": "noun" },
+    { "bg": "симфония", "en": "symphony", "pronunciation": "sim-FO-ni-ya", "example": "Деветата симфония на Бетовен е шедьовър.", "type": "noun" },
+    { "bg": "концерт", "en": "concert/concerto", "pronunciation": "kon-TSERT", "example": "Концертът е в зала България тази вечер.", "type": "noun" },
+    { "bg": "соло", "en": "solo", "pronunciation": "SO-lo", "example": "Солото на пианото беше изключително.", "type": "noun" },
+    { "bg": "партитура", "en": "score/sheet music", "pronunciation": "par-ti-TU-ra", "example": "Партитурата е на пулта пред музиканта.", "type": "noun" },
+    { "bg": "репетиция", "en": "rehearsal", "pronunciation": "re-pe-TI-tsi-ya", "example": "Репетицията е от десет до един.", "type": "noun" },
+    { "bg": "темпо", "en": "tempo", "pronunciation": "TEM-po", "example": "Темпото на финала е бързо и енергично.", "type": "noun" },
+    { "bg": "композитор", "en": "composer", "pronunciation": "kom-po-ZI-tor", "example": "Композиторът написа нова симфония.", "type": "noun" },
+    { "bg": "увертюра", "en": "overture", "pronunciation": "u-ver-TYU-ra", "example": "Увертюрата въвежда основните теми на операта.", "type": "noun" },
+    { "bg": "камерна музика", "en": "chamber music", "pronunciation": "KA-mer-na MU-zi-ka", "example": "Камерната музика се изпълнява от малък състав.", "type": "noun" },
+    { "bg": "първа цигулка", "en": "first violin/concertmaster", "pronunciation": "PUR-va tsi-GUL-ka", "example": "Първата цигулка настройва оркестъра преди концерта.", "type": "noun" },
+    { "bg": "аплодисменти", "en": "applause", "pronunciation": "ap-lo-dis-MEN-ti", "example": "Аплодисментите продължиха пет минути.", "type": "noun" }
+  ]
+}
