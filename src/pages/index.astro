@@ -60,13 +60,13 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
       <div id="flashcard" role="button" tabindex="0" aria-label="Click to flip card">
         <div class="card-inner">
           <div class="card-front">
-            <img class="card-image" id="front-image" src="" alt="" />
             <span class="card-label">Bulgarian</span>
             <span class="card-text" id="front-text"></span>
             <span class="card-pronunciation" id="front-pronunciation"></span>
             <span class="card-meta" id="front-meta"></span>
           </div>
           <div class="card-back">
+            <img class="card-image" id="back-image" src="" alt="" />
             <span class="card-label">English</span>
             <span class="card-text" id="back-text"></span>
             <span class="card-example" id="back-example"></span>
@@ -114,7 +114,7 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
     const backExample = document.getElementById('back-example');
     const frontPronunciation = document.getElementById('front-pronunciation');
     const frontMeta = document.getElementById('front-meta');
-    const frontImage = document.getElementById('front-image');
+    const backImage = document.getElementById('back-image');
     const frontLabel = card.querySelector('.card-front .card-label');
     const backLabel = card.querySelector('.card-back .card-label');
     const progress = document.getElementById('progress');
@@ -185,14 +185,14 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
       if (cards.length === 0) return;
       const c = cards[currentIndex];
       if (c.image) {
-        frontImage.src = `/images/cards/${c.image}`;
-        frontImage.alt = c.en;
-        frontImage.style.display = 'block';
+        backImage.src = `/images/cards/${c.image}`;
+        backImage.alt = c.en;
+        backImage.style.display = 'block';
         card.classList.add('has-image');
       } else {
-        frontImage.src = '';
-        frontImage.alt = '';
-        frontImage.style.display = 'none';
+        backImage.src = '';
+        backImage.alt = '';
+        backImage.style.display = 'none';
         card.classList.remove('has-image');
       }
       if (mode === 'bg') {
@@ -617,7 +617,7 @@ import { cards as flashcards, categories, types, groups, categoryGroups } from '
     height: 340px;
   }
 
-  #flashcard.has-image .card-front {
+  #flashcard.has-image .card-back {
     gap: 0.5rem;
     padding: 1.25rem 2rem;
   }
