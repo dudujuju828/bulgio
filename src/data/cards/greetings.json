@@ -1,12 +1,54 @@
 {
   "category": "Greetings",
   "cards": [
-    { "bg": "Здравейте", "en": "Hello", "pronunciation": "Zdra-VEY-te", "example": "Здравейте, как сте днес?", "type": "phrase" },
-    { "bg": "Добро утро", "en": "Good morning", "pronunciation": "Do-BRO U-tro", "example": "Добро утро, как спахте?", "type": "phrase" },
-    { "bg": "Добър ден", "en": "Good afternoon", "pronunciation": "DO-bur den", "example": "Добър ден, има ли свободни маси?", "type": "phrase" },
-    { "bg": "Добър вечер", "en": "Good evening", "pronunciation": "DO-bur VE-cher", "example": "Добър вечер, добре дошли в ресторанта.", "type": "phrase" },
-    { "bg": "Лека нощ", "en": "Good night", "pronunciation": "LE-ka nosht", "example": "Лека нощ, приятни сънища!", "type": "phrase" },
-    { "bg": "Довиждане", "en": "Goodbye", "pronunciation": "Do-VIZH-da-ne", "example": "Довиждане, до скоро!", "type": "phrase" },
-    { "bg": "Как сте?", "en": "How are you?", "pronunciation": "Kak ste?", "example": "Здравейте, как сте?", "type": "phrase" }
+    {
+      "bg": "Здравейте",
+      "en": "Hello",
+      "pronunciation": "Zdra-VEY-te",
+      "example": "Здравейте, как сте днес?",
+      "type": "phrase"
+    },
+    {
+      "bg": "Добро утро",
+      "en": "Good morning",
+      "pronunciation": "Do-BRO U-tro",
+      "example": "Добро утро, как спахте?",
+      "type": "phrase"
+    },
+    {
+      "bg": "Добър ден",
+      "en": "Good afternoon",
+      "pronunciation": "DO-bur den",
+      "example": "Добър ден, има ли свободни маси?",
+      "type": "phrase"
+    },
+    {
+      "bg": "Добър вечер",
+      "en": "Good evening",
+      "pronunciation": "DO-bur VE-cher",
+      "example": "Добър вечер, добре дошли в ресторанта.",
+      "type": "phrase"
+    },
+    {
+      "bg": "Лека нощ",
+      "en": "Good night",
+      "pronunciation": "LE-ka nosht",
+      "example": "Лека нощ, приятни сънища!",
+      "type": "phrase"
+    },
+    {
+      "bg": "Довиждане",
+      "en": "Goodbye",
+      "pronunciation": "Do-VIZH-da-ne",
+      "example": "Довиждане, до скоро!",
+      "type": "phrase"
+    },
+    {
+      "bg": "Как сте?",
+      "en": "How are you?",
+      "pronunciation": "Kak ste?",
+      "example": "Здравейте, как сте?",
+      "type": "phrase"
+    }
   ]
 }
