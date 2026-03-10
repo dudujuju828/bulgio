@@ -1,0 +1,27 @@
+{
+  "category": "Volunteering & Charity",
+  "cards": [
+    { "bg": "благотворителност", "en": "charity", "pronunciation": "bla-go-tvo-RI-tel-nost", "example": "Благотворителността помага на хора в нужда.", "type": "noun" },
+    { "bg": "дарение", "en": "donation", "pronunciation": "da-RE-ni-e", "example": "Направих дарение за болното дете.", "type": "noun" },
+    { "bg": "дарявам", "en": "to donate", "pronunciation": "da-RYA-vam", "example": "Дарявам дрехи и играчки всяка зима.", "type": "verb" },
+    { "bg": "доброволец", "en": "volunteer", "pronunciation": "dob-ro-VO-lets", "example": "Доброволците помагат при бедствия.", "type": "noun" },
+    { "bg": "доброволческа организация", "en": "volunteer organization", "pronunciation": "dob-ro-VOL-ches-ka or-ga-ni-ZA-tsi-ya", "example": "Доброволческата организация събира храна.", "type": "noun" },
+    { "bg": "кампания", "en": "campaign (fundraising)", "pronunciation": "kam-PA-ni-ya", "example": "Кампанията събра сто хиляди лева.", "type": "noun" },
+    { "bg": "набиране на средства", "en": "fundraising", "pronunciation": "na-BI-ra-ne na SRED-stva", "example": "Набирането на средства е чрез онлайн платформа.", "type": "noun" },
+    { "bg": "фондация", "en": "foundation", "pronunciation": "fon-DA-tsi-ya", "example": "Фондацията подпомага деца сираци.", "type": "noun" },
+    { "bg": "сдружение", "en": "association/NGO", "pronunciation": "sdru-ZHE-ni-e", "example": "Сдружението защитава правата на животните.", "type": "noun" },
+    { "bg": "приют", "en": "shelter", "pronunciation": "pri-YUT", "example": "Приютът приема бездомни хора през зимата.", "type": "noun" },
+    { "bg": "хранителна банка", "en": "food bank", "pronunciation": "hra-ni-TEL-na BAN-ka", "example": "Хранителната банка раздава продукти на нуждаещи се.", "type": "noun" },
+    { "bg": "дрехи втора употреба", "en": "secondhand clothes (donation)", "pronunciation": "DRE-hi VTO-ra u-pot-RE-ba", "example": "Събираме дрехи втора употреба за бежанци.", "type": "noun" },
+    { "bg": "кръводаряване", "en": "blood donation", "pronunciation": "kru-vo-da-RYA-va-ne", "example": "Ходя на кръводаряване два пъти годишно.", "type": "noun" },
+    { "bg": "помощ", "en": "help/aid", "pronunciation": "PO-mosht", "example": "Помощта пристигна навреме.", "type": "noun" },
+    { "bg": "нуждаещ се", "en": "person in need", "pronunciation": "nuzh-DA-esht se", "example": "Нуждаещите се получават безплатна храна.", "type": "noun" },
+    { "bg": "бедствие", "en": "disaster/calamity", "pronunciation": "BED-stvi-e", "example": "След бедствието много хора дариха пари.", "type": "noun" },
+    { "bg": "Червен кръст", "en": "Red Cross", "pronunciation": "CHER-ven krust", "example": "Българският Червен кръст помага при кризи.", "type": "noun" },
+    { "bg": "безкористен", "en": "selfless/altruistic", "pronunciation": "bez-ko-RIS-ten", "example": "Безкористната помощ е най-ценна.", "type": "adjective" },
+    { "bg": "подкрепа", "en": "support", "pronunciation": "pod-KRE-pa", "example": "Подкрепата на общността е важна.", "type": "noun" },
+    { "bg": "социална кухня", "en": "soup kitchen", "pronunciation": "so-tsi-AL-na KUH-nya", "example": "Социалната кухня храни двеста души на ден.", "type": "noun" },
+    { "bg": "базар", "en": "charity bazaar", "pronunciation": "ba-ZAR", "example": "Благотворителният базар е в неделя.", "type": "noun" },
+    { "bg": "съпричастност", "en": "solidarity/empathy", "pronunciation": "su-pri-CHAST-nost", "example": "Съпричастността към другите ни обединява.", "type": "noun" }
+  ]
+}
