@@ -1,0 +1,28 @@
+{
+  "category": "Dog Training",
+  "cards": [
+    { "bg": "дресировка", "en": "dog training", "pronunciation": "dre-si-ROV-ka", "example": "Дресировката започва от малко.", "type": "noun" },
+    { "bg": "дресьор", "en": "dog trainer", "pronunciation": "dre-SYOR", "example": "Дресьорът работи с кучето два пъти седмично.", "type": "noun" },
+    { "bg": "команда", "en": "command", "pronunciation": "ko-MAN-da", "example": "Кучето изпълнява основните команди.", "type": "noun" },
+    { "bg": "седни", "en": "sit (command)", "pronunciation": "SED-ni", "example": "Седни! Браво, добро куче.", "type": "verb" },
+    { "bg": "легни", "en": "lie down (command)", "pronunciation": "LEG-ni", "example": "Легни и чакай, докато се върна.", "type": "verb" },
+    { "bg": "стой", "en": "stay (command)", "pronunciation": "stoy", "example": "Стой тук, не мърдай!", "type": "verb" },
+    { "bg": "ела", "en": "come (command)", "pronunciation": "e-LA", "example": "Ела при мен, добро куче!", "type": "verb" },
+    { "bg": "дай лапа", "en": "give paw (command)", "pronunciation": "day LA-pa", "example": "Дай лапа! Браво!", "type": "phrase" },
+    { "bg": "не", "en": "no (command)", "pronunciation": "ne", "example": "Не! Остави обувките!", "type": "interjection" },
+    { "bg": "браво", "en": "good boy/girl (praise)", "pronunciation": "BRA-vo", "example": "Браво, много добро куче!", "type": "interjection" },
+    { "bg": "лакомство", "en": "treat/reward", "pronunciation": "la-KOM-stvo", "example": "Дай лакомство, когато изпълни командата.", "type": "noun" },
+    { "bg": "награда", "en": "reward", "pronunciation": "na-GRA-da", "example": "Наградата мотивира кучето да учи.", "type": "noun" },
+    { "bg": "повод", "en": "leash", "pronunciation": "PO-vod", "example": "Кучето трябва да ходи спокойно на повод.", "type": "noun" },
+    { "bg": "нашийник", "en": "collar", "pronunciation": "na-SHIY-nik", "example": "Нашийникът е с медальон и телефон.", "type": "noun" },
+    { "bg": "намордник", "en": "muzzle", "pronunciation": "na-MORD-nik", "example": "Големите кучета трябва да носят намордник.", "type": "noun" },
+    { "bg": "лай", "en": "bark/barking", "pronunciation": "lay", "example": "Кучето лае на непознати.", "type": "noun" },
+    { "bg": "лая", "en": "to bark", "pronunciation": "LA-ya", "example": "Научи кучето да не лае без причина.", "type": "verb" },
+    { "bg": "послушание", "en": "obedience", "pronunciation": "pos-lu-SHA-ni-e", "example": "Курсът по послушание е за начинаещи.", "type": "noun" },
+    { "bg": "социализация", "en": "socialization", "pronunciation": "so-tsi-a-li-ZA-tsi-ya", "example": "Социализацията с други кучета е важна.", "type": "noun" },
+    { "bg": "разходка", "en": "walk", "pronunciation": "raz-HOD-ka", "example": "Разходката е два пъти на ден.", "type": "noun" },
+    { "bg": "кучешки парк", "en": "dog park", "pronunciation": "ku-CHESH-ki park", "example": "В кучешкия парк може да тича свободно.", "type": "noun" },
+    { "bg": "хапя", "en": "to bite", "pronunciation": "HA-pya", "example": "Малкото куче хапе при игра.", "type": "verb" },
+    { "bg": "гальосвам", "en": "to pet/stroke", "pronunciation": "ga-LYOS-vam", "example": "Гальосвай кучето, когато е спокойно.", "type": "verb" }
+  ]
+}
