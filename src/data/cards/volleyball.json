@@ -1,0 +1,28 @@
+{
+  "category": "Volleyball",
+  "cards": [
+    { "bg": "волейбол", "en": "volleyball", "pronunciation": "vo-ley-BOL", "example": "Волейболът е един от най-успешните спортове за България.", "type": "noun" },
+    { "bg": "мрежа", "en": "net", "pronunciation": "mre-ZHA", "example": "Мрежата е висока два метра и четиридесет и три.", "type": "noun" },
+    { "bg": "отбор", "en": "team", "pronunciation": "ot-BOR", "example": "Нашият отбор играе във финалите.", "type": "noun" },
+    { "bg": "играч", "en": "player", "pronunciation": "ig-RACH", "example": "На терена има шест играчи от всеки отбор.", "type": "noun" },
+    { "bg": "сервис", "en": "serve", "pronunciation": "SER-vis", "example": "Сервисът му е много мощен.", "type": "noun" },
+    { "bg": "сервирам", "en": "to serve", "pronunciation": "ser-VI-ram", "example": "Ти сервираш първи в този сет.", "type": "verb" },
+    { "bg": "посрещане", "en": "reception/pass", "pronunciation": "pos-RESH-ta-ne", "example": "Посрещането на сервиса е ключово.", "type": "noun" },
+    { "bg": "пас", "en": "set/pass", "pronunciation": "pas", "example": "Разиграващият вдигна перфектен пас.", "type": "noun" },
+    { "bg": "атака", "en": "attack/spike", "pronunciation": "a-TA-ka", "example": "Атаката по диагонала вкара точка.", "type": "noun" },
+    { "bg": "блок", "en": "block", "pronunciation": "blok", "example": "Блокът на мрежата спря топката.", "type": "noun" },
+    { "bg": "блокирам", "en": "to block", "pronunciation": "blo-KI-ram", "example": "Блокираха силната атака на противника.", "type": "verb" },
+    { "bg": "ас", "en": "ace (serve)", "pronunciation": "as", "example": "Три аса в един гейм — страхотно!", "type": "noun" },
+    { "bg": "либеро", "en": "libero", "pronunciation": "LI-be-ro", "example": "Либерото посреща всички трудни топки.", "type": "noun" },
+    { "bg": "разиграващ", "en": "setter", "pronunciation": "raz-ig-RA-vasht", "example": "Разиграващият е мозъкът на отбора.", "type": "noun" },
+    { "bg": "диагонал", "en": "opposite hitter", "pronunciation": "di-a-go-NAL", "example": "Диагоналът е най-резултатният играч.", "type": "noun" },
+    { "bg": "център", "en": "middle blocker", "pronunciation": "TSEN-tur", "example": "Центърът играе бързи атаки.", "type": "noun" },
+    { "bg": "точка", "en": "point", "pronunciation": "TOCH-ka", "example": "Спечелихме точката след дълго разиграване.", "type": "noun" },
+    { "bg": "гейм", "en": "set (in volleyball)", "pronunciation": "geym", "example": "Мачът е от пет гейма до двадесет и пет точки.", "type": "noun" },
+    { "bg": "тайбрек", "en": "tiebreak (5th set)", "pronunciation": "tay-BREK", "example": "Петият гейм е тайбрек до петнадесет точки.", "type": "noun" },
+    { "bg": "аут", "en": "out", "pronunciation": "aut", "example": "Топката падна в аут.", "type": "noun" },
+    { "bg": "ротация", "en": "rotation", "pronunciation": "ro-TA-tsi-ya", "example": "При ротация играчите сменят позициите.", "type": "noun" },
+    { "bg": "плажен волейбол", "en": "beach volleyball", "pronunciation": "PLA-zhen vo-ley-BOL", "example": "Играем плажен волейбол на Слънчев бряг.", "type": "noun" },
+    { "bg": "световно първенство", "en": "world championship", "pronunciation": "sve-TOV-no pur-VEN-stvo", "example": "България е печелила медали на световно първенство по волейбол.", "type": "noun" }
+  ]
+}
