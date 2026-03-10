@@ -1,0 +1,28 @@
+{
+  "category": "Firefighters",
+  "cards": [
+    { "bg": "пожарникар", "en": "firefighter", "pronunciation": "po-zhar-ni-KAR", "example": "Пожарникарите пристигнаха за пет минути.", "type": "noun" },
+    { "bg": "пожарна", "en": "fire station/fire truck", "pronunciation": "po-ZHAR-na", "example": "Пожарната е на съседната улица.", "type": "noun" },
+    { "bg": "пожар", "en": "fire", "pronunciation": "po-ZHAR", "example": "Избухна пожар в склада.", "type": "noun" },
+    { "bg": "огън", "en": "fire/flame", "pronunciation": "o-GUN", "example": "Огънят се разпространи бързо.", "type": "noun" },
+    { "bg": "пламък", "en": "flame", "pronunciation": "PLA-muk", "example": "Пламъците обхванаха целия покрив.", "type": "noun" },
+    { "bg": "дим", "en": "smoke", "pronunciation": "dim", "example": "Димът се виждаше отдалече.", "type": "noun" },
+    { "bg": "гася пожар", "en": "to put out a fire", "pronunciation": "ga-SYA po-ZHAR", "example": "Загасиха пожара след два часа.", "type": "phrase" },
+    { "bg": "маркуч", "en": "hose", "pronunciation": "mar-KUCH", "example": "Пожарникарите разгънаха маркучите.", "type": "noun" },
+    { "bg": "стълба", "en": "ladder", "pronunciation": "STUL-ba", "example": "Качиха се по стълбата до четвъртия етаж.", "type": "noun" },
+    { "bg": "пожарогасител", "en": "fire extinguisher", "pronunciation": "po-zha-ro-ga-SI-tel", "example": "Пожарогасителят е до входа на всеки етаж.", "type": "noun" },
+    { "bg": "сирена", "en": "siren", "pronunciation": "si-RE-na", "example": "Чухме сирената на пожарната.", "type": "noun" },
+    { "bg": "спасявам", "en": "to rescue/save", "pronunciation": "spa-SYA-vam", "example": "Спасиха семейство от горящата сграда.", "type": "verb" },
+    { "bg": "евакуация", "en": "evacuation", "pronunciation": "e-va-ku-A-tsi-ya", "example": "Евакуацията на сградата мина бързо.", "type": "noun" },
+    { "bg": "пожарна аларма", "en": "fire alarm", "pronunciation": "po-ZHAR-na a-LAR-ma", "example": "Пожарната аларма се включи автоматично.", "type": "noun" },
+    { "bg": "противопожарен изход", "en": "fire exit", "pronunciation": "pro-ti-vo-po-ZHA-ren IZ-hod", "example": "Противопожарният изход е от задната страна.", "type": "noun" },
+    { "bg": "горски пожар", "en": "wildfire/forest fire", "pronunciation": "GOR-ski po-ZHAR", "example": "Горските пожари през лятото са голям проблем.", "type": "noun" },
+    { "bg": "подпалвач", "en": "arsonist", "pronunciation": "pod-PAL-vach", "example": "Полицията търси подпалвача.", "type": "noun" },
+    { "bg": "задимяване", "en": "smoke inhalation/smoke buildup", "pronunciation": "za-di-MYA-va-ne", "example": "Задимяването е по-опасно от огъня.", "type": "noun" },
+    { "bg": "противогаз", "en": "gas mask", "pronunciation": "pro-ti-vo-GAZ", "example": "Пожарникарите влизат с противогази.", "type": "noun" },
+    { "bg": "пожароустойчив", "en": "fireproof/fire-resistant", "pronunciation": "po-zha-ro-us-TOY-chiv", "example": "Вратата е пожароустойчива.", "type": "adjective" },
+    { "bg": "112", "en": "emergency number", "pronunciation": "ed-NO ed-NO DVE", "example": "При пожар звъннете на 112.", "type": "noun" },
+    { "bg": "доброволец", "en": "volunteer firefighter", "pronunciation": "dob-ro-VO-lets", "example": "Доброволците помагат при горски пожари.", "type": "noun" },
+    { "bg": "пожарна безопасност", "en": "fire safety", "pronunciation": "po-ZHAR-na bez-o-PAS-nost", "example": "Инструктажът по пожарна безопасност е задължителен.", "type": "noun" }
+  ]
+}
