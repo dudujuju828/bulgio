@@ -1,0 +1,28 @@
+{
+  "category": "Comparisons & Describing Differences",
+  "cards": [
+    { "bg": "по-голям", "en": "bigger/larger", "pronunciation": "po-go-LYAM", "example": "Този апартамент е по-голям от другия.", "type": "adjective" },
+    { "bg": "по-малък", "en": "smaller", "pronunciation": "po-MA-luk", "example": "По-малкият размер ми става.", "type": "adjective" },
+    { "bg": "най-голям", "en": "biggest/largest", "pronunciation": "nay-go-LYAM", "example": "София е най-големият град в България.", "type": "adjective" },
+    { "bg": "по-добър", "en": "better", "pronunciation": "po-DO-bur", "example": "Днес се чувствам по-добре от вчера.", "type": "adjective" },
+    { "bg": "най-добър", "en": "best", "pronunciation": "nay-DO-bur", "example": "Това е най-добрият ресторант в града.", "type": "adjective" },
+    { "bg": "по-лош", "en": "worse", "pronunciation": "po-losh", "example": "Времето стана по-лошо следобед.", "type": "adjective" },
+    { "bg": "по-евтин", "en": "cheaper", "pronunciation": "po-ev-TIN", "example": "Автобусът е по-евтин от таксито.", "type": "adjective" },
+    { "bg": "по-скъп", "en": "more expensive", "pronunciation": "po-skup", "example": "Биологичната храна е по-скъпа.", "type": "adjective" },
+    { "bg": "по-бърз", "en": "faster", "pronunciation": "po-burz", "example": "Метрото е по-бързо от трамвая.", "type": "adjective" },
+    { "bg": "по-бавен", "en": "slower", "pronunciation": "po-BA-ven", "example": "Автобусът е по-бавен в час пик.", "type": "adjective" },
+    { "bg": "по-стар", "en": "older", "pronunciation": "po-star", "example": "Брат ми е по-стар от мен с три години.", "type": "adjective" },
+    { "bg": "по-млад", "en": "younger", "pronunciation": "po-mlad", "example": "Сестра ми е по-млада от мен.", "type": "adjective" },
+    { "bg": "еднакъв", "en": "same/equal", "pronunciation": "ed-na-KUV", "example": "Размерите са еднакви.", "type": "adjective" },
+    { "bg": "различен", "en": "different", "pronunciation": "raz-LI-chen", "example": "Двата града са много различни.", "type": "adjective" },
+    { "bg": "подобен", "en": "similar", "pronunciation": "po-DO-ben", "example": "Българският е подобен на руския.", "type": "adjective" },
+    { "bg": "колкото", "en": "as much as", "pronunciation": "KOL-ko-to", "example": "Пловдив е почти колкото София по население.", "type": "conjunction" },
+    { "bg": "повече от", "en": "more than", "pronunciation": "PO-ve-che ot", "example": "Имам повече от сто книги.", "type": "phrase" },
+    { "bg": "по-малко от", "en": "less than/fewer than", "pronunciation": "po-MAL-ko ot", "example": "Чакахме по-малко от десет минути.", "type": "phrase" },
+    { "bg": "два пъти по-", "en": "twice as", "pronunciation": "dva PU-ti po", "example": "Новият телефон е два пъти по-бърз.", "type": "phrase" },
+    { "bg": "далеч по-", "en": "far more/much more", "pronunciation": "da-LECH po", "example": "Този хотел е далеч по-добър.", "type": "phrase" },
+    { "bg": "толкова... колкото", "en": "as... as", "pronunciation": "TOL-ko-va... KOL-ko-to", "example": "Тя е толкова висока, колкото брат й.", "type": "phrase" },
+    { "bg": "за разлика от", "en": "unlike/in contrast to", "pronunciation": "za RAZ-li-ka ot", "example": "За разлика от мен, тя обича зимата.", "type": "phrase" },
+    { "bg": "в сравнение с", "en": "compared to", "pronunciation": "v srav-NE-ni-e s", "example": "В сравнение с миналата година цените са по-високи.", "type": "phrase" }
+  ]
+}
