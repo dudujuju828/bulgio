@@ -1,0 +1,28 @@
+{
+  "category": "Electricity & Electronics",
+  "cards": [
+    { "bg": "ток", "en": "electric current/electricity", "pronunciation": "tok", "example": "Спряха тока в целия квартал.", "type": "noun" },
+    { "bg": "напрежение", "en": "voltage", "pronunciation": "na-pre-ZHE-ni-e", "example": "Напрежението в мрежата е двеста и двадесет волта.", "type": "noun" },
+    { "bg": "батерия", "en": "battery", "pronunciation": "ba-TE-ri-ya", "example": "Батерията на телефона свърши.", "type": "noun" },
+    { "bg": "зарядно", "en": "charger", "pronunciation": "za-RYAD-no", "example": "Забравих зарядното за лаптопа.", "type": "noun" },
+    { "bg": "кабел", "en": "cable/wire", "pronunciation": "KA-bel", "example": "Кабелът е скъсан, трябва нов.", "type": "noun" },
+    { "bg": "контакт", "en": "power outlet/socket", "pronunciation": "kon-TAKT", "example": "Включи лампата в контакта.", "type": "noun" },
+    { "bg": "щепсел", "en": "plug", "pronunciation": "SHTEP-sel", "example": "Щепселът не пасва на контакта.", "type": "noun" },
+    { "bg": "адаптер", "en": "adapter", "pronunciation": "a-DAP-ter", "example": "Нужен ми е адаптер за европейски контакт.", "type": "noun" },
+    { "bg": "удължител", "en": "extension cord", "pronunciation": "u-dul-ZHI-tel", "example": "Свържи лампата с удължител.", "type": "noun" },
+    { "bg": "предпазител", "en": "fuse", "pronunciation": "pred-pa-ZI-tel", "example": "Предпазителят изгоря от претоварването.", "type": "noun" },
+    { "bg": "бушон", "en": "circuit breaker/fuse", "pronunciation": "bu-SHON", "example": "Бушонът изби, провери таблото.", "type": "noun" },
+    { "bg": "електрическо табло", "en": "electrical panel/fuse box", "pronunciation": "e-lek-TRI-ches-ko tab-LO", "example": "Електрическото табло е в коридора.", "type": "noun" },
+    { "bg": "крушка", "en": "light bulb", "pronunciation": "KRUSH-ka", "example": "Крушката в кухнята изгоря.", "type": "noun" },
+    { "bg": "LED крушка", "en": "LED bulb", "pronunciation": "led KRUSH-ka", "example": "LED крушките пестят електричество.", "type": "noun" },
+    { "bg": "ключ", "en": "light switch", "pronunciation": "klyuch", "example": "Натисни ключа до вратата.", "type": "noun" },
+    { "bg": "късо съединение", "en": "short circuit", "pronunciation": "KU-so su-e-di-NE-ni-e", "example": "Късо съединение предизвика пожар.", "type": "noun" },
+    { "bg": "заземяване", "en": "grounding", "pronunciation": "za-ze-MYA-va-ne", "example": "Заземяването е важно за безопасност.", "type": "noun" },
+    { "bg": "електромер", "en": "electricity meter", "pronunciation": "e-lek-tro-MER", "example": "Записвам показанията на електромера всеки месец.", "type": "noun" },
+    { "bg": "сметка за ток", "en": "electricity bill", "pronunciation": "SMET-ka za tok", "example": "Сметката за ток тази зима е висока.", "type": "noun" },
+    { "bg": "ЧЕЗ", "en": "CEZ (electricity company)", "pronunciation": "chez", "example": "ЧЕЗ обяви планирано спиране на тока.", "type": "noun" },
+    { "bg": "електротехник", "en": "electrician", "pronunciation": "e-lek-tro-TEH-nik", "example": "Извикай електротехник да провери инсталацията.", "type": "noun" },
+    { "bg": "соларен панел", "en": "solar panel", "pronunciation": "so-LA-ren pa-NEL", "example": "Монтирахме соларни панели на покрива.", "type": "noun" },
+    { "bg": "токов удар", "en": "electric shock", "pronunciation": "TO-kov u-DAR", "example": "Внимавай с оголени кабели — може да те удари ток.", "type": "noun" }
+  ]
+}
