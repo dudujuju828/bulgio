@@ -1,0 +1,27 @@
+{
+  "category": "Phone",
+  "cards": [
+    { "bg": "телефон", "en": "phone", "pronunciation": "te-le-FON", "example": "Телефонът ми звъни.", "type": "noun" },
+    { "bg": "мобилен телефон", "en": "mobile phone", "pronunciation": "mo-BI-len te-le-FON", "example": "Забравих мобилния си телефон вкъщи.", "type": "noun" },
+    { "bg": "обаждам се", "en": "to call", "pronunciation": "o-BAZH-dam se", "example": "Ще ти се обадя довечера.", "type": "verb" },
+    { "bg": "обаждане", "en": "phone call", "pronunciation": "o-BAZH-da-ne", "example": "Имах важно обаждане от работата.", "type": "noun" },
+    { "bg": "звъня", "en": "to ring/call", "pronunciation": "ZVUN-ya", "example": "Някой ми звъни по телефона.", "type": "verb" },
+    { "bg": "вдигам", "en": "to pick up/answer", "pronunciation": "VDIG-am", "example": "Не вдигна телефона, сигурно е зает.", "type": "verb" },
+    { "bg": "затварям", "en": "to hang up", "pronunciation": "zat-VA-ryam", "example": "Затвори телефона без да се сбогува.", "type": "verb" },
+    { "bg": "номер", "en": "number", "pronunciation": "NO-mer", "example": "Какъв е телефонният ти номер?", "type": "noun" },
+    { "bg": "съобщение", "en": "message/text", "pronunciation": "su-ob-SHTE-ni-e", "example": "Изпратих ти съобщение.", "type": "noun" },
+    { "bg": "пропуснато обаждане", "en": "missed call", "pronunciation": "pro-PUS-na-to o-BAZH-da-ne", "example": "Имам три пропуснати обаждания.", "type": "noun" },
+    { "bg": "зареждам", "en": "to charge", "pronunciation": "za-REZH-dam", "example": "Трябва да заредя телефона, батерията е изтощена.", "type": "verb" },
+    { "bg": "батерия", "en": "battery", "pronunciation": "ba-te-RI-ya", "example": "Батерията е на десет процента.", "type": "noun" },
+    { "bg": "зарядно", "en": "charger", "pronunciation": "za-RYAD-no", "example": "Имаш ли зарядно за телефон?", "type": "noun" },
+    { "bg": "екран", "en": "screen", "pronunciation": "ek-RAN", "example": "Екранът на телефона ми се счупи.", "type": "noun" },
+    { "bg": "СИМ карта", "en": "SIM card", "pronunciation": "sim KAR-ta", "example": "Купих българска СИМ карта на летището.", "type": "noun" },
+    { "bg": "интернет", "en": "internet/data", "pronunciation": "in-ter-NET", "example": "Мобилният интернет е бавен тук.", "type": "noun" },
+    { "bg": "слушалки", "en": "headphones/earbuds", "pronunciation": "slu-SHAL-ki", "example": "Слушам музика със слушалки.", "type": "noun" },
+    { "bg": "заето", "en": "busy (line)", "pronunciation": "ZA-e-to", "example": "Линията е заета, опитай пак.", "type": "adjective" },
+    { "bg": "гласова поща", "en": "voicemail", "pronunciation": "GLA-so-va POSH-ta", "example": "Остави съобщение на гласовата поща.", "type": "noun" },
+    { "bg": "тарифа", "en": "plan/tariff", "pronunciation": "ta-RI-fa", "example": "Сменям тарифата на по-изгодна.", "type": "noun" },
+    { "bg": "вибрация", "en": "vibration", "pronunciation": "vib-RA-tsi-ya", "example": "Сложих телефона на вибрация.", "type": "noun" },
+    { "bg": "безшумен режим", "en": "silent mode", "pronunciation": "bez-SHU-men re-ZHIM", "example": "Сложи телефона на безшумен режим в театъра.", "type": "noun" }
+  ]
+}
