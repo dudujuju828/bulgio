@@ -1,0 +1,27 @@
+{
+  "category": "Fencing",
+  "cards": [
+    { "bg": "фехтовка", "en": "fencing", "pronunciation": "feh-TOV-ka", "example": "Фехтовката е елегантен олимпийски спорт.", "type": "noun" },
+    { "bg": "фехтовач", "en": "fencer", "pronunciation": "feh-to-VACH", "example": "Фехтовачът тренира четири пъти седмично.", "type": "noun" },
+    { "bg": "рапира", "en": "foil (weapon)", "pronunciation": "ra-PI-ra", "example": "Рапирата е най-лекото оръжие във фехтовката.", "type": "noun" },
+    { "bg": "шпага", "en": "épée", "pronunciation": "SHPA-ga", "example": "Шпагата позволява удари по цялото тяло.", "type": "noun" },
+    { "bg": "сабя", "en": "sabre", "pronunciation": "SA-bya", "example": "Сабята е бързо оръжие с ударни и пробождащи удари.", "type": "noun" },
+    { "bg": "маска", "en": "fencing mask", "pronunciation": "MAS-ka", "example": "Маската защитава лицето от удари.", "type": "noun" },
+    { "bg": "нагръдник", "en": "plastron/chest protector", "pronunciation": "na-GRUD-nik", "example": "Нагръдникът предпазва гърдите.", "type": "noun" },
+    { "bg": "ръкавица", "en": "glove", "pronunciation": "ru-ka-VI-tsa", "example": "Ръкавицата осигурява здрав захват на оръжието.", "type": "noun" },
+    { "bg": "писта", "en": "piste/strip", "pronunciation": "PIS-ta", "example": "Пистата за фехтовка е дълга четиринадесет метра.", "type": "noun" },
+    { "bg": "атака", "en": "attack", "pronunciation": "a-TA-ka", "example": "Атаката трябва да е бърза и точна.", "type": "noun" },
+    { "bg": "парад", "en": "parry/block", "pronunciation": "pa-RAD", "example": "Парадът отклони удара на противника.", "type": "noun" },
+    { "bg": "рипост", "en": "riposte (counter-attack)", "pronunciation": "ri-POST", "example": "Рипостът последва веднага след парада.", "type": "noun" },
+    { "bg": "прободен удар", "en": "thrust/touch", "pronunciation": "pro-BO-den u-DAR", "example": "Прободеният удар уцели в гърдите.", "type": "noun" },
+    { "bg": "туше", "en": "touché/touch", "pronunciation": "tu-SHE", "example": "Туше! Точката е за мен.", "type": "noun" },
+    { "bg": "антре", "en": "en garde (starting position)", "pronunciation": "an-TRE", "example": "Съдията казва „Антре!" и двамата заемат позиция.", "type": "interjection" },
+    { "bg": "стъпка напред", "en": "advance/step forward", "pronunciation": "STUP-ka na-PRED", "example": "Стъпка напред и бърза атака.", "type": "noun" },
+    { "bg": "стъпка назад", "en": "retreat/step back", "pronunciation": "STUP-ka na-ZAD", "example": "Стъпката назад създава дистанция.", "type": "noun" },
+    { "bg": "дистанция", "en": "distance", "pronunciation": "dis-TAN-tsi-ya", "example": "Правилната дистанция е ключова в боя.", "type": "noun" },
+    { "bg": "точка", "en": "point (score)", "pronunciation": "TOCH-ka", "example": "Първият фехтовач с петнадесет точки печели.", "type": "noun" },
+    { "bg": "бой", "en": "bout/match", "pronunciation": "boy", "example": "Боят продължи три минути.", "type": "noun" },
+    { "bg": "електронна система", "en": "electronic scoring system", "pronunciation": "e-lek-TRON-na sis-TE-ma", "example": "Електронната система отчита попаденията.", "type": "noun" },
+    { "bg": "салют", "en": "salute", "pronunciation": "sa-LYUT", "example": "Фехтовачите правят салют преди началото на боя.", "type": "noun" }
+  ]
+}
