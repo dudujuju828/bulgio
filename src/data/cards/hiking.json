@@ -1,0 +1,28 @@
+{
+  "category": "Hiking",
+  "cards": [
+    { "bg": "туризъм", "en": "hiking/trekking", "pronunciation": "tu-ri-ZUM", "example": "Планинският туризъм е много популярен в България.", "type": "noun" },
+    { "bg": "турист", "en": "hiker", "pronunciation": "tu-RIST", "example": "По пътеката срещнахме група туристи.", "type": "noun" },
+    { "bg": "пътека", "en": "trail/path", "pronunciation": "pu-TE-ka", "example": "Пътеката към връх Мусала е добре маркирана.", "type": "noun" },
+    { "bg": "маркировка", "en": "trail marking", "pronunciation": "mar-ki-ROV-ka", "example": "Следвай червената маркировка до хижата.", "type": "noun" },
+    { "bg": "хижа", "en": "mountain hut/lodge", "pronunciation": "HI-zha", "example": "Пренощувахме в хижа Седемте езера.", "type": "noun" },
+    { "bg": "връх", "en": "peak/summit", "pronunciation": "vruh", "example": "Изкачихме връх Ботев за пет часа.", "type": "noun" },
+    { "bg": "изкачвам", "en": "to climb/ascend", "pronunciation": "iz-KACH-vam", "example": "Изкачването до върха отнема три часа.", "type": "verb" },
+    { "bg": "слизам", "en": "to descend/go down", "pronunciation": "SLI-zam", "example": "Слизането е по-лесно, но внимавай за коленете.", "type": "verb" },
+    { "bg": "раница", "en": "backpack", "pronunciation": "RA-ni-tsa", "example": "Сложи вода и храна в раницата.", "type": "noun" },
+    { "bg": "туристически обувки", "en": "hiking boots", "pronunciation": "tu-ris-TI-ches-ki o-BUV-ki", "example": "Без добри туристически обувки не тръгвай.", "type": "noun" },
+    { "bg": "бастун", "en": "walking stick/pole", "pronunciation": "bas-TUN", "example": "Бастуните помагат при стръмни участъци.", "type": "noun" },
+    { "bg": "стръмен", "en": "steep", "pronunciation": "STRU-men", "example": "Последният участък е много стръмен.", "type": "adjective" },
+    { "bg": "поляна", "en": "meadow/clearing", "pronunciation": "po-LYA-na", "example": "Спряхме за почивка на красива поляна.", "type": "noun" },
+    { "bg": "извор", "en": "spring/water source", "pronunciation": "iz-VOR", "example": "Напълнихме бутилките от планинския извор.", "type": "noun" },
+    { "bg": "водопад", "en": "waterfall", "pronunciation": "vo-do-PAD", "example": "Райското пръскало е най-високият водопад на Балканите.", "type": "noun" },
+    { "bg": "езеро", "en": "lake", "pronunciation": "E-ze-ro", "example": "Седемте рилски езера привличат хиляди туристи.", "type": "noun" },
+    { "bg": "билo", "en": "ridge", "pronunciation": "bi-LO", "example": "Вятърът по билото беше много силен.", "type": "noun" },
+    { "bg": "пропаст", "en": "abyss/chasm", "pronunciation": "PRO-past", "example": "Не се приближавай до ръба на пропастта.", "type": "noun" },
+    { "bg": "заслон", "en": "shelter", "pronunciation": "ZAS-lon", "example": "При буря се скрихме в заслона.", "type": "noun" },
+    { "bg": "надморска височина", "en": "altitude/elevation", "pronunciation": "nad-MOR-ska vi-so-chi-NA", "example": "Мусала е на 2925 метра надморска височина.", "type": "noun" },
+    { "bg": "разклон", "en": "fork/junction (in trail)", "pronunciation": "raz-KLON", "example": "На разклона поеми по лявата пътека.", "type": "noun" },
+    { "bg": "преход", "en": "hike/day trek", "pronunciation": "pre-HOD", "example": "Утре ни чака шестчасов преход.", "type": "noun" },
+    { "bg": "почивка", "en": "rest/break", "pronunciation": "po-CHIV-ka", "example": "Да спрем за кратка почивка на сянка.", "type": "noun" }
+  ]
+}
