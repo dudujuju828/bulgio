@@ -1,0 +1,28 @@
+{
+  "category": "Hairstyles",
+  "cards": [
+    { "bg": "прическа", "en": "hairstyle", "pronunciation": "pri-CHES-ka", "example": "Новата ти прическа ти отива много.", "type": "noun" },
+    { "bg": "коса", "en": "hair", "pronunciation": "ko-SA", "example": "Косата й е дълга и гъста.", "type": "noun" },
+    { "bg": "опашка", "en": "ponytail", "pronunciation": "o-PASH-ka", "example": "Вързах косата на опашка за тренировка.", "type": "noun" },
+    { "bg": "кок", "en": "bun (hair)", "pronunciation": "kok", "example": "Балерината носи висок кок.", "type": "noun" },
+    { "bg": "плитка", "en": "braid", "pronunciation": "PLIT-ka", "example": "Мама ми плете плитки всяка сутрин.", "type": "noun" },
+    { "bg": "бретон", "en": "bangs/fringe", "pronunciation": "bre-TON", "example": "Подстригах си бретон и ми хареса.", "type": "noun" },
+    { "bg": "къдрица", "en": "curl", "pronunciation": "KUD-ri-tsa", "example": "Къдриците й са естествени.", "type": "noun" },
+    { "bg": "къдрав", "en": "curly", "pronunciation": "KUD-rav", "example": "Има къдрава коса от малък.", "type": "adjective" },
+    { "bg": "прав", "en": "straight (hair)", "pronunciation": "prav", "example": "Косата й е права и копринена.", "type": "adjective" },
+    { "bg": "бой", "en": "hair dye", "pronunciation": "boy", "example": "Боядиса косата с руса боя.", "type": "noun" },
+    { "bg": "боядисвам", "en": "to dye (hair)", "pronunciation": "bo-ya-DIS-vam", "example": "Боядисвам косата на всеки два месеца.", "type": "verb" },
+    { "bg": "кичур", "en": "streak/highlight", "pronunciation": "ki-CHUR", "example": "Направих си светли кичури за лятото.", "type": "noun" },
+    { "bg": "сешоар", "en": "hair dryer", "pronunciation": "se-sho-AR", "example": "Изсуши косата със сешоара.", "type": "noun" },
+    { "bg": "преса за коса", "en": "hair straightener/flat iron", "pronunciation": "PRE-sa za ko-SA", "example": "Изправих косата с пресата.", "type": "noun" },
+    { "bg": "маша", "en": "curling iron", "pronunciation": "ma-SHA", "example": "Направи къдрици с машата.", "type": "noun" },
+    { "bg": "фиба", "en": "hair clip/barrette", "pronunciation": "FI-ba", "example": "Захвани косата с фиба отстрани.", "type": "noun" },
+    { "bg": "ластик", "en": "hair tie/elastic", "pronunciation": "las-TIK", "example": "Имаш ли ластик за коса?", "type": "noun" },
+    { "bg": "диадема", "en": "headband", "pronunciation": "di-a-DE-ma", "example": "Диадемата държи косата назад.", "type": "noun" },
+    { "bg": "лак за коса", "en": "hairspray", "pronunciation": "lak za ko-SA", "example": "Пръскам лак за коса, за да издържи прическата.", "type": "noun" },
+    { "bg": "гел", "en": "hair gel", "pronunciation": "gel", "example": "Слага гел, за да оформи косата.", "type": "noun" },
+    { "bg": "бръснат", "en": "shaved/buzzcut", "pronunciation": "BRUS-nat", "example": "Обръсна главата си за лятото.", "type": "adjective" },
+    { "bg": "бакенбарди", "en": "sideburns", "pronunciation": "ba-ken-BAR-di", "example": "Бакенбардите му са в ретро стил.", "type": "noun" },
+    { "bg": "начупена коса", "en": "wavy hair", "pronunciation": "na-CHU-pe-na ko-SA", "example": "Начупената коса е модерна тази година.", "type": "noun" }
+  ]
+}
