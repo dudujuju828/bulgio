@@ -1,0 +1,27 @@
+{
+  "category": "Eyewear & Vision",
+  "cards": [
+    { "bg": "очила", "en": "glasses/eyeglasses", "pronunciation": "o-chi-LA", "example": "Нося очила за четене.", "type": "noun" },
+    { "bg": "слънчеви очила", "en": "sunglasses", "pronunciation": "SLUN-che-vi o-chi-LA", "example": "Забравих слънчевите очила на плажа.", "type": "noun" },
+    { "bg": "рамка", "en": "frame (eyeglasses)", "pronunciation": "RAM-ka", "example": "Рамката е черна и лека.", "type": "noun" },
+    { "bg": "стъкло", "en": "lens (eyeglasses)", "pronunciation": "stuk-LO", "example": "Стъклата са с антирефлексно покритие.", "type": "noun" },
+    { "bg": "контактни лещи", "en": "contact lenses", "pronunciation": "kon-TAKT-ni LESH-ti", "example": "Нося контактни лещи вместо очила.", "type": "noun" },
+    { "bg": "диоптър", "en": "diopter", "pronunciation": "di-OP-tur", "example": "Имам минус две диоптъра.", "type": "noun" },
+    { "bg": "късогледство", "en": "nearsightedness/myopia", "pronunciation": "ku-so-GLED-stvo", "example": "Късогледството се увеличава при децата.", "type": "noun" },
+    { "bg": "далекогледство", "en": "farsightedness", "pronunciation": "da-le-ko-GLED-stvo", "example": "Далекогледството е често при възрастните.", "type": "noun" },
+    { "bg": "астигматизъм", "en": "astigmatism", "pronunciation": "as-tig-ma-TI-zum", "example": "Астигматизмът размазва образа.", "type": "noun" },
+    { "bg": "очен лекар", "en": "eye doctor/ophthalmologist", "pronunciation": "O-chen LE-kar", "example": "Ходя на очен лекар веднъж годишно.", "type": "noun" },
+    { "bg": "преглед на очите", "en": "eye exam", "pronunciation": "PREG-led na o-CHI-te", "example": "Прегледът на очите показа промяна.", "type": "noun" },
+    { "bg": "оптика", "en": "optician's shop", "pronunciation": "OP-ti-ka", "example": "Поръчах нови очила от оптиката.", "type": "noun" },
+    { "bg": "оптик", "en": "optician", "pronunciation": "OP-tik", "example": "Оптикът препоръча по-тънки стъкла.", "type": "noun" },
+    { "bg": "рецепта за очила", "en": "eyeglass prescription", "pronunciation": "re-TSEP-ta za o-chi-LA", "example": "Рецептата за очила е валидна една година.", "type": "noun" },
+    { "bg": "виждам", "en": "to see", "pronunciation": "VIZH-dam", "example": "Не виждам добре отдалеч без очила.", "type": "verb" },
+    { "bg": "замъглено", "en": "blurry", "pronunciation": "za-mug-LE-no", "example": "Без очила всичко е замъглено.", "type": "adjective" },
+    { "bg": "бифокални очила", "en": "bifocal glasses", "pronunciation": "bi-fo-KAL-ni o-chi-LA", "example": "Бифокалните очила са за близо и далече.", "type": "noun" },
+    { "bg": "прогресивни стъкла", "en": "progressive lenses", "pronunciation": "pro-gre-SIV-ni stuk-LA", "example": "Прогресивните стъкла нямат видима линия.", "type": "noun" },
+    { "bg": "калъф за очила", "en": "glasses case", "pronunciation": "ka-LUF za o-chi-LA", "example": "Прибери очилата в калъфа.", "type": "noun" },
+    { "bg": "кърпичка за очила", "en": "glasses cleaning cloth", "pronunciation": "kur-PICH-ka za o-chi-LA", "example": "Почисти стъклата с кърпичката.", "type": "noun" },
+    { "bg": "лазерна корекция", "en": "laser eye surgery", "pronunciation": "LA-zer-na ko-REK-tsi-ya", "example": "Лазерната корекция премахва нуждата от очила.", "type": "noun" },
+    { "bg": "зрение", "en": "vision/eyesight", "pronunciation": "ZRE-ni-e", "example": "Зрението ми се влоши последната година.", "type": "noun" }
+  ]
+}
