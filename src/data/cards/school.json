@@ -1,0 +1,26 @@
+{
+  "category": "School",
+  "cards": [
+    { "bg": "училище", "en": "school", "pronunciation": "u-CHI-lisht-e", "example": "Децата ходят на училище всеки ден.", "type": "noun" },
+    { "bg": "университет", "en": "university", "pronunciation": "u-ni-ver-si-TET", "example": "Тя учи в Софийския университет.", "type": "noun" },
+    { "bg": "ученик", "en": "student (school)", "pronunciation": "u-che-NIK", "example": "Ученикът чете книга в клас.", "type": "noun" },
+    { "bg": "студент", "en": "student (university)", "pronunciation": "stu-DENT", "example": "Студентът подготвя изпита си.", "type": "noun" },
+    { "bg": "учител", "en": "teacher", "pronunciation": "u-CHI-tel", "example": "Учителката обяснява задачата.", "type": "noun" },
+    { "bg": "урок", "en": "lesson", "pronunciation": "u-ROK", "example": "Днес имаме урок по математика.", "type": "noun" },
+    { "bg": "клас", "en": "class/grade", "pronunciation": "klas", "example": "В кой клас си?", "type": "noun" },
+    { "bg": "книга", "en": "book", "pronunciation": "KNI-ga", "example": "Чета интересна книга.", "type": "noun" },
+    { "bg": "тетрадка", "en": "notebook", "pronunciation": "tet-RAD-ka", "example": "Пиша в тетрадката си.", "type": "noun" },
+    { "bg": "молив", "en": "pencil", "pronunciation": "mo-LIV", "example": "Имаш ли молив?", "type": "noun" },
+    { "bg": "химикалка", "en": "pen", "pronunciation": "hi-mi-KAL-ka", "example": "Пиши с химикалка, не с молив.", "type": "noun" },
+    { "bg": "изпит", "en": "exam", "pronunciation": "iz-PIT", "example": "Утре имам изпит по история.", "type": "noun" },
+    { "bg": "домашна работа", "en": "homework", "pronunciation": "do-MASH-na ra-BO-ta", "example": "Направи ли си домашната работа?", "type": "noun" },
+    { "bg": "оценка", "en": "grade/mark", "pronunciation": "o-TSEN-ka", "example": "Получих отлична оценка по български.", "type": "noun" },
+    { "bg": "уча", "en": "to study/learn", "pronunciation": "u-CHA", "example": "Уча български език всеки ден.", "type": "verb" },
+    { "bg": "чета", "en": "to read", "pronunciation": "che-TA", "example": "Чета книга всяка вечер.", "type": "verb" },
+    { "bg": "пиша", "en": "to write", "pronunciation": "PI-sha", "example": "Пиша есе за утре.", "type": "verb" },
+    { "bg": "разбирам", "en": "to understand", "pronunciation": "raz-BI-ram", "example": "Не разбирам тази задача.", "type": "verb" },
+    { "bg": "задача", "en": "task/problem", "pronunciation": "za-DA-cha", "example": "Реших всички задачи.", "type": "noun" },
+    { "bg": "библиотека", "en": "library", "pronunciation": "bib-li-o-TE-ka", "example": "Уча в библиотеката.", "type": "noun" },
+    { "bg": "дъска", "en": "blackboard", "pronunciation": "DUS-ka", "example": "Учителят пише на дъската.", "type": "noun" }
+  ]
+}
