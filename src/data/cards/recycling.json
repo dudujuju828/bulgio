@@ -1,0 +1,28 @@
+{
+  "category": "Recycling",
+  "cards": [
+    { "bg": "рециклиране", "en": "recycling", "pronunciation": "re-tsik-LI-ra-ne", "example": "Рециклирането помага за опазване на природата.", "type": "noun" },
+    { "bg": "рециклирам", "en": "to recycle", "pronunciation": "re-tsik-LI-ram", "example": "Рециклираме хартия, пластмаса и стъкло.", "type": "verb" },
+    { "bg": "боклук", "en": "garbage/trash", "pronunciation": "bok-LUK", "example": "Изхвърли боклука в контейнера.", "type": "noun" },
+    { "bg": "отпадъци", "en": "waste", "pronunciation": "ot-PA-du-tsi", "example": "Разделното събиране на отпадъци е задължително.", "type": "noun" },
+    { "bg": "разделно събиране", "en": "sorting/separated collection", "pronunciation": "raz-DEL-no su-BI-ra-ne", "example": "В София има контейнери за разделно събиране.", "type": "noun" },
+    { "bg": "контейнер", "en": "container/dumpster", "pronunciation": "kon-TEY-ner", "example": "Жълтият контейнер е за пластмаса.", "type": "noun" },
+    { "bg": "пластмаса", "en": "plastic", "pronunciation": "plast-MA-sa", "example": "Намалете употребата на пластмаса.", "type": "noun" },
+    { "bg": "стъкло", "en": "glass", "pronunciation": "STUK-lo", "example": "Стъклените бутилки отиват в зеления контейнер.", "type": "noun" },
+    { "bg": "хартия", "en": "paper", "pronunciation": "har-TI-ya", "example": "Синият контейнер е за хартия и картон.", "type": "noun" },
+    { "bg": "картон", "en": "cardboard", "pronunciation": "kar-TON", "example": "Сгъни кутиите от картон преди да ги изхвърлиш.", "type": "noun" },
+    { "bg": "метал", "en": "metal", "pronunciation": "me-TAL", "example": "Консервените кутии са от метал.", "type": "noun" },
+    { "bg": "торба", "en": "bag", "pronunciation": "TOR-ba", "example": "Носи си платнена торба вместо найлонова.", "type": "noun" },
+    { "bg": "найлонова торбичка", "en": "plastic bag", "pronunciation": "nay-LO-no-va tor-BICH-ka", "example": "Найлоновите торбички замърсяват океаните.", "type": "noun" },
+    { "bg": "замърсяване", "en": "pollution", "pronunciation": "za-mur-SYA-va-ne", "example": "Замърсяването на въздуха е проблем в големите градове.", "type": "noun" },
+    { "bg": "депо", "en": "landfill/dump", "pronunciation": "DE-po", "example": "Депото за отпадъци е извън града.", "type": "noun" },
+    { "bg": "компостирам", "en": "to compost", "pronunciation": "kom-pos-TI-ram", "example": "Компостирам хранителните отпадъци в градината.", "type": "verb" },
+    { "bg": "биоразградим", "en": "biodegradable", "pronunciation": "bi-o-raz-gra-DIM", "example": "Тази чаша е от биоразградим материал.", "type": "adjective" },
+    { "bg": "еднократна употреба", "en": "single-use/disposable", "pronunciation": "ed-no-KRAT-na u-po-TRE-ba", "example": "Избягвайте продукти за еднократна употреба.", "type": "noun" },
+    { "bg": "многократна употреба", "en": "reusable", "pronunciation": "mno-go-KRAT-na u-po-TRE-ba", "example": "Купих бутилка за многократна употреба.", "type": "noun" },
+    { "bg": "пречиствателна станция", "en": "water treatment plant", "pronunciation": "pre-CHIS-tva-tel-na STAN-tsi-ya", "example": "Пречиствателната станция обработва отпадните води.", "type": "noun" },
+    { "bg": "изхвърлям", "en": "to throw away/dispose", "pronunciation": "iz-HVUR-lyam", "example": "Не изхвърляй батерии в обикновения боклук.", "type": "verb" },
+    { "bg": "спестявам", "en": "to save/conserve", "pronunciation": "spes-TYA-vam", "example": "Спестявай вода и електричество.", "type": "verb" },
+    { "bg": "опаковка", "en": "packaging", "pronunciation": "o-pa-KOV-ka", "example": "Избирай продукти с по-малко опаковка.", "type": "noun" }
+  ]
+}
