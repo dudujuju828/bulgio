@@ -1,0 +1,28 @@
+{
+  "category": "Blacksmithing & Metalwork",
+  "cards": [
+    { "bg": "ковач", "en": "blacksmith", "pronunciation": "ko-VACH", "example": "Ковачът работи до нажежената горна.", "type": "noun" },
+    { "bg": "ковачница", "en": "smithy/forge (workshop)", "pronunciation": "ko-VACH-ni-tsa", "example": "Ковачницата в Етъра е действаща и до днес.", "type": "noun" },
+    { "bg": "горна", "en": "forge/hearth", "pronunciation": "GOR-na", "example": "Горната нагрява метала до червено.", "type": "noun" },
+    { "bg": "наковалня", "en": "anvil", "pronunciation": "na-ko-VAL-nya", "example": "Наковалнята е тежка и стабилна.", "type": "noun" },
+    { "bg": "чук", "en": "hammer", "pronunciation": "chuk", "example": "Ковачът удря с чук по нажежения метал.", "type": "noun" },
+    { "bg": "клещи", "en": "tongs", "pronunciation": "KLESH-ti", "example": "Клещите държат горещото желязо.", "type": "noun" },
+    { "bg": "мях", "en": "bellows", "pronunciation": "myah", "example": "Мяхът раздухва огъня в горната.", "type": "noun" },
+    { "bg": "желязо", "en": "iron", "pronunciation": "zhe-LYA-zo", "example": "Желязото омеква при висока температура.", "type": "noun" },
+    { "bg": "стомана", "en": "steel", "pronunciation": "sto-MA-na", "example": "Стоманата е по-здрава от чистото желязо.", "type": "noun" },
+    { "bg": "мед", "en": "copper", "pronunciation": "med", "example": "Медта се използва за декоративни предмети.", "type": "noun" },
+    { "bg": "кова", "en": "to forge/hammer", "pronunciation": "ko-VA", "example": "Кова нож от парче стомана.", "type": "verb" },
+    { "bg": "нагрявам", "en": "to heat", "pronunciation": "na-GRYA-vam", "example": "Нагрявам метала докато стане оранжев.", "type": "verb" },
+    { "bg": "закалявам", "en": "to temper/quench", "pronunciation": "za-ka-LYA-vam", "example": "Закалявам ножа във вода или масло.", "type": "verb" },
+    { "bg": "огъвам", "en": "to bend", "pronunciation": "o-GU-vam", "example": "Огъвам метала в нужната форма.", "type": "verb" },
+    { "bg": "заваряване", "en": "welding", "pronunciation": "za-va-RYA-va-ne", "example": "Заваряването свързва две метални части.", "type": "noun" },
+    { "bg": "подкова", "en": "horseshoe", "pronunciation": "pod-ko-VA", "example": "Подковата носи късмет според традицията.", "type": "noun" },
+    { "bg": "нож", "en": "knife/blade", "pronunciation": "nozh", "example": "Ножът е изкован на ръка от дамаска стомана.", "type": "noun" },
+    { "bg": "решетка", "en": "grate/railing", "pronunciation": "re-SHET-ka", "example": "Кованата решетка е с красиви орнаменти.", "type": "noun" },
+    { "bg": "искра", "en": "spark", "pronunciation": "IS-kra", "example": "Искрите летят при всеки удар на чука.", "type": "noun" },
+    { "bg": "пламък", "en": "flame", "pronunciation": "PLA-muk", "example": "Пламъкът в горната е ярко червен.", "type": "noun" },
+    { "bg": "калявам", "en": "to harden", "pronunciation": "ka-LYA-vam", "example": "Калявам острието за по-голяма твърдост.", "type": "verb" },
+    { "bg": "шлифовам", "en": "to grind/polish", "pronunciation": "shli-FO-vam", "example": "Шлифовам ножа на шлифовъчна машина.", "type": "verb" },
+    { "bg": "занаят", "en": "craft/trade", "pronunciation": "za-na-YAT", "example": "Ковашкият занаят се предава от баща на син.", "type": "noun" }
+  ]
+}
