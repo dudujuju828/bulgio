@@ -1,0 +1,28 @@
+{
+  "category": "Board Games",
+  "cards": [
+    { "bg": "настолна игра", "en": "board game", "pronunciation": "na-STOL-na ig-RA", "example": "Играем настолни игри всяка петък вечер.", "type": "noun" },
+    { "bg": "зар", "en": "die/dice", "pronunciation": "zar", "example": "Хвърли зара и премести пионката.", "type": "noun" },
+    { "bg": "пионка", "en": "game piece/pawn", "pronunciation": "pi-ON-ka", "example": "Избери си цвят на пионката.", "type": "noun" },
+    { "bg": "дъска", "en": "board (game board)", "pronunciation": "DUS-ka", "example": "Разгъни дъската и подреди фигурите.", "type": "noun" },
+    { "bg": "карта", "en": "card (playing card)", "pronunciation": "KAR-ta", "example": "Изтегли карта от тестето.", "type": "noun" },
+    { "bg": "тесте", "en": "deck (of cards)", "pronunciation": "TES-te", "example": "Разбъркай тестето преди да раздаваш.", "type": "noun" },
+    { "bg": "ход", "en": "move/turn", "pronunciation": "hod", "example": "Твоят ход е, играй.", "type": "noun" },
+    { "bg": "правила", "en": "rules", "pronunciation": "PRA-vi-la", "example": "Прочети правилата преди да започнем.", "type": "noun" },
+    { "bg": "играч", "en": "player", "pronunciation": "ig-RACH", "example": "Играта е за двама до шестима играчи.", "type": "noun" },
+    { "bg": "печеля", "en": "to win", "pronunciation": "PE-che-lya", "example": "Печелих три пъти поред!", "type": "verb" },
+    { "bg": "губя", "en": "to lose", "pronunciation": "GU-bya", "example": "Не обичам да губя, но е част от играта.", "type": "verb" },
+    { "bg": "равенство", "en": "tie/draw", "pronunciation": "ra-VEN-stvo", "example": "Играта завърши с равенство.", "type": "noun" },
+    { "bg": "стратегия", "en": "strategy", "pronunciation": "stra-TE-gi-ya", "example": "Трябва ти добра стратегия, за да спечелиш.", "type": "noun" },
+    { "bg": "пъзел", "en": "puzzle", "pronunciation": "PU-zel", "example": "Подреждаме пъзел от хиляда парчета.", "type": "noun" },
+    { "bg": "домино", "en": "dominoes", "pronunciation": "do-mi-NO", "example": "Дядо обича да играе домино в парка.", "type": "noun" },
+    { "bg": "табла", "en": "backgammon", "pronunciation": "tab-LA", "example": "Таблата е много популярна в България.", "type": "noun" },
+    { "bg": "белот", "en": "belote (card game)", "pronunciation": "be-LOT", "example": "Играем белот на четирима в кафенето.", "type": "noun" },
+    { "bg": "късмет", "en": "luck", "pronunciation": "kus-MET", "example": "Тази игра зависи повече от късмет.", "type": "noun" },
+    { "bg": "раздавам", "en": "to deal (cards)", "pronunciation": "raz-DA-vam", "example": "Раздай по пет карти на всеки.", "type": "verb" },
+    { "bg": "блъфирам", "en": "to bluff", "pronunciation": "blu-FI-ram", "example": "Мисля, че блъфираш — нямаш добри карти.", "type": "verb" },
+    { "bg": "точки", "en": "points/score", "pronunciation": "TOCH-ki", "example": "Кой има най-много точки?", "type": "noun" },
+    { "bg": "отбор", "en": "team", "pronunciation": "ot-BOR", "example": "Играем на отбори — двама срещу двама.", "type": "noun" },
+    { "bg": "жетон", "en": "token/chip", "pronunciation": "zhe-TON", "example": "Сложи жетон на правилното поле.", "type": "noun" }
+  ]
+}
