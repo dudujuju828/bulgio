@@ -1,0 +1,28 @@
+{
+  "category": "Astronomy",
+  "cards": [
+    { "bg": "космос", "en": "space/cosmos", "pronunciation": "KOS-mos", "example": "Космосът е безкраен.", "type": "noun" },
+    { "bg": "звезда", "en": "star", "pronunciation": "zvez-DA", "example": "Тази нощ звездите светят ярко.", "type": "noun" },
+    { "bg": "луна", "en": "moon", "pronunciation": "lu-NA", "example": "Луната е пълна тази вечер.", "type": "noun" },
+    { "bg": "слънце", "en": "sun", "pronunciation": "SLUN-tse", "example": "Слънцето е най-близката звезда до нас.", "type": "noun" },
+    { "bg": "планета", "en": "planet", "pronunciation": "pla-NE-ta", "example": "Земята е третата планета от Слънцето.", "type": "noun" },
+    { "bg": "Земя", "en": "Earth", "pronunciation": "zem-YA", "example": "Земята обикаля около Слънцето.", "type": "noun" },
+    { "bg": "Марс", "en": "Mars", "pronunciation": "mars", "example": "Марс е известен като червената планета.", "type": "noun" },
+    { "bg": "галактика", "en": "galaxy", "pronunciation": "ga-LAK-ti-ka", "example": "Млечният път е нашата галактика.", "type": "noun" },
+    { "bg": "Млечен път", "en": "Milky Way", "pronunciation": "MLE-chen put", "example": "Млечният път се вижда ясно в планината.", "type": "noun" },
+    { "bg": "телескоп", "en": "telescope", "pronunciation": "te-les-KOP", "example": "Гледам звездите с телескоп.", "type": "noun" },
+    { "bg": "съзвездие", "en": "constellation", "pronunciation": "suz-VEZ-di-e", "example": "Намерих съзвездието Орион на небето.", "type": "noun" },
+    { "bg": "комета", "en": "comet", "pronunciation": "ko-ME-ta", "example": "Кометата се вижда на всеки седемдесет години.", "type": "noun" },
+    { "bg": "астероид", "en": "asteroid", "pronunciation": "as-te-ro-ID", "example": "Астероидите се намират между Марс и Юпитер.", "type": "noun" },
+    { "bg": "ракета", "en": "rocket", "pronunciation": "ra-KE-ta", "example": "Ракетата излетя в космоса.", "type": "noun" },
+    { "bg": "космонавт", "en": "astronaut/cosmonaut", "pronunciation": "kos-mo-NAVT", "example": "Георги Иванов е първият български космонавт.", "type": "noun" },
+    { "bg": "орбита", "en": "orbit", "pronunciation": "OR-bi-ta", "example": "Спътникът обикаля в орбита около Земята.", "type": "noun" },
+    { "bg": "спътник", "en": "satellite", "pronunciation": "SPUT-nik", "example": "Има хиляди спътници около Земята.", "type": "noun" },
+    { "bg": "затъмнение", "en": "eclipse", "pronunciation": "za-tum-NE-ni-e", "example": "Слънчевото затъмнение беше невероятно.", "type": "noun" },
+    { "bg": "метеор", "en": "meteor/shooting star", "pronunciation": "me-te-OR", "example": "Видях метеор да пада от небето.", "type": "noun" },
+    { "bg": "небе", "en": "sky", "pronunciation": "ne-BE", "example": "Небето е ясно и пълно със звезди.", "type": "noun" },
+    { "bg": "вселена", "en": "universe", "pronunciation": "vse-LE-na", "example": "Вселената се разширява непрекъснато.", "type": "noun" },
+    { "bg": "гравитация", "en": "gravity", "pronunciation": "gra-vi-TA-tsi-ya", "example": "На Луната гравитацията е по-слаба.", "type": "noun" },
+    { "bg": "обсерватория", "en": "observatory", "pronunciation": "ob-ser-va-TO-ri-ya", "example": "Обсерваторията на Рожен е най-голямата в България.", "type": "noun" }
+  ]
+}
