@@ -1,0 +1,27 @@
+{
+  "category": "Safety",
+  "cards": [
+    { "bg": "безопасност", "en": "safety", "pronunciation": "bez-o-PAS-nost", "example": "Безопасността е на първо място.", "type": "noun" },
+    { "bg": "опасност", "en": "danger", "pronunciation": "o-PAS-nost", "example": "Внимание, опасност от падащи камъни!", "type": "noun" },
+    { "bg": "опасен", "en": "dangerous", "pronunciation": "o-PA-sen", "example": "Пътят е опасен при лошо време.", "type": "adjective" },
+    { "bg": "внимание", "en": "attention/caution", "pronunciation": "vni-MA-ni-e", "example": "Внимание, мокър под!", "type": "noun" },
+    { "bg": "внимавай", "en": "be careful/watch out", "pronunciation": "vni-MA-vay", "example": "Внимавай, стълбите са хлъзгави.", "type": "phrase" },
+    { "bg": "забранено", "en": "forbidden/prohibited", "pronunciation": "za-bra-NE-no", "example": "Пушенето е забранено в сградата.", "type": "adjective" },
+    { "bg": "пожар", "en": "fire", "pronunciation": "po-ZHAR", "example": "Обадете се на 112 при пожар.", "type": "noun" },
+    { "bg": "пожарогасител", "en": "fire extinguisher", "pronunciation": "po-zha-ro-ga-SI-tel", "example": "Пожарогасителят е до входа.", "type": "noun" },
+    { "bg": "аварийен изход", "en": "emergency exit", "pronunciation": "a-va-RI-en IZ-hod", "example": "Аварийният изход е от задната страна.", "type": "noun" },
+    { "bg": "първа помощ", "en": "first aid", "pronunciation": "PUR-va PO-mosht", "example": "Аптечката за първа помощ е в офиса.", "type": "noun" },
+    { "bg": "алармен сигнал", "en": "alarm", "pronunciation": "a-LAR-men sig-NAL", "example": "Алармата за пожар се включи.", "type": "noun" },
+    { "bg": "евакуация", "en": "evacuation", "pronunciation": "e-va-ku-A-tsi-ya", "example": "При тревога евакуирайте сградата.", "type": "noun" },
+    { "bg": "крадец", "en": "thief", "pronunciation": "kra-DETS", "example": "Внимавай за крадци в метрото.", "type": "noun" },
+    { "bg": "кражба", "en": "theft", "pronunciation": "KRAZH-ba", "example": "Съобщете за кражба в полицията.", "type": "noun" },
+    { "bg": "заключвам", "en": "to lock", "pronunciation": "za-KLYUCH-vam", "example": "Винаги заключвай вратата, когато излизаш.", "type": "verb" },
+    { "bg": "предупреждение", "en": "warning", "pronunciation": "pre-du-prezh-DE-ni-e", "example": "Има предупреждение за буря.", "type": "noun" },
+    { "bg": "отровен", "en": "poisonous/toxic", "pronunciation": "ot-RO-ven", "example": "Тази гъба е отровна!", "type": "adjective" },
+    { "bg": "спасявам", "en": "to save/rescue", "pronunciation": "spa-SYA-vam", "example": "Пожарникарите спасиха хората от сградата.", "type": "verb" },
+    { "bg": "помощ!", "en": "help!", "pronunciation": "PO-mosht", "example": "Помощ! Някой да ми помогне!", "type": "phrase" },
+    { "bg": "каска", "en": "helmet/hard hat", "pronunciation": "KAS-ka", "example": "Носете каска на строителната площадка.", "type": "noun" },
+    { "bg": "жилетка", "en": "safety vest", "pronunciation": "zhi-LET-ka", "example": "Светлоотразителната жилетка е задължителна.", "type": "noun" },
+    { "bg": "пазя се", "en": "to be careful/protect oneself", "pronunciation": "PA-zya se", "example": "Пази се и внимавай на пътя.", "type": "verb" }
+  ]
+}
