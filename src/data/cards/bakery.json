@@ -1,0 +1,28 @@
+{
+  "category": "Bakery",
+  "cards": [
+    { "bg": "хлебарница", "en": "bakery", "pronunciation": "hle-BAR-ni-tsa", "example": "Купувам хляб от хлебарницата всяка сутрин.", "type": "noun" },
+    { "bg": "хляб", "en": "bread", "pronunciation": "hlyab", "example": "Искам един бял хляб, моля.", "type": "noun" },
+    { "bg": "питка", "en": "flatbread/round bread", "pronunciation": "PIT-ka", "example": "На Бъдни вечер чупим питка с късмети.", "type": "noun" },
+    { "bg": "баница", "en": "banitsa (filo pastry with cheese)", "pronunciation": "BA-ni-tsa", "example": "Баницата с яйца и сирене е типична за закуска.", "type": "noun" },
+    { "bg": "тутманик", "en": "tutmanik (cheese bread)", "pronunciation": "tut-MA-nik", "example": "Бабината тутманик е най-вкусна.", "type": "noun" },
+    { "bg": "козунак", "en": "kozunak (Easter sweet bread)", "pronunciation": "ko-zu-NAK", "example": "За Великден правим козунак с локум.", "type": "noun" },
+    { "bg": "мекица", "en": "mekitsa (fried dough)", "pronunciation": "ME-ki-tsa", "example": "Мекиците с пудра захар са невероятни.", "type": "noun" },
+    { "bg": "геврек", "en": "gevrek (sesame ring bread)", "pronunciation": "gev-REK", "example": "Купих горещ геврек от уличния продавач.", "type": "noun" },
+    { "bg": "кифла", "en": "bread roll/croissant", "pronunciation": "KIF-la", "example": "Взех кифла с шоколад за закуска.", "type": "noun" },
+    { "bg": "тесто", "en": "dough", "pronunciation": "TES-to", "example": "Тестото трябва да втаса поне един час.", "type": "noun" },
+    { "bg": "мая", "en": "yeast", "pronunciation": "ma-YA", "example": "Слагаме мая, за да втаса хлябът.", "type": "noun" },
+    { "bg": "брашно", "en": "flour", "pronunciation": "BRASH-no", "example": "Купи два килограма брашно от магазина.", "type": "noun" },
+    { "bg": "кора", "en": "filo/phyllo dough sheet", "pronunciation": "ko-RA", "example": "За баницата трябват тънки кори.", "type": "noun" },
+    { "bg": "втасвам", "en": "to rise (dough)", "pronunciation": "VTAS-vam", "example": "Тестото втаса на топло за два часа.", "type": "verb" },
+    { "bg": "меся", "en": "to knead", "pronunciation": "me-SYA", "example": "Баба меси хляб всяка неделя.", "type": "verb" },
+    { "bg": "пека", "en": "to bake", "pronunciation": "pe-KA", "example": "Пека баница в загрятата фурна.", "type": "verb" },
+    { "bg": "фурна", "en": "oven", "pronunciation": "FUR-na", "example": "Загрей фурната до двеста градуса.", "type": "noun" },
+    { "bg": "пълнеж", "en": "filling", "pronunciation": "PUL-nezh", "example": "Пълнежът е от сирене и яйца.", "type": "noun" },
+    { "bg": "милинка", "en": "milinka (thin pastry with filling)", "pronunciation": "mi-LIN-ka", "example": "Милинката с тиква е есенен специалитет.", "type": "noun" },
+    { "bg": "пудра захар", "en": "powdered sugar", "pronunciation": "PUD-ra za-HAR", "example": "Поръсих мекиците с пудра захар.", "type": "noun" },
+    { "bg": "пресен", "en": "fresh", "pronunciation": "PRE-sen", "example": "Хлябът е пресен, току-що изпечен.", "type": "adjective" },
+    { "bg": "филийка", "en": "slice (of bread)", "pronunciation": "fi-LIY-ka", "example": "Нарежи две филийки хляб за тост.", "type": "noun" },
+    { "bg": "хрупкав", "en": "crispy/crunchy", "pronunciation": "HRUP-kav", "example": "Обичам хрупкавата коричка на хляба.", "type": "adjective" }
+  ]
+}
