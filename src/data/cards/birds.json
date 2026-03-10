@@ -1,0 +1,28 @@
+{
+  "category": "Birds",
+  "cards": [
+    { "bg": "птица", "en": "bird", "pronunciation": "PTI-tsa", "example": "Птиците пеят рано сутрин.", "type": "noun" },
+    { "bg": "орел", "en": "eagle", "pronunciation": "o-REL", "example": "Орелът лети високо над планината.", "type": "noun" },
+    { "bg": "гълъб", "en": "pigeon/dove", "pronunciation": "GU-lub", "example": "Гълъбите се събират на площада.", "type": "noun" },
+    { "bg": "врабче", "en": "sparrow", "pronunciation": "VRAB-che", "example": "Врабчетата скачат по тротоара.", "type": "noun" },
+    { "bg": "лястовица", "en": "swallow", "pronunciation": "LYAS-to-vi-tsa", "example": "Лястовиците се връщат напролет.", "type": "noun" },
+    { "bg": "щъркел", "en": "stork", "pronunciation": "SHTUR-kel", "example": "Щъркелът си направи гнездо на комина.", "type": "noun" },
+    { "bg": "сокол", "en": "falcon", "pronunciation": "so-KOL", "example": "Соколът лови плячката си с невероятна скорост.", "type": "noun" },
+    { "bg": "бухал", "en": "owl", "pronunciation": "bu-HAL", "example": "Бухалът излиза да лови нощем.", "type": "noun" },
+    { "bg": "кукувица", "en": "cuckoo", "pronunciation": "ku-ku-VI-tsa", "example": "Кукувицата кука в гората.", "type": "noun" },
+    { "bg": "гарван", "en": "raven/crow", "pronunciation": "gar-VAN", "example": "Гарванът е много умна птица.", "type": "noun" },
+    { "bg": "папагал", "en": "parrot", "pronunciation": "pa-pa-GAL", "example": "Папагалът повтаря думите ми.", "type": "noun" },
+    { "bg": "лебед", "en": "swan", "pronunciation": "LE-bed", "example": "Лебедите плуват в езерото.", "type": "noun" },
+    { "bg": "патица", "en": "duck", "pronunciation": "PA-ti-tsa", "example": "Децата хранят патиците в парка.", "type": "noun" },
+    { "bg": "пеликан", "en": "pelican", "pronunciation": "pe-li-KAN", "example": "Пеликаните живеят край Сребърна.", "type": "noun" },
+    { "bg": "чайка", "en": "seagull", "pronunciation": "CHAY-ka", "example": "Чайките летят над пристанището.", "type": "noun" },
+    { "bg": "гнездо", "en": "nest", "pronunciation": "GNEZ-do", "example": "Птицата снесе яйца в гнездото.", "type": "noun" },
+    { "bg": "крило", "en": "wing", "pronunciation": "kri-LO", "example": "Птицата има счупено крило.", "type": "noun" },
+    { "bg": "перо", "en": "feather", "pronunciation": "pe-RO", "example": "Намерих красиво перо в парка.", "type": "noun" },
+    { "bg": "клюн", "en": "beak", "pronunciation": "klyun", "example": "Пеликанът има голям клюн.", "type": "noun" },
+    { "bg": "пея", "en": "to sing (of birds)", "pronunciation": "PE-ya", "example": "Славеят пее най-красиво.", "type": "verb" },
+    { "bg": "летя", "en": "to fly", "pronunciation": "le-TYA", "example": "Птиците летят на юг през зимата.", "type": "verb" },
+    { "bg": "славей", "en": "nightingale", "pronunciation": "sla-VEY", "example": "Славеят пее през нощта.", "type": "noun" },
+    { "bg": "кълвач", "en": "woodpecker", "pronunciation": "KUL-vach", "example": "Кълвачът чука по дървото.", "type": "noun" }
+  ]
+}
