@@ -1,0 +1,26 @@
+{
+  "category": "Emotions",
+  "cards": [
+    { "bg": "щастлив", "en": "happy", "pronunciation": "SHTAST-liv", "example": "Днес съм много щастлив.", "type": "adjective" },
+    { "bg": "тъжен", "en": "sad", "pronunciation": "TU-zhen", "example": "Тя е тъжна, защото приятелят ѝ замина.", "type": "adjective" },
+    { "bg": "ядосан", "en": "angry", "pronunciation": "ya-DO-san", "example": "Не бъди ядосан заради това.", "type": "adjective" },
+    { "bg": "уплашен", "en": "scared", "pronunciation": "up-LA-shen", "example": "Детето е уплашено от тъмното.", "type": "adjective" },
+    { "bg": "изненадан", "en": "surprised", "pronunciation": "iz-ne-NA-dan", "example": "Бях изненадан от подаръка.", "type": "adjective" },
+    { "bg": "уморен", "en": "tired", "pronunciation": "u-mo-REN", "example": "Много съм уморен след работа.", "type": "adjective" },
+    { "bg": "развълнуван", "en": "excited", "pronunciation": "raz-vul-NU-van", "example": "Децата са развълнувани за екскурзията.", "type": "adjective" },
+    { "bg": "спокоен", "en": "calm", "pronunciation": "spo-KO-en", "example": "Бъди спокоен, всичко ще бъде наред.", "type": "adjective" },
+    { "bg": "нервен", "en": "nervous", "pronunciation": "NER-ven", "example": "Нервен съм преди изпита.", "type": "adjective" },
+    { "bg": "горд", "en": "proud", "pronunciation": "gord", "example": "Родителите ми са горди с мен.", "type": "adjective" },
+    { "bg": "самотен", "en": "lonely", "pronunciation": "sa-MO-ten", "example": "Чувствам се самотен в новия град.", "type": "adjective" },
+    { "bg": "влюбен", "en": "in love", "pronunciation": "vlyu-BEN", "example": "Той е влюбен в нея от години.", "type": "adjective" },
+    { "bg": "завистлив", "en": "jealous/envious", "pronunciation": "za-VIST-liv", "example": "Не бъди завистлив към другите.", "type": "adjective" },
+    { "bg": "благодарен", "en": "grateful", "pronunciation": "bla-go-DA-ren", "example": "Благодарен съм за помощта ти.", "type": "adjective" },
+    { "bg": "разочарован", "en": "disappointed", "pronunciation": "raz-o-cha-RO-van", "example": "Бях разочарован от резултата.", "type": "adjective" },
+    { "bg": "притеснен", "en": "worried", "pronunciation": "pri-TES-nen", "example": "Майка ми е притеснена за мен.", "type": "adjective" },
+    { "bg": "скучен", "en": "bored", "pronunciation": "SKU-chen", "example": "Скучно ми е, нямам какво да правя.", "type": "adjective" },
+    { "bg": "весел", "en": "cheerful", "pronunciation": "VE-sel", "example": "Тя винаги е весела и усмихната.", "type": "adjective" },
+    { "bg": "обиден", "en": "offended", "pronunciation": "o-BI-den", "example": "Той се обиди от думите ми.", "type": "adjective" },
+    { "bg": "чувство", "en": "feeling", "pronunciation": "CHUV-stvo", "example": "Какво е чувството ти за това?", "type": "noun" },
+    { "bg": "настроение", "en": "mood", "pronunciation": "na-stro-E-ni-e", "example": "В добро настроение съм днес.", "type": "noun" }
+  ]
+}
