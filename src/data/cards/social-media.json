@@ -1,0 +1,27 @@
+{
+  "category": "Social Media",
+  "cards": [
+    { "bg": "социална мрежа", "en": "social network", "pronunciation": "so-tsi-AL-na mre-ZHA", "example": "Всеки ден проверявам социалните мрежи.", "type": "noun" },
+    { "bg": "профил", "en": "profile", "pronunciation": "pro-FIL", "example": "Обнових снимката на профила си.", "type": "noun" },
+    { "bg": "публикация", "en": "post", "pronunciation": "pub-li-KA-tsi-ya", "example": "Публикацията ми получи много харесвания.", "type": "noun" },
+    { "bg": "харесвам", "en": "to like", "pronunciation": "ha-RES-vam", "example": "Харесах снимката на приятелката ми.", "type": "verb" },
+    { "bg": "споделям", "en": "to share", "pronunciation": "spo-DE-lyam", "example": "Споделих интересна статия с приятели.", "type": "verb" },
+    { "bg": "коментар", "en": "comment", "pronunciation": "ko-men-TAR", "example": "Написах коментар под снимката.", "type": "noun" },
+    { "bg": "последовател", "en": "follower", "pronunciation": "pos-le-DO-va-tel", "example": "Страницата има хиляди последователи.", "type": "noun" },
+    { "bg": "следвам", "en": "to follow", "pronunciation": "SLED-vam", "example": "Следвам много готварски страници.", "type": "verb" },
+    { "bg": "съобщение", "en": "message", "pronunciation": "su-ob-SHTE-ni-e", "example": "Изпратих ти съобщение в чата.", "type": "noun" },
+    { "bg": "известие", "en": "notification", "pronunciation": "iz-VES-ti-e", "example": "Получих известие за нов коментар.", "type": "noun" },
+    { "bg": "видео", "en": "video", "pronunciation": "VI-de-o", "example": "Качих видео от ваканцията.", "type": "noun" },
+    { "bg": "снимка", "en": "photo", "pronunciation": "SNIM-ka", "example": "Сложих нова снимка в профила.", "type": "noun" },
+    { "bg": "история", "en": "story (social media)", "pronunciation": "is-TO-ri-ya", "example": "Публикувах история, която изчезва след 24 часа.", "type": "noun" },
+    { "bg": "хаштаг", "en": "hashtag", "pronunciation": "hash-TAG", "example": "Добавих хаштаг, за да намерят повече хора публикацията.", "type": "noun" },
+    { "bg": "блокирам", "en": "to block", "pronunciation": "blo-KI-ram", "example": "Блокирах досадния потребител.", "type": "verb" },
+    { "bg": "потребител", "en": "user", "pronunciation": "po-tre-BI-tel", "example": "Приложението има милиони потребители.", "type": "noun" },
+    { "bg": "приложение", "en": "app/application", "pronunciation": "pri-lo-ZHE-ni-e", "example": "Изтеглих ново приложение за снимки.", "type": "noun" },
+    { "bg": "акаунт", "en": "account", "pronunciation": "a-ka-UNT", "example": "Създадох нов акаунт в платформата.", "type": "noun" },
+    { "bg": "парола", "en": "password", "pronunciation": "pa-RO-la", "example": "Сменям паролата си на всеки три месеца.", "type": "noun" },
+    { "bg": "онлайн", "en": "online", "pronunciation": "on-LAYN", "example": "Той е онлайн цял ден.", "type": "adjective" },
+    { "bg": "качвам", "en": "to upload", "pronunciation": "KACH-vam", "example": "Качих снимки от пътуването.", "type": "verb" },
+    { "bg": "изтеглям", "en": "to download", "pronunciation": "iz-TEG-lyam", "example": "Изтеглих приложението на телефона.", "type": "verb" }
+  ]
+}
