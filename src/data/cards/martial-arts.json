@@ -1,0 +1,29 @@
+{
+  "category": "Martial Arts",
+  "cards": [
+    { "bg": "бойни изкуства", "en": "martial arts", "pronunciation": "BOY-ni iz-KUS-tva", "example": "Бойните изкуства учат на дисциплина.", "type": "noun" },
+    { "bg": "борба", "en": "wrestling", "pronunciation": "BOR-ba", "example": "Борбата е традиционен български спорт.", "type": "noun" },
+    { "bg": "борец", "en": "wrestler/fighter", "pronunciation": "bo-RETS", "example": "Дан Колов е легендарен български борец.", "type": "noun" },
+    { "bg": "карате", "en": "karate", "pronunciation": "ka-ra-TE", "example": "Тренирам карате от пет години.", "type": "noun" },
+    { "bg": "таекуондо", "en": "taekwondo", "pronunciation": "ta-e-ku-on-DO", "example": "България има медали от олимпиада по таекуондо.", "type": "noun" },
+    { "bg": "джудо", "en": "judo", "pronunciation": "DZHU-do", "example": "Джудото учи как да използваш силата на противника.", "type": "noun" },
+    { "bg": "бокс", "en": "boxing", "pronunciation": "boks", "example": "Боксът е популярен в България.", "type": "noun" },
+    { "bg": "кикбокс", "en": "kickboxing", "pronunciation": "kik-BOKS", "example": "Тренирам кикбокс за фитнес.", "type": "noun" },
+    { "bg": "тренировка", "en": "training/practice", "pronunciation": "tre-ni-ROV-ka", "example": "Тренировката е три пъти в седмицата.", "type": "noun" },
+    { "bg": "татами", "en": "mat/tatami", "pronunciation": "ta-TA-mi", "example": "Тренираме на татами в залата.", "type": "noun" },
+    { "bg": "колан", "en": "belt (rank)", "pronunciation": "ko-LAN", "example": "Получих черен колан след десет години.", "type": "noun" },
+    { "bg": "удар", "en": "strike/punch", "pronunciation": "u-DAR", "example": "Прав удар е основната техника в бокса.", "type": "noun" },
+    { "bg": "ритник", "en": "kick", "pronunciation": "RIT-nik", "example": "Високият ритник е труден за начинаещи.", "type": "noun" },
+    { "bg": "блокирам", "en": "to block/parry", "pronunciation": "blo-KI-ram", "example": "Научи се да блокираш преди да атакуваш.", "type": "verb" },
+    { "bg": "хвърляне", "en": "throw", "pronunciation": "HVUR-lya-ne", "example": "Хвърлянето е основна техника в джудото.", "type": "noun" },
+    { "bg": "захват", "en": "grip/hold", "pronunciation": "zah-VAT", "example": "Здравият захват е ключов в борбата.", "type": "noun" },
+    { "bg": "противник", "en": "opponent", "pronunciation": "pro-TIV-nik", "example": "Противникът е по-тежък, но по-бавен.", "type": "noun" },
+    { "bg": "категория", "en": "weight class/category", "pronunciation": "ka-te-GO-ri-ya", "example": "Състезавам се в категория до седемдесет килограма.", "type": "noun" },
+    { "bg": "победа", "en": "victory/win", "pronunciation": "po-BE-da", "example": "Победата дойде в последния рунд.", "type": "noun" },
+    { "bg": "поражение", "en": "defeat/loss", "pronunciation": "po-ra-ZHE-ni-e", "example": "Поражението ме мотивира да тренирам повече.", "type": "noun" },
+    { "bg": "рунд", "en": "round", "pronunciation": "rund", "example": "Мачът е от три рунда по три минути.", "type": "noun" },
+    { "bg": "ръкавици", "en": "gloves", "pronunciation": "ru-ka-VI-tsi", "example": "Сложи ръкавиците преди спаринга.", "type": "noun" },
+    { "bg": "спаринг", "en": "sparring", "pronunciation": "SPA-ring", "example": "Спарингът е тренировъчен бой с партньор.", "type": "noun" },
+    { "bg": "самозащита", "en": "self-defense", "pronunciation": "sa-mo-za-SHTI-ta", "example": "Курсът по самозащита е за начинаещи.", "type": "noun" }
+  ]
+}
