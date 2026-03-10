@@ -1,0 +1,28 @@
+{
+  "category": "Camping",
+  "cards": [
+    { "bg": "палатка", "en": "tent", "pronunciation": "pa-LAT-ka", "example": "Опънахме палатката край реката.", "type": "noun" },
+    { "bg": "спален чувал", "en": "sleeping bag", "pronunciation": "SPA-len chu-VAL", "example": "Спалният чувал ме пази от студа.", "type": "noun" },
+    { "bg": "раница", "en": "backpack", "pronunciation": "RA-ni-tsa", "example": "Раницата ми е пълна с провизии.", "type": "noun" },
+    { "bg": "лагер", "en": "camp", "pronunciation": "LA-ger", "example": "Направихме лагер на поляната.", "type": "noun" },
+    { "bg": "огън", "en": "campfire/fire", "pronunciation": "o-GUN", "example": "Запалихме огън за вечеря.", "type": "noun" },
+    { "bg": "дърва за огрев", "en": "firewood", "pronunciation": "dur-VA za og-REV", "example": "Събрахме дърва за огъня.", "type": "noun" },
+    { "bg": "фенер", "en": "lantern/flashlight", "pronunciation": "fe-NER", "example": "Взех фенер за нощта.", "type": "noun" },
+    { "bg": "компас", "en": "compass", "pronunciation": "KOM-pas", "example": "Компасът показва посока север.", "type": "noun" },
+    { "bg": "карта", "en": "map", "pronunciation": "KAR-ta", "example": "Погледни картата за маршрута.", "type": "noun" },
+    { "bg": "пътека", "en": "trail/path", "pronunciation": "pu-TE-ka", "example": "Пътеката води до върха.", "type": "noun" },
+    { "bg": "поход", "en": "hike/trek", "pronunciation": "po-HOD", "example": "Тръгваме на поход рано сутрин.", "type": "noun" },
+    { "bg": "връх", "en": "peak/summit", "pronunciation": "vruh", "example": "Стигнахме до върха след четири часа.", "type": "noun" },
+    { "bg": "водопад", "en": "waterfall", "pronunciation": "vo-do-PAD", "example": "Водопадът е на половин час от лагера.", "type": "noun" },
+    { "bg": "река", "en": "river", "pronunciation": "re-KA", "example": "Лагерувахме край планинска река.", "type": "noun" },
+    { "bg": "езеро", "en": "lake", "pronunciation": "e-ze-RO", "example": "Езерото е кристално чисто.", "type": "noun" },
+    { "bg": "нож", "en": "knife", "pronunciation": "nozh", "example": "Швейцарският нож е много полезен в планината.", "type": "noun" },
+    { "bg": "въже", "en": "rope", "pronunciation": "vu-ZHE", "example": "Вързахме палатката с въже.", "type": "noun" },
+    { "bg": "котлон", "en": "camping stove", "pronunciation": "kot-LON", "example": "Сварихме кафе на котлона.", "type": "noun" },
+    { "bg": "катеря се", "en": "to climb", "pronunciation": "KA-te-rya se", "example": "Катерим се по стръмната пътека.", "type": "verb" },
+    { "bg": "лагерувам", "en": "to camp", "pronunciation": "la-ge-RU-vam", "example": "Лагерувахме три нощи в Пирин.", "type": "verb" },
+    { "bg": "запалвам", "en": "to light/start (fire)", "pronunciation": "za-PAL-vam", "example": "Запалихме огъня с кибрит.", "type": "verb" },
+    { "bg": "маркировка", "en": "trail marker", "pronunciation": "mar-ki-ROV-ka", "example": "Следвай червената маркировка до хижата.", "type": "noun" },
+    { "bg": "бивак", "en": "bivouac/campsite", "pronunciation": "BI-vak", "example": "Намерихме хубаво място за бивак.", "type": "noun" }
+  ]
+}
