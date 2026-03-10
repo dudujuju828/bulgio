@@ -1,0 +1,28 @@
+{
+  "category": "Appliances",
+  "cards": [
+    { "bg": "уред", "en": "appliance/device", "pronunciation": "u-RED", "example": "Новият уред е енергоспестяващ.", "type": "noun" },
+    { "bg": "хладилник", "en": "refrigerator", "pronunciation": "hla-DIL-nik", "example": "Хладилникът е пълен, трябва да пазаруваме по-малко.", "type": "noun" },
+    { "bg": "фризер", "en": "freezer", "pronunciation": "FRI-zer", "example": "Сложих месото във фризера.", "type": "noun" },
+    { "bg": "фурна", "en": "oven", "pronunciation": "FUR-na", "example": "Фурната се загрява до двеста градуса.", "type": "noun" },
+    { "bg": "микровълнова", "en": "microwave", "pronunciation": "mik-ro-vul-NO-va", "example": "Загрей супата в микровълновата.", "type": "noun" },
+    { "bg": "печка", "en": "stove/cooker", "pronunciation": "PECH-ka", "example": "Печката е на газ, не на ток.", "type": "noun" },
+    { "bg": "пералня", "en": "washing machine", "pronunciation": "pe-RAL-nya", "example": "Пералнята пере на шестдесет градуса.", "type": "noun" },
+    { "bg": "сушилня", "en": "dryer", "pronunciation": "su-SHIL-nya", "example": "Нямаме сушилня, простираме на въже.", "type": "noun" },
+    { "bg": "съдомиялна", "en": "dishwasher", "pronunciation": "su-do-mi-YAL-na", "example": "Съдомиялната спестява време и вода.", "type": "noun" },
+    { "bg": "прахосмукачка", "en": "vacuum cleaner", "pronunciation": "pra-ho-smu-KACH-ka", "example": "Прахосмукачката е в килера.", "type": "noun" },
+    { "bg": "ютия", "en": "iron", "pronunciation": "yu-TI-ya", "example": "Изгладих ризата с ютията.", "type": "noun" },
+    { "bg": "тостер", "en": "toaster", "pronunciation": "TOS-ter", "example": "Сложи хляба в тостера за закуска.", "type": "noun" },
+    { "bg": "блендер", "en": "blender", "pronunciation": "BLEN-der", "example": "Направих смути с блендера.", "type": "noun" },
+    { "bg": "кафемашина", "en": "coffee machine", "pronunciation": "ka-fe-ma-SHI-na", "example": "Кафемашината прави страхотно еспресо.", "type": "noun" },
+    { "bg": "електрическа кана", "en": "electric kettle", "pronunciation": "e-lek-TRI-ches-ka KA-na", "example": "Сложи вода в каната за чай.", "type": "noun" },
+    { "bg": "климатик", "en": "air conditioner", "pronunciation": "kli-MA-tik", "example": "Климатикът работи и за отопление.", "type": "noun" },
+    { "bg": "вентилатор", "en": "fan", "pronunciation": "ven-ti-LA-tor", "example": "Включи вентилатора, горещо е.", "type": "noun" },
+    { "bg": "бойлер", "en": "water heater", "pronunciation": "BOY-ler", "example": "Бойлерът загрява вода за двадесет минути.", "type": "noun" },
+    { "bg": "робот за готвене", "en": "food processor", "pronunciation": "ro-BOT za GOT-ve-ne", "example": "Роботът за готвене наряза зеленчуците.", "type": "noun" },
+    { "bg": "сешоар", "en": "hair dryer", "pronunciation": "se-sho-AR", "example": "Изсуши косата със сешоара.", "type": "noun" },
+    { "bg": "гаранция", "en": "warranty", "pronunciation": "ga-RAN-tsi-ya", "example": "Уредът е с две години гаранция.", "type": "noun" },
+    { "bg": "повреда", "en": "malfunction/breakdown", "pronunciation": "pov-RE-da", "example": "Пералнята има повреда, извикай майстор.", "type": "noun" },
+    { "bg": "енергиен клас", "en": "energy rating", "pronunciation": "e-ner-GI-en klas", "example": "Хладилникът е с енергиен клас А++.", "type": "noun" }
+  ]
+}
