@@ -1,0 +1,25 @@
+{
+  "category": "Bathroom",
+  "cards": [
+    { "bg": "баня", "en": "bathroom", "pronunciation": "BA-nya", "example": "Банята е до спалнята.", "type": "noun" },
+    { "bg": "тоалетна", "en": "toilet/restroom", "pronunciation": "to-a-LET-na", "example": "Къде е тоалетната, моля?", "type": "noun" },
+    { "bg": "душ", "en": "shower", "pronunciation": "dush", "example": "Взимам душ всяка сутрин.", "type": "noun" },
+    { "bg": "вана", "en": "bathtub", "pronunciation": "VA-na", "example": "Обичам да се къпя във ваната.", "type": "noun" },
+    { "bg": "мивка", "en": "sink", "pronunciation": "MIV-ka", "example": "Мия ръцете си на мивката.", "type": "noun" },
+    { "bg": "сапун", "en": "soap", "pronunciation": "sa-PUN", "example": "Мий ръцете си със сапун.", "type": "noun" },
+    { "bg": "шампоан", "en": "shampoo", "pronunciation": "sham-po-AN", "example": "Свърши ми шампоанът.", "type": "noun" },
+    { "bg": "кърпа", "en": "towel", "pronunciation": "KUR-pa", "example": "Подай ми чистата кърпа.", "type": "noun" },
+    { "bg": "четка за зъби", "en": "toothbrush", "pronunciation": "CHET-ka za ZU-bi", "example": "Четката за зъби е в чашата.", "type": "noun" },
+    { "bg": "паста за зъби", "en": "toothpaste", "pronunciation": "PAS-ta za ZU-bi", "example": "Купи нова паста за зъби.", "type": "noun" },
+    { "bg": "огледало", "en": "mirror", "pronunciation": "og-le-DA-lo", "example": "Гледам се в огледалото.", "type": "noun" },
+    { "bg": "къпя се", "en": "to bathe", "pronunciation": "KU-pya se", "example": "Къпя се с топла вода.", "type": "verb" },
+    { "bg": "мия", "en": "to wash", "pronunciation": "MI-ya", "example": "Мия ръцете си преди ядене.", "type": "verb" },
+    { "bg": "бръсна се", "en": "to shave", "pronunciation": "BRUS-na se", "example": "Бръсна се всяка сутрин.", "type": "verb" },
+    { "bg": "сешоар", "en": "hair dryer", "pronunciation": "se-sho-AR", "example": "Сушa косата си със сешоар.", "type": "noun" },
+    { "bg": "гребен", "en": "comb", "pronunciation": "GRE-ben", "example": "Сресвам се с гребена.", "type": "noun" },
+    { "bg": "крем", "en": "cream/lotion", "pronunciation": "krem", "example": "Слагам крем за лице.", "type": "noun" },
+    { "bg": "тоалетна хартия", "en": "toilet paper", "pronunciation": "to-a-LET-na har-TI-ya", "example": "Тоалетната хартия свърши.", "type": "noun" },
+    { "bg": "пералня", "en": "washing machine", "pronunciation": "pe-RAL-nya", "example": "Пералнята е в банята.", "type": "noun" },
+    { "bg": "пера", "en": "to do laundry", "pronunciation": "pe-RA", "example": "Пера дрехите всяка събота.", "type": "verb" }
+  ]
+}
