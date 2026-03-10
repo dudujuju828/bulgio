@@ -1,0 +1,28 @@
+{
+  "category": "Elections & Voting",
+  "cards": [
+    { "bg": "избори", "en": "elections", "pronunciation": "IZ-bo-ri", "example": "Парламентарните избори са на всеки четири години.", "type": "noun" },
+    { "bg": "гласувам", "en": "to vote", "pronunciation": "gla-SU-vam", "example": "Гласувах рано сутринта в училището.", "type": "verb" },
+    { "bg": "глас", "en": "vote", "pronunciation": "glas", "example": "Всеки глас е важен за демокрацията.", "type": "noun" },
+    { "bg": "кандидат", "en": "candidate", "pronunciation": "kan-di-DAT", "example": "Кандидатът обеща да намали данъците.", "type": "noun" },
+    { "bg": "партия", "en": "political party", "pronunciation": "PAR-ti-ya", "example": "Партията спечели мнозинство в парламента.", "type": "noun" },
+    { "bg": "бюлетина", "en": "ballot", "pronunciation": "byu-le-TI-na", "example": "Пуснах бюлетината в урната.", "type": "noun" },
+    { "bg": "избирателна урна", "en": "ballot box", "pronunciation": "iz-bi-RA-tel-na UR-na", "example": "Избирателната урна се запечатва след края.", "type": "noun" },
+    { "bg": "избирателна секция", "en": "polling station", "pronunciation": "iz-bi-RA-tel-na SEK-tsi-ya", "example": "Избирателната ми секция е в съседното училище.", "type": "noun" },
+    { "bg": "предизборна кампания", "en": "election campaign", "pronunciation": "pre-diz-BOR-na kam-PA-ni-ya", "example": "Предизборната кампания продължи два месеца.", "type": "noun" },
+    { "bg": "парламент", "en": "parliament", "pronunciation": "par-la-MENT", "example": "Народното събрание е парламентът на България.", "type": "noun" },
+    { "bg": "депутат", "en": "member of parliament", "pronunciation": "de-pu-TAT", "example": "Депутатите обсъждат новия закон.", "type": "noun" },
+    { "bg": "президент", "en": "president", "pronunciation": "pre-zi-DENT", "example": "Президентът на България се избира пряко.", "type": "noun" },
+    { "bg": "кмет", "en": "mayor", "pronunciation": "kmet", "example": "Кметът на София откри новия парк.", "type": "noun" },
+    { "bg": "референдум", "en": "referendum", "pronunciation": "re-fe-REN-dum", "example": "Референдумът реши въпроса с пряко гласуване.", "type": "noun" },
+    { "bg": "коалиция", "en": "coalition", "pronunciation": "ko-a-LI-tsi-ya", "example": "Две партии формираха коалиция.", "type": "noun" },
+    { "bg": "опозиция", "en": "opposition", "pronunciation": "o-po-ZI-tsi-ya", "example": "Опозицията критикува правителството.", "type": "noun" },
+    { "bg": "мнозинство", "en": "majority", "pronunciation": "mno-ZIN-stvo", "example": "Законът беше приет с мнозинство.", "type": "noun" },
+    { "bg": "малцинство", "en": "minority", "pronunciation": "mal-TSIN-stvo", "example": "Малцинството гласува против предложението.", "type": "noun" },
+    { "bg": "избирател", "en": "voter", "pronunciation": "iz-bi-RA-tel", "example": "Избирателите чакаха на опашка.", "type": "noun" },
+    { "bg": "резултат", "en": "result/outcome", "pronunciation": "re-zul-TAT", "example": "Резултатите от изборите ще бъдат обявени довечера.", "type": "noun" },
+    { "bg": "тур", "en": "round (of voting)", "pronunciation": "tur", "example": "Ще има втори тур за президент.", "type": "noun" },
+    { "bg": "демокрация", "en": "democracy", "pronunciation": "de-mo-KRA-tsi-ya", "example": "Демокрацията гарантира свободни избори.", "type": "noun" },
+    { "bg": "правителство", "en": "government", "pronunciation": "pra-VI-tel-stvo", "example": "Новото правителство встъпи в длъжност.", "type": "noun" }
+  ]
+}
