@@ -1,0 +1,27 @@
+{
+  "category": "Stamp Collecting & Philately",
+  "cards": [
+    { "bg": "пощенска марка", "en": "postage stamp", "pronunciation": "POSH-ten-ska MAR-ka", "example": "Пощенската марка е от 1879 година.", "type": "noun" },
+    { "bg": "филателия", "en": "philately/stamp collecting", "pronunciation": "fi-la-TE-li-ya", "example": "Филателията е хоби с дълга традиция.", "type": "noun" },
+    { "bg": "филателист", "en": "philatelist/stamp collector", "pronunciation": "fi-la-te-LIST", "example": "Филателистът има колекция от хиляда марки.", "type": "noun" },
+    { "bg": "колекция", "en": "collection", "pronunciation": "ko-LEK-tsi-ya", "example": "Колекцията включва марки от цял свят.", "type": "noun" },
+    { "bg": "колекционирам", "en": "to collect", "pronunciation": "ko-lek-tsi-o-NI-ram", "example": "Колекционирам български марки от социализма.", "type": "verb" },
+    { "bg": "албум", "en": "album (stamp)", "pronunciation": "AL-bum", "example": "Албумът за марки е с прозрачни джобчета.", "type": "noun" },
+    { "bg": "серия", "en": "series (stamp set)", "pronunciation": "SE-ri-ya", "example": "Серията е от пет марки с цветя.", "type": "noun" },
+    { "bg": "номинална стойност", "en": "face value", "pronunciation": "no-mi-NAL-na STOY-nost", "example": "Номиналната стойност е петдесет стотинки.", "type": "noun" },
+    { "bg": "рядка марка", "en": "rare stamp", "pronunciation": "RYAD-ka MAR-ka", "example": "Рядката марка струва хиляди лева.", "type": "noun" },
+    { "bg": "печат", "en": "postmark/cancellation", "pronunciation": "pe-CHAT", "example": "Печатът показва датата и града на изпращане.", "type": "noun" },
+    { "bg": "гашена марка", "en": "used/cancelled stamp", "pronunciation": "ga-SHE-na MAR-ka", "example": "Гашената марка има видим пощенски печат.", "type": "noun" },
+    { "bg": "негашена марка", "en": "mint/unused stamp", "pronunciation": "ne-ga-SHE-na MAR-ka", "example": "Негашените марки са по-ценни за колекционери.", "type": "noun" },
+    { "bg": "перфорация", "en": "perforation", "pronunciation": "per-fo-RA-tsi-ya", "example": "Перфорацията улеснява отделянето на марките.", "type": "noun" },
+    { "bg": "водни знаци", "en": "watermark", "pronunciation": "VOD-ni ZNA-tsi", "example": "Водните знаци са защита от фалшификати.", "type": "noun" },
+    { "bg": "лупа", "en": "magnifying glass", "pronunciation": "LU-pa", "example": "Лупата помага да разгледаш дребните детайли.", "type": "noun" },
+    { "bg": "пинсета", "en": "stamp tongs/tweezers", "pronunciation": "pin-SE-ta", "example": "Пинсетата предпазва марката от петна.", "type": "noun" },
+    { "bg": "каталог", "en": "catalog", "pronunciation": "ka-ta-LOG", "example": "Каталогът съдържа всички издадени марки.", "type": "noun" },
+    { "bg": "юбилейна марка", "en": "commemorative stamp", "pronunciation": "yu-bi-LEY-na MAR-ka", "example": "Юбилейната марка е за стогодишнината на града.", "type": "noun" },
+    { "bg": "тираж", "en": "print run/edition", "pronunciation": "ti-RAZH", "example": "Тиражът на тази марка е само хиляда броя.", "type": "noun" },
+    { "bg": "размяна", "en": "exchange/swap", "pronunciation": "raz-MYA-na", "example": "Размяната на марки е част от хобито.", "type": "noun" },
+    { "bg": "плик", "en": "envelope", "pronunciation": "plik", "example": "Пликът с марка от първия ден е ценен.", "type": "noun" },
+    { "bg": "първодневен плик", "en": "first day cover", "pronunciation": "pur-vo-DNE-ven plik", "example": "Първодневният плик е с печат от датата на издаване.", "type": "noun" }
+  ]
+}
