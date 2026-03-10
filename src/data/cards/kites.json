@@ -1,0 +1,27 @@
+{
+  "category": "Kites & Flying Toys",
+  "cards": [
+    { "bg": "хвърчило", "en": "kite", "pronunciation": "hvur-CHI-lo", "example": "Хвърчилото лети високо над плажа.", "type": "noun" },
+    { "bg": "пускам хвърчило", "en": "to fly a kite", "pronunciation": "PUS-kam hvur-CHI-lo", "example": "Пускаме хвърчила на хълма при вятър.", "type": "verb" },
+    { "bg": "вятър", "en": "wind", "pronunciation": "VYA-tur", "example": "Вятърът е достатъчно силен за хвърчило.", "type": "noun" },
+    { "bg": "конец", "en": "string/line", "pronunciation": "ko-NETS", "example": "Конецът е дълъг сто метра.", "type": "noun" },
+    { "bg": "макара", "en": "reel/spool", "pronunciation": "ma-KA-ra", "example": "Макарата помага да навиеш конеца бързо.", "type": "noun" },
+    { "bg": "опашка", "en": "tail (of kite)", "pronunciation": "o-PASH-ka", "example": "Опашката стабилизира хвърчилото в полет.", "type": "noun" },
+    { "bg": "рамка", "en": "frame", "pronunciation": "RAM-ka", "example": "Рамката е от бамбук или фибростъкло.", "type": "noun" },
+    { "bg": "платно", "en": "fabric/sail", "pronunciation": "plat-NO", "example": "Платното е от найлон в ярки цветове.", "type": "noun" },
+    { "bg": "делта хвърчило", "en": "delta kite", "pronunciation": "DEL-ta hvur-CHI-lo", "example": "Делта хвърчилото е лесно за управление.", "type": "noun" },
+    { "bg": "акробатично хвърчило", "en": "stunt kite", "pronunciation": "ak-ro-ba-TICH-no hvur-CHI-lo", "example": "Акробатичното хвърчило се управлява с два конеца.", "type": "noun" },
+    { "bg": "летя", "en": "to fly", "pronunciation": "le-TYA", "example": "Хвърчилото лети на височина петдесет метра.", "type": "verb" },
+    { "bg": "издигам", "en": "to launch/raise", "pronunciation": "iz-DI-gam", "example": "Издигам хвърчилото като тичам срещу вятъра.", "type": "verb" },
+    { "bg": "спускам", "en": "to bring down/lower", "pronunciation": "SPUS-kam", "example": "Спускам хвърчилото като навивам конеца.", "type": "verb" },
+    { "bg": "въздушен змей", "en": "dragon kite", "pronunciation": "vuz-DU-shen zmey", "example": "Въздушният змей е с дълга цветна опашка.", "type": "noun" },
+    { "bg": "фестивал на хвърчилата", "en": "kite festival", "pronunciation": "fes-ti-VAL na hvur-chi-LA-ta", "example": "Фестивалът на хвърчилата е всяка пролет.", "type": "noun" },
+    { "bg": "дрон", "en": "drone", "pronunciation": "dron", "example": "Дронът лети по-високо от хвърчилото.", "type": "noun" },
+    { "bg": "модел самолет", "en": "model airplane", "pronunciation": "mo-DEL sa-mo-LET", "example": "Моделът самолет е с дистанционно управление.", "type": "noun" },
+    { "bg": "бумеранг", "en": "boomerang", "pronunciation": "bu-me-RANG", "example": "Бумерангът се връща обратно при правилно хвърляне.", "type": "noun" },
+    { "bg": "фризби", "en": "frisbee", "pronunciation": "FRIZ-bi", "example": "Играем фризби в парка с приятели.", "type": "noun" },
+    { "bg": "балон", "en": "balloon", "pronunciation": "ba-LON", "example": "Балонът с хелий полетя към небето.", "type": "noun" },
+    { "bg": "въздушен балон", "en": "hot air balloon", "pronunciation": "vuz-DU-shen ba-LON", "example": "Въздушният балон се издигна над Кападокия.", "type": "noun" },
+    { "bg": "височина", "en": "height/altitude", "pronunciation": "vi-so-chi-NA", "example": "Височината на полета зависи от вятъра.", "type": "noun" }
+  ]
+}
