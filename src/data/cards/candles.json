@@ -1,0 +1,27 @@
+{
+  "category": "Candles & Candlemaking",
+  "cards": [
+    { "bg": "свещ", "en": "candle", "pronunciation": "svesht", "example": "Запалих свещ за романтична вечеря.", "type": "noun" },
+    { "bg": "свещник", "en": "candleholder/candlestick", "pronunciation": "SVESH-nik", "example": "Свещникът е от ковано желязо.", "type": "noun" },
+    { "bg": "пламък", "en": "flame", "pronunciation": "PLA-muk", "example": "Пламъкът на свещта трепти от вятъра.", "type": "noun" },
+    { "bg": "фитил", "en": "wick", "pronunciation": "fi-TIL", "example": "Фитилът е от памучен конец.", "type": "noun" },
+    { "bg": "восък", "en": "wax", "pronunciation": "vo-SUK", "example": "Восъкът е пчелен и натурален.", "type": "noun" },
+    { "bg": "пчелен восък", "en": "beeswax", "pronunciation": "pche-LEN vo-SUK", "example": "Свещите от пчелен восък горят по-дълго.", "type": "noun" },
+    { "bg": "соев восък", "en": "soy wax", "pronunciation": "SO-ev vo-SUK", "example": "Соевият восък е екологична алтернатива.", "type": "noun" },
+    { "bg": "парафин", "en": "paraffin wax", "pronunciation": "pa-ra-FIN", "example": "Парафинът е най-евтиният вид восък.", "type": "noun" },
+    { "bg": "ароматна свещ", "en": "scented candle", "pronunciation": "a-ro-MAT-na svesht", "example": "Ароматната свещ ухае на лавандула.", "type": "noun" },
+    { "bg": "аромат", "en": "scent/fragrance", "pronunciation": "a-ro-MAT", "example": "Ароматът на ванилия изпълни стаята.", "type": "noun" },
+    { "bg": "топя", "en": "to melt", "pronunciation": "TO-pya", "example": "Топя восъка на водна баня.", "type": "verb" },
+    { "bg": "изливам", "en": "to pour", "pronunciation": "iz-LI-vam", "example": "Изливам восъка във формата бавно.", "type": "verb" },
+    { "bg": "форма", "en": "mold", "pronunciation": "FOR-ma", "example": "Формата е силиконова с различни фигури.", "type": "noun" },
+    { "bg": "буркан", "en": "jar (candle container)", "pronunciation": "bur-KAN", "example": "Свещта в буркана е красив подарък.", "type": "noun" },
+    { "bg": "паля", "en": "to light (a candle)", "pronunciation": "PA-lya", "example": "Паля свещите на рождения ден.", "type": "verb" },
+    { "bg": "духам", "en": "to blow out", "pronunciation": "DU-ham", "example": "Духни свещите и си пожелай нещо.", "type": "verb" },
+    { "bg": "чаена свещ", "en": "tealight candle", "pronunciation": "CHAY-na svesht", "example": "Чаените свещи горят около четири часа.", "type": "noun" },
+    { "bg": "свещ с несколко фитила", "en": "multi-wick candle", "pronunciation": "svesht s NESS-kol-ko fi-TI-la", "example": "Свещта с три фитила дава повече светлина.", "type": "noun" },
+    { "bg": "оцветител", "en": "dye/colorant", "pronunciation": "ots-ve-TI-tel", "example": "Оцветителят придава нежен розов цвят.", "type": "noun" },
+    { "bg": "етикет", "en": "label", "pronunciation": "e-ti-KET", "example": "Етикетът показва аромата и времето на горене.", "type": "noun" },
+    { "bg": "подарък", "en": "gift", "pronunciation": "po-DA-ruk", "example": "Ръчно направената свещ е чудесен подарък.", "type": "noun" },
+    { "bg": "водна баня", "en": "double boiler/water bath", "pronunciation": "VOD-na BA-nya", "example": "Водната баня топи восъка равномерно.", "type": "noun" }
+  ]
+}
