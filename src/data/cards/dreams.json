@@ -1,0 +1,27 @@
+{
+  "category": "Dreams",
+  "cards": [
+    { "bg": "сън", "en": "dream", "pronunciation": "sun", "example": "Снощи имах много странен сън.", "type": "noun" },
+    { "bg": "сънувам", "en": "to dream", "pronunciation": "su-NU-vam", "example": "Сънувах, че летя над планината.", "type": "verb" },
+    { "bg": "кошмар", "en": "nightmare", "pronunciation": "kosh-MAR", "example": "Детето се събуди от кошмар.", "type": "noun" },
+    { "bg": "мечта", "en": "dream (aspiration)", "pronunciation": "mech-TA", "example": "Мечтата ми е да пътувам по света.", "type": "noun" },
+    { "bg": "мечтая", "en": "to daydream/wish for", "pronunciation": "mech-TA-ya", "example": "Мечтая за живот край морето.", "type": "verb" },
+    { "bg": "събуждам се", "en": "to wake up", "pronunciation": "su-BUZH-dam se", "example": "Събудих се насред нощта от кошмара.", "type": "verb" },
+    { "bg": "заспивам", "en": "to fall asleep", "pronunciation": "zas-PI-vam", "example": "Заспах бързо и веднага започнах да сънувам.", "type": "verb" },
+    { "bg": "въображение", "en": "imagination", "pronunciation": "vu-ob-ra-ZHE-ni-e", "example": "Въображението ни работи най-активно в съня.", "type": "noun" },
+    { "bg": "сънник", "en": "dream dictionary", "pronunciation": "SUN-nik", "example": "Потърсих значението в сънника.", "type": "noun" },
+    { "bg": "тълкувам", "en": "to interpret", "pronunciation": "tul-KU-vam", "example": "Баба ми тълкуваше сънищата.", "type": "verb" },
+    { "bg": "предчувствие", "en": "premonition/hunch", "pronunciation": "pred-CHUV-stvi-e", "example": "Имам предчувствие, че нещо хубаво ще се случи.", "type": "noun" },
+    { "bg": "безсъние", "en": "insomnia", "pronunciation": "bez-SU-ni-e", "example": "От безсъние не мога да заспя с часове.", "type": "noun" },
+    { "bg": "сънлив", "en": "sleepy/drowsy", "pronunciation": "SUN-liv", "example": "Сънлив съм, снощи не спах добре.", "type": "adjective" },
+    { "bg": "спомен", "en": "memory", "pronunciation": "SPO-men", "example": "Споменът от съня избледня сутринта.", "type": "noun" },
+    { "bg": "сънища", "en": "dreams (plural)", "pronunciation": "su-NISH-ta", "example": "Не помня сънищата си обикновено.", "type": "noun" },
+    { "bg": "ясен сън", "en": "lucid dream", "pronunciation": "YA-sen sun", "example": "В ясния сън знаех, че сънувам.", "type": "noun" },
+    { "bg": "приспивам", "en": "to put to sleep/lull", "pronunciation": "pris-PI-vam", "example": "Мама ме приспиваше с приказка.", "type": "verb" },
+    { "bg": "приказка за лека нощ", "en": "bedtime story", "pronunciation": "pri-KAZ-ka za LE-ka nosht", "example": "Разкажи ми приказка за лека нощ.", "type": "noun" },
+    { "bg": "лунатик", "en": "sleepwalker", "pronunciation": "lu-NA-tik", "example": "Като дете бях лунатик и ходех насън.", "type": "noun" },
+    { "bg": "ходя насън", "en": "to sleepwalk", "pronunciation": "HO-dya na-SUN", "example": "Лекарят каза, че е нормално деца да ходят насън.", "type": "phrase" },
+    { "bg": "хъркам", "en": "to snore", "pronunciation": "HUR-kam", "example": "Съседът по стая хърка ужасно.", "type": "verb" },
+    { "bg": "сладки сънища", "en": "sweet dreams", "pronunciation": "SLAD-ki su-NISH-ta", "example": "Лека нощ и сладки сънища!", "type": "phrase" }
+  ]
+}
