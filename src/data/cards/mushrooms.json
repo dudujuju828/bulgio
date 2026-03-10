@@ -1,0 +1,28 @@
+{
+  "category": "Mushrooms",
+  "cards": [
+    { "bg": "гъба", "en": "mushroom", "pronunciation": "GU-ba", "example": "Намерих огромна гъба в гората.", "type": "noun" },
+    { "bg": "гъби", "en": "mushrooms", "pronunciation": "GU-bi", "example": "Берем гъби в Родопите всяка есен.", "type": "noun" },
+    { "bg": "гъбар", "en": "mushroom picker", "pronunciation": "gu-BAR", "example": "Дядо е опитен гъбар и познава всяка гъба.", "type": "noun" },
+    { "bg": "бера гъби", "en": "to pick/gather mushrooms", "pronunciation": "be-RA GU-bi", "example": "Тази неделя ще берем гъби в планината.", "type": "phrase" },
+    { "bg": "манатарка", "en": "porcini/cep mushroom", "pronunciation": "ma-na-TAR-ka", "example": "Манатарката е най-ценната ядлива гъба.", "type": "noun" },
+    { "bg": "пачи крак", "en": "chanterelle", "pronunciation": "PA-chi krak", "example": "Пачият крак расте в буковите гори.", "type": "noun" },
+    { "bg": "печурка", "en": "button mushroom", "pronunciation": "pe-CHUR-ka", "example": "Печурките от магазина са отгледани в оранжерия.", "type": "noun" },
+    { "bg": "шийтаке", "en": "shiitake", "pronunciation": "shi-TA-ke", "example": "Шийтаке добавям в супата.", "type": "noun" },
+    { "bg": "отровна гъба", "en": "poisonous mushroom", "pronunciation": "ot-ROV-na GU-ba", "example": "Не бери гъби, ако не ги познаваш — може да са отровни.", "type": "noun" },
+    { "bg": "мухоморка", "en": "fly agaric (Amanita)", "pronunciation": "mu-ho-MOR-ka", "example": "Мухоморката е червена с бели точки и е много отровна.", "type": "noun" },
+    { "bg": "ядлива", "en": "edible", "pronunciation": "YAD-li-va", "example": "Тази гъба е ядлива, не се притеснявай.", "type": "adjective" },
+    { "bg": "шапка", "en": "cap (of mushroom)", "pronunciation": "SHAP-ka", "example": "Шапката на манатарката е кафява и гладка.", "type": "noun" },
+    { "bg": "пънче", "en": "stem/stalk", "pronunciation": "PUN-che", "example": "Режи гъбата от пънчето с ножче.", "type": "noun" },
+    { "bg": "мицел", "en": "mycelium", "pronunciation": "mi-TSEL", "example": "Мицелът расте под земята.", "type": "noun" },
+    { "bg": "кошница", "en": "basket", "pronunciation": "kosh-NI-tsa", "example": "Напълнихме цяла кошница с гъби.", "type": "noun" },
+    { "bg": "ножче", "en": "small knife", "pronunciation": "NOZH-che", "example": "Вземи ножче за рязане на гъбите.", "type": "noun" },
+    { "bg": "сушa гъби", "en": "to dry mushrooms", "pronunciation": "su-SHA GU-bi", "example": "Сушим гъбите на слънце или в сушилня.", "type": "phrase" },
+    { "bg": "маринована гъба", "en": "pickled/marinated mushroom", "pronunciation": "ma-ri-NO-va-na GU-ba", "example": "Мариновани гъби правим за зимата.", "type": "noun" },
+    { "bg": "гъбена чорба", "en": "mushroom soup", "pronunciation": "gu-BE-na CHOR-ba", "example": "Гъбената чорба с копър е страхотна.", "type": "noun" },
+    { "bg": "задушени гъби", "en": "sautéed/stewed mushrooms", "pronunciation": "za-DU-she-ni GU-bi", "example": "Задушени гъби с масло и чесън — класика!", "type": "noun" },
+    { "bg": "трюфел", "en": "truffle", "pronunciation": "tryu-FEL", "example": "В България се намират черни трюфели.", "type": "noun" },
+    { "bg": "влажност", "en": "moisture/humidity", "pronunciation": "VLAZH-nost", "example": "Гъбите растат най-добре при висока влажност.", "type": "noun" },
+    { "bg": "гора", "en": "forest", "pronunciation": "go-RA", "example": "Тръгнахме в гората рано сутринта за гъби.", "type": "noun" }
+  ]
+}
