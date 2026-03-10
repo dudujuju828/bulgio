@@ -1,0 +1,27 @@
+{
+  "category": "Weddings & Christenings (Traditions)",
+  "cards": [
+    { "bg": "кръщене", "en": "christening/baptism", "pronunciation": "krush-TE-ne", "example": "Кръщенето е в неделя в църквата.", "type": "noun" },
+    { "bg": "кръстник", "en": "godfather", "pronunciation": "KRUST-nik", "example": "Кръстникът държи бебето при кръщенето.", "type": "noun" },
+    { "bg": "кръстница", "en": "godmother", "pronunciation": "KRUST-ni-tsa", "example": "Кръстницата подари златен кръст на бебето.", "type": "noun" },
+    { "bg": "кръщелка", "en": "christening celebration/party", "pronunciation": "krush-TEL-ka", "example": "Кръщелката е в ресторант след църквата.", "type": "noun" },
+    { "bg": "кръст", "en": "cross (baptismal)", "pronunciation": "krust", "example": "Бебето получава златен кръст при кръщенето.", "type": "noun" },
+    { "bg": "светена вода", "en": "holy water", "pronunciation": "sve-TE-na vo-DA", "example": "Свещеникът поръсва бебето със светена вода.", "type": "noun" },
+    { "bg": "именник", "en": "name day celebrant", "pronunciation": "i-MEN-nik", "example": "Именникът черпи с торта на работа.", "type": "noun" },
+    { "bg": "имен ден", "en": "name day", "pronunciation": "I-men den", "example": "Имен ден се празнува като рожден ден.", "type": "noun" },
+    { "bg": "рожден ден", "en": "birthday", "pronunciation": "ROZH-den den", "example": "Рожденият ми ден е на пети март.", "type": "noun" },
+    { "bg": "черпя", "en": "to treat/offer (celebration)", "pronunciation": "CHER-pya", "example": "На имен ден черпиш колегите.", "type": "verb" },
+    { "bg": "тост", "en": "toast (celebratory)", "pronunciation": "tost", "example": "Вдигнахме тост за здравето на бебето.", "type": "noun" },
+    { "bg": "наздраве", "en": "cheers", "pronunciation": "naz-DRA-ve", "example": "Наздраве! За новороденото!", "type": "interjection" },
+    { "bg": "подарък", "en": "gift/present", "pronunciation": "po-DA-ruk", "example": "Подаръкът за кръщенето е златна гривна.", "type": "noun" },
+    { "bg": "свещеник", "en": "priest", "pronunciation": "sve-shte-NIK", "example": "Свещеникът извършва обреда.", "type": "noun" },
+    { "bg": "обред", "en": "ceremony/rite", "pronunciation": "ob-RED", "example": "Обредът е кратък и тържествен.", "type": "noun" },
+    { "bg": "кумство", "en": "godparenthood", "pronunciation": "KUM-stvo", "example": "Кумството е свещена връзка в България.", "type": "noun" },
+    { "bg": "благословия", "en": "blessing", "pronunciation": "bla-go-slo-VI-ya", "example": "Родителите получават благословия от свещеника.", "type": "noun" },
+    { "bg": "Йордановден", "en": "Yordanovden (Epiphany/name day for Jordan)", "pronunciation": "yor-DA-nov-den", "example": "На Йордановден хвърлят кръст във водата.", "type": "noun" },
+    { "bg": "първи рожден ден", "en": "first birthday", "pronunciation": "PUR-vi ROZH-den den", "example": "На първия рожден ден правят питка с предмети.", "type": "noun" },
+    { "bg": "питка", "en": "ritual bread", "pronunciation": "PIT-ka", "example": "В питката бебето избира предмет за бъдещето.", "type": "noun" },
+    { "bg": "късмет", "en": "fortune/luck charm", "pronunciation": "kus-MET", "example": "В баницата за Нова година има късмети.", "type": "noun" },
+    { "bg": "поздравление", "en": "congratulations/greeting", "pronunciation": "poz-drav-LE-ni-e", "example": "Поздравления за новороденото!", "type": "noun" }
+  ]
+}
