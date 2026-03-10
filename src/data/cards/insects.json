@@ -1,0 +1,28 @@
+{
+  "category": "Insects",
+  "cards": [
+    { "bg": "насекомо", "en": "insect", "pronunciation": "na-se-KO-mo", "example": "Видях странно насекомо в градината.", "type": "noun" },
+    { "bg": "пеперуда", "en": "butterfly", "pronunciation": "pe-pe-RU-da", "example": "Пеперудата кацна на цветето.", "type": "noun" },
+    { "bg": "пчела", "en": "bee", "pronunciation": "pche-LA", "example": "Пчелата събира нектар от цветята.", "type": "noun" },
+    { "bg": "оса", "en": "wasp", "pronunciation": "o-SA", "example": "Внимавай, има оса близо до теб!", "type": "noun" },
+    { "bg": "комар", "en": "mosquito", "pronunciation": "ko-MAR", "example": "Комарите са много досадни през лятото.", "type": "noun" },
+    { "bg": "муха", "en": "fly", "pronunciation": "MU-ha", "example": "Мухата кръжи около храната.", "type": "noun" },
+    { "bg": "мравка", "en": "ant", "pronunciation": "MRAV-ka", "example": "Мравките работят в екип.", "type": "noun" },
+    { "bg": "паяк", "en": "spider", "pronunciation": "pa-YAK", "example": "Паякът изплете паяжина в ъгъла.", "type": "noun" },
+    { "bg": "паяжина", "en": "spider web", "pronunciation": "pa-ya-ZHI-na", "example": "Паяжината блести на утринната роса.", "type": "noun" },
+    { "bg": "калинка", "en": "ladybug", "pronunciation": "ka-LIN-ka", "example": "Калинката е символ на късмет.", "type": "noun" },
+    { "bg": "скакалец", "en": "grasshopper", "pronunciation": "ska-ka-LETS", "example": "Скакалецът скочи в тревата.", "type": "noun" },
+    { "bg": "щурец", "en": "cricket", "pronunciation": "SHTU-rets", "example": "Щурците пеят вечер в градината.", "type": "noun" },
+    { "bg": "бръмбар", "en": "beetle", "pronunciation": "BRUM-bar", "example": "Голям бръмбар кацна на дървото.", "type": "noun" },
+    { "bg": "гъсеница", "en": "caterpillar", "pronunciation": "gu-se-NI-tsa", "example": "Гъсеницата ще стане пеперуда.", "type": "noun" },
+    { "bg": "буболечка", "en": "bug/little insect", "pronunciation": "bu-bo-LECH-ka", "example": "Децата обичат да наблюдават буболечки.", "type": "noun" },
+    { "bg": "охлюв", "en": "snail", "pronunciation": "oh-LYUV", "example": "Охлювът се движи много бавно.", "type": "noun" },
+    { "bg": "червей", "en": "worm", "pronunciation": "cher-VEY", "example": "Червеите са полезни за почвата.", "type": "noun" },
+    { "bg": "бълха", "en": "flea", "pronunciation": "BUL-ha", "example": "Кучето има бълхи и трябва да го обработим.", "type": "noun" },
+    { "bg": "хлебарка", "en": "cockroach", "pronunciation": "hle-BAR-ka", "example": "Видях хлебарка в мазето.", "type": "noun" },
+    { "bg": "стоножка", "en": "centipede", "pronunciation": "sto-NOZH-ka", "example": "Стоножката има много крачета.", "type": "noun" },
+    { "bg": "ужилване", "en": "sting/bite", "pronunciation": "u-ZHIL-va-ne", "example": "Ужилването от пчела е болезнено.", "type": "noun" },
+    { "bg": "жиля", "en": "to sting", "pronunciation": "ZHI-lya", "example": "Осата ме жилна по ръката.", "type": "verb" },
+    { "bg": "бръмча", "en": "to buzz", "pronunciation": "BRUM-cha", "example": "Пчелите бръмчат около кошера.", "type": "verb" }
+  ]
+}
