@@ -1,0 +1,28 @@
+{
+  "category": "Archaeology",
+  "cards": [
+    { "bg": "археология", "en": "archaeology", "pronunciation": "ar-he-o-LO-gi-ya", "example": "Археологията разкрива миналото на България.", "type": "noun" },
+    { "bg": "археолог", "en": "archaeologist", "pronunciation": "ar-he-O-log", "example": "Археологът работи на разкопките в Пловдив.", "type": "noun" },
+    { "bg": "разкопки", "en": "excavation/dig", "pronunciation": "raz-KOP-ki", "example": "Разкопките разкриха тракийска гробница.", "type": "noun" },
+    { "bg": "находка", "en": "find/discovery", "pronunciation": "na-HOD-ka", "example": "Находката е златен тракийски шлем.", "type": "noun" },
+    { "bg": "артефакт", "en": "artifact", "pronunciation": "ar-te-FAKT", "example": "Артефактът е на шест хиляди години.", "type": "noun" },
+    { "bg": "руини", "en": "ruins", "pronunciation": "ru-I-ni", "example": "Руините на римския стадион са в центъра на Пловдив.", "type": "noun" },
+    { "bg": "гробница", "en": "tomb", "pronunciation": "grob-NI-tsa", "example": "Казанлъшката гробница е в списъка на ЮНЕСКО.", "type": "noun" },
+    { "bg": "съкровище", "en": "treasure", "pronunciation": "suk-RO-vi-shte", "example": "Панагюрското златно съкровище е в Националния музей.", "type": "noun" },
+    { "bg": "крепост", "en": "fortress", "pronunciation": "KRE-post", "example": "Крепостта Царевец е символ на Велико Търново.", "type": "noun" },
+    { "bg": "мозайка", "en": "mosaic", "pronunciation": "mo-ZAY-ka", "example": "Римската мозайка е запазена отлично.", "type": "noun" },
+    { "bg": "керамика", "en": "ceramics/pottery (archaeological)", "pronunciation": "ke-RA-mi-ka", "example": "Намерихме фрагменти от керамика.", "type": "noun" },
+    { "bg": "монета", "en": "coin (ancient)", "pronunciation": "mo-NE-ta", "example": "Монетата е от времето на цар Симеон.", "type": "noun" },
+    { "bg": "надпис", "en": "inscription", "pronunciation": "NAD-pis", "example": "Надписът е на старобългарски език.", "type": "noun" },
+    { "bg": "тракийски", "en": "Thracian", "pronunciation": "tra-KIY-ski", "example": "Тракийските гробници са уникални.", "type": "adjective" },
+    { "bg": "римски", "en": "Roman", "pronunciation": "RIM-ski", "example": "Римският амфитеатър е от втори век.", "type": "adjective" },
+    { "bg": "средновековен", "en": "medieval", "pronunciation": "sred-no-ve-KO-ven", "example": "Средновековната крепост е добре запазена.", "type": "adjective" },
+    { "bg": "реставрация", "en": "restoration", "pronunciation": "res-tav-RA-tsi-ya", "example": "Реставрацията на църквата отне три години.", "type": "noun" },
+    { "bg": "пласт", "en": "layer/stratum", "pronunciation": "plast", "example": "Всеки пласт разкрива различна епоха.", "type": "noun" },
+    { "bg": "епоха", "en": "era/epoch", "pronunciation": "e-PO-ha", "example": "Находката е от бронзовата епоха.", "type": "noun" },
+    { "bg": "музеен експонат", "en": "museum exhibit", "pronunciation": "mu-ZE-en eks-po-NAT", "example": "Музейните експонати са зад стъкло.", "type": "noun" },
+    { "bg": "датирам", "en": "to date (historically)", "pronunciation": "da-TI-ram", "example": "Датираха съда към пети век преди Христа.", "type": "verb" },
+    { "bg": "праисторически", "en": "prehistoric", "pronunciation": "pra-is-to-RI-ches-ki", "example": "Праисторическото селище е край Стара Загора.", "type": "adjective" },
+    { "bg": "паметник на културата", "en": "cultural monument", "pronunciation": "pa-MET-nik na kul-TU-ra-ta", "example": "Боянската църква е паметник на културата.", "type": "noun" }
+  ]
+}
