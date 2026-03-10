@@ -1,0 +1,25 @@
+{
+  "category": "Clothing",
+  "cards": [
+    { "bg": "дрехи", "en": "clothes", "pronunciation": "DRE-hi", "example": "Трябва да купя нови дрехи.", "type": "noun" },
+    { "bg": "риза", "en": "shirt", "pronunciation": "RI-za", "example": "Той носи бяла риза.", "type": "noun" },
+    { "bg": "панталон", "en": "pants/trousers", "pronunciation": "pan-ta-LON", "example": "Панталонът е твърде дълъг.", "type": "noun" },
+    { "bg": "рокля", "en": "dress", "pronunciation": "ROK-lya", "example": "Тя купи червена рокля.", "type": "noun" },
+    { "bg": "пола", "en": "skirt", "pronunciation": "PO-la", "example": "Полата е много къса.", "type": "noun" },
+    { "bg": "яке", "en": "jacket", "pronunciation": "YA-ke", "example": "Вземи якето, навън е студено.", "type": "noun" },
+    { "bg": "палто", "en": "coat", "pronunciation": "pal-TO", "example": "Палтото е от вълна.", "type": "noun" },
+    { "bg": "обувки", "en": "shoes", "pronunciation": "o-BUV-ki", "example": "Обувките ми са нови.", "type": "noun" },
+    { "bg": "чорапи", "en": "socks", "pronunciation": "cho-RA-pi", "example": "Имаш ли чисти чорапи?", "type": "noun" },
+    { "bg": "шапка", "en": "hat", "pronunciation": "SHAP-ka", "example": "Сложи шапка, слънцето пече.", "type": "noun" },
+    { "bg": "ръкавици", "en": "gloves", "pronunciation": "ru-ka-VI-tsi", "example": "Ръкавиците ме пазят от студа.", "type": "noun" },
+    { "bg": "шал", "en": "scarf", "pronunciation": "shal", "example": "Тя носи червен шал.", "type": "noun" },
+    { "bg": "тениска", "en": "t-shirt", "pronunciation": "te-NIS-ka", "example": "Лятото нося само тениска.", "type": "noun" },
+    { "bg": "пуловер", "en": "sweater", "pronunciation": "pu-LO-ver", "example": "Пуловерът е топъл и мек.", "type": "noun" },
+    { "bg": "бельо", "en": "underwear", "pronunciation": "bel-YO", "example": "Купих ново бельо от магазина.", "type": "noun" },
+    { "bg": "чанта", "en": "bag/purse", "pronunciation": "CHAN-ta", "example": "Чантата ѝ е много голяма.", "type": "noun" },
+    { "bg": "колан", "en": "belt", "pronunciation": "ko-LAN", "example": "Коланът е от кожа.", "type": "noun" },
+    { "bg": "чадър", "en": "umbrella", "pronunciation": "cha-DUR", "example": "Вземи чадър, ще вали.", "type": "noun" },
+    { "bg": "бански", "en": "swimsuit", "pronunciation": "BAN-ski", "example": "Не забравяй банския за плажа.", "type": "noun" },
+    { "bg": "маратонки", "en": "sneakers", "pronunciation": "ma-ra-TON-ki", "example": "Маратонките са удобни за бягане.", "type": "noun" }
+  ]
+}
