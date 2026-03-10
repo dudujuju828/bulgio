@@ -1,0 +1,28 @@
+{
+  "category": "TV & Streaming",
+  "cards": [
+    { "bg": "телевизия", "en": "television/TV", "pronunciation": "te-le-VI-zi-ya", "example": "Гледам телевизия вечер след работа.", "type": "noun" },
+    { "bg": "телевизор", "en": "TV set", "pronunciation": "te-le-VI-zor", "example": "Купихме нов телевизор с голям екран.", "type": "noun" },
+    { "bg": "канал", "en": "channel", "pronunciation": "ka-NAL", "example": "Превключи на другия канал.", "type": "noun" },
+    { "bg": "дистанционно", "en": "remote control", "pronunciation": "dis-tan-tsi-ON-no", "example": "Къде е дистанционното? Не го намирам.", "type": "noun" },
+    { "bg": "сериал", "en": "TV series", "pronunciation": "se-ri-AL", "example": "Гледам нов български сериал.", "type": "noun" },
+    { "bg": "епизод", "en": "episode", "pronunciation": "e-pi-ZOD", "example": "Гледах три епизода наведнъж.", "type": "noun" },
+    { "bg": "сезон", "en": "season", "pronunciation": "se-ZON", "example": "Вторият сезон е по-добър от първия.", "type": "noun" },
+    { "bg": "филм", "en": "movie/film", "pronunciation": "film", "example": "Тази вечер има хубав филм по БНТ.", "type": "noun" },
+    { "bg": "документален филм", "en": "documentary", "pronunciation": "do-ku-men-TA-len film", "example": "Гледах документален филм за дивата природа.", "type": "noun" },
+    { "bg": "новини", "en": "news", "pronunciation": "no-VI-ni", "example": "Новините са в осем часа.", "type": "noun" },
+    { "bg": "реклама", "en": "commercial/ad", "pronunciation": "rek-LA-ma", "example": "Рекламите са твърде дълги.", "type": "noun" },
+    { "bg": "субтитри", "en": "subtitles", "pronunciation": "sub-TIT-ri", "example": "Гледам с български субтитри.", "type": "noun" },
+    { "bg": "стрийминг платформа", "en": "streaming platform", "pronunciation": "STRIY-ming plat-FOR-ma", "example": "Абонирахме се за стрийминг платформа.", "type": "noun" },
+    { "bg": "предаване", "en": "show/program", "pronunciation": "pre-da-VA-ne", "example": "Кулинарното предаване е любимото ми.", "type": "noun" },
+    { "bg": "риалити шоу", "en": "reality show", "pronunciation": "ri-A-li-ti SHOU", "example": "Риалити шоуто събира много зрители.", "type": "noun" },
+    { "bg": "водещ", "en": "TV host/presenter", "pronunciation": "vo-DESHT", "example": "Водещият на шоуто е много забавен.", "type": "noun" },
+    { "bg": "на живо", "en": "live (broadcast)", "pronunciation": "na zhi-VO", "example": "Мачът се излъчва на живо.", "type": "phrase" },
+    { "bg": "повторение", "en": "rerun/repeat", "pronunciation": "pov-to-RE-ni-e", "example": "Това е повторение, вече го гледах.", "type": "noun" },
+    { "bg": "анимация", "en": "animation/cartoon", "pronunciation": "a-ni-MA-tsi-ya", "example": "Децата гледат анимация всяка сутрин.", "type": "noun" },
+    { "bg": "екран", "en": "screen", "pronunciation": "ek-RAN", "example": "Екранът е петдесет и пет инча.", "type": "noun" },
+    { "bg": "озвучаване", "en": "dubbing/voice-over", "pronunciation": "oz-vu-CHA-va-ne", "example": "Филмът е с българско озвучаване.", "type": "noun" },
+    { "bg": "БНТ", "en": "BNT (Bulgarian National TV)", "pronunciation": "be-en-TE", "example": "БНТ показва документални филми и новини.", "type": "noun" },
+    { "bg": "бТВ", "en": "bTV (Bulgarian private TV)", "pronunciation": "be-te-VE", "example": "Сериалът по бТВ е много популярен.", "type": "noun" }
+  ]
+}
