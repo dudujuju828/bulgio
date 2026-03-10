@@ -1,0 +1,26 @@
+{
+  "category": "Sports",
+  "cards": [
+    { "bg": "спорт", "en": "sport", "pronunciation": "sport", "example": "Какъв спорт практикуваш?", "type": "noun" },
+    { "bg": "футбол", "en": "football/soccer", "pronunciation": "fut-BOL", "example": "Футболът е най-популярният спорт в България.", "type": "noun" },
+    { "bg": "баскетбол", "en": "basketball", "pronunciation": "bas-ket-BOL", "example": "Играем баскетбол в училище.", "type": "noun" },
+    { "bg": "волейбол", "en": "volleyball", "pronunciation": "vo-ley-BOL", "example": "България е силна във волейбола.", "type": "noun" },
+    { "bg": "тенис", "en": "tennis", "pronunciation": "TE-nis", "example": "Играя тенис всяка неделя.", "type": "noun" },
+    { "bg": "плуване", "en": "swimming", "pronunciation": "PLU-va-ne", "example": "Плуването е полезно за здравето.", "type": "noun" },
+    { "bg": "бягане", "en": "running", "pronunciation": "BYA-ga-ne", "example": "Ходя на бягане всяка сутрин.", "type": "noun" },
+    { "bg": "ски", "en": "skiing", "pronunciation": "ski", "example": "Карам ски в Банско.", "type": "noun" },
+    { "bg": "отбор", "en": "team", "pronunciation": "ot-BOR", "example": "Нашият отбор спечели мача.", "type": "noun" },
+    { "bg": "мач", "en": "match/game", "pronunciation": "match", "example": "Мачът започва в осем часа.", "type": "noun" },
+    { "bg": "победа", "en": "victory/win", "pronunciation": "po-BE-da", "example": "Празнуваме победата на отбора.", "type": "noun" },
+    { "bg": "загуба", "en": "defeat/loss", "pronunciation": "za-GU-ba", "example": "Загубата беше тежка за отбора.", "type": "noun" },
+    { "bg": "играч", "en": "player", "pronunciation": "ig-RACH", "example": "Играчът вкара два гола.", "type": "noun" },
+    { "bg": "топка", "en": "ball", "pronunciation": "TOP-ka", "example": "Подай ми топката!", "type": "noun" },
+    { "bg": "стадион", "en": "stadium", "pronunciation": "sta-di-ON", "example": "Стадионът е пълен с фенове.", "type": "noun" },
+    { "bg": "фитнес", "en": "gym/fitness", "pronunciation": "FIT-nes", "example": "Ходя на фитнес три пъти седмично.", "type": "noun" },
+    { "bg": "тренировка", "en": "training/workout", "pronunciation": "tre-ni-ROV-ka", "example": "Тренировката беше много тежка.", "type": "noun" },
+    { "bg": "играя", "en": "to play", "pronunciation": "ig-RA-ya", "example": "Децата играят футбол в парка.", "type": "verb" },
+    { "bg": "печеля", "en": "to win", "pronunciation": "pe-CHE-lya", "example": "Искаме да печелим всеки мач.", "type": "verb" },
+    { "bg": "губя", "en": "to lose", "pronunciation": "GU-bya", "example": "Не обичам да губя.", "type": "verb" },
+    { "bg": "тичам", "en": "to run", "pronunciation": "TI-cham", "example": "Тичам пет километра всеки ден.", "type": "verb" }
+  ]
+}
