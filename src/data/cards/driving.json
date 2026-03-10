@@ -1,0 +1,28 @@
+{
+  "category": "Driving",
+  "cards": [
+    { "bg": "кола", "en": "car", "pronunciation": "ko-LA", "example": "Колата ми е паркирана отпред.", "type": "noun" },
+    { "bg": "шофьор", "en": "driver", "pronunciation": "sho-FYOR", "example": "Шофьорът спря на червено.", "type": "noun" },
+    { "bg": "шофирам", "en": "to drive", "pronunciation": "sho-FI-ram", "example": "Шофирам до морето всяко лято.", "type": "verb" },
+    { "bg": "шофьорска книжка", "en": "driver's license", "pronunciation": "sho-FYOR-ska KNIZH-ka", "example": "Получих шофьорската си книжка на осемнадесет.", "type": "noun" },
+    { "bg": "път", "en": "road", "pronunciation": "put", "example": "Пътят за Пловдив е в добро състояние.", "type": "noun" },
+    { "bg": "магистрала", "en": "highway/motorway", "pronunciation": "ma-gis-TRA-la", "example": "По магистралата се кара по-бързо.", "type": "noun" },
+    { "bg": "кръстовище", "en": "intersection/crossroads", "pronunciation": "krus-TO-vish-te", "example": "Завий наляво на кръстовището.", "type": "noun" },
+    { "bg": "светофар", "en": "traffic light", "pronunciation": "sve-to-FAR", "example": "Спри на червения светофар.", "type": "noun" },
+    { "bg": "знак", "en": "sign", "pronunciation": "znak", "example": "Знакът забранява завиване надясно.", "type": "noun" },
+    { "bg": "скорост", "en": "speed", "pronunciation": "SKO-rost", "example": "Ограничението на скоростта е петдесет.", "type": "noun" },
+    { "bg": "бензиностанция", "en": "gas station", "pronunciation": "ben-zi-no-STAN-tsi-ya", "example": "Трябва да спрем на бензиностанцията.", "type": "noun" },
+    { "bg": "бензин", "en": "gasoline/petrol", "pronunciation": "ben-ZIN", "example": "Бензинът поскъпна тази седмица.", "type": "noun" },
+    { "bg": "гума", "en": "tire", "pronunciation": "GU-ma", "example": "Предната гума е спукана.", "type": "noun" },
+    { "bg": "двигател", "en": "engine", "pronunciation": "DVI-ga-tel", "example": "Двигателят издава странен звук.", "type": "noun" },
+    { "bg": "спирачка", "en": "brake", "pronunciation": "spi-RACH-ka", "example": "Натисни спирачката бавно.", "type": "noun" },
+    { "bg": "волан", "en": "steering wheel", "pronunciation": "vo-LAN", "example": "Дръж волана с две ръце.", "type": "noun" },
+    { "bg": "колан", "en": "seatbelt", "pronunciation": "ko-LAN", "example": "Сложи си колана преди да тръгнем.", "type": "noun" },
+    { "bg": "паркирам", "en": "to park", "pronunciation": "par-KI-ram", "example": "Паркирах колата до магазина.", "type": "verb" },
+    { "bg": "изпреварвам", "en": "to overtake/pass", "pronunciation": "iz-pre-VAR-vam", "example": "Забранено е да изпреварваш в завоя.", "type": "verb" },
+    { "bg": "глоба", "en": "fine/ticket", "pronunciation": "GLO-ba", "example": "Получих глоба за превишена скорост.", "type": "noun" },
+    { "bg": "катастрофа", "en": "accident/crash", "pronunciation": "ka-tas-TRO-fa", "example": "На магистралата имаше катастрофа.", "type": "noun" },
+    { "bg": "задръстване", "en": "traffic jam", "pronunciation": "za-DRUST-va-ne", "example": "В София има задръствания всеки ден.", "type": "noun" },
+    { "bg": "завивам", "en": "to turn", "pronunciation": "za-VI-vam", "example": "Завий надясно след моста.", "type": "verb" }
+  ]
+}
