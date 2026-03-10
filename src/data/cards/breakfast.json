@@ -1,0 +1,27 @@
+{
+  "category": "Breakfast",
+  "cards": [
+    { "bg": "закуска", "en": "breakfast", "pronunciation": "za-KUS-ka", "example": "Закуската е най-важното хранене.", "type": "noun" },
+    { "bg": "кафе", "en": "coffee", "pronunciation": "ka-FE", "example": "Пия кафе всяка сутрин.", "type": "noun" },
+    { "bg": "чай", "en": "tea", "pronunciation": "chay", "example": "Предпочитам чай със захар.", "type": "noun" },
+    { "bg": "мляко", "en": "milk", "pronunciation": "MLYA-ko", "example": "Слагам мляко в кафето.", "type": "noun" },
+    { "bg": "хляб", "en": "bread", "pronunciation": "hlyab", "example": "Хлябът е пресен от фурната.", "type": "noun" },
+    { "bg": "масло", "en": "butter", "pronunciation": "MAS-lo", "example": "Мажа филийката с масло.", "type": "noun" },
+    { "bg": "филийка", "en": "slice (of bread)", "pronunciation": "fi-LIY-ka", "example": "Ям две филийки хляб за закуска.", "type": "noun" },
+    { "bg": "тост", "en": "toast", "pronunciation": "tost", "example": "Правя тостове с кашкавал.", "type": "noun" },
+    { "bg": "яйце", "en": "egg", "pronunciation": "yay-TSE", "example": "Искам пържено яйце за закуска.", "type": "noun" },
+    { "bg": "омлет", "en": "omelette", "pronunciation": "om-LET", "example": "Правя омлет с домати и сирене.", "type": "noun" },
+    { "bg": "сирене", "en": "white cheese/feta", "pronunciation": "si-RE-ne", "example": "Българското бяло сирене е прочуто.", "type": "noun" },
+    { "bg": "кашкавал", "en": "yellow cheese", "pronunciation": "kash-ka-VAL", "example": "Слагам кашкавал в тоста.", "type": "noun" },
+    { "bg": "мед", "en": "honey", "pronunciation": "med", "example": "Ям кисело мляко с мед за закуска.", "type": "noun" },
+    { "bg": "кисело мляко", "en": "yogurt", "pronunciation": "KI-se-lo MLYA-ko", "example": "Българското кисело мляко е уникално.", "type": "noun" },
+    { "bg": "баничка", "en": "small banitsa/pastry", "pronunciation": "BA-nich-ka", "example": "Купих баничка от фурната за закуска.", "type": "noun" },
+    { "bg": "зърнена закуска", "en": "cereal", "pronunciation": "zur-NE-na za-KUS-ka", "example": "Децата ядат зърнена закуска с мляко.", "type": "noun" },
+    { "bg": "сок", "en": "juice", "pronunciation": "sok", "example": "Пия прясно изцеден портокалов сок.", "type": "noun" },
+    { "bg": "конфитюр", "en": "jam", "pronunciation": "kon-fi-TYUR", "example": "Мажа филийката с конфитюр от ягоди.", "type": "noun" },
+    { "bg": "колбас", "en": "sausage/cold cuts", "pronunciation": "kol-BAS", "example": "Слагам колбас в сандвича.", "type": "noun" },
+    { "bg": "сандвич", "en": "sandwich", "pronunciation": "SAND-vich", "example": "Правя сандвич за в офиса.", "type": "noun" },
+    { "bg": "варено яйце", "en": "boiled egg", "pronunciation": "va-RE-no yay-TSE", "example": "Варя яйцето за шест минути.", "type": "noun" },
+    { "bg": "пържено яйце", "en": "fried egg", "pronunciation": "pur-ZHE-no yay-TSE", "example": "Пърженото яйце е с лука.", "type": "noun" }
+  ]
+}
