@@ -1,0 +1,27 @@
+{
+  "category": "Spices",
+  "cards": [
+    { "bg": "подправка", "en": "spice/seasoning", "pronunciation": "pod-PRAV-ka", "example": "Добавям подправки за по-богат вкус.", "type": "noun" },
+    { "bg": "сол", "en": "salt", "pronunciation": "sol", "example": "Сложи малко сол в ястието.", "type": "noun" },
+    { "bg": "черен пипер", "en": "black pepper", "pronunciation": "CHE-ren pi-PER", "example": "Поръсвам с черен пипер за аромат.", "type": "noun" },
+    { "bg": "червен пипер", "en": "paprika/red pepper", "pronunciation": "cher-VEN pi-PER", "example": "Червеният пипер е основна подправка в българската кухня.", "type": "noun" },
+    { "bg": "чубрица", "en": "savory (herb)", "pronunciation": "chu-BRI-tsa", "example": "Чубрицата се слага в почти всяко българско ястие.", "type": "noun" },
+    { "bg": "магданоз", "en": "parsley", "pronunciation": "mag-da-NOZ", "example": "Нарязах магданоз за салатата.", "type": "noun" },
+    { "bg": "копър", "en": "dill", "pronunciation": "KO-pur", "example": "Копърът се слага в таратора.", "type": "noun" },
+    { "bg": "босилек", "en": "basil", "pronunciation": "bo-si-LEK", "example": "Босилекът мирише прекрасно.", "type": "noun" },
+    { "bg": "канела", "en": "cinnamon", "pronunciation": "ka-NE-la", "example": "Слагам канела в ябълковия сладкиш.", "type": "noun" },
+    { "bg": "кимион", "en": "cumin", "pronunciation": "ki-mi-ON", "example": "Кимионът е задължителен за кюфтетата.", "type": "noun" },
+    { "bg": "мента", "en": "mint", "pronunciation": "MEN-ta", "example": "Ментата освежава лятната лимонада.", "type": "noun" },
+    { "bg": "розмарин", "en": "rosemary", "pronunciation": "roz-ma-RIN", "example": "Розмаринът е чудесен за печено месо.", "type": "noun" },
+    { "bg": "мащерка", "en": "thyme", "pronunciation": "mash-TER-ka", "example": "Планинската мащерка е много ароматна.", "type": "noun" },
+    { "bg": "дафинов лист", "en": "bay leaf", "pronunciation": "da-FI-nov list", "example": "Слагам дафинов лист в супата.", "type": "noun" },
+    { "bg": "чесън", "en": "garlic", "pronunciation": "che-SUN", "example": "Чесънът е важна съставка в много ястия.", "type": "noun" },
+    { "bg": "джинджифил", "en": "ginger", "pronunciation": "dzhin-dzhi-FIL", "example": "Пия чай с джинджифил и мед.", "type": "noun" },
+    { "bg": "куркума", "en": "turmeric", "pronunciation": "kur-KU-ma", "example": "Куркумата оцветява ориза в жълто.", "type": "noun" },
+    { "bg": "ванилия", "en": "vanilla", "pronunciation": "va-NI-li-ya", "example": "Ванилията е за сладкишите и десертите.", "type": "noun" },
+    { "bg": "оцет", "en": "vinegar", "pronunciation": "O-tset", "example": "Добавям малко оцет в шопската салата.", "type": "noun" },
+    { "bg": "горчица", "en": "mustard", "pronunciation": "gor-CHI-tsa", "example": "Горчицата е остра и ароматна.", "type": "noun" },
+    { "bg": "шафран", "en": "saffron", "pronunciation": "shaf-RAN", "example": "Шафранът е най-скъпата подправка.", "type": "noun" },
+    { "bg": "подправям", "en": "to season/spice", "pronunciation": "pod-PRA-vyam", "example": "Подправям ястието с чубрица и сол.", "type": "verb" }
+  ]
+}
