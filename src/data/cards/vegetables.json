@@ -1,0 +1,25 @@
+{
+  "category": "Vegetables",
+  "cards": [
+    { "bg": "домат", "en": "tomato", "pronunciation": "do-MAT", "example": "Доматите от градината са най-вкусни.", "type": "noun" },
+    { "bg": "краставица", "en": "cucumber", "pronunciation": "kras-ta-VI-tsa", "example": "Слагам краставица в салатата.", "type": "noun" },
+    { "bg": "чушка", "en": "pepper", "pronunciation": "CHUSH-ka", "example": "Чушките са червени и зелени.", "type": "noun" },
+    { "bg": "картоф", "en": "potato", "pronunciation": "kar-TOF", "example": "Картофите са пържени и хрупкави.", "type": "noun" },
+    { "bg": "морков", "en": "carrot", "pronunciation": "mor-KOV", "example": "Морковът е полезен за очите.", "type": "noun" },
+    { "bg": "лук", "en": "onion", "pronunciation": "luk", "example": "Лукът ме кара да плача.", "type": "noun" },
+    { "bg": "чесън", "en": "garlic", "pronunciation": "che-SUN", "example": "Добавям чесън в яденето.", "type": "noun" },
+    { "bg": "зеле", "en": "cabbage", "pronunciation": "ZE-le", "example": "Правим сарми от кисело зеле.", "type": "noun" },
+    { "bg": "спанак", "en": "spinach", "pronunciation": "spa-NAK", "example": "Спанакът е богат на желязо.", "type": "noun" },
+    { "bg": "патладжан", "en": "eggplant", "pronunciation": "pat-la-DZHAN", "example": "Правя мусака с патладжан.", "type": "noun" },
+    { "bg": "тиквичка", "en": "zucchini", "pronunciation": "tik-VICH-ka", "example": "Тиквичките са пържени на тиган.", "type": "noun" },
+    { "bg": "тиква", "en": "pumpkin", "pronunciation": "TIK-va", "example": "Правим тиквеник от тиква.", "type": "noun" },
+    { "bg": "боб", "en": "beans", "pronunciation": "bob", "example": "Бобът е традиционно българско ястие.", "type": "noun" },
+    { "bg": "грах", "en": "peas", "pronunciation": "grah", "example": "Грахът е зелен и сладък.", "type": "noun" },
+    { "bg": "леща", "en": "lentils", "pronunciation": "LESHT-a", "example": "Правя супа от леща.", "type": "noun" },
+    { "bg": "маруля", "en": "lettuce", "pronunciation": "ma-RU-lya", "example": "Марулята е свежа и хрупкава.", "type": "noun" },
+    { "bg": "цвекло", "en": "beetroot", "pronunciation": "tsvek-LO", "example": "Цвеклото оцветява супата в червено.", "type": "noun" },
+    { "bg": "гъба", "en": "mushroom", "pronunciation": "GU-ba", "example": "Берем гъби в гората.", "type": "noun" },
+    { "bg": "царевица", "en": "corn", "pronunciation": "tsa-re-VI-tsa", "example": "Варената царевица е много вкусна.", "type": "noun" },
+    { "bg": "зеленчук", "en": "vegetable", "pronunciation": "ze-len-CHUK", "example": "Яж повече зеленчуци за здраве.", "type": "noun" }
+  ]
+}
