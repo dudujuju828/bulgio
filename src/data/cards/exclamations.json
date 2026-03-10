@@ -1,0 +1,28 @@
+{
+  "category": "Exclamations & Interjections",
+  "cards": [
+    { "bg": "браво", "en": "bravo/well done", "pronunciation": "BRA-vo", "example": "Браво, страхотна работа!", "type": "interjection" },
+    { "bg": "ура", "en": "hooray", "pronunciation": "u-RA", "example": "Ура, спечелихме мача!", "type": "interjection" },
+    { "bg": "ох", "en": "oh (pain/surprise)", "pronunciation": "oh", "example": "Ох, ударих си пръста!", "type": "interjection" },
+    { "bg": "ау", "en": "ouch", "pronunciation": "au", "example": "Ау, това боли!", "type": "interjection" },
+    { "bg": "уф", "en": "ugh/phew", "pronunciation": "uf", "example": "Уф, толкова е горещо днес.", "type": "interjection" },
+    { "bg": "леле", "en": "oh my/wow (surprise/shock)", "pronunciation": "LE-le", "example": "Леле, колко хора има тук!", "type": "interjection" },
+    { "bg": "ей", "en": "hey", "pronunciation": "ey", "example": "Ей, чакай ме!", "type": "interjection" },
+    { "bg": "тихо", "en": "quiet/shh", "pronunciation": "TI-ho", "example": "Тихо, бебето спи!", "type": "interjection" },
+    { "bg": "внимание", "en": "attention/watch out", "pronunciation": "vni-MA-ni-e", "example": "Внимание, мокър под!", "type": "interjection" },
+    { "bg": "пази се", "en": "watch out/be careful", "pronunciation": "pa-ZI se", "example": "Пази се, идва кола!", "type": "phrase" },
+    { "bg": "помощ", "en": "help!", "pronunciation": "PO-mosht", "example": "Помощ! Някой да ми помогне!", "type": "interjection" },
+    { "bg": "стига", "en": "enough/stop it", "pronunciation": "STI-ga", "example": "Стига, не мога повече да слушам.", "type": "interjection" },
+    { "bg": "я виж", "en": "look at that/well well", "pronunciation": "ya vizh", "example": "Я виж какво намерих!", "type": "phrase" },
+    { "bg": "ами", "en": "well/so (filler)", "pronunciation": "a-MI", "example": "Ами, не знам какво да кажа.", "type": "interjection" },
+    { "bg": "значи", "en": "so/meaning (filler)", "pronunciation": "ZNA-chi", "example": "Значи, утре няма да дойдеш?", "type": "interjection" },
+    { "bg": "де", "en": "come on/please (insistence)", "pronunciation": "de", "example": "Ела де, ще закъснеем!", "type": "interjection" },
+    { "bg": "бе", "en": "hey/man (informal emphasis)", "pronunciation": "be", "example": "Какво правиш бе, внимавай!", "type": "interjection" },
+    { "bg": "чакай", "en": "wait/hold on", "pronunciation": "CHA-kay", "example": "Чакай, нещо не е наред.", "type": "interjection" },
+    { "bg": "хайде", "en": "come on/let's go", "pronunciation": "HAY-de", "example": "Хайде, тръгваме!", "type": "interjection" },
+    { "bg": "супер", "en": "great/awesome", "pronunciation": "SU-per", "example": "Супер, точно това ми трябваше!", "type": "interjection" },
+    { "bg": "ужас", "en": "terrible/how awful", "pronunciation": "u-ZHAS", "example": "Ужас, какво стана?", "type": "interjection" },
+    { "bg": "наистина ли", "en": "really?/seriously?", "pronunciation": "na-IS-ti-na li", "example": "Наистина ли? Не мога да повярвам!", "type": "phrase" },
+    { "bg": "разбира се", "en": "of course", "pronunciation": "raz-BI-ra se", "example": "Разбира се, ще ти помогна.", "type": "phrase" }
+  ]
+}
