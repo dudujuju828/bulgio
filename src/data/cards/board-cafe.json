@@ -1,0 +1,28 @@
+{
+  "category": "Card Games & Table Games",
+  "cards": [
+    { "bg": "карти за игра", "en": "playing cards", "pronunciation": "KAR-ti za ig-RA", "example": "Играем карти за игра всяка петъчна вечер.", "type": "noun" },
+    { "bg": "тесте карти", "en": "deck of cards", "pronunciation": "tes-TE KAR-ti", "example": "Тестето има петдесет и две карти.", "type": "noun" },
+    { "bg": "раздавам", "en": "to deal (cards)", "pronunciation": "raz-DA-vam", "example": "Раздавам по пет карти на всеки играч.", "type": "verb" },
+    { "bg": "бой", "en": "suit (cards)", "pronunciation": "boy", "example": "Четирите боя са купа, каро, пика и спатия.", "type": "noun" },
+    { "bg": "купа", "en": "hearts (suit)", "pronunciation": "KU-pa", "example": "Купата е червеният бой със сърцевидна форма.", "type": "noun" },
+    { "bg": "каро", "en": "diamonds (suit)", "pronunciation": "ka-RO", "example": "Карото е другият червен бой.", "type": "noun" },
+    { "bg": "пика", "en": "spades (suit)", "pronunciation": "PI-ka", "example": "Пиковото асо е най-силната карта.", "type": "noun" },
+    { "bg": "спатия", "en": "clubs (suit)", "pronunciation": "spa-TI-ya", "example": "Спатията е с форма на детелина.", "type": "noun" },
+    { "bg": "асо", "en": "ace", "pronunciation": "a-SO", "example": "Асото може да е най-ниската или най-висока карта.", "type": "noun" },
+    { "bg": "поп", "en": "king (card)", "pronunciation": "pop", "example": "Попът е с корона и брада.", "type": "noun" },
+    { "bg": "дама", "en": "queen (card)", "pronunciation": "DA-ma", "example": "Дамата е втората по сила карта.", "type": "noun" },
+    { "bg": "вале", "en": "jack (card)", "pronunciation": "va-LE", "example": "Валето е с изображение на млад мъж.", "type": "noun" },
+    { "bg": "джокер", "en": "joker (wild card)", "pronunciation": "DJO-ker", "example": "Джокерът замества всяка друга карта.", "type": "noun" },
+    { "bg": "белот", "en": "belote (popular card game)", "pronunciation": "be-LOT", "example": "Белотът е най-популярната карточна игра в България.", "type": "noun" },
+    { "bg": "козов бой", "en": "trump suit", "pronunciation": "KO-zov boy", "example": "Козовият бой е пика в тази раздаване.", "type": "noun" },
+    { "bg": "блъфирам", "en": "to bluff", "pronunciation": "blu-FI-ram", "example": "Блъфирам, че имам силни карти.", "type": "verb" },
+    { "bg": "залагам", "en": "to bet/wager", "pronunciation": "za-LA-gam", "example": "Залагам десет чипа.", "type": "verb" },
+    { "bg": "тото", "en": "pool/lotto game", "pronunciation": "TO-to", "example": "Тотото е популярна хазартна игра в България.", "type": "noun" },
+    { "bg": "табла", "en": "backgammon", "pronunciation": "tab-LA", "example": "Таблата се играе с зарове и пулове.", "type": "noun" },
+    { "bg": "зар", "en": "die/dice", "pronunciation": "zar", "example": "Хвърлям заровете и чакам резултата.", "type": "noun" },
+    { "bg": "пул", "en": "checker/piece (backgammon)", "pronunciation": "pul", "example": "Преместих пула на пет полета напред.", "type": "noun" },
+    { "bg": "домино", "en": "dominoes", "pronunciation": "do-mi-NO", "example": "Домино играят четирима души по двойки.", "type": "noun" },
+    { "bg": "печеля", "en": "to win", "pronunciation": "pe-CHE-lya", "example": "Печеля три поредни партии на белот.", "type": "verb" }
+  ]
+}
