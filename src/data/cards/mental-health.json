@@ -1,0 +1,28 @@
+{
+  "category": "Mental Health",
+  "cards": [
+    { "bg": "психично здраве", "en": "mental health", "pronunciation": "psi-HICH-no ZDRA-ve", "example": "Психичното здраве е също толкова важно, колкото физическото.", "type": "noun" },
+    { "bg": "тревожност", "en": "anxiety", "pronunciation": "tre-VOZH-nost", "example": "Тревожността се лекува с терапия.", "type": "noun" },
+    { "bg": "депресия", "en": "depression", "pronunciation": "dep-RE-si-ya", "example": "Депресията не е просто тъга.", "type": "noun" },
+    { "bg": "стрес", "en": "stress", "pronunciation": "stres", "example": "Стресът на работа ми влияе зле.", "type": "noun" },
+    { "bg": "бърнаут", "en": "burnout", "pronunciation": "BUR-na-ut", "example": "Бърнаутът е все по-чест сред младите хора.", "type": "noun" },
+    { "bg": "паник атака", "en": "panic attack", "pronunciation": "PA-nik a-TA-ka", "example": "Имах паник атака в метрото.", "type": "noun" },
+    { "bg": "безсъние", "en": "insomnia", "pronunciation": "bez-SU-ni-e", "example": "Безсънието е свързано със стреса.", "type": "noun" },
+    { "bg": "психолог", "en": "psychologist", "pronunciation": "psi-HO-log", "example": "Ходя при психолог всяка седмица.", "type": "noun" },
+    { "bg": "психотерапевт", "en": "psychotherapist", "pronunciation": "psi-ho-te-ra-PEVT", "example": "Психотерапевтът ми помага да се справя.", "type": "noun" },
+    { "bg": "терапия", "en": "therapy", "pronunciation": "te-ra-PI-ya", "example": "Когнитивната терапия е много ефективна.", "type": "noun" },
+    { "bg": "сеанс", "en": "session (therapy)", "pronunciation": "se-ANS", "example": "Сеансът трае петдесет минути.", "type": "noun" },
+    { "bg": "медитация", "en": "meditation", "pronunciation": "me-di-TA-tsi-ya", "example": "Медитацията ми помага да се успокоя.", "type": "noun" },
+    { "bg": "дишане", "en": "breathing (exercise)", "pronunciation": "DI-sha-ne", "example": "Дълбокото дишане намалява стреса.", "type": "noun" },
+    { "bg": "самочувствие", "en": "self-esteem", "pronunciation": "sa-mo-CHUV-stvi-e", "example": "Ниското самочувствие влияе на отношенията.", "type": "noun" },
+    { "bg": "самоувереност", "en": "self-confidence", "pronunciation": "sa-mo-u-VE-re-nost", "example": "Работя върху самоувереността си.", "type": "noun" },
+    { "bg": "емоционално изтощение", "en": "emotional exhaustion", "pronunciation": "e-mo-tsi-o-NAL-no iz-to-SHTE-ni-e", "example": "Емоционалното изтощение е признак на бърнаут.", "type": "noun" },
+    { "bg": "подкрепа", "en": "support", "pronunciation": "pod-KRE-pa", "example": "Подкрепата на близките е безценна.", "type": "noun" },
+    { "bg": "справям се", "en": "to cope/manage", "pronunciation": "SPRA-vyam se", "example": "Как се справяш с натоварването?", "type": "verb" },
+    { "bg": "релаксация", "en": "relaxation", "pronunciation": "re-lak-SA-tsi-ya", "example": "Релаксацията е важна след тежък ден.", "type": "noun" },
+    { "bg": "зависимост", "en": "addiction", "pronunciation": "za-VI-si-most", "example": "Зависимостта от телефона е реален проблем.", "type": "noun" },
+    { "bg": "граници", "en": "boundaries", "pronunciation": "gra-NI-tsi", "example": "Научи се да поставяш лични граници.", "type": "noun" },
+    { "bg": "осъзнатост", "en": "mindfulness", "pronunciation": "o-suz-NA-tost", "example": "Осъзнатостта помага да живееш в момента.", "type": "noun" },
+    { "bg": "горещ телефон", "en": "crisis hotline", "pronunciation": "go-RESHT te-le-FON", "example": "Горещият телефон работи денонощно.", "type": "noun" }
+  ]
+}
