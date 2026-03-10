@@ -1,0 +1,25 @@
+{
+  "category": "Tools",
+  "cards": [
+    { "bg": "инструмент", "en": "tool", "pronunciation": "in-stru-MENT", "example": "Имаш ли правилния инструмент?", "type": "noun" },
+    { "bg": "чук", "en": "hammer", "pronunciation": "chuk", "example": "Забих гвоздея с чука.", "type": "noun" },
+    { "bg": "гвоздей", "en": "nail", "pronunciation": "gvoz-DEY", "example": "Трябват ми няколко гвоздея.", "type": "noun" },
+    { "bg": "винт", "en": "screw", "pronunciation": "vint", "example": "Затегни винта с отвертката.", "type": "noun" },
+    { "bg": "отвертка", "en": "screwdriver", "pronunciation": "ot-VERT-ka", "example": "Подай ми отвертката, моля.", "type": "noun" },
+    { "bg": "клещи", "en": "pliers", "pronunciation": "KLESH-ti", "example": "Извадих гвоздея с клещи.", "type": "noun" },
+    { "bg": "бормашина", "en": "drill", "pronunciation": "bor-ma-SHI-na", "example": "Пробих дупка с бормашината.", "type": "noun" },
+    { "bg": "трион", "en": "saw", "pronunciation": "tri-ON", "example": "Рязам дъската с триона.", "type": "noun" },
+    { "bg": "ключ", "en": "wrench", "pronunciation": "klyuch", "example": "Ключът е за тръбите.", "type": "noun" },
+    { "bg": "ножица", "en": "scissors", "pronunciation": "NO-zhi-tsa", "example": "Режа хартията с ножица.", "type": "noun" },
+    { "bg": "лепило", "en": "glue", "pronunciation": "le-PI-lo", "example": "Залепих вазата с лепило.", "type": "noun" },
+    { "bg": "тиксо", "en": "tape", "pronunciation": "TIK-so", "example": "Залепи кутията с тиксо.", "type": "noun" },
+    { "bg": "боя", "en": "paint", "pronunciation": "BO-ya", "example": "Боядисвам стената с бяла боя.", "type": "noun" },
+    { "bg": "четка", "en": "brush (paint)", "pronunciation": "CHET-ka", "example": "Нанасям боята с четка.", "type": "noun" },
+    { "bg": "стълба", "en": "ladder", "pronunciation": "STUL-ba", "example": "Качих се на стълбата да сменя крушката.", "type": "noun" },
+    { "bg": "въже", "en": "rope", "pronunciation": "vu-ZHE", "example": "Въжето е много здраво.", "type": "noun" },
+    { "bg": "поправям", "en": "to fix/repair", "pronunciation": "po-PRAV-yam", "example": "Поправям крана в банята.", "type": "verb" },
+    { "bg": "строя", "en": "to build", "pronunciation": "stro-YA", "example": "Строим нова ограда.", "type": "verb" },
+    { "bg": "режа", "en": "to cut", "pronunciation": "RE-zha", "example": "Режа дъските за рафта.", "type": "verb" },
+    { "bg": "мерна лента", "en": "measuring tape", "pronunciation": "MER-na LEN-ta", "example": "Измерих стената с мерната лента.", "type": "noun" }
+  ]
+}
