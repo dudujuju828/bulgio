@@ -1,0 +1,26 @@
+{
+  "category": "Housing",
+  "cards": [
+    { "bg": "апартамент", "en": "apartment", "pronunciation": "a-par-ta-MENT", "example": "Апартаментът е на втория етаж.", "type": "noun" },
+    { "bg": "къща", "en": "house", "pronunciation": "KU-shta", "example": "Къщата има голяма градина.", "type": "noun" },
+    { "bg": "стая", "en": "room", "pronunciation": "STA-ya", "example": "Апартаментът има три стаи.", "type": "noun" },
+    { "bg": "наем", "en": "rent", "pronunciation": "na-EM", "example": "Наемът е петстотин лева на месец.", "type": "noun" },
+    { "bg": "наемател", "en": "tenant", "pronunciation": "na-e-MA-tel", "example": "Наемателят плаща навреме.", "type": "noun" },
+    { "bg": "хазяин", "en": "landlord", "pronunciation": "ha-ZYA-in", "example": "Хазяинът поправи крана.", "type": "noun" },
+    { "bg": "етаж", "en": "floor/story", "pronunciation": "e-TAZH", "example": "Живея на петия етаж.", "type": "noun" },
+    { "bg": "вход", "en": "entrance/building entrance", "pronunciation": "vhod", "example": "Входът е от улицата.", "type": "noun" },
+    { "bg": "асансьор", "en": "elevator", "pronunciation": "a-san-SYOR", "example": "Асансьорът не работи днес.", "type": "noun" },
+    { "bg": "стълбище", "en": "staircase", "pronunciation": "STUL-bisht-e", "example": "Качвам се по стълбището.", "type": "noun" },
+    { "bg": "тераса", "en": "balcony/terrace", "pronunciation": "te-RA-sa", "example": "Пия кафе на терасата.", "type": "noun" },
+    { "bg": "таван", "en": "ceiling/attic", "pronunciation": "ta-VAN", "example": "Таванът е висок три метра.", "type": "noun" },
+    { "bg": "под", "en": "floor", "pronunciation": "pod", "example": "Подът е от ламинат.", "type": "noun" },
+    { "bg": "стена", "en": "wall", "pronunciation": "ste-NA", "example": "Стените са боядисани в бяло.", "type": "noun" },
+    { "bg": "врата", "en": "door", "pronunciation": "vra-TA", "example": "Заключи вратата, моля.", "type": "noun" },
+    { "bg": "прозорец", "en": "window", "pronunciation": "pro-ZO-rets", "example": "Отвори прозореца за свеж въздух.", "type": "noun" },
+    { "bg": "ключ", "en": "key", "pronunciation": "klyuch", "example": "Къде са ключовете от апартамента?", "type": "noun" },
+    { "bg": "преместване", "en": "moving (house)", "pronunciation": "pre-MEST-va-ne", "example": "Преместването е уморително.", "type": "noun" },
+    { "bg": "наемам", "en": "to rent", "pronunciation": "na-E-mam", "example": "Наемам апартамент в центъра.", "type": "verb" },
+    { "bg": "обзавеждане", "en": "furnishing", "pronunciation": "ob-za-VEZH-da-ne", "example": "Апартаментът е с ново обзавеждане.", "type": "noun" },
+    { "bg": "сметки", "en": "utility bills", "pronunciation": "SMET-ki", "example": "Сметките за ток и вода са отделно.", "type": "noun" }
+  ]
+}
