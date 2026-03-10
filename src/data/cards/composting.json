@@ -1,0 +1,27 @@
+{
+  "category": "Composting & Organic Gardening",
+  "cards": [
+    { "bg": "компост", "en": "compost", "pronunciation": "kom-POST", "example": "Компостът обогатява почвата с хранителни вещества.", "type": "noun" },
+    { "bg": "компостирам", "en": "to compost", "pronunciation": "kom-pos-TI-ram", "example": "Компостирам кухненските отпадъци в градината.", "type": "verb" },
+    { "bg": "компостер", "en": "compost bin/composter", "pronunciation": "kom-pos-TER", "example": "Компостерът е в ъгъла на двора.", "type": "noun" },
+    { "bg": "органични отпадъци", "en": "organic waste", "pronunciation": "or-ga-NICH-ni ot-PA-du-tsi", "example": "Органичните отпадъци се разграждат естествено.", "type": "noun" },
+    { "bg": "разграждане", "en": "decomposition", "pronunciation": "raz-grazh-DA-ne", "example": "Разграждането отнема от два до шест месеца.", "type": "noun" },
+    { "bg": "почва", "en": "soil", "pronunciation": "POCH-va", "example": "Почвата е плодородна благодарение на компоста.", "type": "noun" },
+    { "bg": "хумус", "en": "humus", "pronunciation": "HU-mus", "example": "Хумусът подобрява структурата на почвата.", "type": "noun" },
+    { "bg": "червеи", "en": "worms", "pronunciation": "cher-VE-i", "example": "Червеите разрохкват компоста и ускоряват процеса.", "type": "noun" },
+    { "bg": "вермикомпост", "en": "vermicompost", "pronunciation": "ver-mi-kom-POST", "example": "Вермикомпостът е направен от червеи.", "type": "noun" },
+    { "bg": "азот", "en": "nitrogen", "pronunciation": "a-ZOT", "example": "Азотът идва от зелените кухненски остатъци.", "type": "noun" },
+    { "bg": "въглерод", "en": "carbon", "pronunciation": "vug-le-ROD", "example": "Въглеродът идва от сухи листа и клонки.", "type": "noun" },
+    { "bg": "торене", "en": "fertilizing", "pronunciation": "to-RE-ne", "example": "Торенето с компост е естествено и безопасно.", "type": "noun" },
+    { "bg": "тор", "en": "fertilizer/manure", "pronunciation": "tor", "example": "Естественият тор е по-добър от химическия.", "type": "noun" },
+    { "bg": "мулч", "en": "mulch", "pronunciation": "mulch", "example": "Мулчът задържа влагата в почвата.", "type": "noun" },
+    { "bg": "биоразградим", "en": "biodegradable", "pronunciation": "bi-o-raz-gra-DIM", "example": "Биоразградимите материали могат да се компостират.", "type": "adjective" },
+    { "bg": "обръщам", "en": "to turn (compost)", "pronunciation": "ob-RUSH-tam", "example": "Обръщай компоста веднъж седмично.", "type": "verb" },
+    { "bg": "влага", "en": "moisture", "pronunciation": "VLA-ga", "example": "Влагата трябва да е като изцедена гъба.", "type": "noun" },
+    { "bg": "кухненски остатъци", "en": "kitchen scraps", "pronunciation": "ku-HEN-ski os-TA-tu-tsi", "example": "Кухненските остатъци включват обелки и кори.", "type": "noun" },
+    { "bg": "сухи листа", "en": "dry leaves", "pronunciation": "su-HI lis-TA", "example": "Сухите листа добавят въглерод в компоста.", "type": "noun" },
+    { "bg": "трева", "en": "grass (clippings)", "pronunciation": "tre-VA", "example": "Окосената трева е богата на азот.", "type": "noun" },
+    { "bg": "пермакултура", "en": "permaculture", "pronunciation": "per-ma-kul-TU-ra", "example": "Пермакултурата създава устойчиви градини.", "type": "noun" },
+    { "bg": "устойчивост", "en": "sustainability", "pronunciation": "us-TOY-chi-vost", "example": "Компостирането е стъпка към устойчивост.", "type": "noun" }
+  ]
+}
