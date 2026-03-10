@@ -1,0 +1,25 @@
+{
+  "category": "Cleaning",
+  "cards": [
+    { "bg": "чистя", "en": "to clean", "pronunciation": "CHIS-tya", "example": "Чистя апартамента всяка събота.", "type": "verb" },
+    { "bg": "метла", "en": "broom", "pronunciation": "met-LA", "example": "Мета пода с метлата.", "type": "noun" },
+    { "bg": "прахосмукачка", "en": "vacuum cleaner", "pronunciation": "pra-ho-smu-KACH-ka", "example": "Прахосмукачката е в килера.", "type": "noun" },
+    { "bg": "кофа", "en": "bucket", "pronunciation": "KO-fa", "example": "Напълних кофата с вода.", "type": "noun" },
+    { "bg": "парцал", "en": "mop/rag", "pronunciation": "par-TSAL", "example": "Бърша пода с мокър парцал.", "type": "noun" },
+    { "bg": "гъба", "en": "sponge", "pronunciation": "GU-ba", "example": "Мия чиниите с гъба.", "type": "noun" },
+    { "bg": "препарат", "en": "cleaning product", "pronunciation": "pre-pa-RAT", "example": "Купи препарат за миене на съдове.", "type": "noun" },
+    { "bg": "прах", "en": "dust", "pronunciation": "prah", "example": "По мебелите има много прах.", "type": "noun" },
+    { "bg": "боклук", "en": "trash/garbage", "pronunciation": "bok-LUK", "example": "Изхвърли боклука, моля.", "type": "noun" },
+    { "bg": "кошче", "en": "bin/trash can", "pronunciation": "KOSH-che", "example": "Хвърли хартията в кошчето.", "type": "noun" },
+    { "bg": "мия", "en": "to wash (dishes)", "pronunciation": "MI-ya", "example": "Мия чиниите след вечеря.", "type": "verb" },
+    { "bg": "бърша", "en": "to wipe", "pronunciation": "BUR-sha", "example": "Бърша масата с кърпа.", "type": "verb" },
+    { "bg": "гладя", "en": "to iron", "pronunciation": "GLA-dya", "example": "Гладя ризите за работа.", "type": "verb" },
+    { "bg": "ютия", "en": "iron (appliance)", "pronunciation": "yu-TI-ya", "example": "Ютията е много гореща.", "type": "noun" },
+    { "bg": "мета", "en": "to sweep", "pronunciation": "me-TA", "example": "Мета стълбището всяка сутрин.", "type": "verb" },
+    { "bg": "подреждам", "en": "to tidy up", "pronunciation": "pod-REZH-dam", "example": "Подреждам стаята преди гости.", "type": "verb" },
+    { "bg": "чист", "en": "clean", "pronunciation": "chist", "example": "Къщата е чиста и подредена.", "type": "adjective" },
+    { "bg": "мръсен", "en": "dirty", "pronunciation": "MRU-sen", "example": "Дрехите са мръсни от играта.", "type": "adjective" },
+    { "bg": "изпирам", "en": "to wash (laundry)", "pronunciation": "iz-PI-ram", "example": "Изпирам дрехите в пералнята.", "type": "verb" },
+    { "bg": "простирам", "en": "to hang laundry", "pronunciation": "pro-STI-ram", "example": "Простирам прането на терасата.", "type": "verb" }
+  ]
+}
