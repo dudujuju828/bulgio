@@ -1,0 +1,28 @@
+{
+  "category": "Makeup & Beauty",
+  "cards": [
+    { "bg": "грим", "en": "makeup", "pronunciation": "grim", "example": "Слагам грим само за специални поводи.", "type": "noun" },
+    { "bg": "гримирам се", "en": "to put on makeup", "pronunciation": "gri-MI-ram se", "example": "Гримирам се за десет минути.", "type": "verb" },
+    { "bg": "фон дьо тен", "en": "foundation", "pronunciation": "fon dyo ten", "example": "Фон дьо тенът трябва да пасва на тена ти.", "type": "noun" },
+    { "bg": "пудра", "en": "powder", "pronunciation": "PUD-ra", "example": "Нанеси малко пудра за матов ефект.", "type": "noun" },
+    { "bg": "руж", "en": "blush/rouge", "pronunciation": "ruzh", "example": "Ружът придава свежест на лицето.", "type": "noun" },
+    { "bg": "червило", "en": "lipstick", "pronunciation": "cher-VI-lo", "example": "Обичам червено червило за вечерни излизания.", "type": "noun" },
+    { "bg": "спирала", "en": "mascara", "pronunciation": "spi-RA-la", "example": "Спиралата удължава миглите.", "type": "noun" },
+    { "bg": "очна линия", "en": "eyeliner", "pronunciation": "OCH-na LI-ni-ya", "example": "Начертай тънка очна линия.", "type": "noun" },
+    { "bg": "сенки за очи", "en": "eyeshadow", "pronunciation": "SEN-ki za O-chi", "example": "Избрах кафяви сенки за очи.", "type": "noun" },
+    { "bg": "четка за грим", "en": "makeup brush", "pronunciation": "CHET-ka za grim", "example": "Измивай четките за грим редовно.", "type": "noun" },
+    { "bg": "огледало", "en": "mirror", "pronunciation": "og-LE-da-lo", "example": "Погледни се в огледалото.", "type": "noun" },
+    { "bg": "лак за нокти", "en": "nail polish", "pronunciation": "lak za NOK-ti", "example": "Лакът за нокти е червен.", "type": "noun" },
+    { "bg": "маникюр", "en": "manicure", "pronunciation": "ma-ni-KYUR", "example": "Ходя на маникюр всеки две седмици.", "type": "noun" },
+    { "bg": "педикюр", "en": "pedicure", "pronunciation": "pe-di-KYUR", "example": "Направих си педикюр за лятото.", "type": "noun" },
+    { "bg": "крем за лице", "en": "face cream", "pronunciation": "krem za li-TSE", "example": "Нанасям крем за лице сутрин и вечер.", "type": "noun" },
+    { "bg": "слънцезащитен крем", "en": "sunscreen", "pronunciation": "slun-tse-za-SHTI-ten krem", "example": "Слагай слънцезащитен крем на плажа.", "type": "noun" },
+    { "bg": "парфюм", "en": "perfume", "pronunciation": "par-FYUM", "example": "Този парфюм мирише на рози.", "type": "noun" },
+    { "bg": "тоалетна вода", "en": "eau de toilette", "pronunciation": "to-a-LET-na vo-DA", "example": "Тоалетната вода е по-лека от парфюма.", "type": "noun" },
+    { "bg": "пинсета", "en": "tweezers", "pronunciation": "pin-SE-ta", "example": "Оформям веждите с пинсета.", "type": "noun" },
+    { "bg": "вежда", "en": "eyebrow", "pronunciation": "VEZH-da", "example": "Веждите й са перфектно оформени.", "type": "noun" },
+    { "bg": "мигла", "en": "eyelash", "pronunciation": "mig-LA", "example": "Миглите й са дълги и гъсти.", "type": "noun" },
+    { "bg": "тен", "en": "complexion/skin tone", "pronunciation": "ten", "example": "Има красив загорял тен.", "type": "noun" },
+    { "bg": "демакиант", "en": "makeup remover", "pronunciation": "de-ma-ki-ANT", "example": "Винаги се демакилирай преди сън.", "type": "noun" }
+  ]
+}
