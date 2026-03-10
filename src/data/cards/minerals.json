@@ -1,0 +1,28 @@
+{
+  "category": "Minerals & Geology",
+  "cards": [
+    { "bg": "минерал", "en": "mineral", "pronunciation": "mi-ne-RAL", "example": "България е богата на минерали.", "type": "noun" },
+    { "bg": "скала", "en": "rock", "pronunciation": "ska-LA", "example": "Скалите по брега са от варовик.", "type": "noun" },
+    { "bg": "камък", "en": "stone", "pronunciation": "KA-muk", "example": "Намерих красив камък на реката.", "type": "noun" },
+    { "bg": "кристал", "en": "crystal", "pronunciation": "kris-TAL", "example": "Кварцовият кристал блести на светлината.", "type": "noun" },
+    { "bg": "кварц", "en": "quartz", "pronunciation": "kvarts", "example": "Кварцът е един от най-разпространените минерали.", "type": "noun" },
+    { "bg": "мрамор", "en": "marble", "pronunciation": "MRA-mor", "example": "Мраморът от Илинденци е бял и чист.", "type": "noun" },
+    { "bg": "гранит", "en": "granite", "pronunciation": "gra-NIT", "example": "Паметникът е изсечен от гранит.", "type": "noun" },
+    { "bg": "варовик", "en": "limestone", "pronunciation": "va-ro-VIK", "example": "Пещерите са образувани във варовик.", "type": "noun" },
+    { "bg": "пясъчник", "en": "sandstone", "pronunciation": "pya-SUCH-nik", "example": "Пясъчникът се разрушава лесно от водата.", "type": "noun" },
+    { "bg": "руда", "en": "ore", "pronunciation": "ru-DA", "example": "В Родопите добиват оловно-цинкова руда.", "type": "noun" },
+    { "bg": "злато", "en": "gold", "pronunciation": "ZLA-to", "example": "Златото от Панагюрище е от бронзовата епоха.", "type": "noun" },
+    { "bg": "сребро", "en": "silver", "pronunciation": "sre-BRO", "example": "Среброто се използва за бижута.", "type": "noun" },
+    { "bg": "мед", "en": "copper", "pronunciation": "med", "example": "Медта е била добивана в Тракия от древността.", "type": "noun" },
+    { "bg": "въглища", "en": "coal", "pronunciation": "VUG-li-shta", "example": "Мините за въглища в Перник са затворени.", "type": "noun" },
+    { "bg": "минерален извор", "en": "mineral spring", "pronunciation": "mi-ne-RA-len iz-VOR", "example": "В София има минерални извори с топла вода.", "type": "noun" },
+    { "bg": "термален", "en": "thermal", "pronunciation": "ter-MA-len", "example": "Термалните извори край Сандански са лечебни.", "type": "adjective" },
+    { "bg": "вулкан", "en": "volcano", "pronunciation": "vul-KAN", "example": "В България няма активни вулкани.", "type": "noun" },
+    { "bg": "земетресение", "en": "earthquake", "pronunciation": "ze-me-tre-SE-ni-e", "example": "Земетресението се усети в цяла Южна България.", "type": "noun" },
+    { "bg": "пласт", "en": "geological layer/stratum", "pronunciation": "plast", "example": "Геолозите изследват пластовете на почвата.", "type": "noun" },
+    { "bg": "геолог", "en": "geologist", "pronunciation": "ge-O-log", "example": "Геологът взе проби от скалите.", "type": "noun" },
+    { "bg": "фосил", "en": "fossil", "pronunciation": "FO-sil", "example": "Намерихме фосил на морска мида в планината.", "type": "noun" },
+    { "bg": "скъпоценен камък", "en": "gemstone/precious stone", "pronunciation": "sku-po-TSE-nen KA-muk", "example": "Рубинът е скъпоценен камък.", "type": "noun" },
+    { "bg": "почва", "en": "soil", "pronunciation": "POCH-va", "example": "Почвата в Тракийската низина е плодородна.", "type": "noun" }
+  ]
+}
