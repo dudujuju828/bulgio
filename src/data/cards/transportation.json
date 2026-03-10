@@ -1,0 +1,26 @@
+{
+  "category": "Transportation",
+  "cards": [
+    { "bg": "кола", "en": "car", "pronunciation": "KO-la", "example": "Колата е паркирана отпред.", "type": "noun" },
+    { "bg": "автобус", "en": "bus", "pronunciation": "av-TO-bus", "example": "Автобусът идва след пет минути.", "type": "noun" },
+    { "bg": "влак", "en": "train", "pronunciation": "vlak", "example": "Влакът за Пловдив тръгва в десет.", "type": "noun" },
+    { "bg": "самолет", "en": "airplane", "pronunciation": "sa-mo-LET", "example": "Самолетът каца на летището.", "type": "noun" },
+    { "bg": "трамвай", "en": "tram", "pronunciation": "tram-VAY", "example": "Трамваят минава през центъра.", "type": "noun" },
+    { "bg": "метро", "en": "metro/subway", "pronunciation": "me-TRO", "example": "Метрото в София е бързо и удобно.", "type": "noun" },
+    { "bg": "такси", "en": "taxi", "pronunciation": "tak-SI", "example": "Ще вземем такси до хотела.", "type": "noun" },
+    { "bg": "велосипед", "en": "bicycle", "pronunciation": "ve-lo-si-PED", "example": "Карам велосипед всяка сутрин.", "type": "noun" },
+    { "bg": "мотор", "en": "motorcycle", "pronunciation": "mo-TOR", "example": "Моторът е по-бърз от колата в трафика.", "type": "noun" },
+    { "bg": "кораб", "en": "ship", "pronunciation": "ko-RAB", "example": "Корабът плава по Дунава.", "type": "noun" },
+    { "bg": "спирка", "en": "stop/station", "pronunciation": "SPIR-ka", "example": "Следващата спирка е моята.", "type": "noun" },
+    { "bg": "гара", "en": "train station", "pronunciation": "GA-ra", "example": "Ще те чакам на гарата.", "type": "noun" },
+    { "bg": "летище", "en": "airport", "pronunciation": "le-TISHT-e", "example": "Летището е далеч от центъра.", "type": "noun" },
+    { "bg": "билет", "en": "ticket", "pronunciation": "bi-LET", "example": "Купих билет за влака.", "type": "noun" },
+    { "bg": "шофьор", "en": "driver", "pronunciation": "sho-FYOR", "example": "Шофьорът кара внимателно.", "type": "noun" },
+    { "bg": "пътник", "en": "passenger", "pronunciation": "PUT-nik", "example": "В автобуса има много пътници.", "type": "noun" },
+    { "bg": "карам", "en": "to drive", "pronunciation": "KA-ram", "example": "Аз карам кола всеки ден.", "type": "verb" },
+    { "bg": "пътувам", "en": "to travel", "pronunciation": "pu-TU-vam", "example": "Обичам да пътувам с влак.", "type": "verb" },
+    { "bg": "пристигам", "en": "to arrive", "pronunciation": "pri-STI-gam", "example": "Кога пристига автобусът?", "type": "verb" },
+    { "bg": "тръгвам", "en": "to depart/leave", "pronunciation": "TRUG-vam", "example": "Влакът тръгва в осем часа.", "type": "verb" },
+    { "bg": "трафик", "en": "traffic", "pronunciation": "TRA-fik", "example": "Сутрин трафикът е ужасен.", "type": "noun" }
+  ]
+}
