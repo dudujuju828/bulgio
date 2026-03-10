@@ -1,0 +1,28 @@
+{
+  "category": "Dance",
+  "cards": [
+    { "bg": "танц", "en": "dance", "pronunciation": "tants", "example": "Хорото е традиционен български танц.", "type": "noun" },
+    { "bg": "танцувам", "en": "to dance", "pronunciation": "tan-TSU-vam", "example": "Обичам да танцувам на сватби.", "type": "verb" },
+    { "bg": "хоро", "en": "horo (folk circle dance)", "pronunciation": "ho-RO", "example": "Хващаме се на хоро на площада.", "type": "noun" },
+    { "bg": "ръченица", "en": "rachenitsa (folk solo dance)", "pronunciation": "ru-che-NI-tsa", "example": "Ръченицата е бърз и енергичен танц.", "type": "noun" },
+    { "bg": "валс", "en": "waltz", "pronunciation": "vals", "example": "Младоженците танцуват валс.", "type": "noun" },
+    { "bg": "балет", "en": "ballet", "pronunciation": "ba-LET", "example": "Дъщеря ми учи балет от пет години.", "type": "noun" },
+    { "bg": "балерина", "en": "ballerina", "pronunciation": "ba-le-RI-na", "example": "Балерината танцува грациозно на сцената.", "type": "noun" },
+    { "bg": "салса", "en": "salsa", "pronunciation": "SAL-sa", "example": "Записахме се на курс по салса.", "type": "noun" },
+    { "bg": "танго", "en": "tango", "pronunciation": "TAN-go", "example": "Тангото е страстен танц от Аржентина.", "type": "noun" },
+    { "bg": "стъпка", "en": "step", "pronunciation": "STUP-ka", "example": "Научих основните стъпки на хорото.", "type": "noun" },
+    { "bg": "ритъм", "en": "rhythm", "pronunciation": "RI-tum", "example": "Движи се в ритъма на музиката.", "type": "noun" },
+    { "bg": "хореография", "en": "choreography", "pronunciation": "ho-re-o-GRA-fi-ya", "example": "Хореографията за представлението е сложна.", "type": "noun" },
+    { "bg": "партньор", "en": "partner", "pronunciation": "part-NYOR", "example": "Имаш ли партньор за танца?", "type": "noun" },
+    { "bg": "сцена", "en": "stage", "pronunciation": "STSE-na", "example": "Танцьорите излязоха на сцената.", "type": "noun" },
+    { "bg": "танцьор", "en": "dancer (m)", "pronunciation": "tan-TSYOR", "example": "Той е професионален танцьор.", "type": "noun" },
+    { "bg": "танцьорка", "en": "dancer (f)", "pronunciation": "tan-TSYOR-ka", "example": "Тя е талантлива народна танцьорка.", "type": "noun" },
+    { "bg": "народен танц", "en": "folk dance", "pronunciation": "NA-ro-den tants", "example": "Народните танци са част от българската култура.", "type": "noun" },
+    { "bg": "въртя се", "en": "to spin/twirl", "pronunciation": "VUR-tya se", "example": "Тя се върти бързо в центъра на хорото.", "type": "verb" },
+    { "bg": "скачам", "en": "to jump/leap", "pronunciation": "SKA-cham", "example": "Танцьорите скачат високо в ръченицата.", "type": "verb" },
+    { "bg": "клатя се", "en": "to sway", "pronunciation": "KLA-tya se", "example": "Клатим се бавно в ритъма на валса.", "type": "verb" },
+    { "bg": "репетиция", "en": "rehearsal", "pronunciation": "re-pe-TI-tsi-ya", "example": "Имаме репетиция всяка сряда вечер.", "type": "noun" },
+    { "bg": "гайда", "en": "bagpipe", "pronunciation": "GAY-da", "example": "Гайдата свири, а ние играем хоро.", "type": "noun" },
+    { "bg": "носия", "en": "folk costume", "pronunciation": "NO-si-ya", "example": "Облякохме народни носии за празника.", "type": "noun" }
+  ]
+}
