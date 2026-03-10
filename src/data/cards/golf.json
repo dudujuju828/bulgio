@@ -1,0 +1,27 @@
+{
+  "category": "Golf",
+  "cards": [
+    { "bg": "голф", "en": "golf", "pronunciation": "golf", "example": "Голфът става все по-популярен в България.", "type": "noun" },
+    { "bg": "голф игрище", "en": "golf course", "pronunciation": "golf ig-RISH-te", "example": "Голф игрището край Балчик е с изглед към морето.", "type": "noun" },
+    { "bg": "стик", "en": "club (golf)", "pronunciation": "stik", "example": "Избери правилния стик за разстоянието.", "type": "noun" },
+    { "bg": "топка", "en": "ball", "pronunciation": "TOP-ka", "example": "Топката кацна на грийна.", "type": "noun" },
+    { "bg": "дупка", "en": "hole", "pronunciation": "DUP-ka", "example": "Игрището има осемнадесет дупки.", "type": "noun" },
+    { "bg": "удар", "en": "stroke/shot", "pronunciation": "u-DAR", "example": "Вкарах топката с два удара.", "type": "noun" },
+    { "bg": "тий", "en": "tee", "pronunciation": "tiy", "example": "Постави топката на тийто преди първия удар.", "type": "noun" },
+    { "bg": "пътър", "en": "putter", "pronunciation": "PU-tur", "example": "Пътърът се използва за кратки удари на грийна.", "type": "noun" },
+    { "bg": "драйвър", "en": "driver", "pronunciation": "DRAY-vur", "example": "Драйвърът е за дълги удари от тийто.", "type": "noun" },
+    { "bg": "айрън", "en": "iron (club)", "pronunciation": "AY-run", "example": "Айрънът е подходящ за средни разстояния.", "type": "noun" },
+    { "bg": "грийн", "en": "green", "pronunciation": "griyn", "example": "Грийнът е перфектно поддържан.", "type": "noun" },
+    { "bg": "фуервей", "en": "fairway", "pronunciation": "FU-er-vey", "example": "Топката е на фуервея, добра позиция.", "type": "noun" },
+    { "bg": "бънкер", "en": "bunker/sand trap", "pronunciation": "BUN-ker", "example": "Топката падна в бънкера с пясък.", "type": "noun" },
+    { "bg": "пар", "en": "par", "pronunciation": "par", "example": "Тази дупка е пар четири.", "type": "noun" },
+    { "bg": "бърди", "en": "birdie", "pronunciation": "BUR-di", "example": "Направих бърди на петата дупка.", "type": "noun" },
+    { "bg": "боуги", "en": "bogey", "pronunciation": "BO-u-gi", "example": "Боуги означава един удар над пара.", "type": "noun" },
+    { "bg": "хендикап", "en": "handicap", "pronunciation": "HEN-di-kap", "example": "Хендикапът ми е дванадесет.", "type": "noun" },
+    { "bg": "кади", "en": "caddy", "pronunciation": "KA-di", "example": "Кадито носи чантата и съветва играча.", "type": "noun" },
+    { "bg": "голф количка", "en": "golf cart", "pronunciation": "golf ko-LICH-ka", "example": "Голф количката ни возеше между дупките.", "type": "noun" },
+    { "bg": "суинг", "en": "swing", "pronunciation": "suing", "example": "Суингът е основното движение в голфа.", "type": "noun" },
+    { "bg": "турнир", "en": "tournament", "pronunciation": "tur-NIR", "example": "Турнирът събра голфъри от цяла Европа.", "type": "noun" },
+    { "bg": "чанта за голф", "en": "golf bag", "pronunciation": "CHAN-ta za golf", "example": "Чантата за голф побира четиринадесет стика.", "type": "noun" }
+  ]
+}
