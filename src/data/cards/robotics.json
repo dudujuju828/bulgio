@@ -1,0 +1,27 @@
+{
+  "category": "Robotics & AI",
+  "cards": [
+    { "bg": "робот", "en": "robot", "pronunciation": "RO-bot", "example": "Роботът извършва задачи вместо хора.", "type": "noun" },
+    { "bg": "роботика", "en": "robotics", "pronunciation": "ro-BO-ti-ka", "example": "Роботиката се развива бързо.", "type": "noun" },
+    { "bg": "изкуствен интелект", "en": "artificial intelligence", "pronunciation": "iz-KUS-tven in-te-LEKT", "example": "Изкуственият интелект променя света.", "type": "noun" },
+    { "bg": "алгоритъм", "en": "algorithm", "pronunciation": "al-go-RI-tum", "example": "Алгоритъмът анализира данните за секунди.", "type": "noun" },
+    { "bg": "машинно обучение", "en": "machine learning", "pronunciation": "ma-SHIN-no o-bu-CHE-ni-e", "example": "Машинното обучение подобрява резултатите с времето.", "type": "noun" },
+    { "bg": "невронна мрежа", "en": "neural network", "pronunciation": "nev-RON-na mre-ZHA", "example": "Невронната мрежа разпознава лица на снимки.", "type": "noun" },
+    { "bg": "автоматизация", "en": "automation", "pronunciation": "av-to-ma-ti-ZA-tsi-ya", "example": "Автоматизацията замества ръчния труд.", "type": "noun" },
+    { "bg": "програмирам", "en": "to program", "pronunciation": "pro-gra-MI-ram", "example": "Програмирам робота да следва маршрут.", "type": "verb" },
+    { "bg": "сензор", "en": "sensor", "pronunciation": "sen-ZOR", "example": "Сензорът засича движение и температура.", "type": "noun" },
+    { "bg": "дрон", "en": "drone", "pronunciation": "dron", "example": "Дронът снима от въздуха.", "type": "noun" },
+    { "bg": "самоуправляващ се автомобил", "en": "self-driving car", "pronunciation": "sa-mo-up-rav-LYA-vasht se av-to-mo-BIL", "example": "Самоуправляващите се автомобили са бъдещето.", "type": "noun" },
+    { "bg": "чатбот", "en": "chatbot", "pronunciation": "CHAT-bot", "example": "Чатботът отговаря на въпроси денонощно.", "type": "noun" },
+    { "bg": "данни", "en": "data", "pronunciation": "DAN-ni", "example": "Данните се обработват в реално време.", "type": "noun" },
+    { "bg": "софтуер", "en": "software", "pronunciation": "SOFT-u-er", "example": "Софтуерът управлява робота.", "type": "noun" },
+    { "bg": "хардуер", "en": "hardware", "pronunciation": "HARD-u-er", "example": "Хардуерът включва мотори и сензори.", "type": "noun" },
+    { "bg": "3D принтер", "en": "3D printer", "pronunciation": "tri-DE PRIN-ter", "example": "3D принтерът създава части от пластмаса.", "type": "noun" },
+    { "bg": "виртуална реалност", "en": "virtual reality (VR)", "pronunciation": "vir-tu-AL-na re-AL-nost", "example": "Виртуалната реалност се използва за обучение.", "type": "noun" },
+    { "bg": "добавена реалност", "en": "augmented reality (AR)", "pronunciation": "do-BA-ve-na re-AL-nost", "example": "Добавената реалност показва информация върху образа.", "type": "noun" },
+    { "bg": "интернет на нещата", "en": "Internet of Things (IoT)", "pronunciation": "in-ter-NET na NESHT-ta-ta", "example": "Интернетът на нещата свързва домашните уреди.", "type": "noun" },
+    { "bg": "кибербезопасност", "en": "cybersecurity", "pronunciation": "KI-ber-be-zo-PAS-nost", "example": "Кибербезопасността е приоритет за всяка фирма.", "type": "noun" },
+    { "bg": "блокчейн", "en": "blockchain", "pronunciation": "BLOK-cheyn", "example": "Блокчейнът осигурява прозрачност на транзакциите.", "type": "noun" },
+    { "bg": "етика на ИИ", "en": "AI ethics", "pronunciation": "E-ti-ka na i-I", "example": "Етиката на ИИ е важен въпрос днес.", "type": "noun" }
+  ]
+}
