@@ -1,5 +1,5 @@
 {
-  "category": "Verbs",
+  "category": "Common Verbs",
   "cards": [
     { "bg": "имам", "en": "to have", "pronunciation": "I-mam", "example": "Имам два котки вкъщи.", "type": "verb" },
     { "bg": "съм", "en": "to be", "pronunciation": "sum", "example": "Аз съм от България.", "type": "verb" },

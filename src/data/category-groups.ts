@@ -3,7 +3,7 @@ export const categoryGroups: Record<string, string[]> = {
     'Adjectives', 'Adverbs', 'Colors', 'Comparisons & Describing Differences',
     'Conjunctions', 'Exclamations & Interjections', 'Grammar', 'Idioms',
     'Numbers', 'Prepositions', 'Pronouns', 'Proverbs', 'Shapes', 'Verbs',
-    'Riddles', 'Time',
+    'Common Verbs', 'Riddles', 'Time',
   ],
   'Communication': [
     'Apologies', 'Asking for Help & Politeness', 'Braille & Visual Impairment',
